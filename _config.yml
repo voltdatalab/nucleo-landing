@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://nucleo.jor.br
+url: http://nucleo.jor.br/ #
+baseurl: #
 title: Núcleo Jornalismo
 email: nucleo@voltdata.info
 author: Núcleo Jornalismo

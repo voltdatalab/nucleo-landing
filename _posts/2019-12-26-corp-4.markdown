@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img:
 category: missao
 title: Quem faz o projeto?
 description:  O Núcleo é composto por pessoas comprometidas com o jornalismo e que possuem experiência em investigações orientadas por dados ou em jornalismo digital.
@@ -14,6 +14,10 @@ Editor
 Editor digital
 <a href="https://twitter.com/alexorrico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
+### Gabriela Sá Pessoa
+Repórter
+<a href="https://twitter.com/pessoagabi" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
 ### Renata Hirota
 Analista de dados
 <a href="https://twitter.com/renata_mh" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
@@ -21,3 +25,7 @@ Analista de dados
 ### Lucas Lago
 Engenheiro de aplicações
 <a href="https://twitter.com/lucaslago" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+### Rodolfo Almeida
+Repórter visual
+<a href="https://twitter.com/rodolfoalmd" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>

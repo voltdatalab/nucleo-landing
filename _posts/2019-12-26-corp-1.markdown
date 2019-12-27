@@ -1,10 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img:
 category: missao
 title: Missão
 description: A missão do Núcleo é investigar e analisar dados públicos, trazendo transparência e clareza sobre o que está acontecendo no Brasil, desde o governo até redes sociais.
 ---
+
+
 
 Nosso objetivo principal é gerar conscientização e ação acerca de temas relevantes para a vida cívica, informando o debate público, sempre de olho no potencial para orientar mudanças na sociedade.
 

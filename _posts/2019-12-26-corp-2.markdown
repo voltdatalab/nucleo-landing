@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: 
 category: Missão
 title: Como vai funcionar?
 description: No Núcleo, todos os dados e códigos que embasarem nossas reportagens, investigações e análises serão abertos a todos, assim como nosso conteúdo, sem paywall.
@@ -10,4 +10,4 @@ A principal função do Núcleo é transparência. Principalmente, transparênci
 
 Para fazer isso bem, a transparência que queremos das instituições também é a que devemos aplicar internamente. Isso significa transparência corporativa (quem nos financia e quem somos) e transparência de processos (como fazemos nosso jornalismo).
 
-Assim, seja cobrando e reportando transparência de instituições, seja mostrando transparêcia acerca de nossa própria iniciativa, o **Núcleo** será pautado principalmente pela transparência dos processos, métodos e esforços editoriais, explicando por que algo é importante, por que certa pauta foi escolhida ou como cada conclusão foi alcançada. 
+Assim, seja cobrando e reportando transparência de instituições, seja mostrando transparêcia acerca de nossa própria iniciativa, o **Núcleo** será pautado principalmente pela transparência dos processos, métodos e esforços editoriais, explicando por que algo é importante, por que certa pauta foi escolhida ou como cada conclusão foi alcançada.

@@ -45,7 +45,22 @@ a:hover{
 }
 
 .page-tt{
-  font-size: 3em
+  font-size: 3em;
+  color: #6B4E71;
+}
+
+.page-tp{
+  font-size: 2em;
+  color: #6B4E71;
+}
+
+.lead a{
+  text-decoration: underline;
+  color: #3C6E71
+}
+
+.lead a:hover{
+  color: #F4743B
 }
 
 .revue-form-field{
