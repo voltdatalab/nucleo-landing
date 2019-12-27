@@ -1,0 +1,23 @@
+---
+layout: default
+img: phones.png
+category: missao
+title: Quem faz o projeto?
+description:  O Núcleo é composto por pessoas comprometidas com o jornalismo e que possuem experiência em investigações orientadas por dados ou em jornalismo digital.
+---
+
+### Sérgio Spagnuolo
+Editor
+<a href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+### Alexandre Orrico
+Editor digital
+<a href="https://twitter.com/alexorrico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+### Renata Hirota
+Analista de dados
+<a href="https://twitter.com/renata_mh" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+### Lucas Lago
+Engenheiro de aplicações
+<a href="https://twitter.com/lucaslago" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>

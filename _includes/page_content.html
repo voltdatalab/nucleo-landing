@@ -1,0 +1,52 @@
+<section id="services">
+<!-- Page Content -->
+{% for post in site.posts reversed %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+
+      <div class="container">
+                <div class="row">
+                <div class="col-lg-5">
+                <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
+                <h2 class="page-tt">{{ post.title }}</h2>
+                <div class="lead">{{ post.description }}</div>
+                </div>`
+              <div class="col-lg-5" style="float:right">
+                  <hr class="section-heading-spacer">
+                  <div class="clearfix"></div>
+                  <p>{{ post.content }}</p>
+              </div>
+              </div>
+
+      </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+                  <div class="row">
+                  <div class="col-lg-5">
+                  <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
+                  <h2 class="page-tt">{{ post.title }}</h2>
+                  <div class="lead">{{ post.description }}</div>
+                  </div>`
+                <div class="col-lg-5" style="float:right">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <p>{{ post.content }}</p>
+                </div>
+                </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}
+</section>
