@@ -14,10 +14,12 @@ O **Núcleo** é um projeto que busca figurar na vanguarda do jornalismo orienta
 
 As áreas principais de atuação serão:
 
-* Transparência pública
+* Transparência de recursos públicos
+
+* Transparência de políticas públicas
 
 * Mídia, tecnologia e segurança da informação
 
 * Meio-ambiente e cidades inteligentes
 
-* Políticas públicas de direitos humanos
+* Políticas de direitos humanos

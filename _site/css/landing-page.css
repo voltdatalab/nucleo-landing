@@ -44,6 +44,23 @@ a:hover{
   color: #F4743B
 }
 
+.text-center{
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+.btn{
+  font-size: 0.9em;
+  font-family: 'Share Tech Mono', monospace;
+  background-color: #6B4E71;
+  color: #fff
+}
+
+.btn:hover{
+  background-color: #F4743B
+}
+
 .page-tt{
   font-size: 3em;
   color: #6B4E71;
@@ -101,6 +118,15 @@ a:hover{
   border-color: #fff !important;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: 0px;
+    margin-top: 30px
+}
+
+#logotipo{
+  margin-bottom: 30px;
+}
+
 .intro-header {
     padding-top: 30px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
@@ -125,11 +151,15 @@ a:hover{
 
 .intro-divider {
     width: 400px;
-    border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
+    border-top: 0px solid #f8f8f8;
+    border-bottom: 0px solid rgba(0,0,0,0.2);
 }
 
 .intro-message > h3 {
+}
+
+.navbar-header {
+  border-bottom: 0px !important;
 }
 
 @media(max-width:767px) {
@@ -170,8 +200,8 @@ a:hover{
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+    border-top: 0px solid #e7e7e7;
+    border-bottom: 0px solid #e7e7e7;
 }
 
 .section-heading {
@@ -210,6 +240,11 @@ a:hover{
         float: left;
         margin-top: 15px;
     }
+
+    .col-lg-5{
+      float: none !important;
+    }
+
 }
 
 @media(max-width:767px) {
