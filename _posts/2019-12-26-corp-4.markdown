@@ -3,12 +3,12 @@ layout: default
 img:
 category: missao
 title: Quem faz o projeto?
-description:  O Núcleo é composto por pessoas comprometidas com o jornalismo e que possuem experiência em investigações orientadas por dados, estratégia digital e produtos editoriais.
+description:  O <strong>Núcleo</strong> é composto por pessoas comprometidas com o jornalismo e que possuem experiência em investigações orientadas por dados, estratégia digital e produtos editoriais.
 ---
 
 ### Sérgio Spagnuolo
 Editor
-<a href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
 ### Alexandre Orrico
 Editor - estratégia digital

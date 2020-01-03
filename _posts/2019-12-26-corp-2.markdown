@@ -1,9 +1,9 @@
 ---
 layout: default
-img: 
+img:
 category: Missão
 title: Como vai funcionar?
-description: No Núcleo, todos os dados e códigos que embasarem nossas reportagens, investigações e análises serão abertos a todos, assim como nosso conteúdo, sem paywall.
+description: No <strong>Núcleo</strong>, todos os dados e códigos que embasarem nossas reportagens, investigações e análises serão abertos a todos, assim como nosso conteúdo, sem paywall.
 ---
 
 A principal função do Núcleo é transparência. Principalmente, transparência de dados públicos, a partir de investigações, análises e aplicações que informarão agentes do poder público e da sociedade civil, e, em nível mais profundo, jogarão luz sobre políticas públicas e eventos políticos e sociais. Essa é a nossa missão, mas o jornalismo que publicaremos é para todos aqueles que se interessam com o que está por trás das engrenagens que movem a sociedade.

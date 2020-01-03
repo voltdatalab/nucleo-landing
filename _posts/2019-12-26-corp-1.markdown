@@ -3,7 +3,7 @@ layout: default
 img:
 category: missao
 title: Missão
-description: A missão do Núcleo é investigar e analisar dados públicos, trazendo transparência e clareza sobre o que está acontecendo no Brasil, desde o governo até redes sociais.
+description: A missão do <strong>Núcleo</strong> é investigar e analisar dados públicos, trazendo transparência e clareza sobre o que está acontecendo no Brasil, desde o governo até redes sociais.
 ---
 
 

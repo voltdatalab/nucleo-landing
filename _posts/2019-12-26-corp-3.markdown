@@ -3,7 +3,7 @@ layout: default
 img:
 category: missao
 title: De onde vem o dinheiro?
-description:  O Núcleo ainda não tem dinheiro.
+description:  "O <strong>Núcleo</strong> ainda não tem dinheiro."
 ---
 
 O projeto todo ainda está em estágio inicial, e estamos levantando a viabilidade de nosso modelo de negócios (mais sobre isso futuramente), assim como possibilidade de obter recursos com financiadores diversos para um estágio inicial, pré-geração de receita, a fim de que possamos custear nossas operações por pelo menos um ano.
