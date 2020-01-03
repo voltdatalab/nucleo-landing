@@ -9,8 +9,8 @@ email: nucleo@voltdata.info
 author: Núcleo Jornalismo
 description: > # "Write an awesome description for your new site here.
   Núcleo é um site de jornalismo que busca trazer transparência para informações, debates e políticas públicas, sempre com dados e códigos abertos
-copyright: 'Copyright &copy; 2018 Volt Data Lab. Todos os direitos reservados.'
-credits: 'Página construída em Jekyll por Sérgio Spagnuolo. Este site utiliza apenas Google Analytics para monitorar os acessos.'
+copyright: '<img src="img/landing-nucleo_logo+tagline.png" width="200px" />'
+credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Este site utiliza apenas Google Analytics para monitorar os acessos.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #

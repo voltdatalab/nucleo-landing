@@ -12,13 +12,14 @@ html {
 }
 
 body {
-    font-family: "Noto Sans","Helvetica Neue",Arial,sans-serif;
-    font-weight: 300;
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
+    background-color: #eeeeee
 }
 
 h1,
 h2 {
-    font-family: "Share Tech Mono", monospace, sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-weight: 700;
 }
 
@@ -26,49 +27,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Share Tech Mono","Helvetica Neue",Arial,sans-serif;
+    font-family: "Barlow","Helvetica Neue",Arial,sans-serif;
     font-weight: 700;
 }
 
 #revue-embed{
   font-size: 0.8em;
-  font-family: 'Share Tech Mono', monospace;
-}
-
-a{
-  color: #6B4E71;
-  font-weight: bold;
-}
-
-a:hover{
-  color: #F4743B
-}
-
-.text-center{
-  font-size: 1.2em;
-  font-weight: 300;
-  line-height: 1.5em;
-}
-
-.btn{
-  font-size: 0.9em;
-  font-family: 'Share Tech Mono', monospace;
-  background-color: #6B4E71;
-  color: #fff
-}
-
-.btn:hover{
-  background-color: #F4743B
-}
-
-.page-tt{
-  font-size: 3em;
-  color: #6B4E71;
-}
-
-.page-tp{
-  font-size: 2em;
-  color: #6B4E71;
+  font-family: 'Barlow', monospace;
 }
 
 .lead a{
@@ -80,42 +45,121 @@ a:hover{
   color: #F4743B
 }
 
+p{
+  font-weight: 400;
+}
+
+p a{
+  border-bottom: 1px solid #2eefa0;
+  text-decoration: none;
+  color: inherit;
+  border-collapse: separate;
+  border-spacing: -15px;
+}
+
+p a:hover{
+  border-bottom: 3px solid #2eefa0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social{
+  border-bottom: 0px solid #2eefa0 !important;
+}
+
+li a{
+  color: #231f20;
+}
+
+.text-center{
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+.btn{
+  font-size: 0.9em;
+  font-family: 'Source Serif Pro', monospace;
+  background-color: #4b31dd;
+  color: #fff
+}
+
+.btn:hover{
+  background-color: #F4743B
+}
+
+.page-tt{
+  font-size: 3em;
+  color: #4b31dd;
+  text-transform: uppercase;
+}
+
+.page-tp{
+  font-size: 2em;
+  color: #4b31dd;
+}
+
+.conteudo{
+  font-family: 'Barlow', sans-serif !important;
+}
+
+.col-lg-5 h3{
+  color: #4b31dd !important
+}
+
+li{
+  list-style-type: square;
+}
+
 .revue-form-field{
   font-size: 0.7em;
   padding: 10px 5px;
   width: 330px;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: white;
   border: 0px;
   text-align: center;
+  border: 1px solid #4b31dd;
+  font-family: 'Barlow';
+  font-weight: 700;
+}
+
+label{
+  font-size: .7em;
 }
 
 .revue-form-actions input{
   padding: 10px;
   font-size: 0.7em;
-  background-color: #3C6E71;
+  background-color: #4b31dd;
   color: #fff;
   border: 0px;
   width: 330px;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 400;
 }
 
 .revue-form-actions input:hover{
-  background-color: #F4743B;
-  color: #fff;
+  background-color: #2eefa0;
+  color: #231f20;
 }
 
 ::placeholder {
-  color: #fff;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 400;
+  color: #231f20;
   opacity: 1; /* Firefox */
 }
 
 .lead {
     font-size: 18px;
     font-weight: 400;
+    font-family: 'Source Serif Pro', monospace;
+    color: #4b31dd;
 }
 
 .navbar-default{
-  background-color: #fff !important;
-  border-color: #fff !important;
+  background-color: rgba(255, 0, 0, 0) !important;
+  border-color: rgba(255, 0, 0, 0) !important;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -123,8 +167,12 @@ a:hover{
     margin-top: 30px
 }
 
+.navbar-right li a{
+  color: #231f20 !important
+}
+
 #logotipo{
-  margin-bottom: 30px;
+  margin-top: 15px;
 }
 
 .intro-header {
@@ -132,21 +180,21 @@ a:hover{
     padding-bottom: 50px;
     text-align: center;
     color: #333;
-    background: url(../img/icon-nucleo-logo_opacity.png) no-repeat center center;
-    background-size: contain;
+    background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
+    background-size: 600px;
     background-attachment: fixed;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 10%;
     padding-bottom: 20%;
 }
 
 .intro-message > h1 {
     margin: 0;
-    font-size: 5em;
-    color: #3C6E71;
+    font-size: 3em;
+    color: #231f20;
 }
 
 .intro-divider {
@@ -195,13 +243,14 @@ a:hover{
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
 }
 
 .content-section-b {
     padding: 50px 0;
     border-top: 0px solid #e7e7e7;
     border-bottom: 0px solid #e7e7e7;
+    background-color: #ffffff;
 }
 
 .section-heading {
@@ -267,7 +316,7 @@ a:hover{
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
-    color: #000
+    color: #231f20
 }
 
 p.copyright {
@@ -283,8 +332,14 @@ ul.share-buttons{
 
 ul.share-buttons li{
   display: inline;
-  margin: 0 7px;
-  font-family: 'Share Tech Mono'
+  margin-right: 7px;
+  color: #fff
+}
+
+ul.share-buttons i{
+  display: inline;
+  margin-right: 7px;
+  color: #fff
 }
 
 ul.share-buttons .sr-only{
@@ -296,4 +351,22 @@ ul.share-buttons .sr-only{
   height: 1px;
   width: 1px;
   overflow: hidden;
+}
+
+/* SEÇOES */
+
+#about{
+  background-color: #4b31dd;
+  width: 100%;
+  text-align: left;
+  color: #fff;
+  padding-bottom: 3%
+}
+
+#about p{
+  font-family: 'Source Serif Pro', monospace;
+}
+
+#contato{
+  background-color: #4b31dd
 }
