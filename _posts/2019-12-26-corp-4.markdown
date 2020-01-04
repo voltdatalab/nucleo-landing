@@ -3,24 +3,30 @@ layout: default
 img:
 category: missao
 title: Quem faz o projeto?
-description:  O <strong>Núcleo</strong> é composto por pessoas comprometidas com o jornalismo e que possuem experiência em investigações orientadas por dados, estratégia digital e produtos editoriais.
+description:  O <strong>Núcleo</strong> é composto por pessoas comprometidas com o jornalismo e que possuem experiência em reportagem, análise de dados, investigações de documentos, estratégia digital e produtos editoriais.
 ---
 
 ### Sérgio Spagnuolo
 Editor
 <a class="social" href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
+[sergio@voltdata.info](mailto:sergio@voltdata.info)
+
 ### Alexandre Orrico
 Editor - estratégia digital
 <a class="social" href="https://twitter.com/alexorrico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
-### Gabriela Sá Pessoa
-Repórter
-<a class="social" href="https://twitter.com/pessoagabi" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+[orrico@voltdata.info](mailto:orrico@voltdata.info)
 
 ### Renata Hirota
 Analista de dados
 <a class="social" href="https://twitter.com/renata_mh" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+[renata@voltdata.info](mailto:renata@voltdata.info)
+
+### Gabriela Sá Pessoa
+Repórter
+<a class="social" href="https://twitter.com/pessoagabi" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
 ### Lucas Lago
 Engenheiro de aplicações
