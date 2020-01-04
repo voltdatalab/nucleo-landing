@@ -1,0 +1,20 @@
+---
+layout: default
+img:
+category: Missão
+title: "No centro de tudo, transparêcia"
+description: "Seja reportando sobre transparência de instituições, seja mostrando transparêcia acerca de nossa própria iniciativa, a política interna será mostrar como nosso jornalismo é feito."
+
+---
+
+A principal função do **Núcleo** é a transparência. Principalmente, transparência de dados públicos, a partir de investigações, análises e aplicações que informarão agentes do poder público e da sociedade civil, e, em nível mais profundo, jogarão luz sobre políticas públicas e eventos políticos e sociais.
+
+Para fazer isso bem, a transparência que queremos das instituições também é a que devemos aplicar internamente. Isso significa transparência corporativa (quem nos financia e quem somos) e transparência de processos (como fazemos nosso jornalismo).
+
+Alguns pontos colocam o **Núcleo** em um novo patamar de transparência no jornalismo:
+
+- Descrição e referenciamento sistemático de fontes de informação, com descrição e links
+
+- Crédito e referências para outros veículos de jornalismo, sempre linkando para fora do nosso site
+
+- Explicar _por que_ um assunto é importante e _por que_ seguimos certo caminho
