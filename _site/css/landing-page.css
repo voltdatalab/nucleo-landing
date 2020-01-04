@@ -236,10 +236,11 @@ label{
 }
 
 .network-name {
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
+    font-weight: 700
 }
 
 .content-section-a {
