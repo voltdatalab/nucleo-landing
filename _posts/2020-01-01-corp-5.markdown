@@ -35,3 +35,6 @@ Engenheiro de aplicações
 ### Rodolfo Almeida
 Repórter visual
 <a class="social" href="https://twitter.com/rodolfoalmd" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
+### André Marconato
+Desenvolvedor
