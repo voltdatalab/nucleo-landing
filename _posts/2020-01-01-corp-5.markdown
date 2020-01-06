@@ -8,33 +8,33 @@ description:  O <strong>Núcleo</strong> é composto por pessoas comprometidas c
 
 ### Sérgio Spagnuolo
 Editor
-<a class="social" href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/sergiospagnuolo" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 [sergio@voltdata.info](mailto:sergio@voltdata.info)
 
 ### Alexandre Orrico
 Editor - estratégia digital
-<a class="social" href="https://twitter.com/alexorrico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/alexorrico" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 [orrico@voltdata.info](mailto:orrico@voltdata.info)
 
 ### Renata Hirota
 Analista de dados
-<a class="social" href="https://twitter.com/renata_mh" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/renata_mh" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 [renata@voltdata.info](mailto:renata@voltdata.info)
 
 ### Lucas Lago
 Engenheiro de aplicações
-<a class="social" href="https://twitter.com/lucaslago" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/lucaslago" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 ### Rodolfo Almeida
 Repórter visual
-<a class="social" href="https://twitter.com/rodolfoalmd" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/rodolfoalmd" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 ### Letícia Ferreira
 Redes sociais
-<a class="social" href="https://twitter.com/_leferreira_" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a class="social" href="https://twitter.com/_leferreira_" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
 
 ### André Marconato
 Desenvolvedor
