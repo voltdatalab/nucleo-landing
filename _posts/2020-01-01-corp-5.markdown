@@ -36,5 +36,9 @@ Engenheiro de aplicações
 Repórter visual
 <a class="social" href="https://twitter.com/rodolfoalmd" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
 
+### Letícia Ferreira
+Redes sociais
+<a class="social" href="https://twitter.com/_leferreira_" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+
 ### André Marconato
 Desenvolvedor

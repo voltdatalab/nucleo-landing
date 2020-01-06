@@ -3,23 +3,21 @@ layout: default
 img:
 category: missao
 title: Missão
-description: A missão do <strong>Núcleo</strong> é investigar e analisar dados públicos, trazendo transparência e clareza sobre o que está acontecendo no Brasil, desde gastos do governo e políticas públicas em andamento até redes sociais.
+description: A missão do <strong>Núcleo</strong> é investigar e analisar dados públicos, com o objetivo de gerar transparência e clareza sobre o que acontece no Brasil.
 ---
 
 
 
-Nosso objetivo principal é gerar conscientização e ação acerca de temas relevantes para a vida cívica brasileira, informando o debate público, sempre de olho no potencial para orientar ações e mudanças.
-
-O **Núcleo** é um projeto que busca figurar na vanguarda do jornalismo orientado por dados no Brasil.
+Nosso objetivo principal é informar nosso público para conscientizar e gerar ação acerca de temas relevantes para a vida cívica brasileira, pautando o debate público, sempre de olho no potencial para orientar mudanças.
 
 As áreas principais de atuação serão:
 
-* Transparência de recursos públicos
+* Transparência de recursos públicos;
 
-* Transparência de políticas públicas
+* Transparência de políticas públicas;
 
-* Mídia, tecnologia e segurança da informação
+* Mídia, tecnologia e segurança da informação;
 
-* Meio-ambiente e cidades inteligentes
+* Meio-ambiente e cidades inteligentes;
 
-* Políticas de direitos humanos
+* Políticas de direitos humanos.

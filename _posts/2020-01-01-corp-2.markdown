@@ -6,18 +6,18 @@ title: Como vai funcionar?
 description: No <strong>Núcleo</strong>, todos os dados e códigos que embasarem nossas reportagens, investigações e análises serão abertos, assim como nosso conteúdo.
 ---
 
-Para ir de encontro à nossa missão, o jornalismo que publicaremos é para todos aqueles que se interessam com o que está por trás das engrenagens que movem os debates em redes sociais, a tecnologia que nos cerca e o funcinamento de governos e de políticas públicas.
+O jornalismo que publicaremos é para todos aqueles que se interessam com as engrenagens que movem os debates em redes sociais, a tecnologia que nos cerca e o funcionamento de governos e de políticas públicas.
 
 São diversos os formatos e produtos que estamos desenvolvendo:
 
-- Um site principal, aberto a todos, sem login ou senha, o qual abrigará nossas reportagens e dados abertos
+- Um site principal, aberto a todos, sem login ou senha, que abrigará nossas reportagens e dados;
 
-- Plataformas de dados, que permitirão cruzamentos de bases. Essas plataformas serão fechadas para assinantes
+- Plataformas que permitirão cruzamentos de bases de dados, que serão exclusivas para assinantes;
 
-- Publicação nativa em redes sociais
+- Publicação de conteúdo nativo em redes sociais;
 
-- Newsletters seletivas e com conteúdo exclusivo
+- Newsletters seletivas e com conteúdo exclusivo;
 
-- Podcasts
+- Podcasts.
 
-Leve em conta que esses formatos podem variar e sofrer alterações. 
+Leve em conta que esses formatos podem variar e sofrer alterações.
