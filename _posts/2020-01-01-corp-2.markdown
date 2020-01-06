@@ -8,6 +8,8 @@ description: No <strong>Núcleo</strong>, todos os dados e códigos que embasare
 
 O jornalismo que publicaremos é para todos aqueles que se interessam com as engrenagens que movem os debates em redes sociais, a tecnologia que nos cerca e o funcionamento de governos e de políticas públicas.
 
+Queremos trabalhar em proximidade com outros veículos sérios, fortalecendo assim nossa missão e o jornalismo no Brasil. 
+
 São diversos os formatos e produtos que estamos desenvolvendo:
 
 - Um site principal, aberto a todos, sem login ou senha, que abrigará nossas reportagens e dados;
