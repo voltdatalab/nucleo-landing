@@ -163,6 +163,11 @@ label{
   border-color: rgba(255, 0, 0, 0) !important;
 }
 
+.navbar{
+  margin-bottom: 0;
+  z-index: -100;
+}
+
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: 0px;
     margin-top: 30px
@@ -182,7 +187,7 @@ label{
     text-align: center;
     color: #333;
     background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
-    background-size: 600px;
+    background-size: 65%;
     background-attachment: fixed;
 }
 
