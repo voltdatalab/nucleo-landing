@@ -373,16 +373,16 @@ ul.share-buttons .sr-only{
   background-color: #4b31dd
 }
 
+/* POST */
+
 .masthead {
   margin-bottom: 50px;
   margin-top: 50px;
-  background-attachment: fixed;
+  background-attachment: scroll;
   position: relative;
   background-size: cover;
   height: 75vh
 }
-
-/* POST */
 
 .masthead h1{
   font-size: 60px;
@@ -396,7 +396,7 @@ ul.share-buttons .sr-only{
   height: 100%;
   width: 100%;
   background-color: #212529;
-  opacity: 0.5;
+  opacity: 0;
 }
 
 .post-heading{

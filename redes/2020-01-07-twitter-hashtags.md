@@ -89,6 +89,10 @@ Os passos para se calcular o Coeficiente de Gini, são os seguintes:
 
 <div id="pos-twitter"> </div>
 
+### Dados abertos
+
+Todos os códigos e dados podem ser acessados neste link.
+
 ### Posicionamento do Twitter
 
 Em nota enviada ao **Núcleo** por email em 18.dez.2019, o Twitter informou:
