@@ -1,0 +1,50 @@
+I"+<p>Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF Gilmar Mendes: ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado. </p>
+
+<p>A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar uma rede de perfis nas redes sociais (não necessariamente robôs) que concentrava bastante o uso das hashtags, seja via tuíte ou retuíte. </p>
+
+<p>O <strong>Núcleo</strong> analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foram os resultados encontrados – ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos, especialmente na direita. Note que por essa análise não é possível determinar a operação de bots, apenas a concentração de muitas publicações por poucos usuários da rede social.</p>
+
+<p>Para calcular a concentração de tuítes e retuítes, utilizamos o Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida pelo cientista de dados <a href="https://twitter.com/joaocarabetta">João Carabetta</a>, que trabalha no Banco Inter-Americano de Desenvolvimento. </p>
+
+<p>Uma primeira e mais limitada amostra de que isso aconteceu foi primeiramente <a href="https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/">publicada</a> no site <em>Vortex Media</em>, que no começo de dezembro extinguiu sua equipe de dados. (Disclaimer: os autores desse estudo ambos trabalharam na equipe do Vortex). </p>
+
+<p>Continuando a análise iniciada no <em>Vortex</em>, acompanhamos durante duas semanas diversas hashtags relacionadas aos pedidos pelo impeachment de Gilmar Mendes no Twitter.</p>
+
+<p>Essas hashtags giravam em torno de duas figuras, o próprio Gilmar e o presidente do Senado, <a href="https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830">David Alcolumbre</a> (DEM-AP). O primeiro por ser o alvo das críticas dos que se manifestavam, o segundo por ser a pessoa com poder para iniciar um dos processos de impeachment que existem contra o ministro do Supremo.</p>
+
+<p>As hashtags analisadas relacionadas a movimentação contra o Gilmar Mendes foram as seguintes:</p>
+
+<p><img src="../twitter-files/gini-tweets_data.png" alt="gráfico 1 - Gilmar Mendes" /></p>
+
+<p>Analisando a atividade dessas hashtags, percebemos que existem diversas contas que compartilham a hashtag dezenas de vezes, enquanto outras contas compartilham uma única vez, indicando uma ação intensa de um pequeno grupo e não um movimento amplo e orgânico.</p>
+
+<p>Alguma forma de coordenação pode ser vista <a href="https://twitter.com/dimacgarcia/status/1194288289869651968">neste tuíte</a> de um influenciador de direita, na qual ele sugere hashtags que possam ser utilizadas a fim de manter o tema nos trending topics. </p>
+
+<h3 id="os-dados-de-desigualdade">Os dados de desigualdade</h3>
+
+<p>O Coeficiente de Gini é uma das ferramentas mais comuns para avaliar a desigualdade da <a href="http://www.ipea.gov.br/desafios/index.php?Itemid=23&amp;id=2048%3Acatid%3D28&amp;option=com_content">distribuição de renda entre países</a>. O site <strong>Nexo</strong> tem uma <a href="https://www.nexojornal.com.br/grafico/2017/07/31/A-evolu%C3%A7%C3%A3o-da-desigualdade-de-renda-no-Brasil-e-no-mundo">boa explicação</a> sobre o tema.</p>
+
+<p>No entanto, o Coeficiente de Gini é simplesmente uma medida de desigualdade em uma distribuição qualquer.</p>
+
+<p>Adaptando o cálculo desse coeficiente, substituindo o que normalmente é a renda de cada pessoa para a quantidade de tweets que ela publicou, podemos calcular o resultado para cada um dos movimentos analisados do Twitter, e observarmos qual a distribuição do empenho de cada conta na popularização das hashtags.</p>
+
+<p><img src="../twitter-files/gini-tweets_direita.png" alt="gráfico 2 - hashtags de direita" /></p>
+
+<p>Para todas as hashtags analisadas desse assunto, o Coeficiente de Gini é superior a 0.5. Comparando com o índice em certos países do mundo, quase todas essas hashtags são mais desiguais, por exemplo, do que o Brasil em 2017 (53,3), segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesso esse site do Banco Mundial.</p>
+
+<p>Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal pelo  Joice Hasselman (PSL-SP), que foi atacada no Twitter com a hashtag #JoiceTraidora. A Hashtag também ficou nos trending topics da plataforma depois de ser compartilhada mais de 250 mil vezes.</p>
+
+<p>Aplicando a mesma análise que usamos nas hashtags sobre o impedimento do ministro Gilmar Mendes encontramos os seguintes dados, que indicam que o comportamento organizado é comum a todas pautas da direita, não somente contra o ministro Gilmar.</p>
+
+<p><img src="../twitter-files/gini-tweets_esquerda.png" alt="gráfico 3 - hashtag Joice" /></p>
+
+<p><img src="../twitter-files/gini-tweets_esquerda.png" alt="gráfico 4 - hashtags de esquerda" /></p>
+
+<h3 id="posicionamento-do-twitter">Posicionamento do Twitter</h3>
+
+<p>Em nota, o Twitter informou:</p>
+
+<blockquote>
+  <p>O Twitter investe contínua e fortemente em iniciativas para combater tentativas de interferência no debate público na plataforma, incluindo spam, engajamento não autêntico e atividades coordenadas com o objetivo de influenciar artificialmente as conversas. Especificamente no caso dos Assuntos do Momento, tomamos medidas preventivas como excluir Tweets e usuários automatizados de nossos cálculos de Tendências. Como os spammers mudam suas táticas, nós modificamos ativamente nossas ferramentas tecnológicas para abordar tais situações.</p>
+</blockquote>
+:ET

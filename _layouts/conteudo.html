@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+  <link src="{{ base.url}}/css/post.css" type="text/css" />
+
+	<body>
+		{% include nav.html %}
+<!-- Page Header -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-heading">
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <h2 class="subheading">{{ page.subtitle }}</h2>
+        {% endif %}
+        <span class="arquivado">
+          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <span>{{ page.category }}</span> <br />
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="creditos">
+          <span class="arquivado creditos_alt">
+            {% if page.analise %} Análise por <span>{{ page.analise }}</span> &middot; {% else %} Equipe Núcleo {% endif %}
+            {% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span> &middot; {% else %} Equipe Núcleo {% endif %}
+            {% if page.edicao %} Edição de <span>{{ page.edicao }}</span> {% else %} Equipe Núcleo {% endif %}
+          </span>
+        </div>
+
+        <div class="texto_post">
+
+        {{ content }}
+
+        </div>
+
+        <hr>
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>
