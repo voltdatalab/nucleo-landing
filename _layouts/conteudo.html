@@ -30,18 +30,40 @@
     {% endif %}
     <div class="overlay"></div>
   </header>
+			<p class="feature_credito">Credito: Rodolfo Almeida</p>
 
+<div class="container wrap sidebar-right box_conteudo">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <div class="creditos">
-          <span class="arquivado creditos_alt">
-            {% if page.analise %} Análise por <span>{{ page.analise }}</span> &middot; {% else %} Equipe Núcleo {% endif %}
-            {% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span> &middot; {% else %} Equipe Núcleo {% endif %}
-            {% if page.edicao %} Edição de <span>{{ page.edicao }}</span> {% else %} Equipe Núcleo {% endif %}
-          </span>
-        </div>
+			<div class="creditos">
+				<div class="sidebar col-sm-4">
+					<span class="arquivado creditos_alt">
+						{% if page.analise %} Análise por <span>{{ page.analise }}</span> &middot; <br /> {% else %} Equipe Núcleo {% endif %}
+						{% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span> &middot; <br /> {% else %} Equipe Núcleo {% endif %}
+						{% if page.edicao %} Edição de <span>{{ page.edicao }}</span> &middot; {% else %} Por Equipe Núcleo {% endif %}
+					</span>
+					<br />
+					<br />
+					{% if page.dados_abertos %} <h5 class="links_dados"> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos2 %} <h5 class="links_dados"> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos3 %} <h5 class="links_dados"> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
 
+					<br />
+
+					<p>
+						COMPARTILHE: </p>
+					<ul class="share-buttons">
+					<li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F&quote=" target="_blank" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on Facebook</span></a></li>
+				  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F&text=:%20https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-twitter-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+				  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Submit to Reddit</span></a></li>
+				  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F&title=&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+				  <li><a href="mailto:?subject=&body=:%20https%3A%2F%2Fnucleo.jor.br%2Fredes%2F2020-01-07-twitter-hashtags%2F" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Send email</span></a></li>
+				</ul>
+
+			</div>
+		</div>
+			<div class="main col-sm-7">
         <div class="texto_post">
 
         {{ content }}
@@ -49,9 +71,12 @@
         </div>
 
         <hr>
-      </div>
-    </div>
-  </div>
+      	</div>
+
+  	</div>
+	</div>
+</div>
+
 
   {% include footer.html %}
   {% include js.html %}

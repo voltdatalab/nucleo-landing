@@ -7,6 +7,8 @@ analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 category: redes
+dados_abertos: Acesse o código e os dados
+dados_abertos_link: https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data
 subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta são organizadas."
 background: '../twitter-files/twitter_materia.jpeg'
 tags:
@@ -15,25 +17,45 @@ tags:
 - Gilmar Mendes
 ---
 
-Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado. 
+Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado e foi amplamenta difundida entre aqueles que declaradamente se idenfificam com a direita política. 
 
-A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar uma rede de perfis nas redes sociais (não necessariamente robôs) que concentrava bastante o uso das hashtags, seja via tuíte ou retuíte. 
+A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar uma rede de perfis nas redes sociais que concentrava bastante o uso das hashtags, seja via tuíte ou retuíte. 
 
-O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foram os resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos, especialmente na direita. Note que por essa análise não é possível determinar a operação de bots, apenas a concentração de muitas publicações por poucos usuários da rede social.
+O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foram os resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos, especialmente na direita.
 
-#### [-- Leia o posicionamento do Twitter](#pos-twitter) <br>
+---
 
-Para calcular a concentração de tuítes e retuítes, utilizamos o Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no Banco Inter-Americano de Desenvolvimento. 
+###### Isso é importante porque...
 
-Uma primeira e mais limitada amostra de que isso aconteceu foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (Disclaimer: os autores desse estudo ambos trabalharam na equipe do Vortex). 
+- *O Twitter tornou-se um grande espaço de debate político*
 
-Continuando a análise iniciada no *Vortex*, acompanhamos durante duas semanas diversas hashtags relacionadas aos pedidos pelo impeachment de Gilmar Mendes no Twitter.
+- *A concentração de tweets em poucos perfis pode não ser representativa do sentimento geral dos usuários do Twitter*
 
-Essas hashtags giravam em torno de duas figuras, o próprio Gilmar e o presidente do Senado, [David Alcolumbre](https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830) (DEM-AP). O primeiro por ser o alvo das críticas dos que se manifestavam, o segundo por ser a pessoa com poder para iniciar um dos processos de impeachment que existem contra o ministro do Supremo.
+- *Espontaneidade geralmente é preferida, embora popularidade gere mais barulho*
 
-As hashtags analisadas relacionadas a movimentação contra o Gilmar Mendes foram as seguintes:
+---
+
+Note que por essa análise não é possível determinar a operação de bots, apenas a concentração de muitas publicações por poucos usuários da rede social. *Bots* são recursos automizados que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave.
+
+Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas, não contando com a espontâneidade muitas vezes esperada de um engajamento político. Isso garante que membros dessas bases façam mais publicações utilizando, gerando, então, uma concentração em poucos usuários (daí a desigualdade).
+
+##### É muito importante ressaltar que **ações coordenadas não necessariamente representam utilização de robôs**.
+
+Uma primeira amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
+
+Nessa reportagem do Vortex, com mais de 1 milhão de tuítes, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
+
+Para calcular a concentração de tuítes e retuítes, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
+
+#### [-- Leia o posicionamento do Twitter](#pos-twitter)
+
+As hashtags em questão giravam em torno de duas figuras, o próprio Gilmar e o presidente do Senado, [David Alcolumbre](https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830) (DEM-AP). O primeiro por ser o alvo das críticas dos que se manifestavam, o segundo por ser a pessoa com poder para iniciar um dos processos de impeachment que existem contra o ministro do Supremo.
+
+As hashtags analisadas relacionadas a movimentação contra Gilmar Mendes foram as seguintes:
 
 ![gráfico 1 - Gilmar Mendes](../twitter-files/gini-tweets_data.png)
+
+##### O motivo pelo qual essa campanha foi escolhida é claro: pelo fato de que ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.  
 
 Analisando a atividade dessas hashtags, percebemos que existem diversas contas que compartilham a hashtag dezenas de vezes, enquanto outras contas compartilham uma única vez, indicando uma ação intensa de um pequeno grupo e não um movimento amplo e orgânico.
 
@@ -49,27 +71,31 @@ Adaptando o cálculo desse coeficiente, substituindo o que normalmente é a rend
 
 ![gráfico 2 - hashtags de direita](../twitter-files/gini-tweets_direita.png)
 
-Para todas as hashtags analisadas desse assunto, o Coeficiente de Gini é superior a 0.5. Comparando com o índice em certos países do mundo, quase todas essas hashtags são mais desiguais, por exemplo, do que o Brasil em 2017 (53,3), segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesso esse site do Banco Mundial.
+Para todas as hashtags acima analisadas, o Coeficiente de Gini é superior a 0.5. As tags com Coeficiente de Gini acima de 0,65, são mais desiguais que a renda na África do Sul em 2014 — maior índice já registrado pelo Banco Mundial.
 
-Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal pelo  Joice Hasselman (PSL-SP), que foi atacada no Twitter com a hashtag #JoiceTraidora. A Hashtag também ficou nos trending topics da plataforma depois de ser compartilhada mais de 250 mil vezes.
+Quase todas essas hashtags são mais desiguais, por exemplo, do que o [Brasil em 2017](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BR) (53,3) segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesso esse [site de dados](https://data.worldbank.org/indicator/SI.POV.GINI) Banco Mundial.
 
-Aplicando a mesma análise que usamos nas hashtags sobre o impedimento do ministro Gilmar Mendes encontramos os seguintes dados, que indicam que o comportamento organizado é comum a todas pautas da direita, não somente contra o ministro Gilmar.
+Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal pelo [Joice Hasselman](https://www.camara.leg.br/deputados/204546) (PSL-SP), que foi atacada no Twitter com a hashtag #JoiceTraidora. A hashtag também ficou nos _trending topics_ da plataforma depois de ser compartilhada mais de 250 mil vezes.
+
+Aplicando a mesma análise, encontramos indicativos de que o comportamento organizado é comum em mais de uma pauta da direita, não somente contra Gilmar Mendes.
 
 ![gráfico 3 - hashtag Joice](../twitter-files/gini-tweets_joice.png)
 
-As tags com Coeficiente de Gini acima de 0,65, são mais desiguais que a África do Sul em 2014 — maior índice já registrado pelo Banco Mundial.
-
 ### Comparando com outras hashtags
 
-O Núcleo analisou outras hashtags que tiveram movimentações similares aos movimentos comentados acima, além de outras palavras que entraram no trending topics do Twitter na segunda quinzena de novembro de 2019.
+O Núcleo analisou outras hashtags que tiveram movimentações similares aos movimentos comentados acima, além de outras palavras que entraram no _trending topics_ do Twitter na segunda quinzena de novembro de 2019.
 
-As hashtags que foram capitaneadas pela esquerda possuem coeficiente de Gini menores ou iguais a 0,51.
+As hashtags que foram capitaneadas pela esquerda possuem coeficiente de Gini menores ou iguais a 0,51, o que indica que há menor coordenação da esquerda no Twitter, e maior espontaneidade. No entanto, o "barulho" é bem menor.
+
+##### Por que não puxar o assunto pela esquerda? Consideramos que a organização e a força da direita no Twitter é mais importante do que a espontaneidade e o menor engajamento da esquerda.    
 
 ![gráfico 4 - hashtags de esquerda](../twitter-files/gini-tweets_esquerda.png)
 
 Já olhando outras hashtags populares, relacionadas a outros assuntos além de política, como esporte e K-pop, que movimentaram o Twitter entre novembro e dezembro de 2019, os Coeficientes de Gini variam entre 0,39 até 0,69.
 
 ![gráfico 5 - hashtags diversas](../twitter-files/gini-tweets_naopoliticas.png)
+
+---
 
 ### Metodologia
 
@@ -89,9 +115,6 @@ Os passos para se calcular o Coeficiente de Gini, são os seguintes:
 
 <div id="pos-twitter"> </div>
 
-### Dados abertos
-
-Todos os códigos e dados podem ser acessados neste link.
 
 ### Posicionamento do Twitter
 

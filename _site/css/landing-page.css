@@ -296,6 +296,20 @@ label{
       float: none !important;
     }
 
+    .sidebar-left .main{
+      float:left;
+    }
+    .sidebar-left .sidebar{
+      float:left;
+    }
+
+    .sidebar-right .main{
+      float:left;
+    }
+    .sidebar-right .sidebar{
+      float:left;
+    }
+
 }
 
 @media(max-width:767px) {
@@ -312,6 +326,13 @@ label{
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    .sidebar-right .sidebar{
+      width: 90% !important;
+      float: left !important;
+      margin-top: 20px !important;
+      border: 0px !important;
     }
 }
 
@@ -376,12 +397,13 @@ ul.share-buttons .sr-only{
 /* POST */
 
 .masthead {
-  margin-bottom: 50px;
+  margin-bottom: 5px;
   margin-top: 50px;
   background-attachment: scroll;
+  background-repeat: no-repeat;
   position: relative;
   background-size: cover;
-  height: 75vh
+  height: 800px
 }
 
 .masthead h1{
@@ -433,9 +455,14 @@ h2.subheading {
 }
 
 .creditos_alt{
-  border-bottom: 1px solid #231f20;
   padding-bottom: 5px;
   line-height: 2em;
+  font-family: 'Roboto Mono', monospace !important;
+}
+
+.links_dados{
+  font-family: 'Roboto Mono', monospace !important;
+  line-height: 1.6em;
 }
 
 .texto_post{
@@ -466,7 +493,26 @@ h2.subheading {
 .texto_post h4{
   color: #4b31dd;
   text-transform: uppercase;
-  margin: 35px 0
+  margin: 35px 0;
+  font-size: 0.8em;
+}
+
+.texto_post h5{
+  color: #4b31dd;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin: 35px 0;
+  font-size: 1.2em;
+  width: 80%
+}
+
+.texto_post h6{
+  color: #4b31dd;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin: 35px 0;
+  font-size: 1em;
+  text-align: center;
 }
 
 .texto_post blockquote{
@@ -474,4 +520,40 @@ h2.subheading {
   font-size: 1em !important;
   border-left: 3px solid #2eefa0;
   padding-left: 10px;
+}
+
+.sidebar-left .main{
+  float:right;
+}
+.sidebar-left .sidebar{
+  float:left;
+}
+
+.sidebar-right .main{
+  float:left;
+}
+
+.sidebar-right .sidebar{
+  margin: 40px 0 50px 0;
+  float:right;
+  border: 1px solid #cbcbcb;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.feature_credito{
+  font-size: .8em;
+  margin-right: 5px;
+  float: right;
+}
+
+.box_conteudo{
+  margin-top: 50px;
+}
+
+hr {
+  height: 1px;
+  background-color: black;
+  width: 50%;
+  text-align: center;
 }
