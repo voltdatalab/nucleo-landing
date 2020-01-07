@@ -8,7 +8,7 @@ edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 category: redes
 subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta são organizadas."
-background: 'https://live.staticflickr.com/65535/49346214833_152f436eee_b.jpg'
+background: '../twitter-files/twitter_materia.jpeg'
 tags:
 - Twitter
 - redes sociais
