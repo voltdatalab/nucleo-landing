@@ -2,7 +2,7 @@
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
 titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
-subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e identificou indícios de coordenação em campanhas da direta política na rede social."
+subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e identificou indícios de coordenação em campanhas da direita política na rede social."
 subtitle_redes: "Análise de 3,6 milhões de publicações identificou indícios de coordenação em campanhas na rede social."
 date: 08/01/2020
 analise: Lucas Lago
@@ -20,11 +20,11 @@ tags:
 
 Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. O esforço online pedia pelo impeachment do magistrado e foi amplamente difundido entre aqueles que declaradamente se identificam com a direita política. 
 
-A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar com uma rede muito ativa de perfis nas redes sociais, que concentrava bastante o uso das hashtags por relativamente poucos perfis, amplificando significativamente seu alcance.
+A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar com uma rede muito ativa de usuários nas redes sociais, que concentrava bastante o uso das hashtags por relativamente poucos perfis, amplificando significativamente seu alcance.
 
-O **Núcleo** analisou 3,6 milhões tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tweets em alguns casos.
+O **Núcleo** analisou 3,6 milhões tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, quando poucos perfis foram responsáveis por muitos tweets e compartilhamentos.
 
-Essa concentração pode ser vista principalmente em campanhas promovidas pela direita política. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
+Essa concentração pode ser vista principalmente em campanhas promovidas pela direita. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
 
 **Em poucas palavras**: a direita faz mais barulho concentrando a repercussão em poucos perfis engajados. A esquerda é mais espontânea, mas não gera tanta repercussão.
 
@@ -42,11 +42,11 @@ Essa concentração pode ser vista principalmente em campanhas promovidas pela d
 
 Note que por essa análise não é possível determinar a operação de robôs, apenas a concentração de muitas publicações por poucos usuários da rede social. *Bots* são recursos que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave, automaticamente.
 
-Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas, não contando com a espontaneidade muitas vezes esperada de um engajamento político. Isso garante que membros dessas bases façam mais publicações utilizando uma hashtag, por exemplo, o que resulta em concentração em poucos usuários (daí a desigualdade).
+Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas, não contando com a espontaneidade muitas vezes esperada de um engajamento político. Isso garante que essas bases façam mais publicações utilizando, por exemplo, uma hashtag -- o que resulta em concentração em poucos usuários (daí a desigualdade).
 
 ##### É muito importante ressaltar que **ações coordenadas não necessariamente representam utilização de robôs**.
 
-Uma amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
+Uma amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
 
 Na reportagem do *Vortex*, com mais de 1 milhão de tweets, foi apurado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
 
