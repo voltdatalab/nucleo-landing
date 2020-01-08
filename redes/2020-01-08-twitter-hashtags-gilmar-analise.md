@@ -2,19 +2,19 @@
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
 titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
-subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou indícios de coordenação em campanhas da direta política na rede social."
+subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e identificou indícios de coordenação em campanhas da direta política na rede social."
 date: 08/01/2020
 analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 category: redes
 dados_abertos: Acesse o código e os dados
-dados_abertos_link: https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data
+dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
 background: '../twitter-files/twitter_materia.jpeg'
 tags:
 - "Twitter, "
 - "redes sociais, "
-- "Gilmar Mendes, "
+- "Gilmar Mendes"
 ---
 
 Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. O esforço online pedia pelo impeachment do magistrado e foi amplamente difundido entre aqueles que declaradamente se identificam com a direita política. 
@@ -23,13 +23,13 @@ A grande sacada desse movimento teve duas facetas: a primeira foi a alternância
 
 O **Núcleo** analisou 3,6 milhões tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tweets em alguns casos.
 
-Essa concentração pode ser vista principalemente em campanhas promovidas pela direita política. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
+Essa concentração pode ser vista principalmente em campanhas promovidas pela direita política. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
 
 **Em poucas palavras**: a direita faz mais barulho concentrando a repercussão em poucos perfis engajados. A esquerda é mais espontânea, mas não gera tanta repercussão.
 
 ---
 
-###### Fique atento
+###### É importante porque...
 
 - *O Twitter tornou-se um espaço importante de debate político e de reivindicações*
 
@@ -39,15 +39,17 @@ Essa concentração pode ser vista principalemente em campanhas promovidas pela 
 
 ---
 
-Note que por essa análise não é possível determinar a operação de bots, apenas a concentração de muitas publicações por poucos usuários da rede social. *Bots* são recursos automizados que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave.
+Note que por essa análise não é possível determinar a operação de robôs, apenas a concentração de muitas publicações por poucos usuários da rede social. *Bots* são recursos que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave, automaticamente.
 
-Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas, não contando com a espontâneidade muitas vezes esperada de um engajamento político. Isso garante que membros dessas bases façam mais publicações utilizando, gerando, então, uma concentração em poucos usuários (daí a desigualdade).
+Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas, não contando com a espontaneidade muitas vezes esperada de um engajamento político. Isso garante que membros dessas bases façam mais publicações utilizando uma hashtag, por exemplo, o que resulta em concentração em poucos usuários (daí a desigualdade).
 
 ##### É muito importante ressaltar que **ações coordenadas não necessariamente representam utilização de robôs**.
 
-Uma primeira amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
+Uma amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
 
-Nessa reportagem do *Vortex*, com mais de 1 milhão de tweets, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
+Na reportagem do *Vortex*, com mais de 1 milhão de tweets, foi apurado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
+
+Esses perfis correspondem a apenas 2% dos usuários -- dentre os cerca de 90 mil -- que utilizaram as hashtags em um período de três dias. Apesar disso, foram diretamente responsáveis por 35% de todos os resultados de buscas dessa campanha no Twitter.
 
 Para calcular a concentração de tweets e retweets, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
 
@@ -79,7 +81,7 @@ Para todas as hashtags acima analisadas, o Coeficiente de Gini é superior a 0.5
 
 Quase todas essas hashtags são mais desiguais, por exemplo, do que o [Brasil em 2017](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BR) (53,3) segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesso esse [site de dados](https://data.worldbank.org/indicator/SI.POV.GINI) Banco Mundial.
 
-Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal pelo [Joice Hasselman](https://www.camara.leg.br/deputados/204546) (PSL-SP), que foi atacada no Twitter com a hashtag #JoiceTraidora. A hashtag também ficou nos _trending topics_ da plataforma depois de ser compartilhada mais de 250 mil vezes.
+Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal [Joice Hasselman](https://www.camara.leg.br/deputados/204546) (PSL-SP), que foi atacada no Twitter com a hashtag #JoiceTraidora. A hashtag também ficou nos _trending topics_ da plataforma depois de ser compartilhada mais de 250 mil vezes.
 
 Aplicando a mesma análise, encontramos indicativos de que o comportamento organizado é comum em mais de uma pauta da direita, não somente contra Gilmar Mendes.
 
@@ -103,7 +105,7 @@ Já olhando outras hashtags populares, relacionadas a outros assuntos além de p
 
 ### Como fizemos isso
 
-O **Núcleo** monitorou de algumas das principais hashtags por duas semanas, entre meados de novembro e o começo de dezembro de 2019. [Veja aqui](https://gist.github.com/voltdatalab/4b2351f5752e5f2b64c6978f53965a74) um exemplo de código para utilização da API do Twitter.
+O **Núcleo** monitorou algumas das principais hashtags por duas semanas, entre meados de novembro e o começo de dezembro de 2019. [Veja aqui](https://gist.github.com/voltdatalab/4b2351f5752e5f2b64c6978f53965a74) um exemplo de código para utilização da API do Twitter.
 
 A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tweets, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados [neste link](https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data).
 

@@ -214,5 +214,8 @@ hr {
       line-height: 1.2em;
       width: 90%
     }
+    .arquivado{
+      font-size: 0.85em
+    }
 
 }
