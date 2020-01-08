@@ -22,7 +22,7 @@ Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o minis
 
 A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar com uma rede muito ativa de usuários nas redes sociais, que concentrava bastante o uso das hashtags por relativamente poucos perfis, amplificando significativamente seu alcance.
 
-O **Núcleo** analisou 3,6 milhões tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, quando poucos perfis foram responsáveis por muitos tweets e compartilhamentos.
+O **Núcleo** analisou 3,6 milhões de tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, quando poucos perfis foram responsáveis por muitos tweets e compartilhamentos.
 
 Essa concentração pode ser vista principalmente em campanhas promovidas pela direita. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
 
