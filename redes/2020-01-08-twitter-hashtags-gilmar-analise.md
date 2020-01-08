@@ -21,7 +21,7 @@ Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o minis
 
 A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar com uma rede muito ativa de perfis nas redes sociais, que concentrava bastante o uso das hashtags por relativamente poucos perfis, amplificando significativamente seu alcance.
 
-O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foi a distribuição dos resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos.
+O **Núcleo** analisou 3,6 milhões tweets e retweets no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrada foi a distribuição dos resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tweets em alguns casos.
 
 Essa concentração pode ser vista principalemente em campanhas promovidas pela direita política. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
 
@@ -47,9 +47,9 @@ Uma ação coordenada acontece quando membros de uma campanha estimulam suas bas
 
 Uma primeira amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
 
-Nessa reportagem do *Vortex*, com mais de 1 milhão de tuítes, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
+Nessa reportagem do *Vortex*, com mais de 1 milhão de tweets, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
 
-Para calcular a concentração de tuítes e retuítes, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
+Para calcular a concentração de tweets e retweets, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
 
 #### [-- Leia o posicionamento do Twitter](#pos-twitter)
 
@@ -63,7 +63,7 @@ As hashtags analisadas relacionadas a movimentação contra Gilmar Mendes foram 
 
 Analisando a atividade dessas hashtags, percebemos que existem diversas contas que compartilham a hashtag dezenas de vezes, enquanto outras contas compartilham uma única vez, indicando uma ação intensa de um pequeno grupo e não um movimento amplo e orgânico.
 
-Alguma forma de coordenação pode ser vista [neste tuíte](https://twitter.com/dimacgarcia/status/1194288289869651968) de um influenciador de direita, na qual ele sugere hashtags que possam ser utilizadas a fim de manter o tema nos trending topics. 
+Alguma forma de coordenação pode ser vista [neste tweet](https://twitter.com/dimacgarcia/status/1194288289869651968) de um influenciador de direita, na qual ele sugere hashtags que possam ser utilizadas a fim de manter o tema nos trending topics. 
 
 ### Os dados de desigualdade
 
@@ -105,7 +105,7 @@ Já olhando outras hashtags populares, relacionadas a outros assuntos além de p
 
 O **Núcleo** monitorou de algumas das principais hashtags por duas semanas, entre meados de novembro e o começo de dezembro de 2019. [Veja aqui](https://gist.github.com/voltdatalab/4b2351f5752e5f2b64c6978f53965a74) um exemplo de código para utilização da API do Twitter.
 
-A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tuítes, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados [neste link](https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data).
+A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tweets, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados [neste link](https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data).
 
 ![gráfico 5 - hashtags diversas](../twitter-files/gini-tweets_curvagini.png)
 
