@@ -2,7 +2,7 @@
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
 titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
-subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta política são organizadas."
+subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou indícios de coordenação em campanhas da direta política na rede social."
 date: 08/01/2020
 analise: Lucas Lago
 edicao: Sérgio Spagnuolo
@@ -17,15 +17,19 @@ tags:
 - "Gilmar Mendes, "
 ---
 
-Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado e foi amplamente difundida entre aqueles que declaradamente se identificam com a direita política. 
+Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. O esforço online pedia pelo impeachment do magistrado e foi amplamente difundido entre aqueles que declaradamente se identificam com a direita política. 
 
-A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar uma rede de perfis nas redes sociais que concentrava bastante o uso das hashtags, seja via tuíte ou retuíte. 
+A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar com uma rede muito ativa de perfis nas redes sociais, que concentrava bastante o uso das hashtags por relativamente poucos perfis, amplificando significativamente seu alcance.
 
-O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foram os resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos, especialmente na direita.
+O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e calculou o quão concentrados foi a distribuição dos resultados encontrados -- ou seja, como poucos perfis foram responsáveis por muitos tuítes em alguns casos.
+
+Essa concentração pode ser vista principalemente em campanhas promovidas pela direita política. Na esquerda foi apurada uma maior distribuição entre perfis participantes, o que em parte explica o menor engajamento e, consequentemente, as limitadas repercussões de campanhas desse campo político no Twitter.
+
+**Em poucas palavras**: a direita faz mais barulho concentrando a repercussão em poucos perfis engajados. A esquerda é mais espontânea, mas não gera tanta repercussão.
 
 ---
 
-###### Isso é importante porque...
+###### Fique atento
 
 - *O Twitter tornou-se um espaço importante de debate político e de reivindicações*
 
@@ -43,7 +47,7 @@ Uma ação coordenada acontece quando membros de uma campanha estimulam suas bas
 
 Uma primeira amostra dessa concentração de tweets foi primeiramente [publicada](https://vortex.media/dados/19632/campanha-no-twitter-por-impeachment-de-gilmar-mendes-tem-marcas-de-acao-coordenada/) no site *Vortex Media*, que no começo de dezembro extinguiu sua equipe de dados. (*Disclaimer: os autores dessa análise trabalharam na equipe do Vortex*). 
 
-Nessa reportagem do Vortex, com mais de 1 milhão de tuítes, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
+Nessa reportagem do *Vortex*, com mais de 1 milhão de tuítes, foi identificado que somente 1.770 perfis no Twitter tuitaram ou retuitaram mais de 100 vezes, em menos de três dias, as hashtags #ImpeachmentGilmarMendes ou #GilmarMendesImpeachment.
 
 Para calcular a concentração de tuítes e retuítes, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
 
@@ -55,7 +59,7 @@ As hashtags analisadas relacionadas a movimentação contra Gilmar Mendes foram 
 
 ![gráfico 1 - Gilmar Mendes](../twitter-files/gini-tweets_data.png)
 
-##### O motivo pelo qual essa campanha foi escolhida é claro: pelo fato de que ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.  
+##### O motivo pelo qual essa campanha foi escolhida como ponto de partida é claro: ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.  
 
 Analisando a atividade dessas hashtags, percebemos que existem diversas contas que compartilham a hashtag dezenas de vezes, enquanto outras contas compartilham uma única vez, indicando uma ação intensa de um pequeno grupo e não um movimento amplo e orgânico.
 
@@ -97,21 +101,15 @@ Já olhando outras hashtags populares, relacionadas a outros assuntos além de p
 
 ---
 
-### Metodologia
+### Como fizemos isso
+
+O **Núcleo** monitorou de algumas das principais hashtags por duas semanas, entre meados de novembro e o começo de dezembro de 2019. [Veja aqui](https://gist.github.com/voltdatalab/4b2351f5752e5f2b64c6978f53965a74) um exemplo de código para utilização da API do Twitter.
+
+A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tuítes, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados [neste link](https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data).
 
 ![gráfico 5 - hashtags diversas](../twitter-files/gini-tweets_curvagini.png)
 
-Os passos para se calcular o Coeficiente de Gini, são os seguintes:
 
-1. Faça uma lista com o quanto cada elemento contribui na sua distribuição;
-
-2. Ordene essa lista da menor contribuição para a maior
-
-3. Some o modulo da diferença de cada contribuição para todas as outras contribuições
-
-4. Divida pelo dobro de todas as contribuições, multiplicado pela quantidade de contribuições.
-
-5. Calculado
 
 <div id="pos-twitter"> </div>
 
