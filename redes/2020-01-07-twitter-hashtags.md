@@ -1,6 +1,7 @@
 ---
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
+titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
 subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta política são organizadas."
 date: 08/01/2020
 analise: Lucas Lago
@@ -26,9 +27,9 @@ O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de 
 
 ###### Isso é importante porque...
 
-- *O Twitter tornou-se um grande espaço de debate político*
+- *O Twitter tornou-se um espaço importante de debate político e de reivindicações*
 
-- *A concentração de tweets em poucos perfis pode não ser representativa do sentimento geral dos usuários do Twitter*
+- *A concentração de tweets em poucos perfis pode não ser representativa do sentimento geral dos usuários da rede social*
 
 - *Espontaneidade geralmente é preferida, embora popularidade gere mais repercussão em outros círculos*
 
