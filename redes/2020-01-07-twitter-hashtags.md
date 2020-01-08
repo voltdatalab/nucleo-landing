@@ -1,23 +1,22 @@
 ---
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
-subTitle:
-date: 06/01/2019
+subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta política são organizadas."
+date: 08/01/2020
 analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 category: redes
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data
-subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e idenficou como campanhas da direta são organizadas."
 background: '../twitter-files/twitter_materia.jpeg'
 tags:
-- Twitter
-- redes sociais
-- Gilmar Mendes
+- "Twitter, "
+- "redes sociais, "
+- "Gilmar Mendes, "
 ---
 
-Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado e foi amplamenta difundida entre aqueles que declaradamente se idenfificam com a direita política. 
+Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF [Gilmar Mendes](http://bit.ly/2SYZg18): ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. A campanha pedia pelo impeachment do magistrado e foi amplamente difundida entre aqueles que declaradamente se identificam com a direita política. 
 
 A grande sacada desse movimento teve duas facetas: a primeira foi a alternância de hashtags à medida que as anteriores perdiam força, fazendo o assunto permanecer sempre “popular”. A segunda foi contar uma rede de perfis nas redes sociais que concentrava bastante o uso das hashtags, seja via tuíte ou retuíte. 
 
@@ -31,7 +30,7 @@ O **Núcleo** analisou 3,6 milhões tuítes e retuítes no Twitter, a partir de 
 
 - *A concentração de tweets em poucos perfis pode não ser representativa do sentimento geral dos usuários do Twitter*
 
-- *Espontaneidade geralmente é preferida, embora popularidade gere mais barulho*
+- *Espontaneidade geralmente é preferida, embora popularidade gere mais repercussão em outros círculos*
 
 ---
 

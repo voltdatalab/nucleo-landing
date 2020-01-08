@@ -557,3 +557,12 @@ hr {
   width: 50%;
   text-align: center;
 }
+
+.tags{
+  color: #4b31dd;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin: 35px 0;
+  font-size: 1em;
+  text-align: center;
+}
