@@ -12,6 +12,7 @@ category: redes
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
 background: '../twitter-files/twitter_materia.jpeg'
+atualizacao: "Texto atualizado em 9.jan.2020 às 19h41 para incluir link para explicação sobre trending topics"
 tags:
 - "Twitter, "
 - "redes sociais, "
@@ -58,11 +59,13 @@ Para calcular a concentração de tweets e retweets, o **Núcleo** valeu-se do C
 
 As hashtags em questão giravam em torno de duas figuras, o próprio Gilmar e o presidente do Senado, [David Alcolumbre](https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830) (DEM-AP). O primeiro por ser o alvo das críticas dos que se manifestavam, o segundo por ser a pessoa com poder para iniciar um dos processos de impeachment que existem contra o ministro do Supremo.
 
-As hashtags analisadas relacionadas a movimentação contra Gilmar Mendes foram as seguintes:
+As hashtags analisadas relacionadas à movimentação contra Gilmar Mendes foram as seguintes:
 
 ![gráfico 1 - Gilmar Mendes](../twitter-files/gini-tweets_data.png)
 
-##### O motivo pelo qual essa campanha foi escolhida como ponto de partida é claro: ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.  
+##### O motivo pelo qual essa campanha foi escolhida como ponto de partida é claro: ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.
+
+#### [-- Saiba mais como funcionam os trending topics](https://help.twitter.com/pt/using-twitter/twitter-trending-faqs)
 
 Analisando a atividade dessas hashtags, percebemos que existem diversas contas que compartilham a hashtag dezenas de vezes, enquanto outras contas compartilham uma única vez, indicando uma ação intensa de um pequeno grupo e não um movimento amplo e orgânico.
 
