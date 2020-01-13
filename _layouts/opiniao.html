@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	{% include head_post.html %}
+	<body>
+		{% include nav.html %}
+<!-- Page Header -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-heading">
+        <h1>[OPINIÃO] {{ page.title }}</h1>
+        {% if page.subtitle %}
+        <h2 class="subheading">{{ page.subtitle }}</h2>
+        {% endif %}
+        <span class="arquivado">
+          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <span>{{ page.category }}</span> <br />
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+  </header>
+			<p class="feature_credito">Imagem por {{ page.credito_img }}</p>
+
+<div class="container wrap sidebar-right box_conteudo">
+  <div class="container">
+    <div class="row">
+			<div class="creditos">
+				<div class="sidebar col-sm-4">
+					<span class="arquivado creditos_alt">
+						{% if page.autor %} Por <span>{{ page.reportagem }}</span><br /> {% endif %}
+						{% if page.autor2 %} e <span>{{ page.analise }}</span><br /> {% endif %}
+						{% if page.autor3 %} Gráficos por <span>{{ page.graficos }}</span><br /> {% endif %}
+					</span>
+					<br />
+					<br />
+					{% if page.dados_abertos %} <h5 class="links_dados"> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos2 %} <h5 class="links_dados"> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos3 %} <h5 class="links_dados"> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
+
+					<br />
+
+					<p>
+						COMPARTILHE: </p>
+					<ul class="share-buttons">
+					<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+				  <li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-twitter-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+				  <li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+				  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+				  <li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Send email</span></a></li>
+				</ul>
+
+				<br />
+
+				<p>
+					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
+				</p>
+
+			</div>
+		</div>
+			<div class="main col-sm-7">
+        <div class="texto_post">
+
+        {{ content }}
+
+        </div>
+				<br />
+				<br />
+        <hr>
+				<h4 class="tags">Tags: {{ page.tags }}</h4>
+      	</div>
+
+  	</div>
+	</div>
+</div>
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

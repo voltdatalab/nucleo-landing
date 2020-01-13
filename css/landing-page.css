@@ -61,7 +61,7 @@ p a{
 p a:hover{
   border-bottom: 5px solid #2eefa0;
   text-decoration: none;
-  color: inherit;
+  color: #4b31dd;
 }
 
 .social{
@@ -90,9 +90,13 @@ li a{
 }
 
 .page-tt{
-  font-size: 3em;
+  font-size: 2.8em;
   color: #4b31dd;
   text-transform: uppercase;
+}
+
+.page-tt a:hover{
+  text-decoration-color: red !important;
 }
 
 .page-tp{
@@ -177,12 +181,13 @@ label{
 }
 
 .intro-header {
-    padding-top: 30px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #333;
     background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
-    background-size: 65%;
+    background-size: 50%;
+    background-position: bottom;
     background-attachment: fixed;
 }
 
@@ -232,6 +237,14 @@ label{
 
     .intro-divider {
         width: 100%;
+    }
+
+    .navbar-default .navbar-toggle {
+      margin-top: 15px
+    }
+
+    #logotipo{
+      margin-top: 5px
     }
 }
 
@@ -312,6 +325,14 @@ label{
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    .intro-header {
+        padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+        padding-bottom: 50px;
+        background-size: cover;
+        background-position: center;
+        background-attachment: scroll;
     }
 }
 

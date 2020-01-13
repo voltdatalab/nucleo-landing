@@ -1,0 +1,4 @@
+---
+tag: "redes"
+permalink: "/redes"
+---

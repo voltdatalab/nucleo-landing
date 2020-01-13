@@ -10,7 +10,7 @@ author: Núcleo Jornalismo
 description: > # "Write an awesome description for your new site here.
   Investigações sobre debates, gastos públicos e políticas públicas
 copyright: '<img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="200px" />'
-credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Este site utiliza apenas Google Analytics para monitorar os acessos.'
+credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Este site utiliza apenas Google Analytics.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -18,7 +18,10 @@ credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Este 
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:year-:month-:day-:title
+
+paginate:           5
+paginate_path:      "/posts/page:num/"
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -33,3 +36,15 @@ social:
     url: https://github.com/voltdatalab
   - title: whatsapp
     url: https://wa.me/5511934441844
+
+collections:
+  category: 
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

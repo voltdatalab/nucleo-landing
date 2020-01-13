@@ -1,0 +1,33 @@
+{% include head_post.html %}
+<section id="publicacoes">
+<!-- Page Content -->
+{% for post in site.categories[page.tag] %}
+    <div class="content-section-a">
+
+      <div class="container" style="padding: 0 2% 60px">
+                <div class="row">
+                <div class="col-lg-6">
+                <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
+
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                  <h2 class="page-tt">{{ post.titulo_redes }}</h2></a>
+                  <br />
+                  <span class="arquivado">
+
+                    {{ post.date | date: '%d/%m/%Y' }}  <br />
+
+                  </span>
+                  <br />
+                <p class="conteudo">{{ post.excerpt }} <strong><a href="{{ post.url }}">[Continuar...]</a></strong></p>
+                </div>
+              <div class="col-lg-5" style="float:right; padding-top: 40px; padding-right: 40px;">
+                <img src="{{ site.baseurl }}{{ post.background }}" width='100%'/>
+              </div>
+              </div>
+
+      </div>
+
+    </div>
+{% endfor %}
+<!-- <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a> -->
+</section>

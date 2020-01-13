@@ -2,26 +2,52 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-              <!--
-                <ul class="list-inline">
+            <div class="col-lg-7">
+                <div id="revue-embed">
+                  <form action="https://www.getrevue.co/profile/nucleo/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+                  <div class="revue-form-group">
+                    <label style="font-size:1.3em; text-transform: uppercase">Assine a newsletter</label><br />
+                    <input class="revue-form-field" placeholder="preencha seu email..." type="email" name="member[email]" id="member_email" style="font-size:1.1em;">
+                  </div>
+                  <div class="revue-form-actions">
+                    <input type="submit" value="Receba novidades por email" name="member[subscribe]" id="member_submit" style="font-size:1.1em;">
+                  </div>
+                  </form>
+                  <br />
+                </div>
+
+                <ul class="list-inline" style="font-size:1.1em; text-transform: uppercase">
                     <li>
-                        <a href="{{ site.baseurl }}/#home">Home</a>
+                        <a href="{{ site.baseurl }}/">Início</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a href="{{ site.baseurl }}/#about">Sobre</a>
+                        <a href="{{ site.baseurl }}/sobre">Sobre</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
                         <a href="{{ site.baseurl }}/portfolio">Portfólio</a>
                     </li>
                 </ul>
-                -->
-                <p class="copyright text-muted small"><img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="200px" /></p>
-            </div><br />
-            <div class="col-md-4" style="font-weight: 300">
+
+            </div>
+            <div class="col-md-4" style="font-weight: 300; max-width: 390px">
                 {{ site.credits }}
+
+                <ul class="list-inline " >
+                  <br />
+                  {% for social in site.social %}
+                  <li>
+                    <a href="{{ social.url }}" style="border:0px"><i class="fab fa-{{ social.title }}-square fa-2x"></i> <span class="network-name"></span></a>
+                  </li>
+                  {% endfor %}
+                  <li>
+                    <a href="{{ site.email }}" style="border:0px"><i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i> <span class="network-name"></span></a>
+                  </li>
+                </ul>
+                <p class="copyright text-muted small"><img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="170px" /></p>
+                <!-- /.banner -->
+
             </div>
         </div>
     </div>

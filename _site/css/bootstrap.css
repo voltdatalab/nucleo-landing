@@ -895,7 +895,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Barlow", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -915,7 +915,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #2eefa0;
   text-decoration: underline;
 }
 a:focus {
@@ -3036,7 +3036,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #2a6496;
+  color: #2eefa0;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4343,7 +4343,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #2a6496;
+  color: #2eefa0;
   background-color: #eee;
   border-color: #ddd;
 }
