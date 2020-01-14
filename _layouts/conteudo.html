@@ -37,8 +37,9 @@
 				<div class="sidebar col-sm-4">
 					<span class="arquivado creditos_alt">
 						{% if page.reportagem %} Reportagem de <span>{{ page.reportagem }}</span><br /> {% else %} Equipe Núcleo {% endif %}
-						{% if page.analise %} Análise por <span>{{ page.analise }}</span><br /> {% else %} Equipe Núcleo {% endif %}
-						{% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span><br /> {% else %} Equipe Núcleo {% endif %}
+						{% if page.analise %} Análise por <span>{{ page.analise }}</span><br /> {% endif %}
+						{% if page.colaboracao %} Colaboração de <span>{{ page.colaboracao }}</span><br /> {% endif %}
+						{% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span><br /> {% endif %}
 						{% if page.edicao %} Edição de <span>{{ page.edicao }}</span>{% else %} Por Equipe Núcleo {% endif %}
 					</span>
 					<br />

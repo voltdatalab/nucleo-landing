@@ -8,7 +8,7 @@ subtitle_redes: "Documentos mostram um mês de solicitações e alertas feitos p
 excerpt: "No dia 13 de setembro de 2019, servidores do Ibama emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na responder ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste."
 date: 11/01/2020
 reportagem: Gabriela Sá Pessoa
-analise: Rodolfo Almeida
+colaboracao: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
 dados_abertos:
