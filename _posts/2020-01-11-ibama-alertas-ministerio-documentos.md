@@ -85,6 +85,6 @@ Procurado pela reportagem, o Ministério do Meio Ambiente e o Ibama não se mani
 
 O **Núcleo** obteve documentos do Ibama via lei de acesso à informação e entrevistou as pessoas acima citadas.
 
-Você pode fazer o download dos seis documentos [neste link](../documentos/ibama-oleo.zip). 
+Você pode fazer o download dos seis documentos [neste link](../documentos/ibama-oleo). 
 
 A reportagem foi apurada em novembro e dezembro de 2019, e finalizada em janeiro de 2020.
