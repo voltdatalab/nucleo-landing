@@ -2,7 +2,7 @@
 published: TRUE
 layout: conteudo
 title: "Ibama alertou diariamente Ministério do Meio Ambiente sobre falta de recursos para ações contra óleo no Nordeste"
-titulo_redes: "Ibama alertou governo diariamente sobre falta de recursos para ações contra óleo no Nordeste"
+titulo_redes: "Ibama alertou insistentemente sobre falta de recursos contra óleo no Nordeste"
 subtitle: "Documentos obtidos pelo <strong>Núcleo</strong> mostram um mês de solicitações e alertas feitos pela agência ao governo federal sobre o maior desastre ambiental do Brasil"
 subtitle_redes: "Documentos mostram um mês de solicitações e alertas feitos pela agência sobre desastre ambiental."
 excerpt: "No dia 13 de setembro de 2019, servidores do Ibama emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na responder ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste"
