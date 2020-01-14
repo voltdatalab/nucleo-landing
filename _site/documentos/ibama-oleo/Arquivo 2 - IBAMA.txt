@@ -1,0 +1,2755 @@
+1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida –
+Região Nordeste
+2. Operational Period
+Período Operacional
+From De: 27/09/2019 8h To Até:
+29/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+● Manter o período operacional de 48h;
+● Solicitar aos bombeiros o resultado da coleta de amostra do óleo, realizadas até o dia 24/09;
+● Manutenção de equipe do CDA em campo com apoio de agentes ambientais comunitários, realizando a limpeza no litoral de
+Sergipe (Rebio Santa Isabel), Rio Grande do Norte (Pirambúzios, Barra do Pirangi e Tabatinga) e Maranhão (Barro Vermelho e
+Barra da Baleia);
+● Definir servidores do Ibama e ICMBio para acompanhar a Petrobras na limpeza de praia;
+● Integração do ICMBio no Posto de Comando e definição de estratégias;
+● Integração entre a EOR do Ibama e da Petrobras;
+● Mapeamento, pela equipe de fauna (CE, MA e RN), de instituições parceiras no que diz respeito ao atendimento à fauna
+oleada;
+● Estabelecer procedimentos relacionados ao monitoramento de fauna;
+● Implantar fichas de informações básicas para resgate, atendimento e transporte de fauna;
+● Elaborar planilha com o quantitativo (e status) dos exemplares de fauna que foram resgatados;
+● Acompanhar representante da ITOPF;
+● Definir o local e procedimento administrativo para destinação de resíduos: MA, RN;
+● Avaliar a necessidade de apoio da Petrobras no Ceará, tendo em vista a atuação das prefeituras sob orientação do Ibama;
+● Fortalecer a utilização da ferramenta SCAT pelas equipes de monitoramento/levantamento;
+● Definir as áreas que ainda precisam ser vistoriadas para fechamento do diagnóstico;
+● Definir sobre a necessidade de ampliação da equipe de comando e campo;
+● Repasse de ações do formulário SCI 233 ações em aberto;
+● Proceder com a investigação do incidente, fornecendo as informações necessárias à Marinha do Brasil.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+Não tomar decisões ou alterar o planejamento sem passar pelo Comando;
+Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o óleo. Levem no carro um frasco de
+detergente e um de óleo de soja para retirada da pele, se for o caso;
+Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo;
+Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo;
+Levar lanche nas vistorias e sobrevoos que podem ser longos;
+Avise o supervisor caso precise de folgas;
+Manter hidratação e proteção do sol.
+Principais Decisões/Direcionamentos
+Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente;
+Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando;
+Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Flávia: 61 99984-8893);
+Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada;
+Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos;
+Problemas ou acidentes envolvendo as viaturas e/ou aeronave;
+Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da Seção De
+Planejamento)
+Glecia Trinta e Fernanda Pirillo
+Date/Hour Data/Hora
+26/09/2019 – 19h50
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 29/09/2019 8h To Até: 
+01/10/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+● Manter o período operacional de 48h;
+● Envio da aeronave ao Ceará para apoio ao diagnóstico no estado;
+● Envio de especialista da ITOPF para apoio técnico à equipe/CE ou RN;
+● Desmobilização da equipe do Ibama de Alagoas;
+● Revisitar as localidades anteriormente vistoriadas;
+● Discutir a metodologia para elaboração do mapa de situação das áreas oleadas;
+● Vistoria no Rio Grande do Norte para avaliação de possível desmobilização da Petrobras;
+● Manutenção de equipe do CDA em campo com apoio de agentes ambientais comunitários, realizando a limpeza no litoral de
+Sergipe (Rebio Santa Isabel) e Rio Grande do Norte (Pirambúzios, Barra do Pirangi e Tabatinga);
+● Mapeamento, pela equipe de fauna (CE, MA e RN), de instituições parceiras no que diz respeito ao atendimento à fauna
+oleada;
+● Elaborar planilha com o quantitativo (e status) dos exemplares de fauna que foram resgatados;
+● Avaliar a necessidade de apoio da Petrobras no Ceará, tendo em vista a atuação das prefeituras sob orientação do Ibama;
+● Fortalecer a utilização da ferramenta SCAT pelas equipes de monitoramento/levantamento;
+● Repasse de ações do formulário SCI 233 ações em aberto;
+● Proceder com a investigação do incidente, fornecendo as informações necessárias à Marinha do Brasil.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+
+Mensagem geral de segurança: 
+ Não tomar decisões ou alterar o planejamento sem passar pelo Comando;
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o óleo. Levem no carro um frasco de
+detergente e um de óleo de soja para retirada da pele, se for o caso;
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo;
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo;
+ Levar lanche nas vistorias e sobrevoos que podem ser longos;
+ Avise o supervisor caso precise de folgas;
+ Manter hidratação e proteção do sol.
+
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente;
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando;
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Flávia: 61 99984-8893);
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada;
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos;
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave;
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da Seção De 
+Planejamento)
+Glecia Trinta e Fernanda Pirillo
+Date/Hour Data/Hora 
+29/09/2019 – 09h50
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+3. Type Of Incident
+ Tipo de Incidente 
+Oil Spill Vazamento de Óleo HAZMAT Substâncias Perigosas Aerial Disaster Acidente Aéreo
+Salvage Salvatagem Terrorism Terrorismo Dam Collapse Ruptura de Barragem
+Marine Disaster Acidente Marítimo Natural Disaster Desastre Natural
+ Situation Summary as of Time of Report 
+Resumo da Situação Atual
+Resumo da situação referente às ações do IBAMA no atendimento emergencial do aparecimento de manchas de óleo nas
+praias do litoral do Rio Grande do Norte.
+Atividades realizadas em 14/09/2019:
+RIO GRANDE DO NORTE 
+Três equipes estiveram em campo em vistoria nas praias no litoral sul e uma equipe iniciou o monitoramento aéreo a bordo do
+helicóptero do Ibama. Ressalta-se que os parrachos de Maracajaú e Rio do Fogo não foram atingidos.
+Município de Nísia Floresta
+A primeira equipe se deslocou para o município de Nísia Floresta/RN com o objetivo de acompanhar as ações de resposta do CDA
+da Petrobras e ainda verificar a situação das áreas visitadas no dia anterior, após a maré cheia. Foram vistoriadas as praias de
+Barra de Tabatinga, da foz do rio Pirangi do Sul/Piúm, e Pirambúzios.
+Na foz do rio Pirangi ainda foi verificada presença de óleo, porém em menor quantidade que no dia anterior. Importante ressaltar
+que quando da maré cheia no dia 13/09, foi verificada quantidade considerável de pelotas e filetes de óleo sendo carreados para a
+região estuarina o que pode ser uma explicação para a pouca visualização de pelotas na foz na data de 14/09, durante a maré
+baixa.
+Em Barra de Tabatinga, nas áreas dos beach rocks identificados ontem com grande quantidade de óleo, devido a maré cheia, esse
+produto foi carreado para a faixa de praia a qual encontra-se com um percentual aproximado de 20% de recobrimento por óleo em
+um trecho de 500 metros. Os beach rocks continuam bastante oleados, principalmente nas rochas mais próximas à faixa de praia.
+Quantidade pequena de plantas de mangue foram atingidas e algumas plantas foram totalmente recobertas por óleo.
+Na região de Pirambúzios/Pirangi do Sul, em um segmento de 500 metros, o óleo está mais concentrado no supralitoral (cerca de
+10% de cobertura de óleo), mas também há vestígios na faixa do médio litoral em alguns trechos (de 1 a 10%). Nos beach rocks
+também é possível verificar presença de óleo, mas em menor quantidade quando comparado à praia de Barra de Tabatinga. Mas
+continua sendo uma área prioritária para a limpeza. Constatou-se que o óleo está bastante aderido as rochas. Plantas de mangue
+atingidas, pouca quantidade de plantas.
+Figura 1: Pelotas de óleo na faixa de areia na praia de Tabatinga. Figura 2: Beach rocks impregnados com óleo na praia de Tabatinga.
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 1 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Figura 3: Planta de mangue impreganda com óleo na praia de
+Tabatinga.
+Figura 4: Foz do rio Pirangi/Pium – trecho com mancha de óleo
+Figura 5: Beach rocks impregnado com óleo em Pirangi do
+Sula/Pirambúzius
+Figura 6: Mancha de óleo próxima ao beach rocks impregnado com 
+óleo em Pirangi do Sula/Pirambúzius
+A Prefeitura de Nísia Floresta colocou em campo três trabalhadores para limpeza de praia em conjunto com o CDA. No entanto,
+tais trabalhadores desenvolveram atividade no local até as 10h30 e foram embora por causa do término do expediente. O IBAMA
+em campo conversou com funcionário da secretaria de meio ambiente de Nísia Floresta e informou que a Prefeitura deve
+encaminhar os resíduos para local protegido como dentro de bombonas e tambores até a destinação final do produto para empresa
+autorizada. O funcionário informou que a retirada de resíduos da praia pela prefeitura será realizada na segunda-feira quando esta
+terá o trator com reboque disponível.
+Município de Parnamirim
+Foi realizado mergulho nos Parrachos de Pirangi em conjunto com membros da Ong Oceânica e não se detectou a presença de
+óleo nos arrecifes. Na praia de Pirangi do Norte, na faixa de praia constatou-se pelotas esparsas e a existência de óleo nas rochas
+próximas da foz do rio Pirangi/Pium. 
+Figuras 7 e 8: Óleo encontrado em Pirangi do Norte.
+Município de Barra de Maxaranguape
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 2 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Foi encontrado óleo nos beach rocks próximo à foz da barra do rio Ceará-mirim e pelotas esparsas na faixa de praia próxima à foz.
+Percentual na areia é de aproximadamente 1%.
+Figura 9: Beach rocks próximo na praia de Barra de Maxaranguape
+próximo a foz do rio Ceará-mirim
+Figura 10: Pelotas na faixa de areia na praia de Barra de
+Maxaranguape
+Municípios de Sagi, Baía Formosa e Barra de Cunhaú
+A equipe recebeu informações de que a intensidade foi nos dias 06 e 07/09. Os turistas relataram que ficaram com os pés sujos.
+Mas, segundo informações também, a maré trouxe e levou o óleo. No entanto, a equipe ainda pode verificar presença de vestígios
+de óleo com pelotas esparsas com percentual de cobertura abaixo de 1%.
+Figuras 11 e 12: Pelotas esparsas localizadas em praia no município de Sagi.
+Não houve trabalho de campo nos municípios dos estados do Ceará, Alagoas, Pernambuco e Paraíba tendo em vista que não
+houve novos registros de manchas nesses locais.
+SOBREVOO
+O sobrevoo teve início às 11h23min a bordo do helicóptero IBAMA 02 e voaram até as 14h20min. Nesse período foi sobrevoado o
+litoral oriental sul, que compreende o trecho entre Natal até Barra de Camaratuba na PB. A ida foi na altitude variando de 200 a
+300 pés. No retorno, sobrevoando a altitude de 1.500 pés adentrando aproximadamente a 1 milha do costa, foi avistada uma feição
+em formato linear paralela a costa na altura das praias de Sagi e Baía Formosa, nas coordenadas 06° 21’ 27,8”S / 34° 57’ 54,4”W.
+Há possibilidade de serem alga ou óleo velho e intemperizado. Como durante o sobrevoo foi avistada uma embarcação da
+marinha, foi solicitado à Capitania dos Portos para verificar a possibilidade de envio ao local para averiguação. No entanto, no
+momento do contato a embarcação já estava distante cerca de 30 MN. Nas linhas de praia foram verificadas feições nas áreas já
+identificadas em vistorias via terrestre.
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 3 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Figuras 13 e 14: Feições localizadas durante sobrevoo no período da manhã na altura das praias de Sagi e Baía Formosa.
+No período da tarde o sobrevoo teve início às 16h com destino ao litoral oriental norte, mantendo duas altitudes, sendo uma de 200
+a 300 pés subindo para setor norte em sentido da costa e no retorno na altitude de 1.500 pés adentrando mais ao mar. Não foram
+observadas manchas de óleo nas praias, porém tal análise foi prejudicada porque a maré já estava alta e no retorno sobrevoando o
+mar não foram identificadas feições suspeitas.
+Cabe ressaltar que o sobrevoo para detecção de manchas em linha de praia não se mostrou muito eficiente, tendo em vista que é
+possível verificar apenas quando há grande concentração, porém é importante para verificação de feições no mar.
+REUNIÃO COM PETROBRAS
+As 16h iniciou-se a conferência via telefone com a equipe da Petrobras composta pelos senhores Ângelo Sartori e Rodrigo
+Cochrane, e pelos representantes do Ibama Cristiane de Oliveira, Fernanda Pirillo e Marcelo Amorim. Foi feita breve explanação da
+situação atual e a Petrobras informou que está trabalhando na elaboração do plano de ação de acordo com as informações
+repassadas pela equipe do CDA e do Ibama e que este plano deverá estar pronto na data de 16/09. Na oportunidade foi solicitado
+que eles preencham o formulário SCI 211 com os recursos empregados e encaminhe diariamente ao Ibama. Foi informado que,
+por força de contrato, eles preenchem um RA que consiste em um documento completo de controle de emprego de recursos. O
+Ibama, durante vistorias em campo solicitará acesso a esse RA para conhecimento.
+REFORÇO DE EQUIPES
+Na data de hoje houve deslocamento da equipe composta por dois servidores do Ibama no estado de PE para auxílio nas ações
+desencadeadas no estado do Rio Grande do Norte. Na oportunidade, durante o deslocamento, a equipe vistoriou três municípios a
+pedido do Ibama.
+ Future Outlook/Goals/Needs/Issues Perspectivas / Objetivos / Demandas / Entraves Futuros
+Perspectivas:
+ Desmobilização das equipes dos estados menos afetados na próxima semana, caso não haja mais ocorrência de
+presença de óleo na região costeira e nem reporte de fauna oleada.
+Entraves Atuais e Futuros:
+ Dificuldade na localização da mancha de óleo no mar para previsão das áreas a serem atingidas.
+ Falta de informação da população acerca do ocorrido, colocando a fauna afetada em risco.
+ Número pequeno de pessoas realizando a limpeza das praias frente ao número de áreas que foram consideradas como
+prioritárias para a limpeza.
+ Número reduzido da equipe do IBAMA para realizar todos os trabalhos de campo e de escritório necessários.
+ Falta de atuação de outros órgãos, principalmente estaduais e municipais.
+Demandas:
+ Fluxo de gestão da equipe IBAMA se limita ao Comando do IBAMA, presente no Posto de Comando. A demanda por
+servidores será determinada pelo Posto de Comando do IBAMA, considerando as demandas em campo.
+Atividades planejadas para 15/09/2019:
+ OPERAÇÕES AÉREAS:
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 4 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+o Sobrevoo no litoral do Rio Grande do Norte – helicóptero do IBAMA.
+ PRAIA
+o Vistoria nas praias de Pirangi do Sul, Pirambúzios e Barra de Tabatinga – equipe do IBAMA/RN
+ AÇÕES DE GESTÃO
+o Continuar a organizar o Posto de Comando na SUPES/RN.
+o Realizar reunião com a Polícia Federal no período da manhã para verificar possibilidade de investigação da 
+origem da mancha.
+o Realizar diagnóstico das áreas afetadas no litoral do Rio Grande do Norte.
+o Elaborar plano de ação frente ao incidente, com base no diagnóstico do litoral potiguar em relação à ocorrência 
+de manchas de óleo.
+o Continuar o replanejamento das atividades de campo, considerando o resultado das vistorias realizadas.
+o Reunião diária com equipes do IBAMA dos demais estados. No final de semana será realizada apenas com as 
+equipes que tiveram atividades de campo.
+o Reunião diária com as equipes da Petrobras.
+o Atividades do comando.
+4. Equipment Resources 
+Recursos Mobilizados 
+Kind (aircraft, vessel, pollution 
+equip.)
+Tipo (aeronave, embarcação, 
+equipamentos de resposta etc.)
+Observations
+Observação
+#Ordered
+# Requistado
+#Avaiable
+# Disponível
+#Assigned
+# Alocado
+#Out of
+Service
+# Fora de
+Serviço
+Veículo Oficial (RN) Não Aplicável 02
+Veículo Oficial (PE) Não Aplicável 01
+Helicóptero – IBAMA 02 Não Aplicável 01
+Total 04
+5. Personnel Resources Recursos Humanos
+Agency Agência Total # of People Total # de Pessoas
+IBAMA 06
+PETROBRAS 12
+Total 18
+11. Prepared by Preparado por
+Cristiane de Oliveira e Fabíola Patrícia da Silva Rufino
+Date/Time Prepared Data/Hora da atualização
+ 14/09/2019 18h17min
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 5 de 6 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 01/10/2019 8h To Até: 
+03/10/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Manter o período operacional de 48h;
+ Especialista da ITOPF em apoio técnico à equipe/CE e/ou RN;
+ Revisitar as localidades anteriormente vistoriadas;
+ Vistoriar o litoral do Rio Grande do Norte para avaliação de possível desmobilização da Petrobras;
+ Manter equipe do CDA em campo com apoio de agentes ambientais comunitários, realizando a limpeza no litoral de Sergipe e
+Rio Grande do Norte;
+ Mapear, pela equipe de fauna do IBAMA, instituições parceiras no que diz respeito ao atendimento à fauna oleada;
+ Elaborar planilha com o quantitativo (e status) dos exemplares de fauna que foram resgatados;
+ Avaliar a necessidade de apoio da Petrobras no Ceará e outros estados, tendo em vista a atuação das prefeituras sob
+orientação do Ibama;
+ Elaborar critérios de “end point”;
+ Coletar amostras de óleo em praias do Sergipe;
+ Repassar as ações do formulário SCI 233 ações em aberto;
+ Mudança do Posto de Comando para Sergipe;
+ Viabilizar presença de representante da Petrobras no PC de Sergipe;
+ Proceder com a investigação do incidente, fornecendo as informações necessárias à Marinha do Brasil;
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança: 
+ Não tomar decisões ou alterar o planejamento sem passar pelo Comando;
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o óleo. Levem no carro um frasco de
+detergente e um de óleo de soja para retirada da pele, se for o caso;
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo;
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo;
+ Levar lanche nas vistorias e sobrevoos que podem ser longos;
+ Avise o supervisor caso precise de folgas;
+ Manter hidratação e proteção do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente;
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando;
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM - MMA;
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada;
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos;
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave;
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da Seção De 
+Planejamento)
+Glecia Trinta e Fernanda Pirillo
+Date/Hour Data/Hora 
+30/09/2019 – 17:30h
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 13/09/2019 6h To Até: 
+14/09/2019 6h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Realizar vistoria em campo nas praias no município de Nísia Floresta/RN, visando:
+o acompanhamento das ações de resposta adotadas pela equipe do CDA.
+o verificar presença de óleo na região para definição de prioridades nas ações de resposta.
+ Realizar vistoria no município de Aquiraz/CE e municípios próximos para verificar presença de óleo.
+ Realizar vistoria nas praias atingidas no estado de Pernambuco para verificar presença de óleo.
+ Realizar reunião com as equipes dos Nupaems dos estados do CE, AL, PB, PE e RN visando atualização de informações para
+traçar estratégias de resposta.
+ Realizar reunião com representantes da Petrobras para informar prioridade nas ações de resposta.
+ Realizar contato com prefeitura de Nísia Floresta/RN para inserção de trabalhadores de empresa prestadora de serviços nas
+ações de limpeza de praia junto com a equipe do CDA.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir a campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista, inclusive solicitações para trabalho do CDA devem antes serem
+comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+14/09/2019 – 13h03
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 16/09/2019 8h To Até: 
+17/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Realizar vistoria em campo nas praias no município de Nísia Floresta/RN, visando:
+o Auxílio no diagnóstico da área afetada.
+o Verificar presença de óleo na região para definição de prioridades nas ações de resposta.
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 16/09 para traçar estratégias para o
+dia seguinte.
+ Entrar em contato com Ministério Público Federal para relatar a situação e solicitar apoio para contato com demais instituições
+com necessidade de atuação frente ao cenário apresentado.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista, inclusive solicitações para trabalho do CDA devem antes serem
+comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 09h59
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 16/09/2019 8h To Até: 
+17/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Realizar vistoria em campo nas praias no município de Nísia Floresta/RN, visando:
+o Auxílio no diagnóstico da área afetada.
+o Verificar presença de óleo na região para definição de prioridades nas ações de resposta.
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 16/09 para traçar estratégias para o
+dia seguinte.
+ Entrar em contato com Ministério Público Federal para relatar a situação e solicitar apoio para contato com demais instituições
+com necessidade de atuação frente ao cenário apresentado.
+ Deslocar até a Prefeitura de Nísia Floresta para realizar reunião, apresentar o cenário de manchas na região e solicitar apoio
+para limpeza da praia.
+ Realizar diagnóstico das áreas afetadas no litoral do Rio Grande do Norte. Dividir a equipe do IBAMA para atuação em todo o
+litoral do Rio Grande do Norte.
+ Elaborar matriz para avaliação de risco visando a elaboração de plano de ação frente ao incidente, com base no diagnóstico do
+litoral potiguar em relação à ocorrência de manchas de óleo.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 10h42
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 17/09/2019 8h To Até: 
+18/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 17/09 para traçar estratégias para o
+dia seguinte.
+ Participar de reunião com Ministério Público Federal.
+ Iniciar o levantamento de dados para diagnóstico da área afetada na região costeira do RN.
+ Elaborar matriz para avaliação de risco visando a elaboração de plano de ação frente ao incidente, com base no diagnóstico do
+litoral potiguar em relação à ocorrência de manchas de óleo.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 10h42
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 18/09/2019 8h To Até: 
+19/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 18/09 para traçar estratégias para o
+dia seguinte.
+ Repassar ao Ministério Público Federal contato com a Petrobras para solicitação de envio dos laudos de análise do tipo de óleo
+em resposta às notificações do IBAMA.
+ Continuar o levantamento de dados para diagnóstico da área afetada na região costeira do RN.
+ Continuar a elaboração de matriz para avaliação de risco visando a elaboração do plano de ação frente ao incidente, com base
+no diagnóstico do litoral potiguar em relação à ocorrência de manchas de óleo.
+ Repassar diariamente os formulários SCI 209 à equipe do IBAMA e à Polícia Federal.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 11h00
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 19/09/2019 8h To Até: 
+20/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 19/09.
+ Elaboração de mapas diários com os estados e municípios afetados.
+ Repassar ao Ministério Público Federal documento com orientações referentes às ações de limpeza de praia a serem adotadas
+pelas prefeituras dos municípios atingidos.
+ Continuar o levantamento de dados para diagnóstico da área afetada na região costeira do RN.
+ Continuar a elaboração de matriz para avaliação de risco visando a elaboração de plano de ação frente ao incidente, com base
+no diagnóstico do litoral potiguar em relação à ocorrência de manchas de óleo.
+ Repassar diariamente os formulários SCI 209 à equipe do IBAMA e à Polícia Federal.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 11h20
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 20/09/2019 8h To Até: 
+21/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Consolidar informações repassadas pelas equipes que estiveram em campo durante o dia 20/09.
+ Elaborar os mapas diariamente com os estados e municípios afetados.
+ Iniciar a consolidação dos dados para diagnóstico da área afetada na região costeira do RN.
+ Continuar a elaboração de matriz para avaliação de risco visando a elaboração do plano de ação frente ao incidente, com base
+no diagnóstico do litoral potiguar em relação à ocorrência de manchas de óleo.
+ Recebimento de reforço administrativo para organização de documentação e abertura de processo.
+ Repasse diário dos formulários SCI 209 à equipe do IBAMA e à Polícia Federal.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 11h33
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 21/09/2019 8h To Até: 
+23/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Iniciar o período operacional de 48h.
+ Organizar documentação de registro do acidente no posto de comando.
+ Sem previsão de atividade de campo no dia 21/09.
+ Acompanhar equipe do Corpo de Bombeiros de Brasília na coleta de amostras de óleo no município de Maxaranguape no dia
+22/09.
+ Iniciar a consolidação dos dados para diagnóstico da área afetada na região costeira do RN. Inserir od dados em planilha para
+análise.
+ Finalizar a matriz para avaliação de risco visando a elaboração de plano de ação frente ao incidente, com base no diagnóstico
+do litoral potiguar em relação à ocorrência de manchas de óleo.
+ Repassar diariamente os formulários SCI 209 à equipe do IBAMA e à Polícia Federal.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Cristiane de Oliveira
+Date/Hour Data/Hora 
+20/09/2019 – 13h36
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 23/09/2019 8h To Até: 
+25/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+ Organizar documentação de registro do acidente no posto de comando.
+ No dia 23 encaminhar ofício à Força Aérea (CLBI) solicitando acesso para realizar vistoria no dia 24 as 07:00 da manhã na
+Barreira do Inferno.
+ No dia 23 retornar na área mais afetada, denominada Região 05 – que vai da foz do rio Pium a Tabatinga com ênfase na região
+de Tabatinga, para realização de vistoria em conjunto com a Polícia Federal, que realizará coleta de amostra de óleo. Baixa-mar
+será as 05:09 e 17:43, a equipe realizará a vistoria na baixa-mar da tarde.
+ No dia 24 realizar vistoria na área militar da Barreira do Inferno. Baixa-mar 06:32.
+ Dia 23 o Corpo de Bombeiros/DF se deslocará para Recife/PE e dia 24 coletará amostra de óleo na Refinaria Abreu e Lima
+(RENEST).
+ Dar continuidade a consolidação dos dados para diagnóstico da área afetada na região costeira do RN. Inserir os dados em
+planilha para análise.
+ Elaborar o laudo técnico ambiental do incidente da mancha de origem desconhecida no litoral nordestino.
+ Repassar diariamente os formulários SCI 209 à equipe do IBAMA e à Polícia Federal.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+ Não tomar decisões sem passar pelo Comando. 
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o piche. Levem no carro um
+frasco de detergente e um de óleo de soja para retirada da pele, se for o caso.
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo.
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo.
+ Se manter hidratado e protegido do sol.
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente.
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando.
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Thiago Costa: 61 99267-6495).
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada.
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos.
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave.
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da 
+Seção De Planejamento)
+Tatiane Maria Vieira Leite
+Date/Hour Data/Hora 
+22/09/2019 – 18h50
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida –
+Região Nordeste
+2. Operational Period
+Período Operacional
+From De: 27/09/2019 8h To Até:
+29/09/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+● Manter o período operacional de 48h;
+● Solicitar aos bombeiros o resultado da coleta de amostra do óleo, realizadas até o dia 24/09;
+● Manutenção de equipe do CDA em campo com apoio de agentes ambientais comunitários, realizando a limpeza no litoral de
+Sergipe (Rebio Santa Isabel), Rio Grande do Norte (Pirambúzios, Barra do Pirangi e Tabatinga) e Maranhão (Barro Vermelho e
+Barra da Baleia);
+● Definir servidores do Ibama e ICMBio para acompanhar a Petrobras na limpeza de praia;
+● Integração do ICMBio no Posto de Comando e definição de estratégias;
+● Integração entre a EOR do Ibama e da Petrobras;
+● Mapeamento, pela equipe de fauna (CE, MA e RN), de instituições parceiras no que diz respeito ao atendimento à fauna
+oleada;
+● Estabelecer procedimentos relacionados ao monitoramento de fauna;
+● Implantar fichas de informações básicas para resgate, atendimento e transporte de fauna;
+● Elaborar planilha com o quantitativo (e status) dos exemplares de fauna que foram resgatados;
+● Acompanhar representante da ITOPF;
+● Definir o local e procedimento administrativo para destinação de resíduos: MA, RN;
+● Avaliar a necessidade de apoio da Petrobras no Ceará, tendo em vista a atuação das prefeituras sob orientação do Ibama;
+● Fortalecer a utilização da ferramenta SCAT pelas equipes de monitoramento/levantamento;
+● Definir as áreas que ainda precisam ser vistoriadas para fechamento do diagnóstico;
+● Definir sobre a necessidade de ampliação da equipe de comando e campo;
+● Repasse de ações do formulário SCI 233 ações em aberto;
+● Proceder com a investigação do incidente, fornecendo as informações necessárias à Marinha do Brasil.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+Segurança de toda a equipe envolvida nas atividades.
+Mensagem geral de segurança:
+Não tomar decisões ou alterar o planejamento sem passar pelo Comando;
+Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o óleo. Levem no carro um frasco de
+detergente e um de óleo de soja para retirada da pele, se for o caso;
+Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo;
+Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo;
+Levar lanche nas vistorias e sobrevoos que podem ser longos;
+Avise o supervisor caso precise de folgas;
+Manter hidratação e proteção do sol.
+Principais Decisões/Direcionamentos
+Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente;
+Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando;
+Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Flávia: 61 99984-8893);
+Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada;
+Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos;
+Problemas ou acidentes envolvendo as viaturas e/ou aeronave;
+Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da Seção De
+Planejamento)
+Glecia Trinta e Fernanda Pirillo
+Date/Hour Data/Hora
+26/09/2019 – 19h50
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name Nome do Incidente
+Mancha de Origem Desconhecida – 
+Região Nordeste
+2. Operational Period 
+Período Operacional
+From De: 29/09/2019 8h To Até: 
+01/10/2019 8h
+ICS 202 - INCIDENT OBJECTIVES
+OBJETIVOS DO GERENCIAMENTO DO 
+INCIDENTE (IBAMA)
+3. Objective(s) Objetivo(s)
+● Manter o período operacional de 48h;
+● Envio da aeronave ao Ceará para apoio ao diagnóstico no estado;
+● Envio de especialista da ITOPF para apoio técnico à equipe/CE ou RN;
+● Desmobilização da equipe do Ibama de Alagoas;
+● Revisitar as localidades anteriormente vistoriadas;
+● Discutir a metodologia para elaboração do mapa de situação das áreas oleadas;
+● Vistoria no Rio Grande do Norte para avaliação de possível desmobilização da Petrobras;
+● Manutenção de equipe do CDA em campo com apoio de agentes ambientais comunitários, realizando a limpeza no litoral de
+Sergipe (Rebio Santa Isabel) e Rio Grande do Norte (Pirambúzios, Barra do Pirangi e Tabatinga);
+● Mapeamento, pela equipe de fauna (CE, MA e RN), de instituições parceiras no que diz respeito ao atendimento à fauna
+oleada;
+● Elaborar planilha com o quantitativo (e status) dos exemplares de fauna que foram resgatados;
+● Avaliar a necessidade de apoio da Petrobras no Ceará, tendo em vista a atuação das prefeituras sob orientação do Ibama;
+● Fortalecer a utilização da ferramenta SCAT pelas equipes de monitoramento/levantamento;
+● Repasse de ações do formulário SCI 233 ações em aberto;
+● Proceder com a investigação do incidente, fornecendo as informações necessárias à Marinha do Brasil.
+Operational Period Command Emphasis (Safety Message, Priorities, Key Decisions/Directions).
+Diretivas de comando (Mensagem de Segurança, Prioridades, Principais Decisões/Direcionamentos).
+Prioridades:
+ Segurança de toda a equipe envolvida nas atividades.
+
+Mensagem geral de segurança: 
+ Não tomar decisões ou alterar o planejamento sem passar pelo Comando;
+ Equipes de campo que forem percorrer as praias devem evitar ao máximo contato com o óleo. Levem no carro um frasco de
+detergente e um de óleo de soja para retirada da pele, se for o caso;
+ Sempre informar ao seu supervisor as localizações planejadas para o dia antes de sair para atividade no campo;
+ Sempre consultar previsão do tempo e tábuas de maré antes de ir ao campo;
+ Levar lanche nas vistorias e sobrevoos que podem ser longos;
+ Avise o supervisor caso precise de folgas;
+ Manter hidratação e proteção do sol.
+
+Principais Decisões/Direcionamentos
+ Todos os documentos necessários à solicitação de apoio às ações sairão pelo Comando do Incidente;
+ Qualquer necessidade de alteração em atividade prevista devem antes serem comunicadas ao Comando;
+ Ao ser abordado pela mídia, repassar imediatamente a ASCOM (Flávia: 61 99984-8893);
+ Ao ser abordado pela população, informar o que está ocorrendo e orientar quanto à destinação de fauna oleada;
+ Em caso de denúncia de fauna direcionar ao número (84) 99943-0058 (Projeto Cetáceos da Costa Branca).
+
+Informações críticas / Comunicar imediatamente ao Comando em caso de:
+ Ocorrência de qualquer dano à saúde (ex: náuseas, dor de cabeça, ferimentos etc) dos envolvidos;
+ Problemas ou acidentes envolvendo as viaturas e/ou aeronave;
+ Identificação de infração ambiental não relacionada à emergência (para obter orientação, considerando o papel do IBAMA na
+emergência).
+4. Prepared by (PSC) Preparado por (Comando do Incidente - Chefe da Seção De 
+Planejamento)
+Glecia Trinta e Fernanda Pirillo
+Date/Hour Data/Hora 
+29/09/2019 – 09h50
+“Modelo original da Guarda Costeira dos Estados Unidos (USCG) (Rev. 4/04).
+Traduzido e adaptado pela Witt O’Brien’s Brasil”
+Página 1 de 1 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+3. Type Of Incident
+ Tipo de Incidente 
+Oil Spill Vazamento de Óleo HAZMAT Substâncias Perigosas Aerial Disaster Acidente Aéreo
+Salvage Salvatagem Terrorism Terrorismo Dam Collapse Ruptura de Barragem
+Marine Disaster Acidente Marítimo Natural Disaster Desastre Natural
+ Situation Summary as of Time of Report 
+Resumo da Situação Atual
+Resumo da situação referente às ações do IBAMA no atendimento emergencial do aparecimento de manchas de óleo nas
+praias do litoral do Rio Grande do Norte.
+Atividades realizadas em 14/09/2019:
+RIO GRANDE DO NORTE 
+Três equipes estiveram em campo em vistoria nas praias no litoral sul e uma equipe iniciou o monitoramento aéreo a bordo do
+helicóptero do Ibama. Ressalta-se que os parrachos de Maracajaú e Rio do Fogo não foram atingidos.
+Município de Nísia Floresta
+A primeira equipe se deslocou para o município de Nísia Floresta/RN com o objetivo de acompanhar as ações de resposta do CDA
+da Petrobras e ainda verificar a situação das áreas visitadas no dia anterior, após a maré cheia. Foram vistoriadas as praias de
+Barra de Tabatinga, da foz do rio Pirangi do Sul/Piúm, e Pirambúzios.
+Na foz do rio Pirangi ainda foi verificada presença de óleo, porém em menor quantidade que no dia anterior. Importante ressaltar
+que quando da maré cheia no dia 13/09, foi verificada quantidade considerável de pelotas e filetes de óleo sendo carreados para a
+região estuarina o que pode ser uma explicação para a pouca visualização de pelotas na foz na data de 14/09, durante a maré
+baixa.
+Em Barra de Tabatinga, nas áreas dos beach rocks identificados ontem com grande quantidade de óleo, devido a maré cheia, esse
+produto foi carreado para a faixa de praia a qual encontra-se com um percentual aproximado de 20% de recobrimento por óleo em
+um trecho de 500 metros. Os beach rocks continuam bastante oleados, principalmente nas rochas mais próximas à faixa de praia.
+Quantidade pequena de plantas de mangue foram atingidas e algumas plantas foram totalmente recobertas por óleo.
+Na região de Pirambúzios/Pirangi do Sul, em um segmento de 500 metros, o óleo está mais concentrado no supralitoral (cerca de
+10% de cobertura de óleo), mas também há vestígios na faixa do médio litoral em alguns trechos (de 1 a 10%). Nos beach rocks
+também é possível verificar presença de óleo, mas em menor quantidade quando comparado à praia de Barra de Tabatinga. Mas
+continua sendo uma área prioritária para a limpeza. Constatou-se que o óleo está bastante aderido as rochas. Plantas de mangue
+atingidas, pouca quantidade de plantas.
+Figura 1: Pelotas de óleo na faixa de areia na praia de Tabatinga. Figura 2: Beach rocks impregnados com óleo na praia de Tabatinga.
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 1 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Figura 3: Planta de mangue impreganda com óleo na praia de
+Tabatinga.
+Figura 4: Foz do rio Pirangi/Pium – trecho com mancha de óleo
+Figura 5: Beach rocks impregnado com óleo em Pirangi do
+Sula/Pirambúzius
+Figura 6: Mancha de óleo próxima ao beach rocks impregnado com 
+óleo em Pirangi do Sula/Pirambúzius
+A Prefeitura de Nísia Floresta colocou em campo três trabalhadores para limpeza de praia em conjunto com o CDA. No entanto,
+tais trabalhadores desenvolveram atividade no local até as 10h30 e foram embora por causa do término do expediente. O IBAMA
+em campo conversou com funcionário da secretaria de meio ambiente de Nísia Floresta e informou que a Prefeitura deve
+encaminhar os resíduos para local protegido como dentro de bombonas e tambores até a destinação final do produto para empresa
+autorizada. O funcionário informou que a retirada de resíduos da praia pela prefeitura será realizada na segunda-feira quando esta
+terá o trator com reboque disponível.
+Município de Parnamirim
+Foi realizado mergulho nos Parrachos de Pirangi em conjunto com membros da Ong Oceânica e não se detectou a presença de
+óleo nos arrecifes. Na praia de Pirangi do Norte, na faixa de praia constatou-se pelotas esparsas e a existência de óleo nas rochas
+próximas da foz do rio Pirangi/Pium. 
+Figuras 7 e 8: Óleo encontrado em Pirangi do Norte.
+Município de Barra de Maxaranguape
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 2 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Foi encontrado óleo nos beach rocks próximo à foz da barra do rio Ceará-mirim e pelotas esparsas na faixa de praia próxima à foz.
+Percentual na areia é de aproximadamente 1%.
+Figura 9: Beach rocks próximo na praia de Barra de Maxaranguape
+próximo a foz do rio Ceará-mirim
+Figura 10: Pelotas na faixa de areia na praia de Barra de
+Maxaranguape
+Municípios de Sagi, Baía Formosa e Barra de Cunhaú
+A equipe recebeu informações de que a intensidade foi nos dias 06 e 07/09. Os turistas relataram que ficaram com os pés sujos.
+Mas, segundo informações também, a maré trouxe e levou o óleo. No entanto, a equipe ainda pode verificar presença de vestígios
+de óleo com pelotas esparsas com percentual de cobertura abaixo de 1%.
+Figuras 11 e 12: Pelotas esparsas localizadas em praia no município de Sagi.
+Não houve trabalho de campo nos municípios dos estados do Ceará, Alagoas, Pernambuco e Paraíba tendo em vista que não
+houve novos registros de manchas nesses locais.
+SOBREVOO
+O sobrevoo teve início às 11h23min a bordo do helicóptero IBAMA 02 e voaram até as 14h20min. Nesse período foi sobrevoado o
+litoral oriental sul, que compreende o trecho entre Natal até Barra de Camaratuba na PB. A ida foi na altitude variando de 200 a
+300 pés. No retorno, sobrevoando a altitude de 1.500 pés adentrando aproximadamente a 1 milha do costa, foi avistada uma feição
+em formato linear paralela a costa na altura das praias de Sagi e Baía Formosa, nas coordenadas 06° 21’ 27,8”S / 34° 57’ 54,4”W.
+Há possibilidade de serem alga ou óleo velho e intemperizado. Como durante o sobrevoo foi avistada uma embarcação da
+marinha, foi solicitado à Capitania dos Portos para verificar a possibilidade de envio ao local para averiguação. No entanto, no
+momento do contato a embarcação já estava distante cerca de 30 MN. Nas linhas de praia foram verificadas feições nas áreas já
+identificadas em vistorias via terrestre.
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 3 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+Figuras 13 e 14: Feições localizadas durante sobrevoo no período da manhã na altura das praias de Sagi e Baía Formosa.
+No período da tarde o sobrevoo teve início às 16h com destino ao litoral oriental norte, mantendo duas altitudes, sendo uma de 200
+a 300 pés subindo para setor norte em sentido da costa e no retorno na altitude de 1.500 pés adentrando mais ao mar. Não foram
+observadas manchas de óleo nas praias, porém tal análise foi prejudicada porque a maré já estava alta e no retorno sobrevoando o
+mar não foram identificadas feições suspeitas.
+Cabe ressaltar que o sobrevoo para detecção de manchas em linha de praia não se mostrou muito eficiente, tendo em vista que é
+possível verificar apenas quando há grande concentração, porém é importante para verificação de feições no mar.
+REUNIÃO COM PETROBRAS
+As 16h iniciou-se a conferência via telefone com a equipe da Petrobras composta pelos senhores Ângelo Sartori e Rodrigo
+Cochrane, e pelos representantes do Ibama Cristiane de Oliveira, Fernanda Pirillo e Marcelo Amorim. Foi feita breve explanação da
+situação atual e a Petrobras informou que está trabalhando na elaboração do plano de ação de acordo com as informações
+repassadas pela equipe do CDA e do Ibama e que este plano deverá estar pronto na data de 16/09. Na oportunidade foi solicitado
+que eles preencham o formulário SCI 211 com os recursos empregados e encaminhe diariamente ao Ibama. Foi informado que,
+por força de contrato, eles preenchem um RA que consiste em um documento completo de controle de emprego de recursos. O
+Ibama, durante vistorias em campo solicitará acesso a esse RA para conhecimento.
+REFORÇO DE EQUIPES
+Na data de hoje houve deslocamento da equipe composta por dois servidores do Ibama no estado de PE para auxílio nas ações
+desencadeadas no estado do Rio Grande do Norte. Na oportunidade, durante o deslocamento, a equipe vistoriou três municípios a
+pedido do Ibama.
+ Future Outlook/Goals/Needs/Issues Perspectivas / Objetivos / Demandas / Entraves Futuros
+Perspectivas:
+ Desmobilização das equipes dos estados menos afetados na próxima semana, caso não haja mais ocorrência de
+presença de óleo na região costeira e nem reporte de fauna oleada.
+Entraves Atuais e Futuros:
+ Dificuldade na localização da mancha de óleo no mar para previsão das áreas a serem atingidas.
+ Falta de informação da população acerca do ocorrido, colocando a fauna afetada em risco.
+ Número pequeno de pessoas realizando a limpeza das praias frente ao número de áreas que foram consideradas como
+prioritárias para a limpeza.
+ Número reduzido da equipe do IBAMA para realizar todos os trabalhos de campo e de escritório necessários.
+ Falta de atuação de outros órgãos, principalmente estaduais e municipais.
+Demandas:
+ Fluxo de gestão da equipe IBAMA se limita ao Comando do IBAMA, presente no Posto de Comando. A demanda por
+servidores será determinada pelo Posto de Comando do IBAMA, considerando as demandas em campo.
+Atividades planejadas para 15/09/2019:
+ OPERAÇÕES AÉREAS:
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 4 de 6 1. Incident Name 
+Nome do Incidente
+Mancha de Origem Desconhecida
+2. Operational Period (Date / Time) 
+Período Operacional (Data / Hora)
+From De To Até Time of Report Hora
+14/09/2019 8h a 15/09/2019 8h 14/09/2019-18h17
+INCIDENT STATUS SUMMARY
+RESUMO DA SITUAÇÃO DO INCIDENTE
+(IBAMA e ICMBio)
+ICS 209
+o Sobrevoo no litoral do Rio Grande do Norte – helicóptero do IBAMA.
+ PRAIA
+o Vistoria nas praias de Pirangi do Sul, Pirambúzios e Barra de Tabatinga – equipe do IBAMA/RN
+ AÇÕES DE GESTÃO
+o Continuar a organizar o Posto de Comando na SUPES/RN.
+o Realizar reunião com a Polícia Federal no período da manhã para verificar possibilidade de investigação da 
+origem da mancha.
+o Realizar diagnóstico das áreas afetadas no litoral do Rio Grande do Norte.
+o Elaborar plano de ação frente ao incidente, com base no diagnóstico do litoral potiguar em relação à ocorrência 
+de manchas de óleo.
+o Continuar o replanejamento das atividades de campo, considerando o resultado das vistorias realizadas.
+o Reunião diária com equipes do IBAMA dos demais estados. No final de semana será realizada apenas com as 
+equipes que tiveram atividades de campo.
+o Reunião diária com as equipes da Petrobras.
+o Atividades do comando.
+4. Equipment Resources 
+Recursos Mobilizados 
+Kind (aircraft, vessel, pollution 
+equip.)
+Tipo (aeronave, embarcação, 
+equipamentos de resposta etc.)
+Observations
+Observação
+#Ordered
+# Requistado
+#Avaiable
+# Disponível
+#Assigned
+# Alocado
+#Out of
+Service
+# Fora de
+Serviço
+Veículo Oficial (RN) Não Aplicável 02
+Veículo Oficial (PE) Não Aplicável 01
+Helicóptero – IBAMA 02 Não Aplicável 01
+Total 04
+5. Personnel Resources Recursos Humanos
+Agency Agência Total # of People Total # de Pessoas
+IBAMA 06
+PETROBRAS 12
+Total 18
+11. Prepared by Preparado por
+Cristiane de Oliveira e Fabíola Patrícia da Silva Rufino
+Date/Time Prepared Data/Hora da atualização
+ 14/09/2019 18h17min
+“Material original da Guarda Costeira dos Estados Unidos (Rev. 06/05).
+Traduzido e adaptado pela Witt O’Brien’s Brasil” Página 5 de 6 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 6/10/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM/OpenstreetMap.
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [133]
+Em Limpeza [11]
+Não Observado [48]
+Oleada - Manchas [6]
+Oleada - Vestígios/Esparsos [68] MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [61]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+2019-09-28 [1]
+2019-10-01 [2]
+2019-10-02 [1]
+2019-10-04 [2]
+[6]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+ATUALIZADO EM 6/10/2019 - 10h22
+TABELA QUANTITATIVA
+Estados Afetados - 9
+Municípios Afetados - 61
+Localidades Afetadas -132 Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+AL Piaçabuçu Piaçabuçu 2019-10-05 2019-10-05 Oleada - Manchas BA Conde Conde 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 57' 58.76" S 37° 37' 12.84" W
+BA Jandaíra Jandaíra 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 37' 02.64" S 37° 26' 59.14" W
+BA Conde Conde 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 44' 24.06" S 37° 31' 01.86" W
+SE Estância Estância 2019-10-05 2019-10-05 Oleada - Manchas 11° 21' 58.12" S 37° 18' 02.05" W
+BA Conde Conde 2019-10-04 CDA Em Limpeza 11° 51' 10.64" S 37° 33' 50.37" W
+BA Mangue Seco Jandaíra 2019-10-04 2019-10-04 Oleada - Vestígios/Esparsos 11° 27' 46.81" S 37° 21' 09.20" W
+BA Jandaíra Jandaíra 2019-10-04 2019-10-05 Oleada - Manchas 11° 31' 42.79" S 37° 24' 05.67" W
+SE Caueira Estância 2019-10-04 2019-10-05 Oleada - Manchas 11° 13' 17.71" S 37° 12' 26.78" W
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Oleada - Manchas 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+PB Praia do Amor Conde 2019-09-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Barra do rio Camaratuba Mataraca 2019-09-07 2019-10-04 Natural Não Observado 06° 35' 33.46" S 34° 57' 58.12" W
+PB Oiteiro Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+PB Praia de Camboinha Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Tambaba Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-08-30 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W
+PB Praia Formosa Cabedelo 2018-09-01 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-04 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W
+DISTRIBUIÇÃO DA CAMADA DE ÓLEO NA SUPERFÍCIE
+Fonte: Petróleo Brasileiro S.A. PETROBRAS, Centro de Pesquisas e Desenvolvimento Leopoldo
+A. Miguez de Mello (CENPES), Instituto Baía de Guanabara (IBG), Manual de Campo para
+Avaliação de Óleo em Linha de Costa. Texto traduzido e adaptado do original: Shoreline
+Assessment Manual, elaborado pela NOAA (National Oceanic and Atmospheric Administration), 2006
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+AL Piaçabuçu Piaçabuçu 2019-10-05 2019-10-05 Oleada - Manchas BA Conde Conde 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 57' 58.76" S 37° 37' 12.84" W
+BA Jandaíra Jandaíra 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 37' 02.64" S 37° 26' 59.14" W
+BA Conde Conde 2019-10-05 2019-10-05 Oleada - Vestígios/Esparsos 11° 44' 24.06" S 37° 31' 01.86" W
+SE Estância Estância 2019-10-05 2019-10-05 Oleada - Manchas 11° 21' 58.12" S 37° 18' 02.05" W
+BA Conde Conde 2019-10-04 CDA Em Limpeza 11° 51' 10.64" S 37° 33' 50.37" W
+BA Mangue Seco Jandaíra 2019-10-04 2019-10-04 Oleada - Vestígios/Esparsos 11° 27' 46.81" S 37° 21' 09.20" W
+BA Jandaíra Jandaíra 2019-10-04 2019-10-05 Oleada - Manchas 11° 31' 42.79" S 37° 24' 05.67" W
+SE Caueira Estância 2019-10-04 2019-10-05 Oleada - Manchas 11° 13' 17.71" S 37° 12' 26.78" W
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Oleada - Manchas 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+PB Praia do Amor Conde 2019-09-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Barra do rio Camaratuba Mataraca 2019-09-07 2019-10-04 Natural Não Observado 06° 35' 33.46" S 34° 57' 58.12" W
+PB Oiteiro Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+PB Praia de Camboinha Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Tambaba Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-08-30 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W
+PB Praia Formosa Cabedelo 2018-09-01 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-04 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W PS]tágrtora
+To Bart
+1. DO fo Cortar atuiss
+Casa do Marrarnpados
+Bo Tato “o Lagoa de Praia
+Compra
+Qerim
+Pro Forros
+Praia ce Comboirea
+PARAIBA Irierrmares
+Praias do Poço indo de ns Tarriras
+Cabo Braco
+Prada de Grsrame
+"e. Praia de jacumad
+Prata ca Amor)
+Proja Beis
+Earricadoa
+emite
+TT
+“o kmiBUCO
+São josé da Coros Grande
+PERNAMBUCO 25é da Coroa Crane
+Prasa DO japaratinga so de tamaraçaio
+Praia co Carro Quitrado
+Barra de Samo Armênia
+Po Panpera
+ALAGOAS 4º gica thace
+dom
+AA PequçararPonta Vera Eae va tu Soro Miipua RP.» Proa do Frarcês
+DM tuEncontrodo Mu
+Bgrra de Sds Migas
+Praia DO Gurgã
+Conspe
+SERGIPE
+óí: Poçoçu
+Tao25 50 km
+Pacatuba
+PARAIBA
+PERNAMBUCO. USoos
+SERGIPE
+Praia Belz
+Eat
+Portas das Pedras
+CLatusrmé
+ha de itamaraça
+daria Fannes
+ar
+Paubeis po DA
+da Cornqeição
+Pas Amarçto
+merste Prala de Det Chire
+as
+Poda
+mimo jo aid
+nã Cosdoas
+Proa do Para
+Uha Cócaia
+ca Pra de Naçãa Seniora do
+Prrtas ce Cos briruas
+Pra de Combos
+amros
+and ad. Tamandaré
+sx
+da Cerca cr and
+Jose da Corrs Grande
+Coruripe
+Piaçabuçu
+Piaçabuçu
+Pacatuba
+Praia de Ponta dos Mangues
+Pirambu
+Praia do Pirambu
+Praia de Jatobá
+"e Barra dos Coqueiros
+Atalaia Nova
+Atalaia
+Mosqueiro
+Caueira
+Estância
+Estância
+Abais
+AA fo Mangue Seco
+Jandaíra Jandaíra
+Jandaíra
+Conde
+Conde Conde
+Conde
+25 50 km Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 1/10/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM/OpenstreetMap.
+Informações Técnicas:
+-14°0′0″
+-14°0′0″
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-46°0′0″
+-46°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [115]
+Em Limpeza [13]
+Oleada [76]
+Sem Óleo [26]
+MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [55]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+2019-10-01 [1]
+[5]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Data_RevisResp_LimpStatus Latitude Longitude
+SE Praia do Pirambu Pirambu 2019-09-24 Oleada 10° 44' 10.87" S 36° 50' 46.04" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 Oleada 10° 34' 37.96" S 36° 35' 07.17" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Natural Em Limpeza 05° 53' 26.34" S 35° 09' 14.31" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Sem Óleo 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Sem Óleo 05° 47' 22.47" S 35° 11' 16.49" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Natural Em Limpeza 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 Oleada 06° 17' 12.55" S 35° 02' 05.95" W
+RN Redinha Natal 2019-09-20 Oleada 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 Oleada 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 Oleada 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Sem Óleo 05° 40' 45.06" S 35° 12' 52.44" W
+RN Maracajaú Maxaranguape 2019-09-10 Oleada 05° 24' 38.34" S 35° 18' 34.80" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Sem Óleo 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Sem Óleo 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Sem Óleo 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Sem Óleo 05° 09' 38.81" S 35° 29' 08.88" W
+RN Maracajaú Maxaranguape 2019-09-17 Oleada 05° 25' 36.72" S 35° 17' 33.51" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Sem Óleo 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Sem Óleo 05° 26' 39.80" S 35° 17' 28.42" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Sem Óleo 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Sem Óleo 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Sem Óleo 05° 15' 04.92" S 35° 23' 35.15" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 Oleada 06° 10' 46.86" S 35° 05' 28.83" W
+RN Sagi Baía Formosa 2019-09-07 Oleada 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada 06° 22' 15.39" S 35° 00' 22.18" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Sem Óleo 05° 19' 10.42" S 35° 21' 43.53" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Sem Óleo 05° 31' 23.40" S 35° 15' 05.46" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 Oleada 06° 18' 07.59" S 35° 01' 56.55" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Natural Em Limpeza 06° 15' 56.50" S 35° 02' 17.72" W
+RN Praia do Amor Tibau do Sul 2019-09-10 Oleada 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Sem Óleo 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 Oleada 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 Oleada 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Sem Óleo 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada 06° 00' 59.73" S 35° 06' 31.41" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Natural Em Limpeza 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Sem Óleo 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Natural Em Limpeza 05° 56' 08.93" S 35° 09' 17.33" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Natural Em Limpeza 05° 49' 43.35" S 35° 10' 58.25" W
+PI Luís Correia Luís Correia 2019-09-30 Oleada 02° 53' 58.59" S 41° 36' 29.75" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-28 Natural Sem Óleo 02° 54' 44.00" S 41° 31' 28.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 Oleada 08° 52' 15.08" S 35° 08' 02.59" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca Oleada 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista Oleada 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada 07° 48' 37.24" S 34° 50' 17.55" W
+PE Conceição Paulista 2019-09-10 Oleada 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 Oleada 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 Oleada 07° 51' 18.87" S 34° 50' 04.35" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada 08° 28' 31.01" S 34° 59' 41.93" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 Oleada 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada 08° 15' 36.16" S 34° 56' 41.27" W
+PE Pontas das Pedras Goiana 2019-09-07 Oleada 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 Oleada 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada 08° 45' 44.40" S 35° 06' 12.95" W
+PB Barra do rio Camaratuba Mataraca Oleada 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo Oleada 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo Oleada 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo Oleada 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo Oleada 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa Oleada 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa Oleada 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde Oleada 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde Oleada 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde Oleada 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu Oleada 07° 23' 55.92" S 34° 48' 16.74" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada 06° 46' 39.55" S 34° 55' 22.77" W
+PB Praia de Jacumã Conde 2019-09-03 Oleada 07° 15' 44.47" S 34° 48' 18.26" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefitura Sem Óleo 02° 28' 55.50" S 44° 14' 41.30" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Natural Em Limpeza 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 Oleada 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-28 Petrobrás Sem Óleo 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 Oleada 02° 25' 14.29" S 44° 25' 15.44" W
+MA Praia de Itatinga Alcântara 2019-09-22 Oleada 02° 24' 46.61" S 44° 23' 54.97" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Sem Óleo 02° 32' 35.45" S 42° 50' 02.56" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Sem Óleo 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Sem Óleo 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Sem Óleo 02° 34' 03.95" S 42° 44' 47.96" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Sem Óleo 02° 43' 22.81" S 41° 51' 26.88" W
+CE Lagoinha Paraipaba Oleada CE Sabiaguaba Fortaleza 2019-09-26 Oleada 03° 48' 00.30" S 38° 25' 02.49" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Sem Óleo 02° 47' 26.00" S 40° 31' 05.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada 04° 09' 16.00" S 38° 06' 32.00" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada 04° 15' 10.00" S 38° 00' 27.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada 03° 24' 13.63" S 39° 01' 05.82" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada 03° 54' 07.25" S 38° 20' 41.80" W
+AL Coruripe Coruripe 2019-09-27 Oleada 10° 08' 06.53" S 36° 06' 51.83" W
+AL Paripueira Paripueira 2019-09-22 Oleada 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 54' 11.14" S 35° 56' 19.58" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada 09° 47' 20.25" S 35° 51' 22.14" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada 09° 46' 11.18" S 35° 50' 20.89" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada 09° 20' 30.08" S 35° 26' 55.32" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada 09° 39' 51.55" S 35° 42' 26.61" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada 09° 05' 36.72" S 35° 15' 29.59" W
+ATUALIZADO EM 1/10/2019 - 20h30
+TABELA QUANTITATIVA
+Estados Afetados - 8
+Municípios Afetados - 55
+Localidades Afetadas -115 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 2/10/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM/OpenstreetMap.
+Informações Técnicas:
+-14°0′0″
+-14°0′0″
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-46°0′0″
+-46°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [118]
+Em Limpeza [6]
+Não Observado [43]
+Oleada - Vestígios/Esparsos [69] MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [58]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+2019-09-28 [1]
+2019-10-01 [2]
+2019-10-02 [1]
+[5]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Data_RevisResp_LimpStatus Latitude Longitude
+SE Aracajú Aracajú 2019-10-02 2019-10-02 Telsan Não Observado 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 Oleada - Vestígios/Esparsos 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 Oleada - Vestígios/Esparsos 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 Oleada - Vestígios/Esparsos 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 Oleada - Vestígios/Esparsos 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca Oleada - Vestígios/Esparsos 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-10-02 Natural Não Observado 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+ATUALIZADO EM 2/10/2019 - 18h35
+TABELA QUANTITATIVA
+Estados Afetados - 8
+Municípios Afetados - 58
+Localidades Afetadas -118 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 3/10/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM/OpenstreetMap.
+Informações Técnicas:
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [124]
+Em Limpeza [10]
+Não Observado [44]
+Oleada - Vestígios/Esparsos [69]
+Oleada - Vestígios/Manchas [1] MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [59]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+2019-09-28 [1]
+2019-10-01 [2]
+2019-10-02 [1]
+[6]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+ATUALIZADO EM 3/10/2019 - 11h35
+TABELA QUANTITATIVA
+Estados Afetados - 8
+Municípios Afetados - 59
+Localidades Afetadas -124 Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Não Observado 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-02 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca Oleada - Vestígios/Esparsos 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W
+DISTRIBUIÇÃO DA CAMADA DE ÓLEO NA SUPERFÍCIE
+Fonte: Petróleo Brasileiro S.A. PETROBRAS, Centro de Pesquisas e Desenvolvimento Leopoldo
+A. Miguez de Mello (CENPES), Instituto Baía de Guanabara (IBG), Manual de Campo para
+Avaliação de Óleo em Linha de Costa. Texto traduzido e adaptado do original: Shoreline
+Assessment Manual, elaborado pela NOAA (National Oceanic and Atmospheric Administration), 2006
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Não Observado 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada - Vestígios/Esparsos 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-02 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca Oleada - Vestígios/Esparsos 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W RIO GRANDE DO NORTE Dagl
+Canguaretama Baía Formosa
+Mataraca
+Barra do rio Camaratuba
+Barra do Mamanguape
+Rio Tinto“) Lagoa de Praia
+Campina
+Oiteiro
+Praia Formosa
+e.) Praia de Camboinha PARAIBA (9/2 Intermares Cabedelo 'g
+Praia do Poço
+Tambaú
+Cabo Branco
+Praia de Jacumã
+Praia de Gramame
+Conde Praia do Amor.
+Praia Bela
+Tambaba Pitimbu
+25
+Goiana Pontas das Pedras
+PERNAMBUCO
+São José da Coroa Grande
+José da Coroa Grande
+Japaratinga
+Praia de Japaratinga
+Passo de Camaragibe
+Barra PraiadedoSanto CarroAntônio Quebrado Paripueira
+ALAGOAS É: Maceió Ipioca
+Pajuçara/Ponta Verde
+Barra de São Miguel Praia do Francês
+RE Lot. Encontro do Mar
+oteirodo: Barra de São Miguel
+Praia do Gunga Coruripe
+Coruripe
+Em
+SERGIPE
+Piaçabuçu
+V=$%
+Piaçabuçu 25
+Pacatuba
+50 km
+PARAIBA
+Goiana Pontas das Pedras
+Catuama
+Ilha de Itamaracá
+Maria Farinha
+Paulista Janga
+Conceição
+Pau Amarelo
+Recife Praia de Dell Chifre
+Piedade
+PERNAMBUCO Candeias
+Jaboatão dos Guararapes
+Praia do Paiva
+Ilha Cocaia
+Ipojuca Praia de Nossa Senhora do
+Porto de Galinhas
+Praia de Gamboa
+Carneiros
+Tamandaré sTamandaré
+af
+mf Ras São José da Coroa Grande
+Do25 50 kmg São José da Coroa Grande
+Piaçabuçu
+Praia de Ponta dos Mangues
+Pirambu
+SERGIPE Praia do Pirambu
+Praia de Jatobá
+Porto
+Costa
+Atalaia Nova
+Atalaia
+Mosqueiro
+Estância
+Abais
+Too
+25 50 km Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 4/10/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM/OpenstreetMap.
+Informações Técnicas:
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [128]
+Em Limpeza [11]
+Não Observado [48]
+Oleada - Manchas [4]
+Oleada - Vestígios/Esparsos [65] MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [61]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+2019-09-28 [1]
+2019-10-01 [2]
+2019-10-02 [1]
+2019-10-04 [2]
+[6]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+ATUALIZADO EM 4/10/2019 - 18h28
+TABELA QUANTITATIVA
+Estados Afetados - 9
+Municípios Afetados - 61
+Localidades Afetadas -128 Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+BA Conde Conde 2019-10-04 CDA Em Limpeza 11° 51' 10.64" S 37° 33' 50.37" W
+BA Mangue Seco Jandaíra 2019-10-04 2019-10-04 Oleada - Vestígios/Esparsos 11° 27' 46.81" S 37° 21' 09.20" W
+BA Jandaíra Jandaíra 2019-10-04 Oleada - Manchas 11° 31' 42.79" S 37° 24' 05.67" W
+SE Caueira Estância 2019-10-04 Oleada - Manchas 11° 13' 17.71" S 37° 12' 26.78" W
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Oleada - Manchas 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+PB Praia do Amor Conde 2019-09-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Barra do rio Camaratuba Mataraca 2019-09-07 2019-10-04 Natural Não Observado 06° 35' 33.46" S 34° 57' 58.12" W
+PB Oiteiro Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+PB Praia de Camboinha Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Tambaba Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-08-30 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W
+PB Praia Formosa Cabedelo 2018-09-01 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-04 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W
+DISTRIBUIÇÃO DA CAMADA DE ÓLEO NA SUPERFÍCIE
+Fonte: Petróleo Brasileiro S.A. PETROBRAS, Centro de Pesquisas e Desenvolvimento Leopoldo
+A. Miguez de Mello (CENPES), Instituto Baía de Guanabara (IBG), Manual de Campo para
+Avaliação de Óleo em Linha de Costa. Texto traduzido e adaptado do original: Shoreline
+Assessment Manual, elaborado pela NOAA (National Oceanic and Atmospheric Administration), 2006
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO Estado Name Município Data_Avist Data_Revis Resp_Limp Status Latitude Longitude
+BA Conde Conde 2019-10-04 CDA Em Limpeza 11° 51' 10.64" S 37° 33' 50.37" W
+BA Mangue Seco Jandaíra 2019-10-04 2019-10-04 Oleada - Vestígios/Esparsos 11° 27' 46.81" S 37° 21' 09.20" W
+BA Jandaíra Jandaíra 2019-10-04 Oleada - Manchas 11° 31' 42.79" S 37° 24' 05.67" W
+SE Caueira Estância 2019-10-04 Oleada - Manchas 11° 13' 17.71" S 37° 12' 26.78" W
+SE Mosqueiro Aracajú 2019-10-02 2019-10-02 Telsan Oleada - Manchas 11° 04' 27.77" S 37° 06' 26.07" W
+AL Piaçabuçu Piaçabuçu 2019-10-01 Oleada - Vestígios/Esparsos 10° 26' 16.94" S 36° 21' 14.31" W
+CE Lagoinha Paraipaba 2019-10-01 Oleada - Vestígios/Esparsos 03° 20' 49.00" S 39° 06' 48.00" W
+PI Luís Correia Luís Correia 2019-09-30 2019-09-30 Oleada - Vestígios/Esparsos 02° 53' 58.59" S 41° 36' 29.75" W
+PB Praia do Amor Conde 2019-09-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 16' 27.18" S 34° 48' 04.75" W
+CE Pontal de Maceió Fortim 2019-09-28 Oleada - Vestígios/Esparsos 04° 25' 22.27" S 37° 46' 08.90" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-27 Natural Não Observado 02° 54' 44.00" S 41° 31' 28.00" W
+AL Coruripe Coruripe 2019-09-27 Oleada - Vestígios/Esparsos 10° 08' 06.53" S 36° 06' 51.83" W
+CE Sabiaguaba Fortaleza 2019-09-26 2019-10-02 Prefeitura Em Limpeza 03° 48' 00.30" S 38° 25' 02.49" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefeitura Não Observado 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Não Observado 02° 47' 26.00" S 40° 31' 05.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 2019-09-25 Natural Não Observado 08° 52' 15.08" S 35° 08' 02.59" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Oleada - Vestígios/Esparsos 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 2019-10-02 Oleada - Vestígios/Esparsos 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-25 Petrobrás Não Observado 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 2019-09-25 Oleada - Vestígios/Esparsos 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 2019-10-01 Telsan Em Limpeza 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 2019-09-24 Oleada - Vestígios/Esparsos 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-10-02 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 2019-10-01 Telsan Não Observado 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada - Vestígios/Esparsos 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada - Vestígios/Esparsos 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 2019-10-02 Oleada - Vestígios/Esparsos 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 Oleada - Vestígios/Esparsos 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada - Vestígios/Esparsos 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Não Observado 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada - Vestígios/Esparsos 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada - Vestígios/Esparsos 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Não Observado 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Não Observado 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Não Observado 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 2019-10-02 Oleada - Vestígios/Esparsos 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Não Observado 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada - Vestígios/Esparsos 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada - Vestígios/Esparsos 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada - Vestígios/Esparsos 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 2019-10-01 Natural Não Observado 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 2019-10-02 Oleada - Vestígios/Esparsos 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Não Observado 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada - Vestígios/Esparsos 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-22 Natural Não Observado 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 2019-09-22 Natural Não Observado 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 2019-10-01 Natural Não Observado 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 2019-09-26 Natural Não Observado 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 2019-10-01 Oleada - Vestígios/Esparsos 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 2019-10-02 Oleada - Vestígios/Esparsos 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Não Observado 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 2019-10-09 Natural Não Observado 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Não Observado 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 2019-09-26 Natural Não Observado 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Não Observado 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 2019-09-28 Oleada - Vestígios/Esparsos 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 2019-10-03 Oleada - Vestígios/Esparsos 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada - Vestígios/Esparsos 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 2019-10-01 Oleada - Vestígios/Esparsos 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 2019-10-01 Natural Não Observado 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 2019-09-24 Oleada - Vestígios/Esparsos 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 Oleada - Vestígios/Esparsos 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 2019-09-18 Natural Não Observado 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada - Vestígios/Esparsos 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 2019-10-02 Natural Não Observado 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 2019-09-28 Natural Não Observado 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 2019-10-02 Oleada - Vestígios/Esparsos 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 2019-10-01 Natural Não Observado 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 2019-10-01 CDA Em Limpeza 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 2019-09-30 CDA Em Limpeza 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada - Vestígios/Esparsos 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada - Vestígios/Esparsos 04° 09' 16.00" S 38° 06' 32.00" W
+PB Barra do rio Camaratuba Mataraca 2019-09-07 2019-10-04 Natural Não Observado 06° 35' 33.46" S 34° 57' 58.12" W
+PB Oiteiro Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 2019-10-04 Natural Não Observado 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada - Vestígios/Esparsos 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 2019-09-30 Natural Não Observado 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada - Vestígios/Esparsos 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 2019-10-03 Oleada - Vestígios/Esparsos 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 2019-10-01 Oleada - Vestígios/Esparsos 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada - Vestígios/Esparsos 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada - Vestígios/Esparsos 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada - Vestígios/Esparsos 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 2019-09-25 Natural Não Observado 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada - Vestígios/Esparsos 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada - Vestígios/Esparsos 08° 28' 31.01" S 34° 59' 41.93" W
+PB Praia de Camboinha Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 2019-09-01 2019-10-01 Natural Não Observado 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 2019-09-01 2019-10-01 Natural Não Observado 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 15' 16.88" S 34° 48' 18.83" W
+PB Tambaba Conde 2019-08-30 2019-10-02 Oleada - Vestígios/Esparsos 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 2019-08-30 2019-10-02 Natural Não Observado 07° 23' 55.92" S 34° 48' 16.74" W
+PB Praia Formosa Cabedelo 2018-09-01 2019-10-01 Natural Não Observado 06° 58' 21.10" S 34° 49' 44.19" W
+AL Ipioca Maceió 2019-10-03 Oleada - Vestígios/Esparsos 09° 32' 52.37" S 35° 37' 03.18" W
+SE Atalaia Aracajú 2019-10-02 Prefeitura Em Limpeza 10° 58' 50.09" S 37° 02' 10.76" W
+SE Abais Estância 2019-10-04 Telsan Em Limpeza 11° 20' 27.23" S 37° 17' 22.98" W
+SE Porto Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 50' 43.00" S 36° 56' 53.00" W
+SE Costa Barra dos Coqueiros 2019-10-02 Oleada - Vestígios/Esparsos 10° 55' 43.00" S 37° 00' 49.00" W
+SE Atalaia Nova Barra dos Coqueiros 2019-10-02 Oleada - Manchas 10° 57' 08.00" S 37° 01' 46.00" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada - Vestígios/Esparsos 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 2019-09-25 Natural Não Observado 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada - Vestígios/Esparsos 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada - Vestígios/Esparsos 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 2019-09-18 Natural Não Observado 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada - Vestígios/Esparsos 07° 48' 37.24" S 34° 50' 17.55" W mmMAISONAMNEZE CAMINO LE
+Ro
+ecos
+ve
+-—.
+rom
+da
+ig ts
+DO PARAIBA lemsss
+meua
+uia, indaio
+Mo cupim
+ssas
+HH
+meto tim care ol
+e”
+——25 50 km BUCO
+ps,15
+em
+Ea ap ES copio ve
+ceSON
+“PERNAMBUCO
+MAE ad olpa se
+Passo
+ease Praia
+deCamaraçato
+da
+[ra ipatinga Em BraDO
+ro rir
+20 AAGOAS CO
+Verde Cr
+tri
+sr
+de São
+Cesig
+sx
+DRE
+toe.
+Pet Frances
+Encontro
+To Pejuçatarbonta do Mur
+ERRO porra de555Migues
+Py
+Mápd EE POÇA 25 50 km
+———
+PARAIBA Bote
+agia ec?
+drtddnio dE SE
+ME To. pe
+PERNAMBUCO)!enmidos Gosrróçes
+so Ea MES
+sines
+qe sy
+«<a
+—- "2 e)
+ai Tl
+tes peer
+posa doGrande ns er
+do RN PaES AA
+SOkmç RETOBISCIT
+sro Corvo

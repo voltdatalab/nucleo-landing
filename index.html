@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
 title: 'Jornalismo + Dados + Transparência'
 desc: 'JORNALISMO <br /> DADOS <br /> TRANSPARÊNCIA'
-direct: 'redes'
+direct: '#publicacoes'
 subTitle: '<div id="revue-embed">
   <form action="https://www.getrevue.co/profile/nucleo/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
@@ -15,3 +15,27 @@ subTitle: '<div id="revue-embed">
   </form>
 </div>'
 ---
+
+{% for post in site.posts limit : 5 %}
+
+        <article class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            {% else %}
+            <h3 class="post-subtitle">{{ post.excerpt | truncatewords: 15 }}</h3>
+            {% endif %}
+          </a>
+          <p class="post-meta">
+          </p>
+        </article>
+
+        <hr>
+
+        {% endfor %}
+
+        <!-- Pager -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+        </div>

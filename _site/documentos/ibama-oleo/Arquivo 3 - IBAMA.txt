@@ -1,0 +1,2448 @@
+!P
+!P!P!P!P!P
+!P!P
+!P
+!P!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Barreta
+Pipa
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Tamandaré
+Catuama
+Ilha de Cocaia
+Praia do Paiva
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+4°0'0"S
+6°0'0"S
+8°0'0"S
+Legenda
+!P Localidades Oleadas
+Municípios com Ocorrência de Óleo
+Divisa Estadual
+Limite Municipal
+±
+0 7,5 15 30 NM
+30 15 0 30 km
+ALAGOAS
+PARAÍBA
+ATUALIZADO EM 17/09/2019!
+às 16h:30min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+Estado Município Name Data Avistamento Longitude Latitude
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Lagoa de Praia Rio Tinto 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Oiteiro Rio Tinto 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+PE Ipojuca Ilha de Cocaia 04/09/2019 34° 57' 25.09" W 8° 22' 49.25" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Paulista Maria Farinha 10/09/2019 34° 50' 4.35" W 7° 51' 18.87" S
+PE Paulista Janga 10/09/2019 34° 49' 14.70" W 7° 55' 41.43" S
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 18.28" W 5° 58' 45.60" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+RN Maracajaú Maxaranguape 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S !P
+!P!P!P!P!P
+!P!P
+!P
+!P!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Camurupim
+Praia do Giz
+Sibaúma/Das Minas
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Jacumã
+Tamandaré
+Catuama
+Ilha de Cocaia
+Praia do Paiva
+Carneiros
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+4°0'0"S
+6°0'0"S
+8°0'0"S
+Legenda
+!P Localidades Oleadas
+Municípios com Ocorrência de Óleo
+Divisa Estadual
+Limite Municipal
+±
+0 7,5 15 30 NM
+30 15 0 30 km
+ALAGOAS
+PARAÍBA
+ATUALIZADO EM 18/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+Estado Município Localidade Data Avistamento Longitude Latitude
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Cascavel 10/09/2019
+CE Beberibe 10/09/2019
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Lagoa de Praia Rio Tinto 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Oiteiro Rio Tinto 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+PE Ipojuca Ilha de Cocaia 04/09/2019 34° 57' 25.09" W 8° 22' 49.25" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Paulista Maria Farinha 10/09/2019 34° 50' 4.35" W 7° 51' 18.87" S
+PE Paulista Janga 10/09/2019 34° 49' 14.70" W 7° 55' 41.43" S
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 18.28" W 5° 58' 45.60" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+RN Maracajaú Maxaranguape 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Ponta Negra Natal 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S !P
+!P!P!P!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P!P
+!P!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Olinda
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Cabedelo
+Cabedelo
+João Pessoa
+Pitimbu
+Mataraca
+Ilha de
+Itamaracá
+Barra de
+São
+Miguel Marechal
+Deodoro
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Barreta
+Pipa
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Tamandaré
+Catuama
+Praia do Paiva
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+Praia Bela
+Tambaú
+Intermares Praia Formosa
+Barra do rio Camaratuba
+Ilha Cocaia
+Barra de São Miguel
+42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+4°0'0"S
+6°0'0"S
+8°0'0"S
+Legenda
+!P Localidades Oleadas
+Limite Municipal
+Divisa Estadual
+Sequência Cronológica
+Sem data
+02/09/2019
+03/09/2019
+04/09/2019
+07/09/2019
+10/09/2019
+11/09/2019
+15/09/2019
+16/09/2019
+18/09/2019
+19/09/2019
+±
+0 7,5 15 30 NM
+30 15 0 30 km
+ALAGOAS
+PARAÍBA
+ATUALIZADO EM 19/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+Estado Município Localidade Data Avistamento Longitude Latitude
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Lagoa de Praia Rio Tinto 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Oiteiro Rio Tinto 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Cascavel 10/09/2019
+CE Beberibe 10/09/2019
+PE Paulista Maria Farinha 10/09/2019 34° 50' 4.35" W 7° 51' 18.87" S
+PE Paulista Janga 10/09/2019 34° 49' 14.70" W 7° 55' 41.43" S
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+RN Maxaranguape Maracajaú 10/09/2019 35° 18' 34.80" W 5° 24' 38.34" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 18.28" W 5° 58' 45.60" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Ponta Negra Natal 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S
+RN Maxaranguape Cabo de São Roque 14/09/2019 35° 15' 35.61" W 5° 29' 5.60" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+RN Maracajaú Maxaranguape 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+AL Marechal Deodoro Praia do Francês 18/09/2019 35° 50' 20.89" W 9° 46' 11.18" S
+AL Barra de São Miguel Barra de São Miguel 19/09/2019 35° 52' 45.36" W 9° 49' 32.34" S
+PB Pitimbu Praia Bela 34° 48' 16.74" W 7° 23' 55.92" S
+PB Conde Tambaba 34° 47' 51.84" W 7° 21' 55.90" S
+PB Conde Praia do Amor 34° 48' 4.75" W 7° 16' 27.18" S
+PB Conde Praia de Gramame 34° 48' 18.83" W 7° 15' 16.88" S
+PB João Pessoa Tambaú 34° 49' 16.88" W 7° 6' 45.25" S
+PB João Pessoa Cabo Branco 34° 48' 33.84" W 7° 8' 43.34" S
+PB Cabedelo Intermares 34° 50' 25.97" W 7° 2' 33.23" S
+PB Cabedelo Praia do Poço 34° 49' 45.79" W 7° 1' 11.43" S
+PB Cabedelo Praia de Camboinha 34° 49' 31.63" W 7° 0' 10.57" S
+PB Cabedelo Praia Formosa 34° 49' 44.19" W 6° 58' 21.10" S
+PB Mataraca Barra do rio Camaratuba 34° 57' 58.12" W 6° 35' 33.46" S
+PE Ilha de Itamaracá Praia do Forte Orange 34° 50' 17.55" W 7° 48' 37.24" S
+PE Paulista Pau Amarelo 34° 49' 24.21" W 7° 56' 18.08" S
+PE Jaboatão dos Guararapes Piedade 34° 54' 59.60" W 8° 10' 51.69" S
+PE Cabo de Santo Agostinho Ilha Cocaia 34° 57' 29.99" W 8° 21' 34.57" S
+PE Ipojuca Porto de Galinhas 35° 0' 0.66" W 8° 30' 26.11" S
+PE Ipojuca Praia de Nossa Senhora do Ó 34° 58' 59.57" W 8° 26' 45.93" S
+S
+E
+Q
+U
+Ê
+N
+CIA
+C
+R
+O
+N
+O
+L
+Ó
+GIC
+A
+D
+O
+S
+AVIS
+TA
+M
+E
+N
+T
+O
+S
+D
+E
+Ó
+L
+E
+O (A
+C
+A
+D
+A
+T
+R
+Ê
+S
+DIA
+S) j !P
+!P!P!P!P!P!P
+!P!P
+!P
+!P!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P!P
+!P!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Olinda
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Cabedelo
+Cabedelo
+João Pessoa
+Pitimbu
+Mataraca
+Ilha de
+Itamaracá
+Barra de
+São Miguel
+Marechal
+Deodoro
+Barreirinhas
+Extremoz
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Barreta
+Pipa
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Tamandaré
+Catuama
+Praia do Paiva
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+Praia Bela
+Tambaú Intermares Praia Formosa
+Barra do rio Camaratuba
+Ilha Cocaia
+Barra de São Miguel
+Barra do Rio
+42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+4°0'0"S
+6°0'0"S
+8°0'0"S
+Legenda
+!P Localidades Oleadas
+Limite Municipal
+Divisa Estadual
+Data Avistamento
+Sem data
+02/09/2019
+03/09/2019
+04/09/2019
+07/09/2019
+10/09/2019
+11/09/2019
+15/09/2019
+16/09/2019
+18/09/2019
+19/09/2019
+20/09/2019
+±
+0 7,515 30 NM
+30 15 0 30 km
+ALAGOAS
+PARAÍBA
+ATUALIZADO EM 20/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+S
+E
+Q
+U
+Ê
+N
+CIA
+C
+R
+O
+N
+O
+L
+Ó
+GIC
+A
+D
+O
+S
+AVIS
+TA
+M
+E
+N
+T
+O
+S
+D
+E
+Ó
+L
+E
+O (A
+C
+A
+D
+A
+T
+R
+Ê
+S
+DIA
+S) j BAHIA
+Estado Município Localidade Data Avistamento Longitude Latitude
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Rio Tinto Lagoa de Praia 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Rio Tinto Oiteiro 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Beberibe 10/09/2019
+CE Cascavel 10/09/2019
+PE Paulista Janga 10/09/2019 34° 49' 14.70" W 7° 55' 41.43" S
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Maxaranguape Maracajaú 10/09/2019 35° 18' 34.80" W 5° 24' 38.34" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 18.28" W 5° 58' 45.60" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Natal Ponta Negra 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S
+RN Maxaranguape Cabo de São Roque 14/09/2019 35° 15' 35.61" W 5° 29' 5.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+RN Maxaranguape Maracajaú 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+AL Marechal Deodoro Praia do Francês 18/09/2019 35° 50' 20.89" W 9° 46' 11.18" S
+AL Barra de São Miguel Barra de São Miguel 19/09/2019 35° 52' 45.36" W 9° 49' 32.34" S
+RN Extremoz Barra do Rio 20/09/2019 35° 12' 52.44" W 5° 40' 45.06" S
+RN Extremoz Jenipabu 20/09/2019 35° 12' 21.35" W 5° 41' 32.37" S
+RN Extremoz Santa Rita 20/09/2019 35° 11' 36.86" W 5° 42' 7.57" S
+RN Natal Redinha 20/09/2019 35° 12' 8.56" W 5° 45' 4.36" S
+MA Barreirinhas 20/09/2019
+PB Pitimbu Praia Bela 00:00:00 34° 48' 16.74" W 7° 23' 55.92" S
+PB Conde Tambaba 00:00:00 34° 47' 51.84" W 7° 21' 55.90" S
+PB Conde Praia do Amor 00:00:00 34° 48' 4.75" W 7° 16' 27.18" S
+PB Conde Praia de Gramame 00:00:00 34° 48' 18.83" W 7° 15' 16.88" S
+PB João Pessoa Tambaú 00:00:00 34° 49' 16.88" W 7° 6' 45.25" S
+PB João Pessoa Cabo Branco 00:00:00 34° 48' 33.84" W 7° 8' 43.34" S
+PB Cabedelo Intermares 00:00:00 34° 50' 25.97" W 7° 2' 33.23" S
+PB Cabedelo Praia do Poço 00:00:00 34° 49' 45.79" W 7° 1' 11.43" S
+PB Cabedelo Praia de Camboinha 00:00:00 34° 49' 31.63" W 7° 0' 10.57" S
+PB Cabedelo Praia Formosa 00:00:00 34° 49' 44.19" W 6° 58' 21.10" S
+PB Mataraca Barra do rio Camaratuba 00:00:00 34° 57' 58.12" W 6° 35' 33.46" S
+PE Ilha de Itamaracá Praia do Forte Orange 00:00:00 34° 50' 17.55" W 7° 48' 37.24" S
+PE Paulista Pau Amarelo 00:00:00 34° 49' 24.21" W 7° 56' 18.08" S
+PE Jaboatão dos Guararapes Piedade 00:00:00 34° 54' 59.60" W 8° 10' 51.69" S
+PE Cabo de Santo Agostinho Ilha Cocaia 00:00:00 34° 57' 29.99" W 8° 21' 34.57" S
+PE Ipojuca Porto de Galinhas 00:00:00 35° 0' 0.66" W 8° 30' 26.11" S
+PE Ipojuca Praia de Nossa Senhora do Ó 00:00:00 34° 58' 59.57" W 8° 26' 45.93" S !P
+!P!P!P!P!P
+!P!P
+!P
+!P!P!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P!P
+!P!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Olinda
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Cabedelo
+Cabedelo
+João Pessoa
+Pitimbu
+Mataraca
+Ilha de
+Itamaracá
+Barra de
+São Miguel
+Marechal
+Deodoro
+Barreirinhas
+Extremoz
+Paulino Neves
+Ilha Grande
+Barra de Santo
+Antônio
+Roteiro
+Paripueira
+Alcântara Alcântara
+Alcântara
+Via Costeira
+Barreira do Inferno
+Barra de Tabatinga - Tartarugas
+Praia do Giz
+Barra do Cunhaú
+Muriú
+Zumbi/Rio do Fogo
+Sagi
+Tamandaré
+Catuama
+Praia do Paiva
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+Praia Bela
+Tambaú
+Praia do Poço
+Barra do rio Camaratuba
+Praia do Forte Orange
+Pau Amarelo
+Ilha Cocaia
+Barra de São Miguel
+Barra do Rio
+Atins
+Paripueira
+Alcântara
+44°0'0"W 42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+2°0'0"S
+4°0'0"S
+6°0'0"S
+8°0'0"S 10°0'0"S
+Legenda
+!P Localidades Oleadas
+Limite Municipal
+Divisa Estadual
+Data
+Sem data
+02/09/2019
+03/09/2019
+04/09/2019
+07/09/2019
+10/09/2019
+11/09/2019
+15/09/2019
+16/09/2019
+18/09/2019
+19/09/2019
+20/09/2019
+22/09/2019
+±
+0 7,515 30 NM
+30 15 0 30 km
+SERGIPE
+PARAÍBA
+ATUALIZADO EM 23/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+MARANHÃO OLEADAS NO NORDESTE BRASILEIRO
+S
+E
+Q
+U
+Ê
+N
+CIA
+C
+R
+O
+N
+O
+L
+Ó
+GIC
+A
+D
+O
+S
+AVIS
+TA
+M
+E
+N
+T
+O
+S
+D
+E
+Ó
+L
+E
+O (A
+C
+A
+D
+A
+T
+R
+Ê
+S
+DIA
+S) j BAHIA
+Estado Município Localidade Data Avistamento Longitude Latitude
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Rio Tinto Lagoa de Praia 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Rio Tinto Oiteiro 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Beberibe 10/09/2019
+CE Cascavel 10/09/2019
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Maxaranguape Maracajaú 10/09/2019 35° 18' 34.80" W 5° 24' 38.34" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 8.00" W 5° 59' 4.36" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Canguaretama Foz do rio Catu 12/09/2019 35° 2' 5.95" W 6° 17' 12.55" S
+RN Nísia Floresta Ponta da Ilha Verde 12/09/2019 35° 6' 24.66" W 6° 0' 25.43" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Natal Ponta Negra 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S
+RN Maxaranguape Cabo de São Roque 14/09/2019 35° 15' 35.61" W 5° 29' 5.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+RN Maxaranguape Maracajaú 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+RN Natal Praia de Areia Preta 17/09/2019 35° 11' 16.49" W 5° 47' 22.47" S
+RN Natal Praia do Forte 17/09/2019 35° 11' 44.00" W 5° 45' 45.93" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+AL Marechal Deodoro Praia do Francês 18/09/2019 35° 50' 20.89" W 9° 46' 11.18" S
+AL Barra de São Miguel Barra de São Miguel 19/09/2019 35° 52' 45.36" W 9° 49' 32.34" S
+RN Extremoz Barra do Rio 20/09/2019 35° 12' 52.44" W 5° 40' 45.06" S
+RN Extremoz Jenipabu 20/09/2019 35° 12' 21.35" W 5° 41' 32.37" S
+RN Extremoz Santa Rita 20/09/2019 35° 11' 36.86" W 5° 42' 7.57" S
+RN Natal Redinha 20/09/2019 35° 12' 8.56" W 5° 45' 4.36" S
+MA Barreirinhas Atins 20/09/2019 42° 44' 47.96" W 2° 34' 3.95" S
+MA Ilha Grande Ilha dos Poldos 20/09/2019 41° 48' 8.11" W 2° 44' 49.04" S
+MA Paulino Neves Praia do Barro Vermelho 21/09/2019 42° 36' 28.80" W 2° 39' 21.70" S
+AL Marechal Deodoro Lot. Encontro do Mar 21/09/2019 35° 51' 22.14" W 9° 47' 20.25" S
+AL Barra de Santo Antônio Barra de Santo Antônio 22/09/2019 35° 27' 52.00" W 9° 20' 53.00" S
+MA Barreirinhas Praia Canto do Atins 22/09/2019 42° 50' 2.56" W 2° 32' 35.45" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 56' 19.58" W 9° 54' 11.14" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 54' 20.79" W 9° 52' 5.25" S
+AL Paripueira Paripueira 22/09/2019 35° 32' 14.00" W 9° 27' 32.00" S
+MA Alcântara Alcântara 22/09/2019 44° 23' 24.83" W 2° 24' 31.54" S
+PB Pitimbu Praia Bela 00:00:00 34° 48' 16.74" W 7° 23' 55.92" S
+PB Conde Tambaba 00:00:00 34° 47' 51.84" W 7° 21' 55.90" S
+PB Conde Praia do Amor 00:00:00 34° 48' 4.75" W 7° 16' 27.18" S
+PB Conde Praia de Gramame 00:00:00 34° 48' 18.83" W 7° 15' 16.88" S
+PB João Pessoa Tambaú 00:00:00 34° 49' 16.88" W 7° 6' 45.25" S
+PB João Pessoa Cabo Branco 00:00:00 34° 48' 33.84" W 7° 8' 43.34" S
+PB Cabedelo Intermares 00:00:00 34° 50' 25.97" W 7° 2' 33.23" S
+PB Cabedelo Praia do Poço 00:00:00 34° 49' 45.79" W 7° 1' 11.43" S
+PB Cabedelo Praia de Camboinha 00:00:00 34° 49' 31.63" W 7° 0' 10.57" S
+PB Cabedelo Praia Formosa 00:00:00 34° 49' 44.19" W 6° 58' 21.10" S
+PB Mataraca Barra do rio Camaratuba 00:00:00 34° 57' 58.12" W 6° 35' 33.46" S
+PE Ilha de Itamaracá Praia do Forte Orange 00:00:00 34° 50' 17.55" W 7° 48' 37.24" S
+PE Paulista Pau Amarelo 00:00:00 34° 49' 24.21" W 7° 56' 18.08" S
+PE Jaboatão dos Guararapes Piedade 00:00:00 34° 54' 59.60" W 8° 10' 51.69" S
+PE Cabo de Santo Agostinho Ilha Cocaia 00:00:00 34° 57' 29.99" W 8° 21' 34.57" S
+PE Ipojuca Porto de Galinhas 00:00:00 35° 0' 0.66" W 8° 30' 26.11" S
+PE Ipojuca Praia de Nossa Senhora do Ó 00:00:00 34° 58' 59.57" W 8° 26' 45.93" S
+ALAGOAS !P
+!P!P!P!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de
+Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Olinda
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Cabedelo
+Cabedelo
+João Pessoa
+Pitimbu
+Mataraca
+Ilha de
+Itamaracá
+Barra de
+São
+Miguel
+Marechal
+Deodoro
+Barreirinhas
+Extremoz
+Paulino Neves
+Ilha Grande
+Barra
+de Santo
+Antônio
+Roteiro
+Paripueira
+Alcântara
+Alcântara
+Alcântara
+Paracuru
+São Gonçalo
+do Amarante
+Barra dos
+Coqueiros
+Pacatuba
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Barreta
+Pirambu
+Sibaúma/Das Minas
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Jacumã
+Tamandaré
+Catuama
+Praia do Paiva
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+Praia Bela
+Tambaú
+Intermares
+Praia Formosa
+Barra do rio Camaratuba
+Ilha Cocaia
+Barra de São Miguel
+Barra do Rio
+Redinha
+Atins
+Praia do Barro Vermelho
+Praia do Gunga
+Paripueira
+Praia de Itatinga
+Paracuru
+Praia de Taíba
+Praia de Ponta dos Mangues
+Barra dos Coqueiros
+Praia de Jatobá
+44°0'0"W 42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+2°0'0"S
+4°0'0"S
+6°0'0"S
+8°0'0"S 10°0'0"S
+Legenda
+!P Localidades Oleadas
+Limite Municipal
+Divisa Estadual
+Data Avistamento
+Sem Informação
+02/09/2019
+03/09/2019
+04/09/2019
+07/09/2019
+10/09/2019
+11/09/2019
+15/09/2019
+16/09/2019
+18/09/2019
+19/09/2019
+20/09/2019
+22/09/2019
+23/09/2019
+24/09/2019
+±
+0 10 20 40 NM
+3015 0 30 km
+SERGIPE
+PARAÍBA
+ATUALIZADO EM 24/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+BAHIA
+ALAGOAS
+Estado Município Localidade Data Avistamento Longitude Latitude
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Rio Tinto Lagoa de Praia 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Rio Tinto Oiteiro 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Nísia Floresta Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Beberibe 10/09/2019
+CE Cascavel 10/09/2019
+PE Paulista Maria Farinha 10/09/2019 34° 50' 4.35" W 7° 51' 18.87" S
+PE Paulista Janga 10/09/2019 34° 49' 14.70" W 7° 55' 41.43" S
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Maxaranguape Maracajaú 10/09/2019 35° 18' 34.80" W 5° 24' 38.34" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 8.00" W 5° 59' 4.36" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Canguaretama Foz do rio Catu 12/09/2019 35° 2' 5.95" W 6° 17' 12.55" S
+RN Nísia Floresta Ponta da Ilha Verde 12/09/2019 35° 6' 24.66" W 6° 0' 25.43" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Natal Ponta Negra 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S
+RN Maxaranguape Cabo de São Roque 14/09/2019 35° 15' 35.61" W 5° 29' 5.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+RN Maxaranguape Maracajaú 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+RN Natal Praia de Areia Preta 17/09/2019 35° 11' 16.49" W 5° 47' 22.47" S
+RN Natal Praia do Forte 17/09/2019 35° 11' 44.00" W 5° 45' 45.93" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+AL Marechal Deodoro Praia do Francês 18/09/2019 35° 50' 20.89" W 9° 46' 11.18" S
+AL Barra de São Miguel Barra de São Miguel 19/09/2019 35° 52' 45.36" W 9° 49' 32.34" S
+RN Extremoz Barra do Rio 20/09/2019 35° 12' 52.44" W 5° 40' 45.06" S
+RN Extremoz Jenipabu 20/09/2019 35° 12' 21.35" W 5° 41' 32.37" S
+RN Extremoz Santa Rita 20/09/2019 35° 11' 36.86" W 5° 42' 7.57" S
+RN Natal Redinha 20/09/2019 35° 12' 8.56" W 5° 45' 4.36" S
+MA Barreirinhas Atins 20/09/2019 42° 44' 47.96" W 2° 34' 3.95" S
+MA Ilha Grande Ilha dos Poldos 20/09/2019 41° 48' 8.11" W 2° 44' 49.04" S
+MA Paulino Neves Praia do Barro Vermelho 21/09/2019 42° 36' 28.80" W 2° 39' 21.70" S
+AL Marechal Deodoro Lot. Encontro do Mar 21/09/2019 35° 51' 22.14" W 9° 47' 20.25" S
+AL Barra de Santo Antônio Barra de Santo Antônio 22/09/2019 35° 27' 52.00" W 9° 20' 53.00" S
+MA Barreirinhas Praia Canto do Atins 22/09/2019 42° 50' 2.56" W 2° 32' 35.45" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 56' 19.58" W 9° 54' 11.14" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 54' 20.79" W 9° 52' 5.25" S
+AL Paripueira Paripueira 22/09/2019 35° 32' 14.00" W 9° 27' 32.00" S
+MA Alcântara Praia de Itatinga 22/09/2019 44° 23' 54.97" W 2° 24' 46.61" S
+CE Paracuru Paracuru 23/09/2019 39° 1' 5.82" W 3° 24' 13.63" S
+CE São Gonçalo do Amarante Praia de Taíba 23/09/2019 38° 52' 52.00" W 3° 30' 53.00" S
+CE São Gonçalo do Amarante Praia de Taíba 23/09/2019 38° 50' 44.00" W 3° 32' 35.00" S
+SE Pacatuba Praia de Ponta dos Mangues 24/09/2019 36° 35' 7.17" W 10° 34' 37.96" S
+SE Barra dos Coqueiros Barra dos Coqueiros 24/09/2019 37° 1' 15.08" W 10° 56' 22.07" S
+SE Barra dos Coqueiros Praia de Jatobá 24/09/2019 36° 54' 40.87" W 10° 48' 15.51" S
+PB Pitimbu Praia Bela 00:00:00 34° 48' 16.74" W 7° 23' 55.92" S
+PB Conde Tambaba 00:00:00 34° 47' 51.84" W 7° 21' 55.90" S
+PB Conde Praia do Amor 00:00:00 34° 48' 4.75" W 7° 16' 27.18" S
+PB Conde Praia de Gramame 00:00:00 34° 48' 18.83" W 7° 15' 16.88" S
+PB João Pessoa Tambaú 00:00:00 34° 49' 16.88" W 7° 6' 45.25" S
+PB João Pessoa Cabo Branco 00:00:00 34° 48' 33.84" W 7° 8' 43.34" S
+PB Cabedelo Intermares 00:00:00 34° 50' 25.97" W 7° 2' 33.23" S
+PB Cabedelo Praia do Poço 00:00:00 34° 49' 45.79" W 7° 1' 11.43" S
+PB Cabedelo Praia de Camboinha 00:00:00 34° 49' 31.63" W 7° 0' 10.57" S
+PB Cabedelo Praia Formosa 00:00:00 34° 49' 44.19" W 6° 58' 21.10" S
+PB Mataraca Barra do rio Camaratuba 00:00:00 34° 57' 58.12" W 6° 35' 33.46" S
+PE Ilha de Itamaracá Praia do Forte Orange 00:00:00 34° 50' 17.55" W 7° 48' 37.24" S
+PE Paulista Pau Amarelo 00:00:00 34° 49' 24.21" W 7° 56' 18.08" S
+PE Jaboatão dos Guararapes Piedade 00:00:00 34° 54' 59.60" W 8° 10' 51.69" S
+PE Cabo de Santo Agostinho Ilha Cocaia 00:00:00 34° 57' 29.99" W 8° 21' 34.57" S
+PE Ipojuca Porto de Galinhas 00:00:00 35° 0' 0.66" W 8° 30' 26.11" S
+PE Ipojuca Praia de Nossa Senhora do Ó 00:00:00 34° 58' 59.57" W 8° 26' 45.93" S !P
+!P!P!P!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+!P
+Ceará-Mirim
+Parnamirim
+Natal
+Nísia
+Floresta
+Rio do Fogo
+Tibau do Sul
+Conde
+Cabo de Santo
+Agostinho
+Goiana
+Ipojuca
+Ipojuca
+Jaboatão dos
+Guararapes
+Olinda
+Tamandaré
+Japaratinga
+Aquiraz
+Canguaretama
+Rio Tinto
+Recife
+Baía Formosa
+Touros
+Araioses
+Beberibe
+Cascavel
+Maxaranguape
+Paulista
+Maceió
+Passo de
+Camaragibe
+Cabedelo
+Cabedelo
+João Pessoa
+Pitimbu
+Mataraca
+Ilha de
+Itamaracá
+Barra de São
+Miguel
+Marechal
+Deodoro
+Barreirinhas
+Extremoz
+Paulino Neves
+Ilha Grande
+Barra
+de Santo
+Antônio
+Roteiro
+Paripueira
+Alcântara
+Alcântara
+Alcântara
+Paracuru
+São Gonçalo
+do Amarante
+Barra dos
+Coqueiros
+Pacatuba
+Pirambu
+Santo Amaro
+do Maranhão
+Via Costeira
+Barreira do Inferno
+Búzios (Rio Doce)
+Camurupim
+Praia do Giz
+Sibaúma/Das Minas
+Muriú
+Zumbi/Rio do Fogo
+Baía Formosa
+Sagi
+Perobas
+Jacumã
+Tamandaré
+Catuama
+Praia do Paiva
+Carneiros
+Boa Viagem
+Praia de Gamboa
+Praia de Dell Chifre
+Praia de Jacumã
+Praia de Japaratinga
+Praia da Prainha
+Ilha dos Poldos
+Barra do Mamanguape
+Caraúbas
+Maria Farinha
+Janga
+Pajuçara/Ponta Verde
+Praia do Calcanhar
+Praia do Carro Quebrado
+Praia Bela
+Tambaú
+Intermares
+Praia Formosa
+Barra do rio Camaratuba
+Ilha Cocaia
+Barra de São Miguel
+Barra do Rio
+Redinha
+Atins
+Praia do Barro Vermelho
+Praia do Gunga
+Paripueira
+Praia de Itatinga
+Paracuru
+Praia de Taíba
+Praia de Ponta dos Mangues
+Barra dos Coqueiros
+Praia de Jatobá
+Praia do Pirambu
+Santo Amaro do Maranhão
+Praia da Mamuna
+Travosa
+44°0'0"W 42°0'0"W 40°0'0"W 38°0'0"W 36°0'0"W 34°0'0"W
+2°0'0"S
+4°0'0"S
+6°0'0"S
+8°0'0"S 10°0'0"S
+Legenda
+!P Localidades Oleadas
+Limite Municipal
+Divisa Estadual
+Data Avistamento
+Sem Informação
+02/09/2019
+03/09/2019
+04/09/2019
+07/09/2019
+10/09/2019
+11/09/2019
+15/09/2019
+16/09/2019
+18/09/2019
+19/09/2019
+20/09/2019
+22/09/2019
+23/09/2019
+24/09/2019
+25/09/2019
+±
+0 10 20 40 NM
+3015 0 30 km
+SERGIPE
+PARAÍBA
+ATUALIZADO EM 25/09/2019!
+às 17h:00min.
+RIO GRANDE DO NORTE
+CEARÁ
+PIAUÍ
+PERNAMBUCO
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS
+ÁREAS COM LOCALIDADES
+OLEADAS NO NORDESTE BRASILEIRO
+MARANHÃO
+BAHIA
+ALAGOAS
+Estado Município Localidade Data Avistamento Longitude Latitude
+PE Ipojuca Praia de Gamboa 02/09/2019 34° 59' 41.93" W 8° 28' 31.01" S
+PE Olinda Praia de Dell Chifre 02/09/2019 34° 51' 30.98" W 8° 1' 36.74" S
+PE Tamandaré Carneiros 03/09/2019 35° 4' 46.89" W 8° 42' 11.84" S
+PE Recife Boa Viagem 03/09/2019 34° 54' 10.85" W 8° 8' 25.14" S
+PE Jaboatão dos Guararapes Candeias 03/09/2019 34° 55' 7.22" W 8° 11' 46.38" S
+PB Conde Praia de Jacumã 03/09/2019 34° 48' 18.26" W 7° 15' 44.47" S
+PE Cabo de Santo Agostinho Praia do Paiva 04/09/2019 34° 56' 41.27" W 8° 15' 36.16" S
+RN Natal Via Costeira 07/09/2019 35° 10' 58.25" W 5° 49' 43.35" S
+RN Baía Formosa Baía Formosa 07/09/2019 35° 0' 22.18" W 6° 22' 15.39" S
+RN Baía Formosa Sagi 07/09/2019 34° 58' 22.62" W 6° 27' 51.33" S
+PE Tamandaré Tamandaré 07/09/2019 35° 6' 12.95" W 8° 45' 44.40" S
+PE Goiana Catuama 07/09/2019 34° 49' 55.70" W 7° 40' 47.60" S
+PE Goiana Pontas das Pedras 07/09/2019 34° 48' 43.60" W 7° 37' 58.45" S
+AL Japaratinga Praia de Japaratinga 07/09/2019 35° 15' 29.59" W 9° 5' 36.72" S
+PB Rio Tinto Barra do Mamanguape 07/09/2019 34° 55' 22.77" W 6° 46' 39.55" S
+PB Rio Tinto Campina 07/09/2019 34° 54' 51.03" W 6° 48' 53.44" S
+PB Rio Tinto Lagoa de Praia 07/09/2019 34° 54' 56.68" W 6° 48' 19.94" S
+PB Rio Tinto Oiteiro 07/09/2019 34° 54' 39.12" W 6° 49' 54.48" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 59.05" W 5° 59' 11.66" S
+RN Nísia Floresta Pirambúzios 10/09/2019 35° 6' 47.14" W 5° 59' 27.88" S
+RN Nísia Floresta Barra de Tabatinga - Tartarugas 10/09/2019 35° 5' 48.44" W 6° 3' 25.49" S
+RN Nísia Floresta Camurupim 10/09/2019 35° 5' 59.54" W 6° 4' 39.49" S
+RN Barreta 10/09/2019 35° 5' 58.56" W 6° 7' 25.62" S
+RN Tibau do Sul Praia do Giz 10/09/2019 35° 5' 22.30" W 6° 10' 56.31" S
+RN Tibau do Sul Pirambu 10/09/2019 35° 5' 6.24" W 6° 11' 14.82" S
+RN Tibau do Sul Pipa 10/09/2019 35° 2' 51.34" W 6° 13' 40.49" S
+RN Tibau do Sul Praia do Amor 10/09/2019 35° 2' 31.76" W 6° 13' 50.14" S
+RN Canguaretama Barra do Cunhaú 10/09/2019 35° 1' 56.55" W 6° 18' 7.59" S
+RN Tibau do Sul Tibau do Sul 10/09/2019 35° 5' 28.83" W 6° 10' 46.86" S
+CE Aquiraz Praia da Prainha 10/09/2019 38° 20' 41.80" W 3° 54' 7.25" S
+CE Beberibe 10/09/2019
+CE Cascavel 10/09/2019
+PE Paulista Conceição 10/09/2019 34° 49' 43.74" W 7° 52' 43.84" S
+RN Maxaranguape Maracajaú 10/09/2019 35° 18' 34.80" W 5° 24' 38.34" S
+RN Parnamirim Barreira do Inferno 11/09/2019 35° 9' 17.33" W 5° 56' 8.93" S
+RN Parnamirim Cotolelo 11/09/2019 35° 8' 46.82" W 5° 57' 46.28" S
+RN Parnamirim Pirangi do Norte 11/09/2019 35° 7' 32.98" W 5° 58' 19.06" S
+RN Nísia Floresta Pirangi do Sul 11/09/2019 35° 7' 8.00" W 5° 59' 4.36" S
+RN Nísia Floresta Foz do Rio Pirangi/Pium 11/09/2019 35° 7' 16.98" W 5° 58' 57.46" S
+RN Nísia Floresta Búzios (Rio Doce) 11/09/2019 35° 6' 31.41" W 6° 0' 59.73" S
+RN Tibau do Sul Sibaúma/Das Minas 11/09/2019 35° 2' 17.72" W 6° 15' 56.50" S
+RN Rio do Fogo Zumbi/Rio do Fogo 11/09/2019 35° 21' 43.53" W 5° 19' 10.42" S
+RN Touros Perobas 11/09/2019 35° 23' 35.15" W 5° 15' 4.92" S
+RN Ceará-Mirim Jacumã 11/09/2019 35° 13' 38.60" W 5° 35' 10.10" S
+RN Rio do Fogo Rio Punaú 11/09/2019 35° 21' 24.60" W 5° 21' 0.60" S
+RN Ceará-Mirim Muriú 12/09/2019 35° 15' 5.46" W 5° 31' 23.40" S
+RN Canguaretama Foz do rio Catu 12/09/2019 35° 2' 5.95" W 6° 17' 12.55" S
+RN Nísia Floresta Ponta da Ilha Verde 12/09/2019 35° 6' 24.66" W 6° 0' 25.43" S
+RN Touros Praia do Calcanhar 14/09/2019 35° 29' 8.88" W 5° 9' 38.81" S
+RN Touros Praia de Touros 14/09/2019 35° 27' 49.19" W 5° 11' 22.36" S
+RN Natal Ponta Negra 14/09/2019 35° 10' 24.24" W 5° 52' 42.27" S
+RN Maxaranguape Cabo de São Roque 14/09/2019 35° 15' 35.61" W 5° 29' 5.60" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 17' 28.42" W 5° 26' 39.80" S
+RN Maxaranguape Caraúbas 15/09/2019 35° 16' 56.06" W 5° 27' 53.73" S
+AL Maceió Pajuçara/Ponta Verde 15/09/2019 35° 42' 26.61" W 9° 39' 51.55" S
+MA Araioses Ilha dos Poldos 16/09/2019 41° 51' 26.88" W 2° 43' 22.81" S
+RN Maxaranguape Maracajaú 17/09/2019 35° 17' 33.51" W 5° 25' 36.72" S
+RN Natal Praia de Areia Preta 17/09/2019 35° 11' 16.49" W 5° 47' 22.47" S
+RN Natal Praia do Forte 17/09/2019 35° 11' 44.00" W 5° 45' 45.93" S
+AL Passo de Camaragibe Praia do Carro Quebrado 18/09/2019 35° 26' 55.32" W 9° 20' 30.08" S
+AL Marechal Deodoro Praia do Francês 18/09/2019 35° 50' 20.89" W 9° 46' 11.18" S
+AL Barra de São Miguel Barra de São Miguel 19/09/2019 35° 52' 45.36" W 9° 49' 32.34" S
+RN Extremoz Barra do Rio 20/09/2019 35° 12' 52.44" W 5° 40' 45.06" S
+RN Extremoz Jenipabu 20/09/2019 35° 12' 21.35" W 5° 41' 32.37" S
+RN Extremoz Santa Rita 20/09/2019 35° 11' 36.86" W 5° 42' 7.57" S
+RN Natal Redinha 20/09/2019 35° 12' 8.56" W 5° 45' 4.36" S
+MA Barreirinhas Atins 20/09/2019 42° 44' 47.96" W 2° 34' 3.95" S
+MA Ilha Grande Ilha dos Poldos 20/09/2019 41° 48' 8.11" W 2° 44' 49.04" S
+MA Paulino Neves Praia do Barro Vermelho 21/09/2019 42° 36' 28.80" W 2° 39' 21.70" S
+AL Marechal Deodoro Lot. Encontro do Mar 21/09/2019 35° 51' 22.14" W 9° 47' 20.25" S
+AL Barra de Santo Antônio Barra de Santo Antônio 22/09/2019 35° 27' 52.00" W 9° 20' 53.00" S
+MA Barreirinhas Praia Canto do Atins 22/09/2019 42° 50' 2.56" W 2° 32' 35.45" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 56' 19.58" W 9° 54' 11.14" S
+AL Roteiro Praia do Gunga 22/09/2019 35° 54' 20.79" W 9° 52' 5.25" S
+AL Paripueira Paripueira 22/09/2019 35° 32' 14.00" W 9° 27' 32.00" S
+MA Alcântara Praia de Itatinga 22/09/2019 44° 23' 54.97" W 2° 24' 46.61" S
+CE Paracuru Paracuru 23/09/2019 39° 1' 5.82" W 3° 24' 13.63" S
+CE São Gonçalo do Amarante Praia de Taíba 23/09/2019 38° 52' 52.00" W 3° 30' 53.00" S
+CE São Gonçalo do Amarante Praia de Taíba 23/09/2019 38° 50' 44.00" W 3° 32' 35.00" S
+SE Pacatuba Praia de Ponta dos Mangues 24/09/2019 36° 35' 7.17" W 10° 34' 37.96" S
+SE Barra dos Coqueiros Barra dos Coqueiros 24/09/2019 37° 1' 15.08" W 10° 56' 22.07" S
+SE Barra dos Coqueiros Praia de Jatobá 24/09/2019 36° 54' 40.87" W 10° 48' 15.51" S
+RN Natal Praia de Alagamar 24/09/2019 35° 9' 14.31" W 5° 53' 26.34" S
+SE Pirambu Praia do Pirambu 24/09/2019 36° 50' 46.04" W 10° 44' 10.87" S
+MA Alcântara Ilha do Livramento 25/09/2019 44° 25' 15.44" W 2° 25' 14.29" S
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 25/09/2019 43° 20' 54.08" W 2° 20' 44.58" S
+MA Alcântara Praia da Mamuna 25/09/2019 44° 23' 13.60" W 2° 15' 37.90" S
+MA Santo Amaro do Maranhão Travosa 25/09/2019 43° 8' 5.71" W 2° 24' 26.78" S
+PB Pitimbu Praia Bela 00:00:00 34° 48' 16.74" W 7° 23' 55.92" S
+PB Conde Tambaba 00:00:00 34° 47' 51.84" W 7° 21' 55.90" S
+PB Conde Praia do Amor 00:00:00 34° 48' 4.75" W 7° 16' 27.18" S
+PB Conde Praia de Gramame 00:00:00 34° 48' 18.83" W 7° 15' 16.88" S
+PB João Pessoa Tambaú 00:00:00 34° 49' 16.88" W 7° 6' 45.25" S
+PB João Pessoa Cabo Branco 00:00:00 34° 48' 33.84" W 7° 8' 43.34" S
+PB Cabedelo Intermares 00:00:00 34° 50' 25.97" W 7° 2' 33.23" S
+PB Cabedelo Praia do Poço 00:00:00 34° 49' 45.79" W 7° 1' 11.43" S
+PB Cabedelo Praia de Camboinha 00:00:00 34° 49' 31.63" W 7° 0' 10.57" S
+PB Cabedelo Praia Formosa 00:00:00 34° 49' 44.19" W 6° 58' 21.10" S
+PB Mataraca Barra do rio Camaratuba 00:00:00 34° 57' 58.12" W 6° 35' 33.46" S
+PE Ilha de Itamaracá Praia do Forte Orange 00:00:00 34° 50' 17.55" W 7° 48' 37.24" S
+PE Paulista Pau Amarelo 00:00:00 34° 49' 24.21" W 7° 56' 18.08" S
+PE Jaboatão dos Guararapes Piedade 00:00:00 34° 54' 59.60" W 8° 10' 51.69" S
+PE Cabo de Santo Agostinho Ilha Cocaia 00:00:00 34° 57' 29.99" W 8° 21' 34.57" S
+PE Ipojuca Porto de Galinhas 00:00:00 35° 0' 0.66" W 8° 30' 26.11" S
+PE Ipojuca Praia de Nossa Senhora do Ó 00:00:00 34° 58' 59.57" W 8° 26' 45.93" S Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 26/9/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [104] MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [50]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [2]
+[5]
+LIMITES Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avistlatitude Longitude MA Av. Litorânea São Luís 2019-09-26 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 02° 47' 26.00" S 40° 31' 05.00" W
+RN Praia de Alagamar Natal 2019-09-24 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldos Ilha Grande 2019-09-20 02° 44' 49.04" S 41° 48' 08.11" W
+MA Atins Barreirinhas 2019-09-20 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldos Araioses 2019-09-16 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 08° 28' 31.01" S 34° 59' 41.93" W
+PE Praia de Nossa Senhora do Ó Ipojuca 1899-12-30 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 1899-12-30 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho 1899-12-30 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes 1899-12-30 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 1899-12-30 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá 1899-12-30 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca 1899-12-30 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 1899-12-30 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 1899-12-30 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 1899-12-30 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 1899-12-30 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 1899-12-30 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 1899-12-30 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 1899-12-30 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde 1899-12-30 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 1899-12-30 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 1899-12-30 07° 23' 55.92" S 34° 48' 16.74" W
+ATUALIZADO EM 26/9/2019 - 19:8:40
+TABELA QUATITATIVA
+Estados afetados - 7
+Municípios Afetados - 50
+Localidades Afetadas -104 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 27/9/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+AREAS_OLEADAS
+NUPAEM
+MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [50]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [2]
+[5]
+LIMITES Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Latitude Longitude MA Av. Litorânea São Luís 2019-09-26 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 02° 47' 26.00" S 40° 31' 05.00" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldos Ilha Grande 2019-09-20 02° 44' 49.04" S 41° 48' 08.11" W
+MA Atins Barreirinhas 2019-09-20 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldos Araioses 2019-09-16 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 08° 28' 31.01" S 34° 59' 41.93" W
+PE Praia de Nossa Senhora do Ó Ipojuca 1899-12-30 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 1899-12-30 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho 1899-12-30 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes 1899-12-30 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 1899-12-30 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá 1899-12-30 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca 1899-12-30 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 1899-12-30 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 1899-12-30 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 1899-12-30 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 1899-12-30 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 1899-12-30 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 1899-12-30 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 1899-12-30 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde 1899-12-30 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 1899-12-30 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 1899-12-30 07° 23' 55.92" S 34° 48' 16.74" W
+ATUALIZADO EM 27/9/2019 - 7h25
+TABELA QUATITATIVA
+Estados afetados - 8
+Municípios Afetados - 50
+Localidades Afetadas -109 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 29/9/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM
+Informações Técnicas:
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [113]
+Em Limpeza [1]
+Oleada [97]
+Sem Óleo [15]
+MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [54]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+[5]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Data_RevisResp_LimpStatus Latitude Longitude
+SE Praia do Pirambu Pirambu 2019-09-24 Oleada 10° 44' 10.87" S 36° 50' 46.04" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 Oleada 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 Oleada 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 Oleada 10° 34' 37.96" S 36° 35' 07.17" W
+RN Praia de Alagamar Natal 2019-09-24 Oleada 05° 53' 26.34" S 35° 09' 14.31" W
+RN Praia do Forte Natal 2019-09-17 Oleada 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 Oleada 05° 47' 22.47" S 35° 11' 16.49" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 Oleada 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 Oleada 06° 17' 12.55" S 35° 02' 05.95" W
+RN Redinha Natal 2019-09-20 Oleada 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 Oleada 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 Oleada 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Sem Óleo 05° 40' 45.06" S 35° 12' 52.44" W
+RN Maracajaú Maxaranguape 2019-09-10 Oleada 05° 24' 38.34" S 35° 18' 34.80" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 Oleada 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 Oleada 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Sem Óleo 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 Oleada 05° 09' 38.81" S 35° 29' 08.88" W
+RN Maracajaú Maxaranguape 2019-09-17 Oleada 05° 25' 36.72" S 35° 17' 33.51" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-26 Natural Sem Óleo 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-26 Natural Sem Óleo 05° 26' 39.80" S 35° 17' 28.42" W
+RN Rio Punaú Rio do Fogo 2019-09-11 Oleada 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Sem Óleo 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 Oleada 05° 15' 04.92" S 35° 23' 35.15" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 Oleada 06° 10' 46.86" S 35° 05' 28.83" W
+RN Sagi Baía Formosa 2019-09-07 Oleada 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada 06° 22' 15.39" S 35° 00' 22.18" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Sem Óleo 05° 19' 10.42" S 35° 21' 43.53" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Sem Óleo 05° 31' 23.40" S 35° 15' 05.46" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 Oleada 06° 18' 07.59" S 35° 01' 56.55" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 Oleada 06° 15' 56.50" S 35° 02' 17.72" W
+RN Praia do Amor Tibau do Sul 2019-09-10 Oleada 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 Oleada 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 Oleada 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 Oleada 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 Oleada 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 Oleada 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 Oleada 06° 03' 25.49" S 35° 05' 48.44" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada 06° 00' 59.73" S 35° 06' 31.41" W
+RN Pirambúzios Nísia Floresta 2019-09-10 Oleada 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 Oleada 05° 59' 11.66" S 35° 06' 59.05" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 Oleada 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 Oleada 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 Oleada 05° 56' 08.93" S 35° 09' 17.33" W
+RN Via Costeira Natal 2019-09-07 Oleada 05° 49' 43.35" S 35° 10' 58.25" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-28 Natural Sem Óleo 02° 54' 44.00" S 41° 31' 28.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 Oleada 08° 52' 15.08" S 35° 08' 02.59" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca Oleada 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista Oleada 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada 07° 48' 37.24" S 34° 50' 17.55" W
+PE Conceição Paulista 2019-09-10 Oleada 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 Oleada 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 Oleada 07° 51' 18.87" S 34° 50' 04.35" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada 08° 28' 31.01" S 34° 59' 41.93" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 Oleada 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada 08° 15' 36.16" S 34° 56' 41.27" W
+PE Pontas das Pedras Goiana 2019-09-07 Oleada 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 Oleada 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada 08° 45' 44.40" S 35° 06' 12.95" W
+PB Barra do rio Camaratuba Mataraca Oleada 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo Oleada 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo Oleada 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo Oleada 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo Oleada 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa Oleada 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa Oleada 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde Oleada 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde Oleada 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde Oleada 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu Oleada 07° 23' 55.92" S 34° 48' 16.74" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada 06° 46' 39.55" S 34° 55' 22.77" W
+PB Praia de Jacumã Conde 2019-09-03 Oleada 07° 15' 44.47" S 34° 48' 18.26" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefitura Sem Óleo 02° 28' 55.50" S 44° 14' 41.30" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Natural Em Limpeza 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 Oleada 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-28 Petrobrás Sem Óleo 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 Oleada 02° 25' 14.29" S 44° 25' 15.44" W
+MA Praia de Itatinga Alcântara 2019-09-22 Oleada 02° 24' 46.61" S 44° 23' 54.97" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Sem Óleo 02° 32' 35.45" S 42° 50' 02.56" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Sem Óleo 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Sem Óleo 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Sem Óleo 02° 34' 03.95" S 42° 44' 47.96" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Sem Óleo 02° 43' 22.81" S 41° 51' 26.88" W
+CE Sabiaguaba Fortaleza 2019-09-26 Oleada 03° 48' 00.30" S 38° 25' 02.49" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 Oleada 02° 47' 26.00" S 40° 31' 05.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada 04° 09' 16.00" S 38° 06' 32.00" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada 04° 15' 10.00" S 38° 00' 27.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada 03° 24' 13.63" S 39° 01' 05.82" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada 03° 54' 07.25" S 38° 20' 41.80" W
+AL Coruripe Coruripe 2019-09-27 Oleada 10° 08' 06.53" S 36° 06' 51.83" W
+AL Paripueira Paripueira 2019-09-22 Oleada 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 54' 11.14" S 35° 56' 19.58" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada 09° 47' 20.25" S 35° 51' 22.14" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada 09° 46' 11.18" S 35° 50' 20.89" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada 09° 20' 30.08" S 35° 26' 55.32" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada 09° 39' 51.55" S 35° 42' 26.61" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada 09° 05' 36.72" S 35° 15' 29.59" W
+ATUALIZADO EM 29/9/2019 - 12h40
+TABELA QUANTITATIVA
+Estados Afetados - 8
+Municípios Afetados - 54
+Localidades Afetadas -113

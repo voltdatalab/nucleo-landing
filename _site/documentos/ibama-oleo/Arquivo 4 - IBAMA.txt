@@ -1,0 +1,1338 @@
+Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 30/9/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM
+Informações Técnicas:
+-12°0′0″
+-12°0′0″
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+NUPAEM
+AREAS_OLEADAS [114]
+Em Limpeza [3]
+Oleada [95]
+Sem Óleo [16]
+MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [54]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [3]
+2019-09-27 [3]
+[5]
+LIMITES
+Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Data_RevisResp_LimpStatus Latitude Longitude
+SE Praia do Pirambu Pirambu 2019-09-24 Oleada 10° 44' 10.87" S 36° 50' 46.04" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 2019-09-29 Telsan Em Limpeza 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 Oleada 10° 34' 37.96" S 36° 35' 07.17" W
+RN Praia de Alagamar Natal 2019-09-24 Oleada 05° 53' 26.34" S 35° 09' 14.31" W
+RN Praia do Forte Natal 2019-09-17 Oleada 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 Oleada 05° 47' 22.47" S 35° 11' 16.49" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 Oleada 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 Oleada 06° 17' 12.55" S 35° 02' 05.95" W
+RN Redinha Natal 2019-09-20 Oleada 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 Oleada 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 Oleada 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 2019-09-27 Natural Sem Óleo 05° 40' 45.06" S 35° 12' 52.44" W
+RN Maracajaú Maxaranguape 2019-09-10 Oleada 05° 24' 38.34" S 35° 18' 34.80" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 Oleada 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 Oleada 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 2019-09-26 Natural Sem Óleo 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 Oleada 05° 09' 38.81" S 35° 29' 08.88" W
+RN Maracajaú Maxaranguape 2019-09-17 Oleada 05° 25' 36.72" S 35° 17' 33.51" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-26 Natural Sem Óleo 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 2019-09-26 Natural Sem Óleo 05° 26' 39.80" S 35° 17' 28.42" W
+RN Rio Punaú Rio do Fogo 2019-09-11 Oleada 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 2019-09-27 Natural Sem Óleo 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 Oleada 05° 15' 04.92" S 35° 23' 35.15" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 Oleada 06° 10' 46.86" S 35° 05' 28.83" W
+RN Sagi Baía Formosa 2019-09-07 Oleada 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 Oleada 06° 22' 15.39" S 35° 00' 22.18" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 2019-09-26 Natural Sem Óleo 05° 19' 10.42" S 35° 21' 43.53" W
+RN Muriú Ceará-Mirim 2019-09-12 2019-09-27 Natural Sem Óleo 05° 31' 23.40" S 35° 15' 05.46" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 Oleada 06° 18' 07.59" S 35° 01' 56.55" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 Oleada 06° 15' 56.50" S 35° 02' 17.72" W
+RN Praia do Amor Tibau do Sul 2019-09-10 Oleada 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 Oleada 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 Oleada 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 Oleada 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 Oleada 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 Oleada 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 Oleada 06° 03' 25.49" S 35° 05' 48.44" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 Oleada 06° 00' 59.73" S 35° 06' 31.41" W
+RN Pirambúzios Nísia Floresta 2019-09-10 Oleada 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 Oleada 05° 59' 11.66" S 35° 06' 59.05" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 Oleada 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 Oleada 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 Oleada 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 Oleada 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 Oleada 05° 56' 08.93" S 35° 09' 17.33" W
+RN Via Costeira Natal 2019-09-07 Oleada 05° 49' 43.35" S 35° 10' 58.25" W
+PI Luís Correia Luís Correia 2019-09-30 Oleada 02° 53' 58.59" S 41° 36' 29.75" W
+PI Praia do Arrombado Luís Correia 2019-09-27 2019-09-28 Natural Sem Óleo 02° 54' 44.00" S 41° 31' 28.00" W
+PE São José da Coroa Grande São José da Coroa Grande 2019-09-25 Oleada 08° 52' 15.08" S 35° 08' 02.59" W
+PE Praia de Nossa Senhora do Ó Ipojuca Oleada 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca Oleada 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho Oleada 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes Oleada 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista Oleada 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá Oleada 07° 48' 37.24" S 34° 50' 17.55" W
+PE Conceição Paulista 2019-09-10 Oleada 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 Oleada 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 Oleada 07° 51' 18.87" S 34° 50' 04.35" W
+PE Praia de Dell Chifre Olinda 2019-09-02 Oleada 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 Oleada 08° 28' 31.01" S 34° 59' 41.93" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 Oleada 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 Oleada 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 Oleada 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 Oleada 08° 15' 36.16" S 34° 56' 41.27" W
+PE Pontas das Pedras Goiana 2019-09-07 Oleada 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 Oleada 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 Oleada 08° 45' 44.40" S 35° 06' 12.95" W
+PB Barra do rio Camaratuba Mataraca Oleada 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo Oleada 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo Oleada 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo Oleada 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo Oleada 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa Oleada 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa Oleada 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde Oleada 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde Oleada 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde Oleada 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu Oleada 07° 23' 55.92" S 34° 48' 16.74" W
+PB Oiteiro Rio Tinto 2019-09-07 Oleada 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 Oleada 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 Oleada 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 Oleada 06° 46' 39.55" S 34° 55' 22.77" W
+PB Praia de Jacumã Conde 2019-09-03 Oleada 07° 15' 44.47" S 34° 48' 18.26" W
+MA Av. Litorânea São Luís 2019-09-26 2019-09-28 Prefitura Sem Óleo 02° 28' 55.50" S 44° 14' 41.30" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 2019-09-28 Natural Em Limpeza 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 Oleada 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 2019-09-28 Petrobrás Sem Óleo 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 Oleada 02° 25' 14.29" S 44° 25' 15.44" W
+MA Praia de Itatinga Alcântara 2019-09-22 Oleada 02° 24' 46.61" S 44° 23' 54.97" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 2019-09-28 Natural Sem Óleo 02° 32' 35.45" S 42° 50' 02.56" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 2019-09-28 Petrobrás Sem Óleo 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldros Ilha Grande 2019-09-20 2019-09-28 Natural Sem Óleo 02° 44' 49.04" S 41° 48' 08.11" W
+MA Praia Canto do Atins Barreirinhas 2019-09-20 2019-09-28 Natural Sem Óleo 02° 34' 03.95" S 42° 44' 47.96" W
+MA Ilha dos Poldros Araioses 2019-09-16 2019-09-28 Natural Sem Óleo 02° 43' 22.81" S 41° 51' 26.88" W
+CE Sabiaguaba Fortaleza 2019-09-26 Oleada 03° 48' 00.30" S 38° 25' 02.49" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 2019-09-29 Natural Sem Óleo 02° 47' 26.00" S 40° 31' 05.00" W
+CE Morro Branco Beberibe 2019-09-07 Oleada 04° 09' 16.00" S 38° 06' 32.00" W
+CE Barra de Sucatinga Beberibe 2019-09-08 Oleada 04° 15' 10.00" S 38° 00' 27.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 Oleada 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 Oleada 03° 24' 13.63" S 39° 01' 05.82" W
+CE Praia da Prainha Aquiraz 2019-09-10 Oleada 03° 54' 07.25" S 38° 20' 41.80" W
+AL Coruripe Coruripe 2019-09-27 Oleada 10° 08' 06.53" S 36° 06' 51.83" W
+AL Paripueira Paripueira 2019-09-22 Oleada 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 Oleada 09° 54' 11.14" S 35° 56' 19.58" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 Oleada 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 Oleada 09° 47' 20.25" S 35° 51' 22.14" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 Oleada 09° 46' 11.18" S 35° 50' 20.89" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 Oleada 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 Oleada 09° 20' 30.08" S 35° 26' 55.32" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 Oleada 09° 39' 51.55" S 35° 42' 26.61" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 Oleada 09° 05' 36.72" S 35° 15' 29.59" W
+ATUALIZADO EM 30/9/2019 - 17h50
+TABELA QUANTITATIVA
+Estados Afetados - 8
+Municípios Afetados - 54
+Localidades Afetadas -114 Sistema de Coordenadas Geográficas DATUM SIRGAS 2000
+VICTOR BIZERRA QUARESMA MAT. 1571874 Analista Ambiental Responsável Técnico Data: 27/9/2019
+MINISTÉRIO DO MEIO AMBIENTE - MMA
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA
+Fontes:
+IBAMA/NMI-CE/IBGE/SISCOM
+-10°0′0″
+-10°0′0″
+-8°0′0″
+-8°0′0″
+-6°0′0″
+-6°0′0″
+-4°0′0″
+-4°0′0″
+-2°0′0″
+-2°0′0″
+-44°0′0″
+-44°0′0″
+-42°0′0″
+-42°0′0″
+-40°0′0″
+-40°0′0″
+-38°0′0″
+-38°0′0″
+-36°0′0″
+-36°0′0″
+-34°0′0″
+-34°0′0″
+AREAS_OLEADAS
+NUPAEM
+MUNICIPIOS_COM_OCORRENCIAS_DE_OLEO [50]
+2019-09-02 [2]
+2019-09-03 [4]
+2019-09-04 [1]
+2019-09-07 [5]
+2019-09-10 [8]
+2019-09-11 [4]
+2019-09-15 [1]
+2019-09-16 [1]
+2019-09-18 [2]
+2019-09-19 [1]
+2019-09-20 [4]
+2019-09-22 [5]
+2019-09-23 [1]
+2019-09-24 [3]
+2019-09-25 [1]
+2019-09-26 [2]
+[5]
+LIMITES Brasil_UF
+Legenda
+ÁREAS COM LOCALIDADES OLEADAS NO NORDESTE BRASILEIRO
+EstadoName Município Data_Avist Latitude Longitude MA Av. Litorânea São Luís 2019-09-26 02° 28' 55.50" S 44° 14' 41.30" W
+CE Malhada Jijoca de Jericoacoara 2019-09-26 02° 47' 26.00" S 40° 31' 05.00" W
+MA Travosa Santo Amaro do Maranhão 2019-09-25 02° 24' 26.78" S 43° 08' 05.71" W
+MA Praia da Mamuna Alcântara 2019-09-25 02° 15' 37.90" S 44° 23' 13.60" W
+MA Santo Amaro do Maranhão Santo Amaro do Maranhão 2019-09-25 02° 20' 44.58" S 43° 20' 54.08" W
+MA Ilha do Livramento Alcântara 2019-09-25 02° 25' 14.29" S 44° 25' 15.44" W
+SE Praia do Pirambu Pirambu 2019-09-24 10° 44' 10.87" S 36° 50' 46.04" W
+RN Praia de Alagamar Natal 2019-09-24 05° 53' 26.34" S 35° 09' 14.31" W
+SE Praia de Jatobá Barra dos Coqueiros 2019-09-24 10° 48' 15.51" S 36° 54' 40.87" W
+SE Barra dos Coqueiros Barra dos Coqueiros 2019-09-24 10° 56' 22.07" S 37° 01' 15.08" W
+SE Praia de Ponta dos Mangues Pacatuba 2019-09-24 10° 34' 37.96" S 36° 35' 07.17" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 32' 35.00" S 38° 50' 44.00" W
+CE Praia de Taíba São Gonçalo do Amarante 2019-09-23 03° 30' 53.00" S 38° 52' 52.00" W
+CE Paracuru Paracuru 2019-09-23 03° 24' 13.63" S 39° 01' 05.82" W
+MA Praia de Itatinga Alcântara 2019-09-22 02° 24' 46.61" S 44° 23' 54.97" W
+AL Paripueira Paripueira 2019-09-22 09° 27' 32.00" S 35° 32' 14.00" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 52' 05.25" S 35° 54' 20.79" W
+AL Praia do Gunga Roteiro 2019-09-22 09° 54' 11.14" S 35° 56' 19.58" W
+MA Praia Canto do Atins Barreirinhas 2019-09-22 02° 32' 35.45" S 42° 50' 02.56" W
+AL Barra de Santo Antônio Barra de Santo Antônio 2019-09-22 09° 20' 53.00" S 35° 27' 52.00" W
+AL Lot. Encontro do Mar Marechal Deodoro 2019-09-21 09° 47' 20.25" S 35° 51' 22.14" W
+MA Praia do Barro Vermelho Paulino Neves 2019-09-21 02° 39' 21.70" S 42° 36' 28.80" W
+MA Ilha dos Poldos Ilha Grande 2019-09-20 02° 44' 49.04" S 41° 48' 08.11" W
+MA Atins Barreirinhas 2019-09-20 02° 34' 03.95" S 42° 44' 47.96" W
+RN Redinha Natal 2019-09-20 05° 45' 04.36" S 35° 12' 08.56" W
+RN Santa Rita Extremoz 2019-09-20 05° 42' 07.57" S 35° 11' 36.86" W
+RN Jenipabu Extremoz 2019-09-20 05° 41' 32.37" S 35° 12' 21.35" W
+RN Barra do Rio Extremoz 2019-09-20 05° 40' 45.06" S 35° 12' 52.44" W
+AL Barra de São Miguel Barra de São Miguel 2019-09-19 09° 49' 32.34" S 35° 52' 45.36" W
+AL Praia do Francês Marechal Deodoro 2019-09-18 09° 46' 11.18" S 35° 50' 20.89" W
+AL Praia do Carro Quebrado Passo de Camaragibe 2019-09-18 09° 20' 30.08" S 35° 26' 55.32" W
+RN Praia do Forte Natal 2019-09-17 05° 45' 45.93" S 35° 11' 44.00" W
+RN Praia de Areia Preta Natal 2019-09-17 05° 47' 22.47" S 35° 11' 16.49" W
+RN Maracajaú Maxaranguape 2019-09-17 05° 25' 36.72" S 35° 17' 33.51" W
+MA Ilha dos Poldos Araioses 2019-09-16 02° 43' 22.81" S 41° 51' 26.88" W
+AL Pajuçara/Ponta Verde Maceió 2019-09-15 09° 39' 51.55" S 35° 42' 26.61" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 27' 53.73" S 35° 16' 56.06" W
+RN Caraúbas Maxaranguape 2019-09-15 05° 26' 39.80" S 35° 17' 28.42" W
+RN Cabo de São Roque Maxaranguape 2019-09-14 05° 29' 05.60" S 35° 15' 35.61" W
+RN Ponta Negra Natal 2019-09-14 05° 52' 42.27" S 35° 10' 24.24" W
+RN Praia de Touros Touros 2019-09-14 05° 11' 22.36" S 35° 27' 49.19" W
+RN Praia do Calcanhar Touros 2019-09-14 05° 09' 38.81" S 35° 29' 08.88" W
+RN Ponta da Ilha Verde Nísia Floresta 2019-09-12 06° 00' 25.43" S 35° 06' 24.66" W
+RN Foz do rio Catu Canguaretama 2019-09-12 06° 17' 12.55" S 35° 02' 05.95" W
+RN Muriú Ceará-Mirim 2019-09-12 05° 31' 23.40" S 35° 15' 05.46" W
+RN Rio Punaú Rio do Fogo 2019-09-11 05° 21' 00.60" S 35° 21' 24.60" W
+RN Jacumã Ceará-Mirim 2019-09-11 05° 35' 10.10" S 35° 13' 38.60" W
+RN Perobas Touros 2019-09-11 05° 15' 04.92" S 35° 23' 35.15" W
+RN Zumbi/Rio do Fogo Rio do Fogo 2019-09-11 05° 19' 10.42" S 35° 21' 43.53" W
+RN Sibaúma/Das Minas Tibau do Sul 2019-09-11 06° 15' 56.50" S 35° 02' 17.72" W
+RN Búzios (Rio Doce) Nísia Floresta 2019-09-11 06° 00' 59.73" S 35° 06' 31.41" W
+RN Foz do Rio Pirangi/Pium Nísia Floresta 2019-09-11 05° 58' 57.46" S 35° 07' 16.98" W
+RN Pirangi do Sul Nísia Floresta 2019-09-11 05° 59' 04.36" S 35° 07' 08.00" W
+RN Pirangi do Norte Parnamirim 2019-09-11 05° 58' 19.06" S 35° 07' 32.98" W
+RN Cotolelo Parnamirim 2019-09-11 05° 57' 46.28" S 35° 08' 46.82" W
+RN Barreira do Inferno Parnamirim 2019-09-11 05° 56' 08.93" S 35° 09' 17.33" W
+RN Maracajaú Maxaranguape 2019-09-10 05° 24' 38.34" S 35° 18' 34.80" W
+PE Conceição Paulista 2019-09-10 07° 52' 43.84" S 34° 49' 43.74" W
+PE Janga Paulista 2019-09-10 07° 55' 41.43" S 34° 49' 14.70" W
+PE Maria Farinha Paulista 2019-09-10 07° 51' 18.87" S 34° 50' 04.35" W
+CE Praia da Prainha Aquiraz 2019-09-10 03° 54' 07.25" S 38° 20' 41.80" W
+RN Tibau do Sul Tibau do Sul 2019-09-10 06° 10' 46.86" S 35° 05' 28.83" W
+RN Barra do Cunhaú Canguaretama 2019-09-10 06° 18' 07.59" S 35° 01' 56.55" W
+RN Praia do Amor Tibau do Sul 2019-09-10 06° 13' 50.14" S 35° 02' 31.76" W
+RN Pipa Tibau do Sul 2019-09-10 06° 13' 40.49" S 35° 02' 51.34" W
+RN Pirambu Tibau do Sul 2019-09-10 06° 11' 14.82" S 35° 05' 06.24" W
+RN Praia do Giz Tibau do Sul 2019-09-10 06° 10' 56.31" S 35° 05' 22.30" W
+RN Barreta Nísia Floresta 2019-09-10 06° 07' 25.62" S 35° 05' 58.56" W
+RN Camurupim Nísia Floresta 2019-09-10 06° 04' 39.49" S 35° 05' 59.54" W
+RN Barra de Tabatinga - Tartarugas Nísia Floresta 2019-09-10 06° 03' 25.49" S 35° 05' 48.44" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 27.88" S 35° 06' 47.14" W
+RN Pirambúzios Nísia Floresta 2019-09-10 05° 59' 11.66" S 35° 06' 59.05" W
+CE Barra de Sucatinga Beberibe 2019-09-08 04° 15' 10.00" S 38° 00' 27.00" W
+CE Morro Branco Beberibe 2019-09-07 04° 09' 16.00" S 38° 06' 32.00" W
+PB Oiteiro Rio Tinto 2019-09-07 06° 49' 54.48" S 34° 54' 39.12" W
+PB Lagoa de Praia Rio Tinto 2019-09-07 06° 48' 19.94" S 34° 54' 56.68" W
+PB Campina Rio Tinto 2019-09-07 06° 48' 53.44" S 34° 54' 51.03" W
+PB Barra do Mamanguape Rio Tinto 2019-09-07 06° 46' 39.55" S 34° 55' 22.77" W
+AL Praia de Japaratinga Japaratinga 2019-09-07 09° 05' 36.72" S 35° 15' 29.59" W
+PE Pontas das Pedras Goiana 2019-09-07 07° 37' 58.45" S 34° 48' 43.60" W
+PE Catuama Goiana 2019-09-07 07° 40' 47.60" S 34° 49' 55.70" W
+PE Tamandaré Tamandaré 2019-09-07 08° 45' 44.40" S 35° 06' 12.95" W
+RN Sagi Baía Formosa 2019-09-07 06° 27' 51.33" S 34° 58' 22.62" W
+RN Baía Formosa Baía Formosa 2019-09-07 06° 22' 15.39" S 35° 00' 22.18" W
+RN Via Costeira Natal 2019-09-07 05° 49' 43.35" S 35° 10' 58.25" W
+PE Praia do Paiva Cabo de Santo Agostinho 2019-09-04 08° 15' 36.16" S 34° 56' 41.27" W
+PB Praia de Jacumã Conde 2019-09-03 07° 15' 44.47" S 34° 48' 18.26" W
+PE Candeias Jaboatão dos Guararapes 2019-09-03 08° 11' 46.38" S 34° 55' 07.22" W
+PE Boa Viagem Recife 2019-09-03 08° 08' 25.14" S 34° 54' 10.85" W
+PE Carneiros Tamandaré 2019-09-03 08° 42' 11.84" S 35° 04' 46.89" W
+PE Praia de Dell Chifre Olinda 2019-09-02 08° 01' 36.74" S 34° 51' 30.98" W
+PE Praia de Gamboa Ipojuca 2019-09-02 08° 28' 31.01" S 34° 59' 41.93" W
+PE Praia de Nossa Senhora do Ó Ipojuca 1899-12-30 08° 26' 45.93" S 34° 58' 59.57" W
+PE Porto de Galinhas Ipojuca 1899-12-30 08° 30' 26.11" S 35° 00' 00.66" W
+PE Ilha Cocaia Cabo de Santo Agostinho 1899-12-30 08° 21' 34.57" S 34° 57' 29.99" W
+PE Piedade Jaboatão dos Guararapes 1899-12-30 08° 10' 51.69" S 34° 54' 59.60" W
+PE Pau Amarelo Paulista 1899-12-30 07° 56' 18.08" S 34° 49' 24.21" W
+PE Praia do Forte Orange Ilha de Itamaracá 1899-12-30 07° 48' 37.24" S 34° 50' 17.55" W
+PB Barra do rio Camaratuba Mataraca 1899-12-30 06° 35' 33.46" S 34° 57' 58.12" W
+PB Praia Formosa Cabedelo 1899-12-30 06° 58' 21.10" S 34° 49' 44.19" W
+PB Praia de Camboinha Cabedelo 1899-12-30 07° 00' 10.57" S 34° 49' 31.63" W
+PB Praia do Poço Cabedelo 1899-12-30 07° 01' 11.43" S 34° 49' 45.79" W
+PB Intermares Cabedelo 1899-12-30 07° 02' 33.23" S 34° 50' 25.97" W
+PB Cabo Branco João Pessoa 1899-12-30 07° 08' 43.34" S 34° 48' 33.84" W
+PB Tambaú João Pessoa 1899-12-30 07° 06' 45.25" S 34° 49' 16.88" W
+PB Praia de Gramame Conde 1899-12-30 07° 15' 16.88" S 34° 48' 18.83" W
+PB Praia do Amor Conde 1899-12-30 07° 16' 27.18" S 34° 48' 04.75" W
+PB Tambaba Conde 1899-12-30 07° 21' 55.90" S 34° 47' 51.84" W
+PB Praia Bela Pitimbu 1899-12-30 07° 23' 55.92" S 34° 48' 16.74" W
+ATUALIZADO EM 27/9/2019 - 7h25
+TABELA QUATITATIVA
+Estados afetados - 8
+Municípios Afetados - 50
+Localidades Afetadas -109 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 733/2019/DIPRO
+Brasília, 11 de setembro de 2019.
+A Senhora
+DANIELE LOMBA ZANETTI PUELKER
+Gerente de Licenciamento e Avaliação de SMS
+Segurança, Proteção ao Meio Ambiente e Saúde Ocupacional (SMS)
+Avenida República do Chile, nº 65 - Centro
+Rio de Janeiro/RJ - CEP.: 20031-912
+E-mail: danielelombar@petrobras.com.br
+Assunto: Solicita apoio para limpeza e proteção de áreas litorâneas no estado do RN.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhora Gerente,
+1. Considerando a experiência da Petrobras na resposta a derramamentos de óleo, solicito
+apoio dessa empresa para proteção de áreas sensíveis, e, se tecnicamente possível, recolhimento de
+óleo no mar na região das praias dos municípios de Tibau do Sul e Nísia Floresta no estado do Rio
+Grande do Norte, devido ao aparecimento de borras de óleo com origem ainda desconhecida.
+2. Considerando o Programa de Monitoramento de Praias, solicito ainda concentrar as
+equipes especializadas na região, visando resgate de fauna oleada eventualmente encontrada.
+3. O pleito se dá em função da necessidade de uso de recursos adequados para
+minimização dos impactos ambientais e socioeconômicos.
+4. Agradeço pela colaboração e indico a Coordenadora do Núcleo de Prevenção e
+Atendimento a Emergências Ambientais do Ibama no Rio Grande do Norte, Analista Senhora Fabíola
+Patrícia da Silva Rufino, para ser a interlocutora com essa empresa, a qual pode ser contatada pelo
+número (84) 99929-7457 e/ou e-mail fabiola.rufino@ibama.gov.br
+Atenciosamente,
+ADDSON SANTOS COELHO SERRA
+Diretor Substituto de Proteção Ambiental
+Documento assinado eletronicamente por ADDSON SANTOS COELHO SERRA, Diretor
+Substituto, em 11/09/2019, às 09:25, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 733 (5924814) SEI 02021.001629/2019-72 / pg. 1 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5924814 e o código
+CRC DA976065.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5924814
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 733 (5924814) SEI 02021.001629/2019-72 / pg. 2 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 742/2019/DIPRO
+Brasília, 12 de setembro de 2019.
+Ao Senhor
+Brigadeiro do Ar MARCELO FORNASIARI RIVERO
+Comandante da ALA 10
+Área Militar do Aeroporto Internacional em Parnamirim/RN
+Estrada da BANT, s/n.º - Bairro Emaús
+CEP: 59148-900 - Parnamirim/RN
+Assunto: Solicita apoio aéreo.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhor Comandante da ALA 10,
+Como é do conhecimento de Vossa Senhoria, o litoral do estado Rio Grande do Norte,
+bem como de alguns estados vizinhos, foi a>ngido por óleo de origem desconhecida. Este Ins>tuto, em
+parceria com a Petrobras e outros órgãos, estabeleceu um Comando Unificado de Operação, nas
+dependências da Superintendência do Ibama no estado do Rio Grande do Norte (Supes/RN), para
+elaborar e executar uma plano de con>ngência visando iden>ficar a fonte poluidora e mi>gar os danos
+ambientais.
+Diante do exposto, solicito o apoio desse ALA 10 nas disponibilização de helicóptero para
+realizar o monitoramento aéreo na zona costeira, com obje>vo de mensurar as áreas afetadas e
+iden>ficar/priorizar a imediata limpeza de praia e, se tecnicamente possível, o recolhimento de óleo no
+mar.
+O pleito se dá em função da necessidade o>mizar de uso de recursos disponibilizados
+(recursos humanos e materiais) visando minimização dos impactos ambientais e socioeconômicos.
+Agradeço pela colaboração e indico a Coordenadora Cris>ane de Oliveira para ser a
+interlocutora com a ALA 10, a qual pode ser contatada pelo número (61) 98147-7469 e/ou e-mail
+cristiane.oliveira@ibama.gov.br
+Atenciosamente,
+OLIVALDI AZEVEDO
+Diretor de Proteção Ambiental
+Ofício 742 (5943267) SEI 02021.001629/2019-72 / pg. 3 Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+13/09/2019, às 09:11, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5943267 e o código
+CRC 9D1B9437.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5943267
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 742 (5943267) SEI 02021.001629/2019-72 / pg. 4 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 687/2019/CGEMA/DIPRO
+Brasília, 13 de setembro de 2019.
+Ao Senhor
+FLÁVIO JOSÉ DE LIMA SILVA
+Coordenador Geral do Projeto Cetáceos da Costa Branca
+Universidade do Estado do Rio Grande do Norte - UERN
+via e-mail: flaviogolfinho@yahoo.com.br; gavilansimonealmeida@gmail.com
+Assunto: Solicita apoio.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sr. Coordenador Geral,
+1. Venho solicitar apoio desta renomada Universidade para execução de monitoramento e
+manejo de fauna oleada no litoral setentrional do Rio Grande do Norte.
+2. O pedido se jus>fica em função do derramamento de óleo de origem ainda
+desconhecida, que afetou inúmeras praias do estado gerando impactos à fauna.
+3. Esclareço que o manejo de animais oleados fica autorizado pelo Ibama na área
+supramencionada, enquanto perdurar o acidente ambiental.
+4. Para informações adicionais, indico a coordenadora Cris>ane de Oliveira, por meio do
+telefone 61-98147-7469.
+Respeitosamente,
+(assinado eletronicamente)
+FERNANDA CUNHA PIRILLO INOJOSA
+Coordenadora Geral de Emergências Ambientais
+Documento assinado eletronicamente por FERNANDA CUNHA PIRILLO INOJOSA,
+Coordenadora-Geral, em 13/09/2019, às 10:15, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5947184 e o código
+CRC 568C83E7.
+Ofício 687 (5947184) SEI 02021.001629/2019-72 / pg. 5 Referência: Processo nº 02021.001629/2019-72 SEI nº 5947184
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 687 (5947184) SEI 02021.001629/2019-72 / pg. 6 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 700/2019/CGEMA/DIPRO
+Brasília, 13 de setembro de 2019.
+À Senhora
+DANIELE LOMBA ZANETTI PUELKER
+Gerente de Licenciamento e Avaliação de SMS
+Segurança, Proteção ao Meio Ambiente e Saúde Ocupacional (SMS)
+Avenida República do Chile, nº 65 - Centro
+Rio de Janeiro/RJ - CEP.: 20031-912
+E-mail: danielelomba@petrobras.com.br
+Assunto: Resposta à Carta 172/2019.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sra. Gerente,
+1. Em atenção à Carta 172/2019 e considerando que é fundamental a proteção do meio
+ambiente, informo que o Ibama aceita as condições estabelecidas pela Petrobras e se posiciona
+favoravelmente à continuidade dos serviços de resposta.
+2. Ressalto que é necessário ampliar a equipe de resposta do Centro de Defesa Ambiental
+- CDA, em especial no município de Nísia Floresta/RN, tendo em vista as constatações de campo no
+dia de hoje.
+3. Adicionalmente, solicito elaboração de Plano de Resposta ao evento para aprovação no
+Comando Unificado até 16/09/2019.
+Atenciosamente,
+(assinado eletronicamente)
+OLIVALDI AZEVEDO
+Diretor de Proteção Ambiental
+Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+13/09/2019, às 18:29, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5956654 e o código
+Ofício 700 (5956654) SEI 02021.001629/2019-72 / pg. 7 CRC A7585D2E.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5956654
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 700 (5956654) SEI 02021.001629/2019-72 / pg. 8 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 701/2019/CGEMA/DIPRO
+Brasília, 16 de setembro de 2019.
+Ao Senhor
+Coronel ALARICO AZEVEDO
+Comandante Geral
+Polícia Militar do Estado do Rio Grande do Norte
+Av Rodrigues Alves, S/N - Bairro Doril
+59.020-200 Natal-RN
+E-mail cmdgeral.pmrn@gmail
+Assunto: Agradecimento.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sr. Comandante Geral,
+Ao cumprimentá-lo, reporto-me à recente ocorrência de derramamento de óleo de
+origem ainda desconhecida no litoral do Rio Grande do Norte e em mais cinco estados brasileiros.
+Venho agradecer o importante apoio prestado por essa Unidade Militar no pouso,
+decolagem e pernoite do helicóptero do Ibama, que atuou no monitoramento deste incidente.
+Informo que a aeronave se deslocará para atendimento a outra ocorrência na região
+amazônica, não sendo mais necessária sua permanência nas dependências da Polícia Militar a parBr
+do dia de hoje.
+Agradeço a atenção e coloco este Instituto à disposição de V. Sa.
+Respeitosamente,
+(assinado eletronicamente)
+FERNANDA CUNHA PIRILLO INOJOSA
+Coordenadora Geral de Emergências Ambientais
+Documento assinado eletronicamente por FERNANDA CUNHA PIRILLO INOJOSA,
+Coordenadora-Geral, em 16/09/2019, às 12:16, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 701 (5959049) SEI 02021.001629/2019-72 / pg. 9 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5959049 e o código
+CRC 7D6DA521.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5959049
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 701 (5959049) SEI 02021.001629/2019-72 / pg. 10 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 748/2019/DIPRO
+Brasília, 16 de setembro de 2019.
+À Senhora
+DANIELE LOMBA ZANETTI PUELKER
+Gerente de Licenciamento e Avaliação de SMS
+Segurança, Proteção ao Meio Ambiente e Saúde Ocupacional (SMS)
+Avenida República do Chile, nº 65 - Centro
+Rio de Janeiro/RJ - CEP.: 20031-912
+E-mail: danielelomba@petrobras.com.br
+Assunto: Resposta à Carta 172/2019 - complementação.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhora Gerente,
+1. Faço referência ao documento em epígrafe e ao OBcio nº 700/2019, enviado em
+resposta à citada carta no dia 13 de setembro de 2019.
+2. Considerando a impossibilidade operacional da Petrobras em ampliar as equipes de
+resposta do Centro de Defesa Ambiental (CDA), em função de contratos direcionados exclusivamente
+para emergências desta empresa, agradeço o apoio prestado no município de Nísia Floresta/RN e
+retifico o Ofício 700/2019, dispensando os serviços originalmente requisitados.
+3. Agradeço o importante apoio técnico fornecido pela Petrobras, o empenho dos doze
+profissionais envolvidos em campo e reforço o compromisso do Ibama na proteção do meio ambiente.
+4. Nesse senGdo e com o objeGvo de prosseguir com a invesGgação da origem do evento,
+solicito enviar com urgência a este insGtuto os resultados laboratoriais requeridos por meio das
+noGficações de número 702056-E, 710144-E e 714088-E, relaGvas às coletas demandadas à Petrobras
+nos estados do Ceará, Pernambuco e Rio Grande do Norte, respectivamente.
+Atenciosamente,
+OLIVALDI AZEVEDO
+Diretor de Proteção Ambiental
+Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+17/09/2019, às 16:22, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 748 (5964751) SEI 02021.001629/2019-72 / pg. 11 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5964751 e o código
+CRC 3FB49B69.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5964751
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 748 (5964751) SEI 02021.001629/2019-72 / pg. 12 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 750/2019/DIPRO
+Brasília, 17 de setembro de 2019.
+Ao Senhor
+CMG GUSTAVO CALERO GARRIGA PIRES
+Comandante
+Centro Integrado de Segurança Marítima - CISMAR
+Praça Barão de Ladário S/N Ed. Almirante Tamandaré - 6º andar - Centro
+CEP 20091-000 - Rio de Janeiro/RJ
+Assunto: Solicita dados sobre rotas de navios.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sr. Comandante,
+1. Ao cumprimentá-lo, venho solicitar informações quanto a navios petroleiros que
+percorreram águas marí>mas brasileiras ao longo do litoral nordes>no, no período de 10 a 25 de
+agosto de 2019.
+2. A solicitação visa contribuir na inves>gação da origem do derramamento de óleo que
+a>ngiu os estados de Alagoas, Pernambuco, Paraíba, Rio Grande do Norte e Ceará, detectado nas
+praias a partir de 02 de setembro deste ano.
+3. Caso estejam disponíveis, seria relevante ao Ibama receber os seguintes dados, em
+formato digital:
+3.1. Nome, inscrição e bandeira de todos os navios do >po petroleiro que percorreram
+as AJB do Nordeste no período de interesse;
+3.2. Posição diária de cada um deles (coordenadas geográficas);
+3.3. Rota (origem/destino) de cada um deles.
+4. Para maior detalhamento sobre a demanda, indico o Coordenador Marcelo Amorim, da
+Coordenação Geral de Emergências Ambientais - CGEMA/DIPRO, que estará disponível por meio do
+telefone 61-3316-1070 ou e-mail marcelo.amorim@ibama.gov.br.
+Atenciosamente,
+OLIVALDI AZEVEDO
+Diretor de Proteção Ambiental
+Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+Ofício 750 (5968944) SEI 02021.001629/2019-72 / pg. 13 17/09/2019, às 16:21, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5968944 e o código
+CRC 83B290F1.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5968944
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 750 (5968944) SEI 02021.001629/2019-72 / pg. 14 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 710/2019/CGEMA/DIPRO
+Brasília, 18 de setembro de 2019.
+Ao Senhor
+Coronel CARLOS EMILSON FERREIRA DOS SANTOS
+Comandante Geral
+CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL
+QCG - Quartel do Comando Geral do CBMDF
+SAM, Lote D, Módulo E
+70620-000
+cmtgeral.secgabcg@cbm.df.gov.br; ajocmtgeral@gmail.com
+Assunto: Solicita apoio especializado.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhor Comandante Geral,
+1. Ao cumprimentá-lo, venho solicitar apoio técnico desta renomada corporação em
+incidente com derramamento de óleo envolvendo vinte e quatro municípios do nordeste brasileiro,
+com poluidor ainda desconhecido.
+2. A solicitação se jusBfica tendo em vista a experBse do Grupamento de Proteção
+Ambiental, que possui profissionais especializados e equipamentos portáteis para análises
+laboratoriais. O interesse dessa insBtuição é o assessoramento técnico e a realização de análises de
+amostras de petróleo e derivados, visando identificar a fonte poluidora.
+3. Caso V. Sa. esteja de acordo, o Ibama emiBrá diárias e passagens a três militares
+indicados, para deslocamento entre os dias 19 e 23/09/2019.
+4. Certo de que a parceria entre insBtuições é fundamental para a proteção do meio
+ambiente, agradeço a atenção e indico a Sra. Fernanda Pirillo, Coordenadora Geral de Emergências
+Ambientais, para prestar qualquer esclarecimento por meio do telefone 61-3316-1070.
+Atenciosamente,
+(assinado eletronicamente)
+OLIVALDI AZEVEDO
+Diretor de Proteção Ambiental
+Ofício 710 (5985944) SEI 02021.001629/2019-72 / pg. 15 Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+18/09/2019, às 16:16, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5985944 e o código
+CRC 4BAA18FB.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 5985944
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 710 (5985944) SEI 02021.001629/2019-72 / pg. 16 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+SUPERINTENDÊNCIA DO IBAMA NO ESTADO DO RIO GRANDE DO NORTE
+DIVISÃO TÉCNICO-AMBIENTAL - RN
+NÚCLEO DE PREVENÇÃO E ATENDIMENTO ÀS EMERGÊNCIAS AMBIENTAIS - RN
+OFÍCIO Nº 32/2019/NUPAEM-RN/DITEC-RN/SUPES-RN
+Natal, 23 de setembro de 2019.
+Ao senhor
+Coronel Eng. FÁBIO ANDRADE DE ALMEIDA
+Diretor
+Centro de Lançamento da Barreira do Inferno - CLBI
+Rodovia RN 063 - KM 11
+CEP: 59.140-970 Parnamirim/RN
+Assunto: Solicita autorização para acesso à praia da Barreira do Inferno.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhor Diretor,
+1. Considerando o presente episódio de toque de óleo na costa de 07 Estados da região
+Nordeste e considerando que o litoral oriental do Estado do Rio Grande do Norte (RN) foi até o
+momento o mais afetado, o IBAMA realizou entre os dias 17 e 20 de setembro vistoria em todo o
+litoral do RN, com o objetivo de realizar um diagnóstico das áreas afetadas.
+2. Nesse senJdo, de forma a concluir o diagnósJco de todo litoral, venho por meio deste
+consulta-lo sobre a possibilidade de acesso à área de praia do CLBI.
+3. A inspeção está prevista para o dia 24/09/2019 às 07h:00 da manhã, tendo em vista a
+necessidade de a vistoria ser realizada no período de maré baixa .
+4. A equipe será composta dos servidores do IBAMA/RN:
+a) Fabíola Patrícia da Silva Rufino, CPF 066.153.584-33;
+b) José Bezerra Neto, CPF 413.127.164-87;
+c) Frederico Fonseca Galvão de Oliveira, CPF 942.844.234-87.
+5. Solicito a genJleza de informar sobre o deferimento da solicitação por meio do e-mail
+fabiola.rufino@ibama.gov.br e cristiane.oliveira@ibama.gov.br.
+6. Agradeço a atenção e coloco a servidora Fabíola Rufino à disposição para quaisquer
+esclarecimentos por meio do telefone (84) 99929-7457.
+Atenciosamente,
+(assinado eletronicamente)
+Ofício 32 (6010486) SEI 02021.001629/2019-72 / pg. 17 (assinado eletronicamente)
+FERNANDA CUNHA PIRILLO INOJOSA
+Coordenadora Geral de Emergências Ambientais
+Documento assinado eletronicamente por FERNANDA CUNHA PIRILLO INOJOSA,
+Coordenadora-Geral, em 23/09/2019, às 09:30, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6010486 e o código
+CRC E92ABAF6.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 6010486
+Av. Alexandrino de Alencar, 1399 - Tirol - Telefone:
+CEP 59015-350 Natal/RN - www.ibama.gov.br
+Ofício 32 (6010486) SEI 02021.001629/2019-72 / pg. 18 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+SUPERINTENDÊNCIA DO IBAMA NO ESTADO DO RIO GRANDE DO NORTE
+DIVISÃO TÉCNICO-AMBIENTAL - RN
+NÚCLEO DE PREVENÇÃO E ATENDIMENTO ÀS EMERGÊNCIAS AMBIENTAIS - RN
+OFÍCIO Nº 34/2019/NUPAEM-RN/DITEC-RN/SUPES-RN
+Natal, 25 de setembro de 2019.
+A sua senhoria o Senhor
+LEONLENE DE SOUSA AGUIAR
+Diretor Geral do IDEMA - INSTITUTO DE DESENVOLVIMENTO SUSTENTÁVEL E MEIO AMBIENTE
+Av. Alm. Alexandrino de Alencar, 1487-1489, TIROL
+CEP: 59064-350 Natal/RN
+Assunto: Informa sobre resgate e reabilitação de fauna oleada no Rio Grande do Norte.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Senhor Diretor-Geral,
+1. Considerando a emergência ambiental referente ao aparecimento de óleo nas praias do
+litoral nordesCno e o fato de estar ocasionado o aparecimento de animais oleados nas praias do Rio
+Grande do Norte.
+2. Venho por meio deste informar que o IBAMA solicitou o apoio e autorizou que a UERN
+por meio do Projeto Cetáceos da Costa Branca realize o resgate e o manejo de animais oleados em
+todo o litoral do Rio Grande do Norte.
+3. Desse modo informo que as ocorrências relacionadas ao aparecimento de animais
+oleados no litoral do Rio Grande do Norte devem ser repassadas ao Projeto Cetáceos da Costa Branca
+através do telefone: (84) 99943-0058.
+4. Solicito divulgação da informação entre setores de fiscalização bem como entre as
+Secretarias Municipais de Meio Ambiente e o Policiamento Ambiental.
+Atenciosamente,
+Rondinelle Silva Oliveira
+Superintendente
+Documento assinado eletronicamente por RONDINELLE SILVA OLIVEIRA, Superintendente, em
+25/09/2019, às 10:43, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 34 (6034025) SEI 02021.001629/2019-72 / pg. 19 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6034025 e o código
+CRC EEC601A0.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 6034025
+Av. Alexandrino de Alencar, 1399 - Tirol - Telefone:
+CEP 59015-350 Natal/RN - www.ibama.gov.br
+Ofício 34 (6034025) SEI 02021.001629/2019-72 / pg. 20 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 755/2019/CGEMA/DIPRO
+Brasília, 26 de setembro de 2019.
+Ao Senhor
+LUCAS GARCEZ GOMES
+Chefe
+PARNA Lençóis Maranhenses-ICMBio
+via e-mail
+Assunto: Solicita apoio.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sr. Chefe,
+1. Venho solicitar parceria desta unidade no acompanhamento do derramamento de óleo
+que acomete 8 estados do nordeste brasileiro, incluindo áreas protegidas.
+2. Considerando que o Ibama requisitou serviço de limpeza de praias para a Petrobras, é
+de fundamental importância que o ICMBio possa acompanhar os trabalhos desenvolvidos pela
+empresa nas áreas de influência do PNLM, visando verificar se a limpeza está sendo realizada
+adequadamente.
+3. Na oportunidade, convido-o para integrar o Posto de Comando do incidente, que está
+na Sede do Ibama em São Luís, com uso do Sistema de Comando de Incidentes (SCI). Tendo em vista o
+uso dessa ferramenta, solicito canais de contato para repasse diário de informações das ações do
+ICMBio.
+4. Agradeço a atenção e me coloco à disposição para qualquer esclarecimento.
+Atenciosamente,
+(assinado eletronicamente)
+FERNANDA CUNHA PIRILLO INOJOSA
+Coordenadora Geral de Emergências Ambientais
+Documento assinado eletronicamente por FERNANDA CUNHA PIRILLO INOJOSA,
+Coordenadora-Geral, em 26/09/2019, às 10:19, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 755 (6045707) SEI 02021.001629/2019-72 / pg. 21 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6045707 e o código
+CRC 0432DBAB.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 6045707
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 755 (6045707) SEI 02021.001629/2019-72 / pg. 22 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 780/2019/CGEMA/DIPRO
+Brasília, 03 de outubro de 2019.
+Ao Senhor
+Contra-Almirante Rodolfo SABOIA
+Diretoria de Portos e Costas - Marinha do Brasil
+Rua Teófilo Otoni, 4 - Centro
+Rio de Janeiro/RJ
+Via e-mail
+Assunto: Solicita laudo.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02021.001629/2019-72.
+Sr. Contra-Almirante,
+1. Solicito a gen<leza de disponibilizar ao Ibama cópia dos laudos feitos pelo Ins<tuto de
+Estudos do Mar Almirante Paulo Moreira - IEAPM, referentes ao derramamento de óleo no nordeste
+brasileiro.
+2. Agradeço a atenção e informo que os documentos podem ser enviados em meio digital,
+para os emails fernanda.pirillo@ibama.gov.br; cris<ane.oliveira@ibama.gov.br e
+marcelo.amorim@ibama.gov.br.
+Respeitosamente,
+(assinado eletronicamente)
+FERNANDA CUNHA PIRILLO INOJOSA
+Coordenadora Geral de Emergências Ambientais
+Documento assinado eletronicamente por FERNANDA CUNHA PIRILLO INOJOSA,
+Coordenadora-Geral, em 03/10/2019, às 14:19, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6107306 e o código
+CRC 37C40C31.
+Referência: Processo nº 02021.001629/2019-72 SEI nº 6107306
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+Ofício 780 (6107306) SEI 02021.001629/2019-72 / pg. 23 CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 780 (6107306) SEI 02021.001629/2019-72 / pg. 24 INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS
+RENOVÁVEIS
+ATA DE REUNIÃO
+Ás 09h00 do dia 06 de setembro de 2019, nas dependências da Superintendência do IBAMA
+em Pernambuco (SUPES-PE), ocorreu reunião de trabalho com o fim de discutir os eventos de
+contaminação de praias com “piche” ocorridos nas últimas duas semanas no litoral do estado de
+Pernambuco. Presentes na reunião as seguintes instituições e seus representantes:
+IBAMA – Lisânia Pedrosa – Superintendente Substituta e Euclides Dourado – Analista
+Ambiental
+SEMAS – José Bertotti – Secretário de Meio Ambiente do Estado de Pernambuco e Maurício
+Guerra
+CPRH – Eduardo Elvino – Diretor de Controle Ambiental
+CPPE Capitania dos Portos - Comandante Figueiredo Correia, 1ºTenente Rafael Quiossa
+UFPE Departamento de Oceanografia – Prof. Marcus Silva e Prof. Leonardo Bruto
+SUAPE – Paulo Teixeira – Gerente de Meio Ambiente de SUAPE
+Inicialmente discorreu-se sobre os relatos de contaminação por “piche” registrada nas últimas
+duas semanas em todo o litoral de Pernambuco: Região Metropolitana do Recife, praias de
+Piedade e Cadeias; litoral sul, município de Ipojuca e Tamandaré; litoral norte, incluindo também
+praias da Paraíba.
+A Marinha informou que foram coletadas amostras do material em diversos pontos e enviadas
+para análises em laboratório especializado em Arraial do Cabo – RJ.
+Quanto a ocorrência de tartarugas mortas, a CPRH confirmou o resgate de duas espécimes com
+vestígios de contaminação por piche nas imediações da praia de Cocaia, região do Porto de
+SUAPE. As carcaças foram levadas para o CETAS Tangará para avaliação e possível
+identificação da causa mortis.
+Foi discutido também as formas de orientar os municípios quanto à execução de limpeza das
+praias e destinação do material.
+A CPRH informou que o vazamento de água oleosa, ocorrido na Refinaria RENEST, encontrase totalmente controlado e contido na área da própria refinaria não tendo nenhuma relação com
+a ocorrência de contaminação por piche nas praias.
+Discutiu-se as possíveis ações para identificar a origem da contaminação como também as
+formas de responsabilização dos responsáveis pelo ocorrido.
+O professor Marcus Silva, Departamento de Oceanografia UFPE, discorreu sobre modelos de
+dispersão de poluentes no mar e a aplicabilidade de simuladores para identificar a origem da
+contaminação, sendo destacada a necessidade, para tal análise, entre outras informações, de
+dados climáticos das últimas semanas.
+Ata de Reunião DITEC-PE 5921825 SEI 02001.025670/2019-72 / pg. 1 Foi questionado a possibilidade de realização de um sobrevoo em áreas mais afastadas da
+costa com o objetivo de identificar a existência de óleo disperso na água e antecipar as ações
+para evitar novas contaminações.
+Encaminhamentos:
+IBAMA – Fará contato com Coordenação Geral de Emergências Ambientais
+(CGEMA/DIPRO/IBAMA-Sede) para verificar a possibilidade de promover sobrevoo em áreas
+mais afastadas da costa com o objetivo de identificar óleo disperso na água.
+SEMAS/CPRH – Fará contato com o Corpo de Bombeiros para articular sobrevoo ao longo da
+costa, com o fim identificar manchas (piche) disperso próximas às praias.
+SEMAS/CPRH – Fará contato com UFPE para obter imagens de satélite das últimas 3 semanas
+para identificar as possíveis origens dos pontos de contaminação.
+SEMAS/CPRH/IBAMA – Encaminharão nota orientativa às Prefeituras dos municípios litorâneos
+quanto às ações a serem adotadas para limpeza das praias e destinação adequada do
+material oleoso.
+SUAPE – Informou que dispões de contrato para aquisição de imagens e fará gestão no sentido
+de disponibilizar tais dados para ajudar na identificação da origem da contaminação.
+CPPE Capitania dos Portos – Informou que as amostras de material coletadas nas praias de
+Pernambuco e Paraíba (praia do amor) foram encaminhadas ao laboratório especializado e os
+resultados serão disponibilizados oportunamente.
+Documento assinado eletronicamente por LISANIA ROCHA PEDROSA, Chefe de Divisão, em
+10/09/2019, às 16:32, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5921825 e o código
+CRC FDD5EE02.
+Referência: Processo nº 02001.025670/2019-72 SEI nº 5921825
+Ata de Reunião DITEC-PE 5921825 SEI 02001.025670/2019-72 / pg. 2 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+SUPERINTENDÊNCIA DO IBAMA NO ESTADO DE PERNAMBUCO
+OFÍCIO Nº 520/2019/SUPES-PE
+Recife, 20 de setembro de 2019.
+RNEST - REFINARIA ABREU E LIMA
+Ao Senhor Gerente Geral - RNEST
+Emanuel Eduardo Paula de Medeiros
+Rodovia PE 60, Km 10
+Ipojuca/PE, CEP nº 55590-000
+Assunto: Informação Sobre Coleta de Amostras.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº
+02001.025670/2019-72.
+Cumprimentando-os, vimos por meio deste informar que, em face das ocorrências de
+manchas de óleo no litoral nordes7no, O IBAMA juntamente com o Corpo de Bombeiros de Brasília/DF
+planeja realizar uma coleta de amostras de petróleo nas instalações da RENEST no próximo dia
+24/09/2019 no período da manhã.
+Assim sendo contamos com o apoio desta ins7tuição no sen7do de permi7r o acesso da
+equipe de técnicos identificados a seguir, que irão realizar a coleta:
+Corpo de Bombeiros - Distrito Federal
+Rodrigo Rasia - CPF 000.070.611-61
+Carlos Augusto Oliveira Cerqueira CPF 996.278.411-53
+Antonio Carlos Rodrigues Braga CPF 704.257.011-15
+IBAMA - SUPES-PE
+Antonangelo Augusto Pereira CPF 256.651.808-40
+Gustavo H. Moreira CPF298.827.614-53
+Flávia F. de Oliveira CPF 746.117.394-49
+Atenciosamente;
+Lisânia da Rocha Pedrosa
+Superintendente Substituta IBAMA/SUPES/PE
+Documento assinado eletronicamente por LISANIA ROCHA PEDROSA, Superintendente
+Substituta, em 21/09/2019, às 09:24, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+Ofício 520 (6006507) SEI 02001.025670/2019-72 / pg. 3 A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6006507 e o código
+CRC E2B179F6.
+Referência: Processo nº 02001.025670/2019-72 SEI nº 6006507
+Av. 17 de Agosto, 1057 - Casa Forte - Telefone:
+CEP 52060-590 Recife/PE - www.ibama.gov.br
+Ofício 520 (6006507) SEI 02001.025670/2019-72 / pg. 4 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 729/2019/DIPRO
+Brasília, 10 de setembro de 2019.
+A sua Senhoria a Senhora
+DANIELE LOMBA ZANETTI PUELKER
+Gerente de Licenciamento e Avaliação de SMS
+Segurança, Proteção ao Meio Ambiente e Saúde Ocupacional (SMS)
+Av República do Chile, 330 - 3º andar, Centro
+CEP: 20031-170 Rio de Janeiro/RJ
+E-mail: danielelombar@petrobras.com.br
+Assunto: Solicita apoio para limpeza e proteção de áreas litorâneas no estado de Alagoas
+e Pernambuco..
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02003.002120/2019-65.
+Senhora Gerente,
+1. Considerando a experiência da Petrobras na resposta a derramamentos de óleo, solicito
+apoio desta empresa para proteção de áreas sensíveis, e, se tecnicamente possível, recolhimento de
+óleo no mar e na região das praias localizadas entre os municípios de São Miguel dos Milagres, estado
+de Alagoas, e São José da Coroa Grande, no estado de Pernambuco, incluindo a Unidade de
+Conservação Federal APA dos Corais, devido ao aparecimento de borras de óleo com origem ainda
+desconhecida.
+2. Considerando o Programa de Monitoramento de Praias, solicito ainda concentrar as
+equipes especializadas na região, visando resgate de fauna oleada eventualmente encontrada.
+3. O pleito se dá em função da necessidade de uso de recursos adequados para
+minimização dos impactos ambientais e socioeconômicos.
+4. Agradeço pela colaboração e indico os Coordenadores do Núcleo de Prevenção e
+Atendimento a Emergências Ambientais do Ibama em Pernambuco, a senhora Gilvânia Neves da Hora
+(81 99928-1019 e/ou gilvania.Hora@ibama.gov.br), e em Alagoas, o senhor Roberto Wagner
+Capparelli Dantas (82 98176-5695 e/ou roberto.dantas@ibama.gov.br), para serem os interlocutores
+com essa empresa.
+Atenciosamente,
+ADDSON SANTOS COELHO SERRA
+Diretor Substituto de Proteção Ambiental
+Ofício 729 (5923360) SEI 02003.002120/2019-65 / pg. 1 Documento assinado eletronicamente por ADDSON SANTOS COELHO SERRA, Diretor
+Substituto, em 10/09/2019, às 17:17, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5923360 e o código
+CRC 74201950.
+Referência: Processo nº 02003.002120/2019-65 SEI nº 5923360
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 729 (5923360) SEI 02003.002120/2019-65 / pg. 2 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 736/2019/DIPRO
+Brasília, 11 de setembro de 2019.
+A sua Senhoria a Senhora
+DANIELE LOMBA ZANETTI PUELKER
+Gerente de Licenciamento e Avaliação de SMS
+Segurança, Proteção ao Meio Ambiente e Saúde Ocupacional (SMS)
+Av República do Chile, 330 - 3º andar, Centro
+CEP: 20031-170 Rio de Janeiro/RJ
+E-mail: danielelombar@petrobras.com.br
+Assunto: Solicita apoio para limpeza e proteção de áreas litorâneas no estado de Alagoas
+e Pernambuco..
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02003.002120/2019-65.
+Senhora Gerente,
+1. Considerando a experiência da Petrobras na resposta a derramamentos de óleo, solicito
+apoio desta empresa para proteção de áreas sensíveis, e, se tecnicamente possível, recolhimento de
+óleo no mar e na região das praias localizadas entre os municípios de São Miguel dos Milagres, estado
+de Alagoas, e São José da Coroa Grande, no estado de Pernambuco, incluindo a Unidade de
+Conservação Federal APA dos Corais, devido ao aparecimento de borras de óleo com origem ainda
+desconhecida.
+2. Considerando o Programa de Monitoramento de Praias, solicito ainda concentrar as
+equipes especializadas na região, visando resgate de fauna oleada eventualmente encontrada.
+3. O pleito se dá em função da necessidade de uso de recursos adequados para
+minimização dos impactos ambientais e socioeconômicos.
+4. Agradeço pela colaboração e indico os Coordenadores do Núcleo de Prevenção e
+Atendimento a Emergências Ambientais do Ibama em Pernambuco, a senhora Gilvânia Neves da Hora
+(81 99928-1019 e/ou gilvania.Hora@ibama.gov.br), e em Alagoas, o senhor Roberto Wagner
+Capparelli Dantas (82 98176-5695 e/ou roberto.dantas@ibama.gov.br), para serem os interlocutores
+com essa empresa.
+Atenciosamente,
+Olivaldi Alves Borges Azevedo
+Diretor de Proteção Ambiental
+Ofício 736 (5932304) SEI 02003.002120/2019-65 / pg. 3 Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+11/09/2019, às 16:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5932304 e o código
+CRC 4A924887.
+Referência: Processo nº 02003.002120/2019-65 SEI nº 5932304
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 736 (5932304) SEI 02003.002120/2019-65 / pg. 4 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+OFÍCIO Nº 737/2019/DIPRO
+Brasília, 11 de setembro de 2019.
+A sua Senhoria o Senhor
+ÂNGELO SARTORI NETO
+Gerente Setorial de Planejamento de Contingência
+Petróleo Brasileiro S.A. - Petrobras
+Av República do Chile, 65, Centro
+CEP: 20031-912 Rio de Janeiro/RJ
+Assunto: Requerer serviço para limpeza de praia.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02003.002120/2019-65.
+Senhor Gerente Setorial,
+Venho requisitar os serviços da Petróleo Brasileiro S.A. (Petrobras) para realizar ação de
+contenção e recolhimento de óleo no mar, e a limpeza de zonas costeira afetada por borras de óleo
+(piche), que contaminaram o litoral dos municípios de São Miguel dos Milagres/AL, Porto de
+Pedras/AL, JaparaDnga/AL, Maragogi/AL, São José das Coroa Grande/PE, Baia Formosa/RN,
+Canguaretama/RN, Tibau do Sul/RN, Nísia Floresta/RN, Parnamirim/RN, Natal/RN, Extremoz/RN,
+Ceará-Mirin/RN, Maxaranguape/RN, Aquiraz/CE e Fortaleza/CE.
+Considerando o Programa de Monitoramento de Praias, solicito concentrar as equipes
+especializadas na região, visando resgate de fauna oleada eventualmente encontrada.
+O pleito se dá em função da necessidade de uso de recursos adequados para
+minimização dos impactos ambientais e socioeconômicos.
+Indico os Coordenadores do Núcleo de Prevenção e Atendimento a Emergências
+Ambientais (Nupaem) dos estados do Nordeste, para contribuírem na elaboração do Plano de
+Emergência, com objetivo de otimizar as ação de resposta da Petrobras, a saber:
+Rio Grande do Norte: Fabíola Patrícia da Silva Rufino, (84) 99929-7457 e email fabiola.rufino@ibama.gov.br;
+Alagoas: Roberto Wagner Capparelli Dantas, (82) 98176-5695 e
+roberto.dantas@ibama.gov.br;
+Pernambuco: Gilvânia Neves da Hora, (81) 99928-1019
+e gilvania.Hora@ibama.gov.br
+Ceará: Rafael da Cunha Moraes, (85) 98185-5948 e
+rafael.moraes@ibama.gov.br
+Coloco à disposição, para prestar as informações complementares que se fizerem
+necessárias, a Coordenadora-Geral de Emergências Ambientais Fernanda Pirillo (61-99145-0002 e
+Ofício 737 (5933364) SEI 02003.002120/2019-65 / pg. 5 fernanda.pirillo@ibama.gov.br) e o Coordenador de Atendimento a Emergência Tecnológica e
+Naturais Marcelo Amorim (61-984042629 e marcelo.amorim@ibama.gov.br).
+Atenciosamente,
+Olivaldi Alves Borges Azevedo
+Diretor de Proteção Ambiental
+Documento assinado eletronicamente por OLIVALDI ALVES BORGES AZEVEDO, Diretor, em
+11/09/2019, às 17:23, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5933364 e o código
+CRC 7C30C58F.
+Referência: Processo nº 02003.002120/2019-65 SEI nº 5933364
+SCEN Trecho 2 - Ed. Sede do IBAMA - Telefone: (61) 3316-1212
+CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 737 (5933364) SEI 02003.002120/2019-65 / pg. 6 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+SUPERINTENDÊNCIA DO IBAMA NO ESTADO DO MARANHÃO
+OFÍCIO Nº 407/2019/SUPES-MA
+São Luís, 17 de setembro de 2019.
+Ao Sr.
+Marcio Ramalho Dutra e Mello - Capitão dos Portos do Maranhão Capitania dos Portos do Maranhão
+(CPMA)
+Capitão de Mar-e-Guerra
+Avenida Dom Pedro II, Centro
+CEP: 65.026-000 São Luís/MA
+Assunto: Solicitação de Apoio Interinstitucional_Acidente Ambiental.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02001.026873/2019-86.
+Cumprimentando – o, comunicamos que foi recebido pelo Ibama, Comunicado de Acidente Ambiental
+Siema 201991732451 (5970318).
+Este comunicado informa que foram encontradas manchas de Petróleo na Ilha de Poldros,
+município de Araioses-MA, APA Delta do Parnaíba, com manchas de origem indeterminada e
+que também foi encontrada uma tartaruga oleada.
+Como procedimento, o Ibama adota a coleta de amostra para que seja realizada perícia no
+laboratório da Marinha do Brasil em Arraial do Cabo – RJ.
+Considerando que o Ibama não possui embarcação própria, nem recurso disponível para
+locação de barcos, solicitamos o apoio desta Capitania dos Portos, tanto para acompanhamento
+e envio da coleta, quanto para disponibilização de embarcação da Marinha, caso seja possível,
+no período compreendido entre 19 e 22 de setembro de 2019.
+Atenciosamente,
+Maria da Graça Reis Ribeiro
+Superintendente Substituta
+IBAMA-MA
+Documento assinado eletronicamente por MARIA DA GRACA REIS RIBEIRO, Superintendente
+Substituta, em 17/09/2019, às 15:52, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5975252 e o código
+CRC 0737B7AA.
+Ofício 407 (5975252) SEI 02001.026873/2019-86 / pg. 1 Referência: Processo nº 02001.026873/2019-86 SEI nº 5975252
+Av. dos Holandeses, Quadra 33, Lotes 17 e 18 - Bairro Quintas do Calhau - Telefone:
+CEP 65071-380 São Luís/MA - www.ibama.gov.br
+Ofício 407 (5975252) SEI 02001.026873/2019-86 / pg. 2 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+SUPERINTENDÊNCIA DO IBAMA NO ESTADO DO MARANHÃO
+OFÍCIO Nº 408/2019/SUPES-MA
+São Luís, 17 de setembro de 2019.
+Sr.
+BENJAMIN DANTE RODRIGUES DUARTE LIMA _ Capitão dos Portos do Estado do Piauí
+Capitão de Fragata
+Av. Nações Unidas, 530, Nossa Sra. do Carmo
+CEP: 42000-220 Parnaíba/PI
+Assunto: Solicitação de Apoio Interinstitucional.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02001.026873/2019-86.
+Cumprimentando – o, comunicamos que foi recebido pelo Ibama, Comunicado de Acidente
+Ambiental Siema 201991732451 (5970318).
+Este comunicado informa que foram encontradas manchas de Petróleo na Ilha de Poldros,
+município de Araioses-MA, APA Delta do Parnaíba, com manchas de origem indeterminada e
+que também foi encontrada uma tartaruga oleada.
+Como procedimento, o Ibama adota a coleta de amostra para que seja realizada perícia no
+laboratório da Marinha do Brasil em Arraial do Cabo – RJ.
+Considerando que o Ibama não possui embarcação própria, nem recurso disponível para
+locação de barcos, solicitamos o apoio desta Capitania dos Portos, tanto para acompanhamento
+e envio da coleta, quanto para disponibilização de embarcação da Marinha, caso seja possível,
+no período compreendido entre 19 e 22 de setembro de 2019.
+Atenciosamente,
+Maria da Graça Reis Ribeiro
+Superintendente Substituta
+IBAMA-MA
+Documento assinado eletronicamente por MARIA DA GRACA REIS RIBEIRO, Superintendente
+Substituta, em 17/09/2019, às 15:52, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 5975276 e o código
+CRC 4210AE38.
+Ofício 408 (5975276) SEI 02001.026873/2019-86 / pg. 3 Referência: Processo nº 02001.026873/2019-86 SEI nº 5975276
+Av. dos Holandeses, Quadra 33, Lotes 17 e 18 - Bairro Quintas do Calhau - Telefone:
+CEP 65071-380 São Luís/MA - www.ibama.gov.br
+Ofício 408 (5975276) SEI 02001.026873/2019-86 / pg. 4 Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+COORDENAÇÃO-GERAL DE EMERGÊNCIAS AMBIENTAIS
+OFÍCIO Nº 781/2019/CGEMA/DIPRO
+Brasília, 03 de outubro de 2019.
+Assunto: autorização para remarcação de passagem aérea.
+Referência: Caso responda este Ofício, indicar expressamente o Processo nº 02001.026873/2019-86.
+Sr. Diretor,
+1. Ao cumprimentá-lo, solicitamos autorização para remarcação de passagens aéreas
+emi<da para os servidores Thais Michele Fernandez, trecho São Luis/MA - Curi<ba/PR, e Vinicius
+Seixas de Queiroz,trecho São Luís/MA - Vitória/ES, do dia 05/10 para o dia 04/10/19, conforme
+solicitação do Comando do Acidente - Mancha de óleo de origem desconhecida (NE), Sr. Marcelo
+Amorim.
+2. Segundo relato do Comando do Incidente, esclarecemos que as a<vidades de
+monitoramento de fauna no incidente de derramamento de óleo ocorrido na Região Nordeste, com
+poluidor ainda desconhecido, foram finalizadas.
+3. Estando de acordo, favor encaminhar para conhecimento e providências da DIPLAN.
+Respeitosamente,
+SANDRO BEVILAQUA RANGEL
+Coordenador de Atendimento a Acidentes Tecnológicos e Naturais - Substituto
+Documento assinado eletronicamente por SANDRO BEVILAQUA RANGEL, Coordenador
+Substituto, em 03/10/2019, às 15:18, conforme horário oficial de Brasília, com fundamento no
+art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+A autenticidade deste documento pode ser conferida no site
+https://sei.ibama.gov.br/autenticidade, informando o código verificador 6107596 e o código
+CRC 96C75C89.
+Referência: Processo nº 02001.026873/2019-86 SEI nº 6107596
+SCEN Trecho 2 - Ed. Sede do IBAMA - Bloco B - Sub-Solo - Telefone:
+Ofício 781 (6107596) SEI 02001.026873/2019-86 / pg. 5 CEP 70818-900 Brasília/DF - www.ibama.gov.br
+Ofício 781 (6107596) SEI 02001.026873/2019-86 / pg. 6 ffümw
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE
+DIRETORIA DE PROTEÇÃO AMBIENTAL
+FOLHA DE DIGITALIZAÇÃO
+N° SEI:
+DATA DE INCLUSÃO:
+SIGLA DA UNIDADE DO IBAMA:
+MUNICÍPIO DA UNIDADE:
+UF:
+1Sigla da Unidade
+DITEC
+GEREX
+U.T1
+U.T2
+Ministério do Meio Anfaiente MMA
+iNsrnuro brasileiro do meip amkh nk e dos recursos NATURAIS RENOVÁVEIS IBAMA
+Diretoria de Proteção Ambiental - DIPRO
+Data
+11/09/2019
+Notificado
+RBTROLEO BRASILEIROS.A
+Endereço
+Bairro
+NOTIFICAÇÃO
+Hora
+13:53
+NJKro
+702056
+Coordenadas
+03°52'14" S 38'
+CPf/CNPJ
+33.000.167/0001-01
+Municipio
+RIO DE JANEIRO
+Atividade do Notificado
+Extração de petróleo e gás natural.
+Série
+E
+Dirigente
+PETRÓLEO BRASILEI
+S.A
+CEP iil
+RJ
+Descrição da Ocorrência/Exigência
+Realizar coleta de amostras de óleo na praia da localidade
+de Prainha (Aquiraz/CE) e apresentar perfil cromatográfico e fingerprint do óleo, incluindo a comparação do resultado com
+banco de dados de óleo da Petrobras. Tal análise se faz
+necessária em virtude do óleo se apresentar intemperizado,
+podendo ser oriundo de vazamento em Plataformas.
+0 notificado deverá atender esta notificação no prazo de
+J dias, a contar da data de emissão desta notificação para:
+regularizar, corrigir, prestar esclarecimentos ou apresentar documento^s) sobre oÇs) fato(s) descrito(s)
+acima. 0 não cumprimento poderá constituir crime em desobediência ao artigo 330 do Decreto-Lei n°2848/40 (Código
+Penal) e de infração contra a Administração Ambiental
+conforme legislação vigente.
+Vencimento Unidade IBAMA Cod. Unidade
+14/09/2019 Di-tec Secretaria em Fortaieza/CE 2452
+Endereço
+Local
+AQUIRAZ
+UF
+CE
+Assinaturado Notificado(ou representante)
+C )Enviado por A.R.
+Rafael da Cunha Moraes
+Matricula n° 1514127
+•
+Uf
+CE
+J
+Notificação Nº 702056/E PETROLEO BRASILEIRO SA (5935890) SEI 02007.003137/2019-08 / pg. 1 INSTITUTO BRASILEIRO DO MEIO AMBIENTE DOS RECURSOS NATURAIS RENOVÁVEIS 
+5 
+DIRETORIA DE PROTEÇÃO AMBIENTAL 
+Ministério do Meio ~ente - 4A 
+FOLHA DE DIGITAÇAO ismzn iz 1JEuos 
+Diretoria de Proteção Ambiental - DIPRO 
+NCmero Série II1FICAÇO 710144 E 
+Data Hora Coordenadas Geográficas 
+11/09/2019 11:52 08°2345" 5 34°58'09" W 
+Notificado CPF/CPI'J Dirigente 
+Probra Trcinpote 02 709.449/@049j-01 Petrobro Transpc 
+S.A. TRANSPETRO S.A. TRANSPETRC 
+Endereço 
+Rod. PE bb Complexo Portuário SUAPE SJN Km 10 
+Bairro Mtzitcipu CEP Ul 
+Suupe IPOJUCA 55.590-400 PE 
+Atividade do Notificado 
+Produção de petróleo e gás natural 
+Descrição da Ocorrência/Exigência 
+Realizar coleta de amostras de óleo nas praias de Boa 
+Viagem, Catuamo, Pontos de pedra e praias do litorol sul de 
+Pernambuco, e apresentar perfil cromatográfico de 
+Finqerprint do óleo, incluindo o comporoçao do resultado com 
+banco de dados de óleo da Petrobras. Tol analise se faz 
+necessária em virtude do óleo se apresentar utemperizado, 
+podendo ser,oriundo de vazamento em plataformas 
+O notificado deverá atender esta notificação no prazo de 
+5 dias, a contar,da data de emissão desta notificação para: 
+regularizar, corrigir, prestar, esclarecimentos ou 
+apresentar docums) sobre o(s) ento ( fato(s) descrito(s) 
+acima. O não cumprimento podera constituir,crime em 
+desobediência ao artigo 330 do Decreto-Lei n°2848/40 (Código 
+Penal) e de infração Lontra a Administração Ambiental 
+conforme legislação vigente. 
+Vencinto tkiidade IMA Cod. thiidade 
+16/09/2019 Superintendência do Ibama no Estado 667 
+de Pernambuco 
+Endereço UF 
+AV. 17 DL AGOSTO, 1057, CASA FORTE PE 
+Representante (caso a(o) interessada(o)) Cpf 
+não esteja presente) - 
+Sergio Gerononimno lagalhàes Vasconcelos 440.183.864-20 
+Endereço 
+Transpetro Porto Suape 
+Bairro Mixicipío CEP UF 
+IPOJUCA 55 540-0u0 PE 
+Local IJF 
+RECIIL PE 
+N°SEI: 
+DATA DE INCLUSÃO: 
+SIGLA DA UNIDADE: 
+i;Jpg 
+MUNICÍPIO DA UNIDADE: 
+UR 
+• - e1 ___ 
+Assinatura do Notificodo(ou representante) 
+( )[rwjedo p A.R. 
+Etuvio Fornese de Oliveira 
+Matricula n° 1422962 
+Notificação nº 710144-E (5938836) SEI 02019.002931/2019-97 / pg. 1 WSUTÜT© BBA8ÍI.1SR© O© MEÍ© Â^líElWl 1 0G8 BECUnSOS f^ÂTURAiS RtN©¥Â¥E8S
+©®1T@KIA BE P^OTEÇl© AUliiWI
+^ A
+F@LII^ ©E Di6iTOiilÂÇlO
+OOJ 63
+muxmmM
+019-91
+^o/09|3g!<9.
+3 i^Lâ m «ia« m mmki
+NoFiS
+fVyMTTi L
+W! '2 F/
+OJmi-fflsá©
+09TÍC
+y.Ti
+Ninisteno do Hííi nníj Lente - ÍSIÃ
+TN^srrnriO WA^íihiao " hri:; -^ki^híT i DOS RECURSOS
+MAIIJRAIS RlHCnfÀVílS iBAHA
+I Diretoria de Protí5L^<*> Antiientól - DIPRO
+NOnFMQ 714088
+Série
+E
+Data
+10/09/2019
+Hora
+07:48
+CoordsKidas Giãjgrõfitj:
+05°49'36" S 35'>13'50"
+notificado
+Petroleo Brasileiro
+- S/A Petrobras
+tPF/OJPJ
+33.000.167/1049-00
+Dirigente
+Petroleo Brqsilei
+- S/A Petrobras
+Endereço
+Av. Eusebio Rocha 1000
+Bairro
+Ctdade da Esperança
+Hiriicipio
+NATAL
+CEP UF
+59.070-660 RN
+Atividade do ftotifi.sadc.
+Descrição da Ocorrência/Exigência '
+Realizar coleta de amostras de oleo; nas praias de Pipa ,
+(praia do amor) e praia de tabattnga.- E apresentar perfil
+cromatografico de Fingerprint do oleo , iricluindo a
+comparaçao do resultado com banco de^ dados de oleo da
+Petrobras. Tal analise se faz necessário em virtude do oleo
+apresentar" intatiperizâdo . podendo ser; o"rt"undó de vazamento
+em Patafonnas.
+0 notificado, deverá atendér esta nòtificação nu pra^o de
+1 dias, a contar dq data dè émissâò: desta riófificação para:
+regularizar, corrigir, prestar ' esclarecimentos ou
+apresentar documento(s) sobre o(s) fato(s) descrito(s)
+acima. O não cumprimento poderá ; consti"tuir crime em
+desobediência ao artigo 330 do Decreto-lei n°2848/40 (Código
+Penal) e de infração contra a Administração Ambiental
+conforme legislação vigente. ^ : : : - : -
+Vmcinsento
+11/09/2019
+liiidodr; TSA.SA
+Natol/RN
+Cod.
+:2471
+IMidode
+Endereço :7/- "Éf "9Êf ''WK ÜF
+RN
+Local
+NATAL kN^-
+'! A
+ÃSSXl Ki do Ntít í-T tCCKsO^iXa í%r|.. >.
+C ^rnviciclu por A;R... 34(2^^íiA.
+Pe^Jro RLÍH:i.rí^,£kji» Scsilos
+Mal.rí <:ulírii*Mí&l0Al
+•V*
+1
+Notificação Notificação-714088-E (5914548) SEI 02021.001625/2019-94 / pg. 1
