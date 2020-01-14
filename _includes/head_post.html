@@ -29,11 +29,11 @@
     <meta property="og:url" content=" {{ post.url }}" />
 
     <!-- FACEBOOK -->
-    <meta property="og:image" content=" {{ page.background }} " />
+    <meta property="og:image" content="{% if page.background %} {{ site.baseurl }}{{ page.background }} {% else %} https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png {% endif %}" />
     <meta property="og:image:type" content="image/jpg" />
 
     <!-- Whatsapp -->
-    <meta property="og:image" content="{% if page.background %} {{ site.baseurl }}{{ page.background }} { % else % } https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png { % endif % }" />
+    <meta property="og:image" content="{% if page.background %} {{ site.baseurl }}{{ page.background }} {% else %} https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png {% endif %}" />
     <meta property="og:image:type" content="image/jpg" />
 
     <!-- Twitter -->
