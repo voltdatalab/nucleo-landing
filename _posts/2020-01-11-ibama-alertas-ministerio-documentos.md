@@ -12,7 +12,7 @@ graficos: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
 dados_abertos: "Baixe aqui os documentos do Ibama obtidos via LAI"
-dados_abertos_link: '../documentos/ibama-oleo'
+dados_abertos_link: 'https://www.dropbox.com/sh/fpc38eitgvnvmnf/AADSd6AcBawT_vYMB2_LmDkGa?dl=0'
 background: '../img/ibama-files/oleo_-teaser.jpeg'
 atualizacao: "Gráfico atualizado para ajuste melhorado a telas de celulares, sem alteração de informações. Texto atualizado às 15h28 para esclarecer que apenas o Ministério do Meio Ambiente foi procurado pela reportagem e para acrescentar link e créditos na metodologia."
 categories:
