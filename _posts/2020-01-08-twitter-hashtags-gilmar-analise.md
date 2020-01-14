@@ -14,7 +14,7 @@ graficos: Rodolfo Almeida
 credito_img: Rodolfo Almeida
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
-background: 'https://live.staticflickr.com/65535/49346214833_152f436eee_b.jpg'
+background: 'https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/twitter_materia.jpeg?raw=true'
 atualizacao: "Texto atualizado em 9.jan.2020 às 19h41 para incluir link para explicação sobre trending topics"
 categories:
   - "redes"
@@ -66,7 +66,7 @@ As hashtags em questão giravam em torno de duas figuras, o próprio Gilmar e o 
 
 As hashtags analisadas relacionadas à movimentação contra Gilmar Mendes foram as seguintes:
 
-![gráfico 1 - Gilmar Mendes](../twitter-files/gini-tweets_data.png)
+![gráfico 1 - Gilmar Mendes](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_data.png?raw=true)
 
 ##### O motivo pelo qual essa campanha foi escolhida como ponto de partida é claro: ela permaneceu uma semana inteira no topo dos *trending topics*, um evento incomum para hashtags políticas.
 
@@ -84,7 +84,7 @@ No entanto, o Coeficiente de Gini é simplesmente uma medida de desigualdade em 
 
 Adaptando o cálculo desse coeficiente, substituindo o que normalmente é a renda de cada pessoa para a quantidade de tweets que ela publicou, podemos calcular o resultado para cada um dos movimentos analisados do Twitter, e observarmos qual a distribuição do empenho de cada conta na popularização das hashtags.
 
-![gráfico 2 - hashtags de direita](../twitter-files/gini-tweets_direita.png)
+![gráfico 2 - hashtags de direita](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_direita.png?raw=true)
 
 Para todas as hashtags acima analisadas, o Coeficiente de Gini é superior a 0.5. As tags com Coeficiente de Gini acima de 0,65, são mais desiguais que a renda na África do Sul em 2014 — maior índice já registrado pelo Banco Mundial.
 
@@ -94,7 +94,7 @@ Um outro exemplo pode vir da CPMI das Fake News, com a deputada federal [Joice H
 
 Aplicando a mesma análise, encontramos indicativos de que o comportamento organizado é comum em mais de uma pauta da direita, não somente contra Gilmar Mendes.
 
-![gráfico 3 - hashtag Joice](../twitter-files/gini-tweets_joice.png)
+![gráfico 3 - hashtag Joice](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_joice.png?raw=true)
 
 ### Comparando com outras hashtags
 
@@ -104,11 +104,11 @@ As hashtags que foram capitaneadas pela esquerda possuem coeficiente de Gini men
 
 ##### Por que não puxar o assunto pela esquerda? Consideramos que a organização e a força da direita no Twitter é mais importante do que a espontaneidade e o menor engajamento da esquerda.    
 
-![gráfico 4 - hashtags de esquerda](../twitter-files/gini-tweets_esquerda.png)
+![gráfico 4 - hashtags de esquerda](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_esquerda.png?raw=true)
 
 Já olhando outras hashtags populares, relacionadas a outros assuntos além de política, como esporte e K-pop, que movimentaram o Twitter entre novembro e dezembro de 2019, os Coeficientes de Gini variam entre 0,39 até 0,69.
 
-![gráfico 5 - hashtags diversas](../twitter-files/gini-tweets_naopoliticas.png)
+![gráfico 5 - hashtags diversas](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_naopoliticas.png?raw=true)
 
 ---
 
@@ -118,7 +118,7 @@ O **Núcleo** monitorou algumas das principais hashtags por duas semanas, entre 
 
 A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tweets, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados [neste link](https://www.kaggle.com/lucaslago/calculadora-indice-de-gini-hashed-data).
 
-![gráfico 5 - hashtags diversas](../twitter-files/gini-tweets_curvagini.png)
+![gráfico 5 - hashtags diversas](https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/gini-tweets_curvagini.png?raw=true)
 
 
 
