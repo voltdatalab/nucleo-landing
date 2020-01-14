@@ -1,4 +1,5 @@
 ---
+published: TRUE
 layout: conteudo
 title: "Ibama alertou diariamente Ministério do Meio Ambiente sobre falta de recursos para ações contra óleo no Nordeste"
 titulo_redes: "Ibama alertou governo diariamente sobre falta de recursos para ações contra óleo no Nordeste"
@@ -13,7 +14,7 @@ graficos: Rodolfo Almeida
 credito_img: Rodolfo Almeida
 dados_abertos:
 dados_abertos_link:
-background: '../img/ibama-files/oleo_-teaser.png'
+background: '../img/ibama-files/oleo_-teaser.jpeg'
 atualizacao: ""
 categories:
   - ecossistema

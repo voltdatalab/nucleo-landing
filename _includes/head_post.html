@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="{{site.baseurl}}/css/bootstrap.min.css" rel="stylesheet">
@@ -29,11 +29,11 @@
     <meta property="og:url" content=" {{ post.url }}" />
 
     <!-- FACEBOOK -->
-    <meta property="og:image" content=" {{ post.background }} " />
+    <meta property="og:image" content=" {{ page.background }} " />
     <meta property="og:image:type" content="image/jpg" />
 
     <!-- Whatsapp -->
-    <meta property="og:image" content="{{ post.background }}" />
+    <meta property="og:image" content="{% if page.background %} {{ site.baseurl }}{{ page.background }} { % else % } https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png { % endif % }" />
     <meta property="og:image:type" content="image/jpg" />
 
     <!-- Twitter -->

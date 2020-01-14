@@ -1,4 +1,6 @@
 ---
+published: TRUE
+permalink: /redes/2020-01-08-twitter-hashtags-gilmar-analise/
 layout: conteudo
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
 titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
