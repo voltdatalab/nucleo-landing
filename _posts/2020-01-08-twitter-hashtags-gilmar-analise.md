@@ -14,7 +14,7 @@ graficos: Rodolfo Almeida
 credito_img: Rodolfo Almeida
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
-background: 'https://github.com/voltdatalab/nucleo-landing/blob/gh-pages/img/twitter-files/twitter_materia.jpeg?raw=true'
+background: 'https://raw.githubusercontent.com/voltdatalab/nucleo-landing/gh-pages/img/twitter-files/twitter_materia.jpeg'
 atualizacao: "Texto atualizado em 9.jan.2020 às 19h41 para incluir link para explicação sobre trending topics"
 categories:
   - "redes"
