@@ -24,7 +24,7 @@ tags:
   - "Desastre ambiental"
 ---
 
-No dia 13 de setembro de 2019, servidores do [Ibama](https://www.ibama.gov.br/) (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na responder ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste. As equipes acompanhavam o incidente desde 2 de setembro e, até então, o óleo já havia atingido praias de Sergipe, Rio Grande do Norte e Pernambuco.
+No dia 13 de setembro de 2019, servidores do [Ibama](https://www.ibama.gov.br/) (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na resposta ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste. As equipes acompanhavam o incidente desde 2 de setembro e, até então, o óleo já havia atingido praias de Sergipe, Rio Grande do Norte e Pernambuco.
 
 Quinze dias depois, em 28 de setembro, o óleo já se tinha chegado ao Ceará, Bahia e Maranhão. A reclamação persistiu: “Número reduzido da equipe do Ibama para realizar todos os trabalhos de campo necessários”, diz um relatório enviado naquela data, obtido por meio da Lei de Acesso à Informação. Os documentos, que somam 450 páginas, cobrem o período de 2 de setembro a 4 de outubro.
 
