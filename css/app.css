@@ -1112,7 +1112,7 @@ table a:link {
 
 thead a:link {
     text-decoration: none;
-    color: #ADBC30;
+    color: #4b31dd;
 }
 
 table a:visited {
@@ -1392,11 +1392,11 @@ table a:visited {
 }
 
 .td-index-structure a {
-  color: #adbd30 !important;
+  color: #4b31dd !important;
   text-align: center !important;
 }
 
 .td-index-content a {
-  color: #adbd30 !important;
+  color: #4b31dd !important;
   text-align: center !important;
 }
