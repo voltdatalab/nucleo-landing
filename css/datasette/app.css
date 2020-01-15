@@ -914,12 +914,12 @@ form input[type=search] {
 form input[type=submit] {
     color: #000;
     background-color: #fff;
-    border-color: #ADBD30;
+    border-color: #4b31dd;
     font-weight: 400;
     cursor: pointer;
     text-align: center;
     vertical-align: middle;
-    border: 1px solid #ADBD30;
+    border: 1px solid #4b31dd;
     padding: .5em 0.8em;
     font-size: 1.6rem !important;
     line-height: 1;
@@ -933,11 +933,11 @@ form input[type=submit]:hover {
 }
 
 textarea:focus {
-  outline: 1px solid #adbc30;
+  outline: 1px solid #4b31dd;
 }
 
 input:focus {
-  outline: 1px solid #adbc30;
+  outline: 1px solid #4b31dd;
 }
 
 input[type="submit"] {
