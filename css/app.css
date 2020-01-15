@@ -1294,11 +1294,11 @@ table a:visited {
 
 @media (min-width: 1200px) {
    .img-index {
-       height: 18vh;
+       height: 27vh;
        position: absolute;
        display: block;
        right: 17vw;
-       top: 2vh;
+       top: 4vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
@@ -1310,10 +1310,10 @@ table a:visited {
 
 @media (min-width: 768px) and (max-width: 1199px) {
    .img-index {
-       height: 18vh;
+       height: 27vh;
        position: absolute;
        display: block;
-       right: 10vw;
+       right: 6vw;
        top: 2vh;
        opacity: 0.3;
        pointer-events: none;
@@ -1326,7 +1326,7 @@ table a:visited {
 
 @media (min-width: 577px) and (max-width: 767px) {
    .img-index {
-       height: 18vh;
+       height: 27vh;
        position: absolute;
        display: block;
        right: 30vw;
@@ -1342,10 +1342,10 @@ table a:visited {
 
 @media (min-width: 400px) and (max-width: 576px) {
    .img-index {
-       height: 18vh;
+       height: 37vh;
        position: absolute;
        display: block;
-       right: 24vw;
+       right: 20vw;
        top: -2vh;
        opacity: 0.3;
        pointer-events: none;
