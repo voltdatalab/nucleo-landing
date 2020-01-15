@@ -1376,9 +1376,9 @@ table a:visited {
 .img-database {
     position: absolute;
     display: block;
-    right: 5vw;
+    right:11vw;
     top: 13vh;
-    opacity: 1;
+    opacity: 0.3;
     pointer-events: none;
     z-index: -1;
     margin-left: auto;
