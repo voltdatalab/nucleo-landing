@@ -1294,85 +1294,80 @@ table a:visited {
 
 @media (min-width: 1200px) {
    .img-index {
-       /* height: 48vh; */
+       height: 18vh;
        position: absolute;
        display: block;
        right: 17vw;
-       top: 7vh;
+       top: 2vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
        margin-right: auto;
-       max-width: 263px;
        width: auto;
   }
 }
 
 @media (min-width: 768px) and (max-width: 1199px) {
    .img-index {
-       /* height: 48vh; */
+       height: 18vh;
        position: absolute;
        display: block;
        right: 10vw;
-       top: 7vh;
+       top: 2vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
        margin-right: auto;
-       max-width: 263px;
        width: auto;
   }
 }
 
 @media (min-width: 577px) and (max-width: 767px) {
    .img-index {
-       /* height: 48vh; */
+       height: 18vh;
        position: absolute;
        display: block;
-       right: 25vw;
-       top: 7vh;
+       right: 30vw;
+       top: -1vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
        margin-right: auto;
-       max-width: 263px;
        width: auto;
   }
 }
 
 @media (min-width: 400px) and (max-width: 576px) {
    .img-index {
-       /* height: 48vh; */
+       height: 18vh;
        position: absolute;
        display: block;
        right: 24vw;
-       top: 7vh;
+       top: -2vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
        margin-right: auto;
-       max-width: 263px;
        width: auto;
   }
 }
 
 @media (max-width:399px){
    .img-index {
-       /* height: 48vh; */
+       height: 37vh;
        position: absolute;
        display: block;
-       right: 6vw;
-       top: 7vh;
+       right: 18vw;
+       top: 5vh;
        opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
        margin-right: auto;
-       max-width: 263px;
        width: auto;
   }
 }
