@@ -1299,7 +1299,7 @@ table a:visited {
        display: block;
        right: 17vw;
        top: 7vh;
-       opacity: 1;
+       opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
@@ -1316,7 +1316,7 @@ table a:visited {
        display: block;
        right: 10vw;
        top: 7vh;
-       opacity: 1;
+       opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
@@ -1333,7 +1333,7 @@ table a:visited {
        display: block;
        right: 25vw;
        top: 7vh;
-       opacity: 1;
+       opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
@@ -1350,7 +1350,7 @@ table a:visited {
        display: block;
        right: 24vw;
        top: 7vh;
-       opacity: 1;
+       opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
@@ -1367,7 +1367,7 @@ table a:visited {
        display: block;
        right: 6vw;
        top: 7vh;
-       opacity: 1;
+       opacity: 0.3;
        pointer-events: none;
        z-index: -1;
        margin-left: auto;
