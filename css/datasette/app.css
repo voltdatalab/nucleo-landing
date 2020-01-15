@@ -1160,10 +1160,11 @@ table a:visited {
 }
 
 #search-all-fts-text{
-  margin-top:2em !important;
-  font:12px RobotoMono-Regular, Sans-serif;
-  color: #333333 !important;
-  width: 45vw !important;
+     margin-top:2em !important;
+     font:12px RobotoMono-Regular, Sans-serif;
+     color: #333333 !important;
+     width: 45vw !important;
+     background-color: transparent;
 }
 
 .table, td, th {
