@@ -58,7 +58,7 @@ a {
     text-decoration: none;
 }
 a:hover, a:focus {
-    color: #261873;
+    color: #130c38;
     text-decoration: none;
 }
 a:focus, a:active, 
@@ -852,7 +852,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 
 .footer a:hover, .footer a:focus {
-    color: #261873;
+    color: #130c38;
     text-decoration: none;
 }
 
