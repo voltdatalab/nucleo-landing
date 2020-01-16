@@ -1012,7 +1012,7 @@ form input[type=text] {
     padding: 9px 4px;
     display: inline-block;
     font-size: 1em;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif !important;
     margin-top: 10px;
 }
 
@@ -1023,7 +1023,7 @@ form input[type=search] {
     padding: 9px 4px;
     display: inline-block;
     font-size: 1em;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif !important;
     /*margin-top: 10px;*/
 }
 
@@ -1103,11 +1103,11 @@ input[type="submit"] {
 }
 .select-wrapper select {
     font-size: 1em;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif !important;
 }
 .select-wrapper option {
     font-size: 1em;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif !important;
 }
 
 .select-wrapper select:focus {
@@ -1141,7 +1141,7 @@ td {
 }
 
 .td-index-name {
-  font:15px RobotoMono-Bold, Sans-serif !important;
+  font:15px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1151,7 +1151,7 @@ td {
 }
 
 .td-database-lines {
-  font:12px RobotoLight, Sans-serif !important;
+  font:12px Roboto, Sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1170,44 +1170,44 @@ th {
 }
 
 .td-index-structure{
-  font:14px RobotoLight, Sans-serif !important;
+  font:14px Roboto, Sans-serif !important;
   color: #4d4d4d !important;
   font-weight: bold !important;
   text-align: center !important;
 }
 
 .td-index-content{
-  font:18px SilvaDisplay6-Regular, Sans-serif !important;
+  font:18px Barlow, Sans-serif !important;
 }
 
 .td-database-content{
-  font:12px SilvaDisplay6-Regular, Sans-serif !important;
+  font:12px Barlow, Sans-serif !important;
   color: #333333 !important;
 }
 
 .td-index-update{
-  font:14px RobotoLight, Sans-serif !important;
+  font:14px Roboto, Sans-serif !important;
   color: #333333 !important;
   text-align: center !important;
 }
 
 .th-index{
-  font:12px RobotoMono-Bold, Sans-serif !important;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .td-database-name{
-  font:16px RobotoMono-Bold, Sans-serif !important;
+  font:16px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .th-database {
-  font:12px RobotoMono-Bold, Sans-serif !important;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .database-title{
-  font:40px RobotoMono-Bold, Sans-serif !important;
+  font:40px Roboto Mono, Sans-serif !important;
   color: #000000 !important;
 }
 
@@ -1217,7 +1217,7 @@ th {
 }
 
 .database-consult {
-  font:12px RobotoMono-Regular, Sans-serif;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1277,7 +1277,7 @@ table a:visited {
 
 #search-all-fts-text{
      margin-top:2em !important;
-     font:12px RobotoMono-Regular, Sans-serif;
+     font:12px Roboto Mono, Sans-serif !important;
      color: #333333 !important;
      width: 45vw !important;
      background-color: transparent !important;
@@ -1285,7 +1285,7 @@ table a:visited {
 
 .table, td, th {
   /*border: 1px solid black;*/
-  font-family: Roboto, Sans-serif;
+  font-family: Roboto, Sans-serif !important;
   font-size: 12px;
   line-height: 1.428571429;
 }
@@ -1308,86 +1308,86 @@ table a:visited {
 }
 
 .database-footer {
-  font:16px RobotoMono-Regular, Sans-serif;
+  font:16px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .database-sql {
-  font:14px RobotoMono-Regular, Sans-serif;
+  font:14px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .query-title{
-  font:40px RobotoMono-Bold, Sans-serif !important;
+  font:40px Roboto Mono, Sans-serif !important;
   color: #000000 !important;
 }
 
 .query-sql-title {
-  font:12px RobotoMono-Regular, Sans-serif;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .query-sql {
-    font: 14px RobotoMono-Regular, Sans-serif;
+    font: 14px Roboto Mono, Sans-serif !important;
     color: #333333 !important;
 }
 
 .query-export {
-    font: 14px Roboto, Sans-serif;
+    font: 14px Roboto, Sans-serif !important;
     color: #000000 !important;
 }
 
 .table-title{
-  font:40px RobotoMono-Bold, Sans-serif !important;
+  font:40px Roboto Mono, Sans-serif !important;
   color: #000000 !important;
 }
 
 .table-lines {
-    font: 20px Roboto, Sans-serif;
+    font: 20px Roboto, Sans-serif !important;
     color: #000000 !important;
 }
 
 .table-filter {
-  font:12px RobotoMono-Regular, Sans-serif;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
 }
 
 .table-export {
-    font: 14px Roboto, Sans-serif;
+    font: 14px Roboto, Sans-serif !important;
     color: #000000 !important;
 }
 
 .table-next-page {
-    font: 14px Roboto, Sans-serif;
+    font: 14px Roboto, Sans-serif !important;
 }
 
 .table-advanced-export{
-  font:30px SilvaDisplay8-Regular, Sans-serif !important;
+  font:30px Barlow, Sans-serif !important;
   color: #000000 !important;
 }
 
 .footer-options {
-  font:16px RobotoMono-Regular, Sans-serif;
+  font:16px Roboto Mono, Sans-serif;
   color: #000000 !important;
 }
 
 .footer-csv-json{
-  font:22px RobotoMono-Bold, Sans-serif !important;
+  font:22px Roboto Mono, Sans-serif !important;
   color: #000000 !important;
 }
 
 .footer-json-options{
-  font:16px RobotoMedium, Sans-serif !important;
+  font:16px Roboto, Sans-serif !important;
   color: #adbd30 !important;
 }
 
 .footer-csv-options{
-  font:16px RobotoMedium, Sans-serif !important;
+  font:16px Roboto, Sans-serif !important;
   color: #000000 !important;
 }
 
 .table-search {
-  font:12px RobotoMono-Regular, Sans-serif;
+  font:12px Roboto Mono, Sans-serif !important;
   color: #333333 !important;
   margin: 0 0 4px !important;
 }
