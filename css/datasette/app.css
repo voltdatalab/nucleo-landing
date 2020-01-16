@@ -840,7 +840,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .logo {
   margin-left: 2rem;
   margin-right: 2rem;
-  font:44px SilvaDisplayExtBd2-Regular, sans-serif;
+  font:44px Barlow, sans-serif;
 }
   
 .main .logo.cursive{
