@@ -840,7 +840,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .logo {
   margin-left: 2rem;
   margin-right: 2rem;
-  font:44px SilvaDisplayExtBd2-Regular, Sans-serif;
+  font:44px SilvaDisplayExtBd2-Regular, sans-serif;
 }
   
 .main .logo.cursive{
@@ -865,7 +865,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
  position: relative;
  margin-left: 2rem;
  margin-right: 2rem;
- font:20px Roboto, Sans-serif;
+ font:20px Roboto, sans-serif;
   
 }
 
@@ -1141,17 +1141,17 @@ td {
 }
 
 .td-index-name {
-  font:15px Roboto Mono, Sans-serif !important;
+  font:15px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .td-database-variables {
-  font:14px Roboto, Sans-serif !important;
+  font:14px Roboto, sans-serif !important;
   color: #000000 !important;
 }
 
 .td-database-lines {
-  font:12px Roboto, Sans-serif !important;
+  font:12px Roboto, sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1170,54 +1170,54 @@ th {
 }
 
 .td-index-structure{
-  font:14px Roboto, Sans-serif !important;
+  font:14px Roboto, sans-serif !important;
   color: #4d4d4d !important;
   font-weight: bold !important;
   text-align: center !important;
 }
 
 .td-index-content{
-  font:18px Barlow, Sans-serif !important;
+  font:18px Barlow, sans-serif !important;
 }
 
 .td-database-content{
-  font:12px Barlow, Sans-serif !important;
+  font:12px Barlow, sans-serif !important;
   color: #333333 !important;
 }
 
 .td-index-update{
-  font:14px Roboto, Sans-serif !important;
+  font:14px Roboto, sans-serif !important;
   color: #333333 !important;
   text-align: center !important;
 }
 
 .th-index{
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .td-database-name{
-  font:16px Roboto Mono, Sans-serif !important;
+  font:16px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .th-database {
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .database-title{
-  font:40px Roboto Mono, Sans-serif !important;
+  font:40px Roboto Mono, sans-serif !important;
   color: #000000 !important;
 }
 
 .database-description{
-    font:20px Roboto, Sans-serif !important;
+    font:20px Roboto, sans-serif !important;
     color: #4d4d4d !important;
 }
 
 .database-consult {
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1277,7 +1277,7 @@ table a:visited {
 
 #search-all-fts-text{
      margin-top:2em !important;
-     font:12px Roboto Mono, Sans-serif !important;
+     font:12px Roboto Mono, sans-serif !important;
      color: #333333 !important;
      width: 45vw !important;
      background-color: transparent !important;
@@ -1285,7 +1285,7 @@ table a:visited {
 
 .table, td, th {
   /*border: 1px solid black;*/
-  font-family: Roboto, Sans-serif !important;
+  font-family: Roboto, sans-serif !important;
   font-size: 12px;
   line-height: 1.428571429;
 }
@@ -1308,86 +1308,86 @@ table a:visited {
 }
 
 .database-footer {
-  font:16px Roboto Mono, Sans-serif !important;
+  font:16px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .database-sql {
-  font:14px Roboto Mono, Sans-serif !important;
+  font:14px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .query-title{
-  font:40px Roboto Mono, Sans-serif !important;
+  font:40px Roboto Mono, sans-serif !important;
   color: #000000 !important;
 }
 
 .query-sql-title {
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .query-sql {
-    font: 14px Roboto Mono, Sans-serif !important;
+    font: 14px Roboto Mono, sans-serif !important;
     color: #333333 !important;
 }
 
 .query-export {
-    font: 14px Roboto, Sans-serif !important;
+    font: 14px Roboto, sans-serif !important;
     color: #000000 !important;
 }
 
 .table-title{
-  font:40px Roboto Mono, Sans-serif !important;
+  font:40px Roboto Mono, sans-serif !important;
   color: #000000 !important;
 }
 
 .table-lines {
-    font: 20px Roboto, Sans-serif !important;
+    font: 20px Roboto, sans-serif !important;
     color: #000000 !important;
 }
 
 .table-filter {
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
 }
 
 .table-export {
-    font: 14px Roboto, Sans-serif !important;
+    font: 14px Roboto, sans-serif !important;
     color: #000000 !important;
 }
 
 .table-next-page {
-    font: 14px Roboto, Sans-serif !important;
+    font: 14px Roboto, sans-serif !important;
 }
 
 .table-advanced-export{
-  font:30px Barlow, Sans-serif !important;
+  font:30px Barlow, sans-serif !important;
   color: #000000 !important;
 }
 
 .footer-options {
-  font:16px Roboto Mono, Sans-serif;
+  font:16px Roboto Mono, sans-serif !important;
   color: #000000 !important;
 }
 
 .footer-csv-json{
-  font:22px Roboto Mono, Sans-serif !important;
+  font:22px Roboto Mono, sans-serif !important;
   color: #000000 !important;
 }
 
 .footer-json-options{
-  font:16px Roboto, Sans-serif !important;
+  font:16px Roboto, sans-serif !important;
   color: #adbd30 !important;
 }
 
 .footer-csv-options{
-  font:16px Roboto, Sans-serif !important;
+  font:16px Roboto, sans-serif !important;
   color: #000000 !important;
 }
 
 .table-search {
-  font:12px Roboto Mono, Sans-serif !important;
+  font:12px Roboto Mono, sans-serif !important;
   color: #333333 !important;
   margin: 0 0 4px !important;
 }
