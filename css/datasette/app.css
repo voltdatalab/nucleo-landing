@@ -1512,3 +1512,7 @@ table a:visited {
   color: #4b31dd !important;
   text-align: center !important;
 }
+
+.ml-2 {
+  margin-left: 2rem !important; 
+}
