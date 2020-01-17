@@ -1,4 +1,4 @@
-I"��<p>No dia 13 de setembro de 2019, servidores do <a href="https://www.ibama.gov.br/">Ibama</a> (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na responder ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste. As equipes acompanhavam o incidente desde 2 de setembro e, até então, o óleo já havia atingido praias de Sergipe, Rio Grande do Norte e Pernambuco.</p>
+I"�<p>No dia 13 de setembro de 2019, servidores do <a href="https://www.ibama.gov.br/">Ibama</a> (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) emitiram um alerta para o Ministério do Meio Ambiente: faltava pessoal para realizar todos os trabalhos de campo e de escritório necessários na resposta ao desastre ambiental provocado pelo vazamento de óleo nas praias do Nordeste. As equipes acompanhavam o incidente desde 2 de setembro e, até então, o óleo já havia atingido praias de Sergipe, Rio Grande do Norte e Pernambuco.</p>
 
 <p>Quinze dias depois, em 28 de setembro, o óleo já se tinha chegado ao Ceará, Bahia e Maranhão. A reclamação persistiu: “Número reduzido da equipe do Ibama para realizar todos os trabalhos de campo necessários”, diz um relatório enviado naquela data, obtido por meio da Lei de Acesso à Informação. Os documentos, que somam 450 páginas, cobrem o período de 2 de setembro a 4 de outubro.</p>
 
@@ -32,6 +32,8 @@
 <h5 id="a-contaminação-das-praias-segundo-um-relatório-já-era-concreta-enquanto-a-ação-de-prevenção-embora-louvável-em-acidentes-pontuais-era-considerada-incerta-na-circunstância-desta-emergência">A contaminação das praias, segundo um relatório, já era concreta, enquanto a ação de prevenção, “embora louvável em acidentes pontuais”, era considerada “incerta na circunstância desta emergência”.</h5>
 
 <p>Em 30 de outubro, os governadores do Nordeste - todos afetados pelo desastre ambiental - divulgaram <a href="http://www.secom.ba.gov.br/arquivos/File/Notasobrecrimeambiental.pdf">uma carta</a> pedindo que o ministério colocasse em operação o PNC e se dispusesse a fazer uma gestão de crise “com total transparência nos dados e ações”. Os signatários afirmam que enfrentavam uma crime ambiental sem precedentes sem apoio do governo Bolsonaro.</p>
+
+<p><img src="../img/ibama-files/avistamentos.jpeg" alt="Gráfico sobre avistamentos de óleo no NE" /></p>
 
 <p>Dias antes, em 17 de outubro, procuradores do Ministério Público Federal dos nove estados do Nordeste ajuizaram uma <a href="http://www.mpf.mp.br/se/sala-de-imprensa/docs/ACP0232019IC1.35.000.001274201963DesastreAmbientalPlanoNacionaldeContingencia1.pdf">ação civil pública</a> pedindo que a Justiça obrigasse o governo a acionar o PNC. Para os procuradores, apesar da gravidade do desastre, a União se mantinha “omissa, inerte, ineficiente e ineficaz” e utilizou métodos amadores para limpar as praias, enquanto existia “todo um Plano Nacional de Contingência para ser implementado”.</p>
 
@@ -67,7 +69,7 @@
 
 <p>A atuação da pasta no desastre ambiental é objeto de uma Comissão Parlamentar de Inquérito <a href="https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/parlamentar-de-inquerito/56a-legislatura/cpi-derramamento-de-oleo-no-nordeste">instaurada</a> em 27 de novembro. “O governo demorou para tomar as primeiras providências. Ficou evidente que toda a estrutura desenhada do ponto de vista institucional demorou para ser acionada”, diz o deputado federal Rodrigo Agostinho (PSB-SP), presidente da Comissão de Meio Ambiente e Desenvolvimento Sustentável e membro da CPI.</p>
 
-<p>Procurado pela reportagem, o Ministério do Meio Ambiente e o Ibama não se manifestaram.</p>
+<p>Procurado pela reportagem, o Ministério do Meio Ambiente não se manifestou.</p>
 
 <h3 id="como-fizemos-isso">Como fizemos isso</h3>
 
@@ -76,6 +78,8 @@
 <p>Você pode fazer o download dos seis documentos <a href="../documentos/ibama-oleo">neste link</a>.</p>
 
 <p>A reportagem foi apurada em novembro e dezembro de 2019, e finalizada em janeiro de 2020.</p>
+
+<p>Os dados de avistamento de manchas de óleo do Ibama usados nessa matéria foram coletados com a utilização de <a href="https://kguidonimartins.github.io/monitora-derramamento-oleo/">código desenvolvido</a> por Karlo Guidoni Martins.</p>
 
 <h3 id="linha-do-tempo">Linha do tempo</h3>
 
@@ -106,7 +110,7 @@
         margin: 0 auto;
     }
     .g-artboard-medium {
-        display: ;
+        display: none;
         margin: 0 auto;
     }
     .g-artboard-smallest {
@@ -317,7 +321,7 @@
 			.g-aiPtransformed p { white-space: nowrap; }
 		</style>
 		<div id="g-oleo-big-graphic">
-			<img id="g-ai1-0" class="g-aiImg" src="URL-NUCLEO/NOME-DA-PASTA/oleo-big.png" />
+			<img id="g-ai1-0" class="g-aiImg" src="../img/ibama-files/oleo-big.png" />
 			<div id="g-ai1-1" class="g-conteudo g-aiAbs" style="top:0.3247%;right:55.9012%;">
 				<p class="g-aiPstyle0">Situação da</p>
 			</div>
@@ -619,7 +623,7 @@
 			.g-aiPtransformed p { white-space: nowrap; }
 		</style>
 		<div id="g-oleo-medium-graphic">
-			<img id="g-ai2-0" class="g-aiImg" src="URL-NUCLEO/NOME-DA-PASTA/oleo-medium.png" />
+			<img id="g-ai2-0" class="g-aiImg" src="../img/ibama-files/oleo-medium.png" />
 			<div id="g-ai2-1" class="g-conteudo g-aiAbs" style="top:0.3806%;right:47.7676%;">
 				<p class="g-aiPstyle0">Situação da</p>
 			</div>
@@ -998,7 +1002,7 @@
 			.g-aiPtransformed p { white-space: nowrap; }
 		</style>
 		<div id="g-oleo-smallest-graphic">
-			<img id="g-ai3-0" class="g-aiImg" src="URL-NUCLEO/NOME-DA-PASTA/oleo-smallest.png" />
+			<img id="g-ai3-0" class="g-aiImg" src="../img/ibama-files/oleo-smallest.png" />
 			<div id="g-ai3-1" class="g-conteudo g-aiAbs" style="top:0.3681%;left:2.0092%;width:84.2985%;">
 				<p class="g-aiPstyle0">Os relatórios obtidos pelo <strong>NÚCLEO</strong> cobrem o período de 12 de setembro a 4 de outubro e permitem visualizar a quantidade de pessoal, equipamentos e necessidades da equipe do Ibama</p>
 			</div>

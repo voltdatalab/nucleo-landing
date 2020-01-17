@@ -14,7 +14,7 @@ credito_img: Rodolfo Almeida
 dados_abertos: "Baixe aqui os documentos do Ibama obtidos via LAI"
 dados_abertos_link: 'https://www.dropbox.com/sh/fpc38eitgvnvmnf/AADSd6AcBawT_vYMB2_LmDkGa?dl=0'
 background: '../img/ibama-files/oleo_-teaser.jpeg'
-atualizacao: "Gráfico atualizado para ajuste melhorado a telas de celulares, sem alteração de informações. Texto atualizado às 15h28 para esclarecer que apenas o Ministério do Meio Ambiente foi procurado pela reportagem e para acrescentar link e créditos na metodologia."
+atualizacao: "Gráfico atualizado para ajuste melhorado a telas de celulares, sem alteração de informações. Texto atualizado às 15h28 de 15.jan.2020 para esclarecer que apenas o Ministério do Meio Ambiente foi procurado pela reportagem e para acrescentar link e créditos na metodologia. Publicação atualizada em 17.jan.2020 às 12h19 para incluir gráfico sobre avistamentos."
 categories:
   - ecossistema
 tags:
@@ -53,6 +53,8 @@ Os documentos também mostram que a falta de pessoal fez com que o Ibama privile
 ##### A contaminação das praias, segundo um relatório, já era concreta, enquanto a ação de prevenção, “embora louvável em acidentes pontuais”, era considerada “incerta na circunstância desta emergência”.
 
 Em 30 de outubro, os governadores do Nordeste - todos afetados pelo desastre ambiental - divulgaram [uma carta](http://www.secom.ba.gov.br/arquivos/File/Notasobrecrimeambiental.pdf) pedindo que o ministério colocasse em operação o PNC e se dispusesse a fazer uma gestão de crise “com total transparência nos dados e ações”. Os signatários afirmam que enfrentavam uma crime ambiental sem precedentes sem apoio do governo Bolsonaro.
+
+![Gráfico sobre avistamentos de óleo no NE](../img/ibama-files/avistamentos.jpeg)
 
 Dias antes, em 17 de outubro, procuradores do Ministério Público Federal dos nove estados do Nordeste ajuizaram uma [ação civil pública](http://www.mpf.mp.br/se/sala-de-imprensa/docs/ACP0232019IC1.35.000.001274201963DesastreAmbientalPlanoNacionaldeContingencia1.pdf) pedindo que a Justiça obrigasse o governo a acionar o PNC. Para os procuradores, apesar da gravidade do desastre, a União se mantinha “omissa, inerte, ineficiente e ineficaz” e utilizou métodos amadores para limpar as praias, enquanto existia “todo um Plano Nacional de Contingência para ser implementado”.
 
