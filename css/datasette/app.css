@@ -1516,3 +1516,8 @@ table a:visited {
 .ml-2 {
   margin-left: 2rem !important; 
 }
+
+tr {
+ border-left: 1px solid black !important;
+ border-right: 1px solid black !important;
+}
