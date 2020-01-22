@@ -1120,7 +1120,7 @@ input[type="submit"] {
 }
 
 thead {
-  background-color: #FFF !important;
+  background-color: #eee !important;
   color: #4b31dd !important;
 }
 
@@ -1284,7 +1284,7 @@ table a:visited {
 }
 
 .table, td, th {
-  /*border: 1px solid black;*/
+  border: 1px solid black;
   font-family: Roboto, sans-serif !important;
   font-size: 12px;
   line-height: 1.428571429;
@@ -1511,4 +1511,8 @@ table a:visited {
 .td-index-content a {
   color: #4b31dd !important;
   text-align: center !important;
+}
+
+.ml-2 {
+  margin-left: 2rem !important; 
 }

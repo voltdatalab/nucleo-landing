@@ -2,7 +2,7 @@
 published: TRUE
 layout: conteudo
 title: "Mais de 7 mil políticos possuem dívida ativa com o governo federal"
-titulo_redes: "7 mil políticos possuem dívida com o governo federal"
+titulo_redes: "7 mil políticos têm dívida com governo federal"
 subtitle: "Registros da Dívida Ativa da União mostram que 7.186 políticos eleitos devem conjuntamente mais de R$ 1,1 bilhão aos cofres públicos. SP, BA e CE são Estados de origem com maior montante; PSDB lidera a lista dentre os partidos cujos políticos mais devem."
 subtitle_redes: "Dívida supera R$ 1,1 bi; PSDB lidera entre os partidos"
 excerpt: "Registros da Dívida Ativa da União mostram que 7.186 políticos brasileiros eleitos, em todas as esferas (federal, distrital, estadual e municipal), devem conjuntamente mais de R$ 1,1 bilhão aos cofres públicos."

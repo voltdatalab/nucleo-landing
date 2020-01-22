@@ -307,7 +307,7 @@ html {
 body {
   line-height: 1.428571429;
   color: #241f21;
-  background-color: #ffffff;
+  background-color: #eeeeee;
 }
 
 input,
@@ -1602,7 +1602,7 @@ pre code {
 
 table {
   max-width: 100%;
-  background-color: #fff;
+  background-color: #eee;
 }
 
 th {
