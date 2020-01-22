@@ -1,4 +1,0 @@
----
-tag: "governo"
-permalink: "/governo"
----

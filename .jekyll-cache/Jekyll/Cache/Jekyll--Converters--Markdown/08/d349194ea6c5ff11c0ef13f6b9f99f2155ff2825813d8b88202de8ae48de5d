@@ -1,0 +1,53 @@
+I"�<p>Registros da Dívida Ativa da União mostram que 7.186 políticos brasileiros eleitos, em todas as esferas (federal, distrital, estadual e municipal), devem conjuntamente mais de R$ 1,1 bilhão aos cofres públicos.</p>
+
+<p>O cruzamento dessas informações foi primeiramente <a href="https://vortex.media/dados/25688/politicos-eleitos-devem-r-11-bilhao-ao-governo-federal/">publicado</a> no começo de dezembro pelo site <em>Vortex</em>, cuja equipe que responsável por dados atualmente compõe o <strong>Núcleo</strong>. As conclusões não mudaram desde então, mas estamos apresentando os dados de outra forma agora.</p>
+
+<p>A análise só foi possível após a divulgação, pela primeira vez, dos dados da PGFN (Procuradoria Geral da Fazenda) em <a href="https://www.pgfn.gov.br/acesso-a-informacao/dados-abertos">formato aberto</a>, em novembro de 2019. Anteriormente era possível <a href="https://www.listadevedores.pgfn.gov.br/">consultar</a> apenas um montante limitado de registros simultaneamente. Com a abertura dos dados, foi possível fazer um cruzamento completo.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>cargo</th>
+      <th>nº de inscritos na Dívida Ativa da União</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>vereadores</td>
+      <td>6.225</td>
+    </tr>
+    <tr>
+      <td>prefeitos</td>
+      <td>772</td>
+    </tr>
+    <tr>
+      <td>deputados (estaduais e distritais)</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td>deputados federais</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>senadores</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>governadores</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 3px;
+}
+</style>
+
+:ET

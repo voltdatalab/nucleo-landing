@@ -1,0 +1,90 @@
+I"<p>Registros da Dívida Ativa da União mostram que 7.186 políticos brasileiros eleitos, em todas as esferas (federal, distrital, estadual e municipal), devem conjuntamente mais de R$ 1,1 bilhão aos cofres públicos.</p>
+
+<p>O cruzamento de informações de políticos eleitos, CPFs e dívida ativa foi primeiramente <a href="https://vortex.media/dados/25688/politicos-eleitos-devem-r-11-bilhao-ao-governo-federal/">publicado</a> no começo de dezembro pelo site <em>Vortex</em>, cuja equipe que responsável por dados atualmente compõe o <strong>Núcleo</strong>. As conclusões não mudaram desde então, mas agora estamos apresentando os dados de outra forma, mais direta e sem <em>paywall</em>.</p>
+
+<p>A análise só foi possível após a divulgação, pela primeira vez, dos dados da PGFN (Procuradoria Geral da Fazenda) em <a href="https://www.pgfn.gov.br/acesso-a-informacao/dados-abertos">formato aberto</a>, em novembro de 2019. Anteriormente era possível <a href="https://www.listadevedores.pgfn.gov.br/">consultar</a> apenas um montante limitado de registros simultaneamente. Com a abertura dos dados, foi possível fazer um cruzamento completo.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Políticas de aperto fiscal são definidas e implementadas por autoridades eleitas, e recursos devidos à União podem ajudar a fechas as contas do Estado</em></p>
+  </li>
+  <li>
+    <p><em>Políticos definem e votam em políticas de regularização tributária, como o <a href="http://receita.economia.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/copy_of_prt-programa-de-regularizacao-tributaria">PERT</a>. Logo, podem ser partes interessadas em descontos e perdões de dívidas</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th>cargo</th>
+      <th>nº de inscritos na Dívida Ativa da União</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>vereadores</td>
+      <td>6.225</td>
+    </tr>
+    <tr>
+      <td>prefeitos</td>
+      <td>772</td>
+    </tr>
+    <tr>
+      <td>deputados (estaduais e distritais)</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td>deputados federais</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>senadores</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>governadores</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A Dívida Ativa da União tem 5,6 milhões de inscritos, segundo os dados da PGFN, totalizando R$ 3,6 trilhões em dinheiro devido. Muitos desses registros, no entanto, estão sob contestação judicial – logo, o montante justamente devido ainda é difícil de ser apurado.</p>
+
+<p>Em geral, um político deve cerca de R$ 7.315. Esse é o valor mediano de todas as dívidas apuradas — ou seja, metade dos políticos com débitos devem pelo menos esse valor.</p>
+
+<p>Os dois governadores identificados são Mauro Carlesse (PHS-TO), com R$ 798,6 mil, e Helder Barbalho (MDB-PA), com R$ 85,4 mil.
+A maior dívida inscrita é da deputada estadual pelo Ceará Fernanda Pessoa, num total de R$142 milhões de reais. Em nota, a assessoria de comunicação da deputada disse que a dívida está sendo questionada na justiça, e que a Junta Comercial do Estado de Tocantins conclui que a deputada “não era responsável pela empresa” que possui o débito.</p>
+
+<p>O Vortex entrou em contato com os dois governadores, com os 10 vereadores, deputados estaduais e prefeitos (via email) na lista dos maiores devedores e com os 10 maiores devedores entre deputados federais e senadores. Veja as respostas ao final da reportagem.</p>
+
+<p>Uma pessoa passa a ser inscrita na Dívida Ativa da União quando deve qualquer valor ao governo – seja impostos, taxas ou multas (trânsito, ambientais, etc). Quando identificam a falta de um pagamento, os órgãos públicos têm 90 dias para pedir a inscrição de alguém na dívida ativa.</p>
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 95%
+}
+
+table, th, td {
+  border: 1px solid #333333;
+  padding: 5px;
+  text-align: center;
+}
+
+th{
+  background-color: #4b31dd;
+  color: #fff
+}
+
+td{
+  font-weight: 400;
+}
+</style>
+
+:ET
