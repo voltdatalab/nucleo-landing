@@ -30,11 +30,13 @@ O cruzamento de informações de políticos eleitos, CPFs e dívida ativa foi pr
 
 A análise só foi possível após a divulgação, pela primeira vez, dos dados da PGFN (Procuradoria Geral da Fazenda) em [formato aberto](https://www.pgfn.gov.br/acesso-a-informacao/dados-abertos), em novembro de 2019. Anteriormente era possível [consultar](https://www.listadevedores.pgfn.gov.br/) apenas um volume limitado de registros simultaneamente. Com a abertura dos dados, foi possível fazer um cruzamento amplo e completo.
 
+#### - [Essa é a primeira de uma série de duas reportagens -- acesse a segunda aqui](https://nucleo.jor.br/dinheiro%20p%C3%BAblico/2020-01-22-divida-ativa-politicos-pessoa-juridica).
+
 ---
 
 ###### É importante porque...
 
-- *Políticas de aperto fiscal são definidas e implementadas por autoridades eleitas, e recursos devidos à União podem ajudar a fechas as contas do Estado*
+- *Políticas de aperto fiscal são definidas e implementadas por autoridades eleitas, e recursos devidos à União podem ajudar a fechar as contas do Estado*
 
 - *Políticos definem e implementam legislações de regularização tributária, como o [PERT](http://receita.economia.gov.br/acesso-rapido/legislacao/legislacao-por-assunto/copy_of_prt-programa-de-regularizacao-tributaria) e a MP do Contribuinte Legal. Logo, podem ser partes interessadas em descontos e perdões de dívidas*
 
@@ -59,16 +61,16 @@ A Dívida Ativa da União inclui o débito de qualquer valor ao governo – seja
 
 |                     | valor            |
 |---------------------|------------------|
-| número de políticos | R$ 7.186         |
+| número de políticos |  7.186         |
 | mediana             | R$ 10.768        |
 | média               | R$ 153.205       |
 | total               | R$ 1.100.929.546 |
 | valor máximo        | R$ 141.961.796   |
 | valor mínimo        | R$ 35            |
 
-#### [Acesse a cartilha detalhada sobre como funciona a Dívida Ativa da União](http://www.pgfn.fazenda.gov.br/assuntos/divida-ativa-da-uniao/orgaos-envolvidos/cartilha_orgaos-de-origem.pdf)
+#### - [Acesse a cartilha detalhada sobre como funciona a Dívida Ativa da União](http://www.pgfn.fazenda.gov.br/assuntos/divida-ativa-da-uniao/orgaos-envolvidos/cartilha_orgaos-de-origem.pdf)
 
-#### [Saiba como regularizar uma dívida](https://www.regularize.pgfn.gov.br/)
+#### - [Saiba como regularizar uma dívida](https://www.regularize.pgfn.gov.br/)
 
 ### Recortes de dados
 
@@ -88,7 +90,7 @@ Mas, se observarmos um gráfico sem o PSDB, vemos uma distribuição um pouco ma
 
 <iframe frameborder="0" class="juxtapose" width="100%" class="justapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35a0c37a-3d36-11ea-b9b8-0edaf8f81e27"></iframe>
 
-#### [Acesse os dados tabelados dos gráficos aqui](https://docs.google.com/spreadsheets/d/1MgWWMJsQWyReMOhMu3WVfAI-Rdlw9Bml326hSnU8H4Q/edit?usp=sharing)
+#### - [Acesse os dados tabelados dos gráficos aqui](https://docs.google.com/spreadsheets/d/1MgWWMJsQWyReMOhMu3WVfAI-Rdlw9Bml326hSnU8H4Q/edit?usp=sharing)
 
 ---
 
@@ -115,391 +117,8 @@ As conclusões e o texto de metodologia foram replicados da reportagem publicada
 
 
 <style>
-table {
-  border-collapse: collapse;
-  width: 95%
-}
-
-table, th, td {
-  border: 1px solid #333333;
-  padding: 5px;
-  text-align: center;
-  margin-bottom: 30px
-}
-
-th{
-  background-color: #4b31dd;
-  color: #fff
-}
-
-td{
-  font-weight: 400;
-}
 
 .justapose{
   height: 54vh
 }
 </style>
-
-<script>
-
-var margin = {
-  top: 20,
-  right: 0,
-  bottom: 30,
-  left: 55
-},
-  width = 500 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
-
-var xValue = function(d) {
-  return d.total_min;
-},
-  xScale = d3.scale.linear().range([0, width]),
-  xMap = function(d) {
-    return xScale(xValue(d));
-  },
-  xAxis = d3.svg.axis().scale(xScale).orient("bottom").ticks(10);
-
-var yValue = function(d) {
-  return d.ocorrencias;
-},
-  yScale = d3.scale.linear().range([height, 0]),
-  yMap = function(d) {
-    return yScale(yValue(d));
-  },
-  yAxis = d3.svg.axis()
-  .scale(yScale)
-  .orient("left")
-  //.tickFormat(d3.format("%"))
-  .ticks(5);
-
-//cores
-var cValue = function(d) {
-  return "Partidos";
-},
-  color = d3.scale.category10().range(["#4b31dd"]);
-
-var svg = d3
-  .select("#scatter")
-  .append("svg")
-  .attr("viewBox", "0 0 600 400")
-  .append("g")
-  .style("font", ".7em Merriweather sans")
-  .style("font-weight", "300")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-// tooltip
-var tooltip = d3
-  .select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
-
-//  data
-d3.csv(
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-bsdNU_I0WkHKxmQwrFZ-3rsuATwlKLROndfdqlc1WjkGUlRsh99x0KSTzVKDcyc4f73YEs3tO5hD/pub?gid=762439931&single=true&output=csv",
-  function(error, data) {
-    // csv para numero
-    data.forEach(function(d) {
-      d.ocorrencias = +d.ocorrencias;
-      d.total_min = +d.total_min;
-      d.sigla_partido = d.sigla_partido;
-      //    console.log(d);
-    });
-
-    xScale.domain([d3.min(data, xValue) - 1, d3.max(data, xValue) + 1]);
-    yScale.domain([d3.min(data, yValue) - 0.1, d3.max(data, yValue) + 0]);
-
-
-    // x-axis
-    svg
-      .append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-      .append("text")
-      .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
-      .style("text-anchor", "end")
-      .style("font-weight", "300")
-      .style("font", ".8em Merriweather sans")
-      .text("Débito em milhões R$");
-
-    // y-axis
-    svg
-      .append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-      .append("text")
-      .attr("class", "label")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .attr("x", -10)
-      .style("text-anchor", "end")
-      .style("font", ".8em Merriweather sans")
-      .style("font-weight", "300")
-      .text("Número de registros");
-
-    // dots
-    svg
-      .selectAll(".dot")
-      .data(data)
-      .enter()
-      .append("circle")
-      .attr("class", "dot")
-      .attr("r", 4.5)
-      .style("opacity", 0.8)
-      .attr("cx", xMap)
-      .attr("cy", yMap)
-      .style("fill", function(d) {
-        return color(cValue(d));
-      })
-      .on("mouseover", function(d) {
-        tooltip
-          .transition()
-          .duration(50)
-          .attr("min-height", "60px")
-          .style("opacity", 1)
-          .style("background-color", "#cbcbcb")
-          //.style("font", ".8em Merriweather sans")
-          .style("padding", "10px");
-
-        tooltip
-          .html(
-            "PARTIDO:<strong> " +
-              d.sigla_partido +
-              "</strong>" +
-              "<br/>Devido por políticos: <strong>R$" +
-              xValue(d) + " mi" +
-              "</strong> <br/>" +
-              "Número de registros: <strong>"+
-              d.ocorrencias + "</strong>"
-          )
-          .style("left", d3.event.pageX + 5 + "px")
-          .style("top", d3.event.pageY - 28 + "px")
-          .style("bottom", d3.event.pageY - 28 + "px");
-      })
-      .on("mouseout", function(d) {
-        tooltip.transition().duration(500).style("opacity", 0);
-      });
-
-    //  legenda
-    var legend = svg
-      .selectAll(".legend")
-      .data(color.domain())
-      .enter()
-      .append("g")
-      .attr("class", "legend")
-      .style("font", ".8em 'Merriweather sans'")
-      .attr("transform", function(d, i) {
-        return "translate(0," + i * 20 + ")";
-      });
-
-    // legenda retangular
-    legend
-      .append("rect")
-      .attr("x", width / 1.05)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", color);
-
-    // texto legenda
-    legend
-      .append("text")
-      .attr("x", width / 1.07)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("font", "1em Merriweather sans")
-      .style("font-weight", "300")
-      .style("text-anchor", "end")
-      .text(function(d) {
-        return d;
-      });
-  }
-);
-</script>
-
-<script>
-var margin = {
-  top: 20,
-  right: 0,
-  bottom: 30,
-  left: 55
-},
-  width = 500 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
-
-var xValue = function(d) {
-  return d.total_min;
-},
-  xScale = d3.scale.linear().range([0, width]),
-  xMap = function(d) {
-    return xScale(xValue(d));
-  },
-  xAxis = d3.svg.axis().scale(xScale).orient("bottom").ticks(10);
-
-var yValue = function(d) {
-  return d.ocorrencias;
-},
-  yScale = d3.scale.linear().range([height, 0]),
-  yMap = function(d) {
-    return yScale(yValue(d));
-  },
-  yAxis = d3.svg.axis()
-  .scale(yScale)
-  .orient("left")
-  //.tickFormat(d3.format("%"))
-  .ticks(5);
-
-//cores
-var cValue = function(d) {
-  return d.regiao;
-},
-  color = d3.scale.category10().range(["#4b31dd", "#f4346f", "#159e84", "#e2a805", "#2283aa"]);
-
-var svg = d3
-  .select("#scatter_uf")
-  .append("svg")
-  .attr("viewBox", "0 0 600 400")
-  .append("g")
-  .style("font", ".7em Merriweather sans")
-  .style("font-weight", "300")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-// tooltip
-var tooltip = d3
-  .select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
-
-//  data
-d3.csv(
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-bsdNU_I0WkHKxmQwrFZ-3rsuATwlKLROndfdqlc1WjkGUlRsh99x0KSTzVKDcyc4f73YEs3tO5hD/pub?gid=147310217&single=true&output=csv",
-  function(error, data) {
-    // csv para numero
-    data.forEach(function(d) {
-      d.ocorrencias = +d.ocorrencias;
-      d.total_min = +d.total_min;
-      d.sigla_uf = d.sigla_uf;
-      d.regiao = d.regiao;
-      //    console.log(d);
-    });
-
-    xScale.domain([d3.min(data, xValue) - 1, d3.max(data, xValue) + 1]);
-    yScale.domain([d3.min(data, yValue) - 0.1, d3.max(data, yValue) + 0]);
-
-
-    // x-axis
-    svg
-      .append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-      .append("text")
-      .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
-      .style("text-anchor", "end")
-      .style("font-weight", "300")
-      .style("font", ".8em Merriweather sans")
-      .text("Débito em milhões R$");
-
-    // y-axis
-    svg
-      .append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-      .append("text")
-      .attr("class", "label")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .attr("x", -10)
-      .style("text-anchor", "end")
-      .style("font", ".8em Merriweather sans")
-      .style("font-weight", "300")
-      .text("Número de registros");
-
-    // dots
-    svg
-      .selectAll(".dot")
-      .data(data)
-      .enter()
-      .append("circle")
-      .attr("class", "dot")
-      .attr("r", 4.5)
-      .style("opacity", 0.8)
-      .attr("cx", xMap)
-      .attr("cy", yMap)
-      .style("fill", function(d) {
-        return color(cValue(d));
-      })
-      .on("mouseover", function(d) {
-        tooltip
-          .transition()
-          .duration(50)
-          .attr("min-height", "60px")
-          .style("opacity", 1)
-          .style("background-color", "#cbcbcb")
-          //.style("font", ".8em Merriweather sans")
-          .style("padding", "10px");
-
-        tooltip
-          .html(
-            "PARTIDO:<strong> " +
-              d.sigla_uf +
-              "</strong> <br>" +
-              "<br/>Devido por políticos: <strong>R$" +
-              xValue(d) + " mi" +
-              "</strong> <br/>" +
-              "Número de registros: <strong>"+
-              d.ocorrencias + "</strong>"
-          )
-          .style("left", d3.event.pageX + 5 + "px")
-          .style("top", d3.event.pageY - 28 + "px")
-          .style("bottom", d3.event.pageY - 28 + "px");
-      })
-      .on("mouseout", function(d) {
-        tooltip.transition().duration(500).style("opacity", 0);
-      });
-
-    //  legenda
-    var legend = svg
-      .selectAll(".legend")
-      .data(color.domain())
-      .enter()
-      .append("g")
-      .attr("class", "legend")
-      .style("font", ".8em 'Merriweather sans'")
-      .attr("transform", function(d, i) {
-        return "translate(0," + i * 20 + ")";
-      });
-
-    // legenda retangular
-    legend
-      .append("rect")
-      .attr("x", width / 1.05)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", color);
-
-    // texto legenda
-    legend
-      .append("text")
-      .attr("x", width / 1.07)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("font", "1em Merriweather sans")
-      .style("font-weight", "300")
-      .style("text-anchor", "end")
-      .text(function(d) {
-        return d;
-      });
-  }
-);
-
-</script>
