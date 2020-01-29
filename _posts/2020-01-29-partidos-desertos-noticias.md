@@ -98,3 +98,5 @@ Apesar de os desertos de notícias representarem quase dois terços dos municíp
 O Núcleo cruzou dados do Atlas da Notícia com informações sobre prefeitos eleitos no Brasil, obtidas por meio do [pacote](https://github.com/Cepesp-Fgv/cepesp-r) Cepesp R, desenvolvido pela Fundação Getúlio Vargas.
 
 Os dados veículos no Brasil são abertos, inclusive por [uma API](https://www.atlas.jor.br/plataforma/). O código da análise pode ser encontrado [neste link](https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c). *Nota: o autor desta análise é um dos coordenadores do Atlas da Notícia.*
+
+O Atlas da Notícia é inspirado no projeto [America’s Growing News Deserts](https://www.cjr.org/local_news/american-news-deserts-donuts-local.php), da revista Columbia Journalism Review, que mapeou a presença de jornais nos Estados Unidos em meio às mudanças no modelo de negócios do jornalismo que levaram ao fechamento de diversos veículos.
