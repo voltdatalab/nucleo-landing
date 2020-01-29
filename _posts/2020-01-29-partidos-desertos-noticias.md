@@ -15,7 +15,7 @@ credito_img: Rodolfo Almeida
 dados_abertos: "Acesse o códigos e os dados"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c'
 background: '../img/atlas-partidos/atlas_header.jpeg'
-atualizacao: ""
+atualizacao: "Matéria atualizada às 17h48 de 29/01/2020 para mudar formatação das tabelas, a fim de melhorar visualização em celulares. Nenhuma informação foi alterada."
 categories:
   - "mídia"
 tags:
@@ -37,23 +37,43 @@ Análise inédita do Núcleo com dados do [Atlas da Notícia](https://www.atlas.
 
 ---
 
-|Partido | prefeituras conquistadas em 2016 | % sobre total de prefeituras| prefeitos em desertos de notícias | % sobre total de desertos | % de desertos sobre total de prefeituras do partido |
-|:-------------|-------:|---------:|----------------:|------------------:|---------:|
-|PCdoB         |      82|       1,5%|               58|                1,7%|      70,7%|
-|PV            |     102|       1,8%|               72|                2,1%|      70,6%|
-|PTB           |     266|       4,8%|              187|                5,4%|      70,3%|
-|PT            |     257|       4,6%|              174|                5,0%|      67,7%|
-|PR            |     299|       5,4%|              202|                5,8%|      67,6%|
-|PP            |     498|       9,0%|              336|                9,7%|      67,5%|
-|PSD           |     540|       9,7%|              355|               10,2%|      65,7%|
-|DEM           |     272|       4,9%|              173|                5,0%|      63,6%|
-|PSB           |     409|       7,4%|              257|                7,4%|      62,8%|
-|PMDB          |   1,049|      18,9%|              638|               18,3%|      60,8%|
-|PRB           |     106|       1,9%|               64|                1,8%|      60,4%|
-|PDT           |     334|       6,0%|              200|                5,8%|      59,9%|
-|PSC           |      86|       1,5%|               50|                1,4%|      58,1%|
-|PPS           |     125|       2,2%|               68|                2,0%|      54,4%|
-|PSDB          |     805|      14,5%|              429|               12,3%|      53,3%|
+|Partido | prefeituras <br>conquistadas em 2016| % sobre total <br>de prefeituras |
+|:-------------|-------:|---------:|
+|PC do B       |      82|       1,5|
+|PV            |     102|       1,8|
+|PTB           |     266|       4,8|
+|PT            |     257|       4,6|
+|PR            |     299|       5,4|
+|PP            |     498|       9,0|
+|PSD           |     540|       9,7|
+|DEM           |     272|       4,9|
+|PSB           |     409|       7,4|
+|PMDB          |    1049|      18,9|
+|PRB           |     106|       1,9|
+|PDT           |     334|       6,0|
+|PSC           |      86|       1,5|
+|PPS           |     125|       2,2|
+|PSDB          |     805|      14,5|
+
+|Partido | prefeitos em desertos de notícias | % sobre total de desertos | % de desertos sobre total de prefeituras do partido |
+|:-------------|----------------:|------------------:|---------:|
+|PC do B       |               58|                1,7|      70,7|
+|PV            |               72|                2,1|      70,6|
+|PTB           |              187|                5,4|      70,3|
+|PT            |              174|                5,0|      67,7|
+|PR            |              202|                5,8|      67,6|
+|PP            |              336|                9,7|      67,5|
+|PSD           |              355|               10,2|      65,7|
+|DEM           |              173|                5,0|      63,6|
+|PSB           |              257|                7,4|      62,8|
+|PMDB          |              638|               18,3|      60,8|
+|PRB           |               64|                1,8|      60,4|
+|PDT           |              200|                5,8|      59,9|
+|PSC           |               50|                1,4|      58,1|
+|PPS           |               68|                2,0|      54,4|
+|PSDB          |              429|               12,3|      53,3|
+
+<small>*Os nomes dos partidos são de acordo com o Cepesp/FGV*</small>
 
 ##### O Atlas da Notícia tem pesquisadores que mapeiam veículos de jornalismo em todo Brasil.
 
