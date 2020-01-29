@@ -6,7 +6,7 @@ titulo_redes: "Empresas ligadas a políticos devem R$2,8 bi ao governo"
 subtitle: "Análise inédita do <strong>Núcleo</strong> identifica montante devido por 2.885 empresas cujos políticos são sócios, administradores, presidentes ou diretores."
 subtitle_redes: "Montante é devido por 2.885 empresas"
 excerpt: "Empresas ligadas a 2.452 políticos brasileiros eleitos -- nas quais são sócios, administradores, presidentes ou diretores -- possuem conjuntamente R$ 2,8 bilhões em débitos com governo federal, de acordo com uma análise inédita do **Núcleo** a partir de dados da Dívida Ativa da União e de CNPJs."
-date: 22/01/2020
+date: 23/01/2020
 analise: Renata Hirota
 graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
