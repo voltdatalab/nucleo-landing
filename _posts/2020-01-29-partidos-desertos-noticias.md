@@ -26,7 +26,7 @@ tags:
 
 No Brasil, 62,5% dos municípios são "desertos de notícias", ou seja, lugares que não possuem veículos de jornalismo. Em qualquer ano, isso significa ausência de reportagens sobre serviços de saúde e transporte, de segurança pública, do cotidiano da cidade e, principalmente, de transparência de autoridades. Em ano de eleições, essa carência é particularmente problemática.
 
-Análise inédita do Núcleo com dados do [Atlas da Notícia](https://www.atlas.jor.br/), projeto que mapeia o jornalismo local no Brasil, mostra quais são os partidos que controlam as prefeituras dos quase 3.500 municípios (cerca de dois terços do Brasil) que não possuem nenhum veículo para cobrir o que acontece no nível local.
+Análise inédita do **Núcleo** com dados do [Atlas da Notícia](https://www.atlas.jor.br/), projeto que mapeia o jornalismo local no Brasil, mostra quais são os partidos que controlam as prefeituras dos quase 3.500 municípios (cerca de dois terços do Brasil) que não possuem nenhum veículo para cobrir o que acontece no nível local.
 
 
 ---
@@ -79,7 +79,7 @@ Análise inédita do Núcleo com dados do [Atlas da Notícia](https://www.atlas.
 
 A primeira coisa a ser notada é que, sem muitas surpresas, a proporção total dos partidos no Brasil é basicamente a mesma nos desertos de notícia. Por exemplo: o PMDB controla 1.049 prefeituras (18,9% do total de municípios), sendo 638 deles sem cobertura jornalística (18,3% do total de desertos).
 
-Essa constatação é importante porque mostra uma correlação direta: os partidos que mais elegeram prefeitos são também aqueles que dominam, em números absolutos, mais locais onde não há cobertura jornalística, e, consequentemente, são mais carentes de informações podem levar a mudanças.
+Essa constatação é importante porque mostra uma correlação direta: os partidos que mais elegeram prefeitos são também aqueles que dominam, em números absolutos, mais locais onde não há cobertura jornalística, e, consequentemente, são mais carentes de informações que possam levar a mudanças.
 
 ![Desertos por partido](../img/atlas-partidos/desertos_por_partido.png)
 
@@ -117,6 +117,6 @@ Apesar de os desertos de notícias representarem quase dois terços dos municíp
 
 O Núcleo cruzou dados do Atlas da Notícia com informações sobre prefeitos eleitos no Brasil, obtidas por meio do [pacote](https://github.com/Cepesp-Fgv/cepesp-r) Cepesp R, desenvolvido pela Fundação Getúlio Vargas.
 
-Os dados veículos no Brasil são abertos, inclusive por [uma API](https://www.atlas.jor.br/plataforma/). O código da análise pode ser encontrado [neste link](https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c). *Nota: o autor desta análise é um dos coordenadores do Atlas da Notícia.*
+Os dados sobre veículos de comunicação no Brasil são abertos, inclusive por [uma API](https://www.atlas.jor.br/plataforma/). O código da análise pode ser encontrado [neste link](https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c). *Nota: o autor desta análise é um dos coordenadores do Atlas da Notícia.*
 
 O Atlas da Notícia é inspirado no projeto [America’s Growing News Deserts](https://www.cjr.org/local_news/american-news-deserts-donuts-local.php), da revista Columbia Journalism Review, que mapeou a presença de jornais nos Estados Unidos em meio às mudanças no modelo de negócios do jornalismo que levaram ao fechamento de diversos veículos.
