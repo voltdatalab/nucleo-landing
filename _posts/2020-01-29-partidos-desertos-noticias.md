@@ -1,6 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
+tipo: descrição
 title: "Os partidos que comandam cidades que não possuem jornalismo local"
 titulo_redes: "Os partidos que comandam os desertos de notícia"
 subtitle: "Análise do <strong>Núcleo</strong> mostra quais são os partidos que controlam as prefeituras dos quase 3.500 municípios (cerca de dois terços do Brasil) que não possuem nenhum veículo para cobrir o que acontece no nível local, os chamados <em>desertos de notícias</em>."
@@ -12,7 +13,7 @@ graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida
-dados_abertos: "Acesse o códigos e os dados"
+dados_abertos: "Acesse o código"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c'
 background: '../img/atlas-partidos/atlas_header.jpeg'
 atualizacao: "Matéria atualizada às 17h48 de 29/01/2020 para mudar formatação das tabelas, a fim de melhorar visualização em celulares. Nenhuma informação foi alterada."
@@ -24,7 +25,9 @@ tags:
   - "Política"
 ---
 
+
 No Brasil, 62,5% dos municípios são "desertos de notícias", ou seja, lugares que não possuem veículos de jornalismo. Em qualquer ano, isso significa ausência de reportagens sobre serviços de saúde e transporte, de segurança pública, do cotidiano da cidade e, principalmente, de transparência de autoridades. Em ano de eleições, essa carência é particularmente problemática.
+
 
 Análise inédita do **Núcleo** com dados do [Atlas da Notícia](https://www.atlas.jor.br/), projeto que mapeia o jornalismo local no Brasil, mostra quais são os partidos que controlam as prefeituras dos quase 3.500 municípios (cerca de dois terços do Brasil) que não possuem nenhum veículo para cobrir o que acontece no nível local.
 
@@ -36,6 +39,7 @@ Análise inédita do **Núcleo** com dados do [Atlas da Notícia](https://www.at
 - *Sem jornalismo local, cidades carecem de informações que possam orientar mudanças de governo*
 
 ---
+
 
 |Partido | prefeituras <br>conquistadas em 2016| % sobre total <br>de prefeituras |
 |:-------------|-------:|---------:|
@@ -55,7 +59,7 @@ Análise inédita do **Núcleo** com dados do [Atlas da Notícia](https://www.at
 |PPS           |     125|       2,2|
 |PSDB          |     805|      14,5|
 
-|Partido | prefeitos em desertos de notícias | % sobre total de desertos | % de desertos sobre total de prefeituras do partido |
+|Partido | prefeitos em desertos | % sobre total de desertos | % de desertos sobre prefeituras |
 |:-------------|----------------:|------------------:|---------:|
 |PC do B       |               58|                1,7|      70,7|
 |PV            |               72|                2,1|      70,6|

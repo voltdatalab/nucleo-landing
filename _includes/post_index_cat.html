@@ -1,14 +1,13 @@
 {% include head_post.html %}
 <section id="publicacoes">
 <!-- Page Content -->
-{% for post in site.categories[page.tag] %}
+{% for category in site.categories[page.tag] %}
     <div class="content-section-a">
-
       <div class="container" style="padding: 0 2% 60px">
+        {% for post in category[1] %}
                 <div class="row">
                 <div class="col-lg-6">
                 <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
-
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h2 class="page-tt">{{ post.titulo_redes }}</h2></a>
                   <br />
@@ -24,7 +23,7 @@
                 <img src="{{ site.baseurl }}{{ post.background }}" width='100%'/>
               </div>
               </div>
-
+          {% endfor %}
       </div>
 
     </div>

@@ -14,7 +14,20 @@
         <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
         <span class="arquivado">
-          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ site.baseurl }}/../{{ page.categories }}"><span>{{ page.categories }}</span></a> <br />
+          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ base.url }}/{{ page.categories }}"><span>{{ page.categories }}</span></a> &middot;
+					<div class="popover__wrapper">
+
+												Essa é uma <span class="popover__title"><a href="#"><u>{{ page.tipo }}</u></a></span>
+
+											<div class="popover__content">
+												<p class="popover__message">
+													- <strong>Investigação</strong>: mais aprofundada, investigativa<br /><br />
+													- <strong>Análise</strong>: baseada principalmente em análise de dados <br /><br />
+													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
+													- <strong>Descrição</strong>: exploração sem necessidade de conclusão
+												</p>
+											</div>
+										</div> <br />
         </span>
       </div>
     </div>
@@ -45,13 +58,13 @@
 					</span>
 					<br />
 					<br />
-					{% if page.dados_abertos %} <h5 class="links_dados"> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
-					{% if page.dados_abertos2 %} <h5 class="links_dados"> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
-					{% if page.dados_abertos3 %} <h5 class="links_dados"> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos2 %} <h5 class="links_dados"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
+					{% if page.dados_abertos3 %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
 
 					<br />
 					<p>
-						COMPARTILHE: </p>
+						<i class="fas fa-share-alt"></i> </p>
 					<ul class="share-buttons">
 					<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
 					<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
@@ -77,7 +90,7 @@
 
         </div>
         <hr>
-				<h4 class="tags"><u>Tags</u>: {{ page.tags }}</h4>
+				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
 	      	</div>
 
   	</div>

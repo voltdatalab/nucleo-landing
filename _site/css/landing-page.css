@@ -14,6 +14,7 @@ html {
 body {
     font-family: "Barlow", sans-serif;
     font-weight: 700;
+    font-size: 16px;
     background-color: #eeeeee
 }
 
@@ -96,6 +97,16 @@ li a{
 }
 
 .page-tt a:hover{
+  text-decoration-color: red !important;
+}
+
+.page-ttt{
+  font-size: 1.7em;
+  color: #4b31dd;
+  text-transform: uppercase;
+}
+
+.page-ttt a:hover{
   text-decoration-color: red !important;
 }
 

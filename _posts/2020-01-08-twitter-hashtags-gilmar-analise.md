@@ -1,6 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
+tipo: investigação
 title: "Genealogia de uma hashtag: como ações coordenadas da direita nascem no Twitter"
 titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
 subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e identificou indícios de coordenação em campanhas da direita política na rede social."
