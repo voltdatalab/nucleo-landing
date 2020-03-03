@@ -27,9 +27,9 @@ tags:
   - "Governo Bolsonaro"
 ---
 
-O [Bolsa Família](http://www.desenvolvimentosocial.gov.br/servicos/bolsa-familia/) é o maior programa social do Brasil, com mais de 13 milhões de famílias beneficiadas. Desde o começo do ano, reportagens de veículos como El País, Folha de S.Paulo e Estado de S.Paulo (links abaixo) têm demonstrado indícios de enxugamento do programa, com aumento da fila para aqueles que buscam receber um valor médio de cerca de R$190/mês.
+O [Bolsa Família](http://www.desenvolvimentosocial.gov.br/servicos/bolsa-familia/) é o maior programa social do Brasil, com mais de 13 milhões de famílias beneficiadas. Desde o começo do ano, reportagens de veículos como *El País*, *Folha de S.Paulo* e *Estado de S.Paulo* (links abaixo) têm demonstrado indícios de enxugamento do programa, com aumento da fila para aqueles que buscam receber um valor médio de cerca de R$190/mês.
 
-O **Núcleo** analisou dados do Ministério da Cidadania atualizados até novembro de 2019 e constatou que houve queda no número de beneficiários do programa nesse ano na ordem de 7,3% na comparação com novembro de 2018.
+O **Núcleo** analisou dados do Ministério da Cidadania e constatou que houve queda de 7,3% no número de famílias beneficiárias do programa no período de 12 meses encerrado novembro de 2019. Se consideramos o comparativo entre janeiro de 2019 e novembro do mesmo ano, a queda é 4,1%.
 
 ---
 
@@ -43,12 +43,19 @@ O **Núcleo** analisou dados do Ministério da Cidadania atualizados até novemb
 
 ---
 
-No total, em 2019, houve um corte de na faixa de 1% no número médio anual de benefícios – volume significativo, mas ainda assim menor do que um enxugamento de 3% em 2017 sobre o ano anterior, durante o governo de Michel Temer, e um pouco menor do que a redução de 1,3% em 2015 ante 2014, no começo do segundo mandato de Dilma Rousseff.
-
-Os dados oficiais podem ser encontrados no [Portal de Dados Abertos do governo federal](http://www.dados.gov.br/dataset/bolsa-familia-misocial). Não foram divulgados, até 02.mar.2020 dados sobre dezembro de 2019 -- o mês foi retirado dessa conta, para tornar todos os anos comparáveis sem levar em conta possível sazonalidade do último mês do ano.
+Considerando uma média anual, em 2019 houve corte de 1% no número famílias beneficiadas – volume significativo, mas ainda assim menor do que um enxugamento de 3%, em 2017 sobre o ano anterior, durante o governo de Michel Temer; e um pouco menor do que a redução de 1,3% em 2015 ante 2014, no começo do segundo mandato de Dilma Rousseff.
 
 ![Variação sobre ano anterior do Bolsa Família](../img/bolsa-familia-exugamento/variacao_bolsa_familia.png)
 
+Os dados oficiais podem ser encontrados no [Portal de Dados Abertos do governo federal](http://www.dados.gov.br/dataset/bolsa-familia-misocial). Não foram divulgados, até 2 de março de 2020, dados sobre dezembro de 2019 -- o qual foi retirado dessa conta, a fim de tornar todos os anos comparáveis sem levar em conta possível sazonalidade do último mês do ano.
+
+O site El País tentou obter os dados junto ao governo, o qual [descumpriu a Lei de Acesso à Informação](https://brasil.elpais.com/politica/2020-03-02/governo-bolsonaro-descumpre-lei-de-acesso-a-informacao-e-nao-responde-sobre-bolsa-familia.html) e não forneceu a informação solicitada.
+
+Além disso, o governo também não informa o tamanho da fila para aqueles que procuram receber os pagamentos do programa.
+
+> "Desde ao menos o início deste ano, a gestão Bolsonaro não explica o tamanho real da fila do Bolsa Família. Questionado, o ministério da Cidadania limitou-se a informar uma 'média' para o ano passado [2019], em torno de 494.000 famílias" -- reportagem do *El País*.
+
+O dado mais recente disponível ao fechamento desta reportagem, de novembro de 2019, mostra que o número de famílias aptas a receber o benefíco é de 3,19 milhões.
 
 | data   | milhõs de famílias |
 |--------|--------------------|
@@ -98,11 +105,11 @@ O governo de Jair Bolsonaro, por sua vez, assumiu em janeiro de 2019 com quase 1
 
 <div id="content">
 <div id="thumb_img" class="cf">
-  <button class="active botao" onclick="changeimg('https://live.staticflickr.com/65535/49609800902_93b7b989f5_b.jpg',this);">Série Histórica Completa
+  <button class="active botao" onclick="changeimg('https://live.staticflickr.com/65535/49609800902_93b7b989f5_b.jpg',this);">Série Histórica
   </button>
-  <button class="botao" onclick="changeimg('https://live.staticflickr.com/65535/49609028468_516f11c84d_b.jpg',this);">Série a partir de 2011
+  <button class="botao" onclick="changeimg('https://live.staticflickr.com/65535/49609028468_516f11c84d_b.jpg',this);">2011-2019
   </button>
-  <button class="botao" onclick="changeimg('https://live.staticflickr.com/65535/49609544586_b4f941da92_b.jpg',this);">Série de 2019
+  <button class="botao" onclick="changeimg('https://live.staticflickr.com/65535/49609544586_b4f941da92_b.jpg',this);">Apenas 2019
 </button>
 </div>
   <div id="featured_img">
@@ -133,7 +140,7 @@ Nessa API ainda não constam dados de dezembro de 2019 (ver print abaixo), motiv
 
 A extração dos dados e as análises foram feitas utilizando a linguagem de programação R, e os códigos podem ser encontrados integralmente [neste link](https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a).
 
-Por termos feito apenas uma descrição dos dados encontrados, sem chegar a conclusões nem juízos, o Núcleo não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
+Por termos feito apenas uma descrição dos dados encontrados, sem chegar a conclusões nem juízos, o **Núcleo** não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
 
 Essa reportagem *pode* ser atualizada caso os dados de dezembro de 2019 sejam publicados.
 
@@ -141,9 +148,16 @@ Essa reportagem *pode* ser atualizada caso os dados de dezembro de 2019 sejam pu
 <style>
 .botao {
   border-radius: 5px;
-  background-color: #4b31dd;
+  background-color: #eeeeee;
   padding: 5px 7px;
-  color: #fff
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
 }
 
 .cf:before, .cf:after {
