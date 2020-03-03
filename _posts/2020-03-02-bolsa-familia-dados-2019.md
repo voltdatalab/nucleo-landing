@@ -45,7 +45,7 @@ O **Núcleo** analisou dados do Ministério da Cidadania atualizados até novemb
 
 No total, em 2019, houve um corte de na faixa de 1% no número médio anual de benefícios – volume significativo, mas ainda assim menor do que um enxugamento de 3% em 2017 sobre o ano anterior, durante o governo de Michel Temer, e um pouco menor do que a redução de 1,3% em 2015 ante 2014, no começo do segundo mandato de Dilma Rousseff.
 
-Os dados oficiais podem ser encontrados no [Portal de Dados Abertos do governo federal](http://www.dados.gov.br/dataset/bolsa-familia-misocial). Dezembro foi retirado dessa conta, para tornar todos os anos comparáveis sem levar em conta possível sazonalidade do último mês do ano.
+Os dados oficiais podem ser encontrados no [Portal de Dados Abertos do governo federal](http://www.dados.gov.br/dataset/bolsa-familia-misocial). Não foram divulgados, até 02.mar.2020 dados sobre dezembro de 2019 -- o mês foi retirado dessa conta, para tornar todos os anos comparáveis sem levar em conta possível sazonalidade do último mês do ano.
 
 ![Variação sobre ano anterior do Bolsa Família](../img/bolsa-familia-exugamento/variacao_bolsa_familia.png)
 
@@ -79,6 +79,8 @@ Os dados oficiais podem ser encontrados no [Portal de Dados Abertos do governo f
 * [Fila do Bolsa Família já tem 3,5 milhões de pessoas; municípios voltam a dar cesta básica](https://politica.estadao.com.br/noticias/geral,fila-do-bolsa-familia-ja-tem-3-5-milhoes-de-pessoas-municipios-voltam-a-dar-cesta-basica,70003201822) &sdot; *O Estado de S.Paulo* &sdot; (18/02/2020)
 
 * [Há um ano, governo já sabia da falta de dinheiro para o Bolsa Família](https://www.poder360.com.br/midia/brasil-ve-midia-digital-crescer-e-331-veiculos-jornalisticos-serem-extintos/) &sdot; *Folha de S.Paulo* &sdot; (26/02/2020)
+
+* [Governo Bolsonaro descumpre Lei de Acesso à Informação e não responde sobre Bolsa Família](https://brasil.elpais.com/politica/2020-03-02/governo-bolsonaro-descumpre-lei-de-acesso-a-informacao-e-nao-responde-sobre-bolsa-familia.html) &sdot; *El País* &sdot; (02/03/2020)
 
 
 ---
