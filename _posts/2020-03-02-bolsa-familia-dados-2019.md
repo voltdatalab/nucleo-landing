@@ -18,7 +18,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e6
 dados_abertos2: "Acesse os dados agregados (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1cgcXEqARoq_cv17DqeKbibSMY84ZzGocm3uA8Iiqi9Y/edit?usp=sharing"
 background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento.jpeg'
-atualizacao: ""
+atualizacao: "Texto atualizado às 17h04 de 3.mar.2020 para corrigir erro de digitação no parágrafo imediatamente anterior à tabela: onde se lia 3,19 milhões, agora lê-se 13,19. "
 categories:
   - "dinheiro público"
 tags:
@@ -37,7 +37,7 @@ O **Núcleo** analisou dados do Ministério da Cidadania e constatou que houve q
 
 - *O Bolsa Família é o maior programa social do Brasil*
 
-- *Milhões de famílias estão na fila para receber o benefício*
+- *Milhões de pessoas estão na fila para receber o benefício*
 
 - *Aperto fiscal pode estar prejudicando concessão de novos benefícios*
 
@@ -55,9 +55,9 @@ Além disso, o governo também não informa o tamanho da fila para aqueles que p
 
 > "Desde ao menos o início deste ano, a gestão Bolsonaro não explica o tamanho real da fila do Bolsa Família. Questionado, o ministério da Cidadania limitou-se a informar uma 'média' para o ano passado [2019], em torno de 494.000 famílias" -- reportagem do *El País*.
 
-O dado mais recente disponível ao fechamento desta reportagem, de novembro de 2019, mostra que o número de famílias aptas a receber o benefíco é de 3,19 milhões.
+O dado mais recente disponível ao fechamento desta reportagem, de novembro de 2019, mostra que o número de famílias aptas a receber o benefíco é de 13,19 milhões.
 
-| data   | milhõs de famílias |
+| data   | milhões de famílias|
 |--------|--------------------|
 | Nov.18 | 14,23              |
 | Dez.18 | 14,14              |
