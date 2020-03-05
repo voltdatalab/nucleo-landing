@@ -150,16 +150,16 @@ Essa reportagem foi produzida pela Bolsa de Reportagem AzMina 2019 em parceria c
 
 ### METODOLOGIA
 
-Essa matéria foi produzida a partir do [concurso de bolsas de reportagem](https://azmina.com.br/reportagens/azmina-lanca-bolsas-de-reportagem-sobre-violencia-domestica/) da Revista Azmina, em parceria com o [Volt Data Lab](www.voltdata.info) para a qual a repórter Maria Fernanda Ribeiro [foi selecionada](https://azmina.com.br/reportagens/selecionadas-para-as-bolsas-de-reportagem-azmina/).
+Essa matéria foi produzida a partir do [concurso de bolsas de reportagem](https://azmina.com.br/reportagens/azmina-lanca-bolsas-de-reportagem-sobre-violencia-domestica/) da _Revista Azmina_, em parceria com o [*Volt Data Lab*](www.voltdata.info), para a qual a repórter Maria Fernanda Ribeiro [foi selecionada](https://azmina.com.br/reportagens/selecionadas-para-as-bolsas-de-reportagem-azmina/).
 
-A metodologia aqui descrita foi solicitada pelo **Núcleo** diretamente para a repórter e não consta na reportagem originalmente publicada no site da Revista Azmina.
+A metodologia aqui descrita foi solicitada pelo **Núcleo** diretamente para a repórter e não consta na reportagem originalmente publicada no site da _Revista Azmina_.
 
-Segundo a repórter, ela ficou procurando um lugar para ir e captar as imagens e as entrevistas. Boa parte das entrevistas foi feita por telefone. Após contato com pessoas do movimento indígena, avisando a bolsa e pedindo dicas de lugares. A repórter acompanha o movimento das mulheres indígenas e da floresta há algunas anos, e soube que aconteceria o Encontro da Associação Indígenas Vale do Araguaia (Asiva), em novembro de 2019.
+Segundo a repórter, ela ficou procurando um lugar para captar as imagens e as entrevistas. Boa parte das entrevistas foi feita por telefone, após contato com pessoas do movimento indígena, avisando sobre bolsa e pedindo dicas de lugares. A repórter acompanha o movimento das mulheres indígenas e da floresta há algunas anos, e soube que aconteceria o Encontro da Associação Indígenas Vale do Araguaia (Asiva) em novembro de 2019.
 
-A repórter estão se deslocou para a [Ilha do Bananal](https://pt.wikipedia.org/wiki/Ilha_do_Bananal), no Estado do Tocantins, e ficou lá por quatro dias acompanhando a reunião, de vários assuntos, que incluíram a violência doméstica. Foram quase 10 dias de viagem, considerando o traslado.
+A repórter estão se deslocou para a [Ilha do Bananal](https://pt.wikipedia.org/wiki/Ilha_do_Bananal), no Estado do Tocantins, e ficou lá por quatro dias acompanhando a reunião, a qual tratou de vários assuntos, entre eles a violência doméstica. Foram quase 10 dias de viagem, considerando o traslado.
 
-A ideia da pauta, segundo a repórter, surgiu na [primeira marcha](https://g1.globo.com/df/distrito-federal/noticia/2019/08/11/liderancas-se-reunem-em-brasilia-para-1a-marcha-das-mulheres-indigenas.ghtml) das mulheres indíginas ocorrida em agosto, em Brasília, na qual foi questionada a Lei Maria da Penha.   
+A ideia da pauta, segundo a repórter, surgiu na [primeira marcha](https://g1.globo.com/df/distrito-federal/noticia/2019/08/11/liderancas-se-reunem-em-brasilia-para-1a-marcha-das-mulheres-indigenas.ghtml) das mulheres indígenas ocorrida em agosto, em Brasília, na qual foi questionada a eficácia Lei Maria da Penha para essas mulheres.   
 
-Os dados foram obtidos junto à assessoria de imprensa do Ministério da Saúde.
+Os dados da reportagem foram obtidos pela repórter junto à assessoria de imprensa do Ministério da Saúde.
 
 O gráfico nessa publicação do **Núcleo** não consta na reportagem original e foi produzido com dados do [Tabnet - Datasus](http://tabnet.datasus.gov.br/).
