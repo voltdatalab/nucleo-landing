@@ -39,6 +39,7 @@ h2.subheading {
 .arquivado{
   font-family: 'Roboto Mono', monospace;
   text-transform: uppercase;
+  font-size: 0.8em;
 }
 
 .arquivado span{

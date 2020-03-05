@@ -86,6 +86,11 @@
 			<div class="main col-sm-7">
         <div class="texto_post">
 
+					<span class="arquivado creditos_alt">
+						<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> {% else %} {% endif %}</small>
+					</span>
+					<hr />
+
         {{ content }}
 
         </div>

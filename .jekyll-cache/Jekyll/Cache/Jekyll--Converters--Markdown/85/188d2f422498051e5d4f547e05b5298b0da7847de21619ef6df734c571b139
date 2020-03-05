@@ -1,0 +1,118 @@
+I"�<p>Uma marca na coxa direita é a cicatriz que Rosália (nome fictício), uma mulher indígena de 30 anos, da etnia Karajá, carrega após ter sido agredida pelo marido, com quem ficou casada durante dois anos. Eram frequentes as brigas que terminavam em chutes, pontapés, puxões de cabelo e xingamentos. Moradora da Ilha do Bananal, localizada no estado do Tocantins e separada do Mato Grosso pelo rio Araguaia, Rosália está há muitos quilômetros de distância dos serviços que poderiam tê-la ajudado a sair do ciclo de violência.</p>
+
+<p>Além dos motivos que toda mulher que sofre violência enfrenta para denunciar a agressão, como o medo, vergonha e falta de acolhimento, as mulheres indígenas ainda enfrentam a desinformação sobre seus direitos, barreiras do idioma e grandes distâncias para chegar até a delegacia e pontos de atendimento mais próximos.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>É óbvio, mas vamos lá: violência contra todas as mulheres precisa acabar, e as leis precisam ajudar as pessoas</em></p>
+  </li>
+  <li>
+    <p><em>Dificuldades enfrentadas por mulheres indígenas prejudicam histórico de uma lei que poderia ser mais acionada</em></p>
+  </li>
+  <li>
+    <p><em>A denúncia costuma ser o último estágio para a resolução do conflito, pois a maioria das comunidades tenta resolver o problema internamente. Logo, se não é utilizada, o último recurso é continuar sofrendo abusos fora do poder da lei</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Rosália não denunciou o marido por medo de represálias, mas conseguiu colocar um ponto final às agressões depois que tomou coragem para terminar o relacionamento e recebeu apoio da família, que disse para ela voltar para casa. “Ele queria saber o meu passado, sobre outros namorados e quando descobria alguma coisa me batia muito, de pancada, de porrada, já me furou com um garfo. Mas nunca denunciei porque ele dizia que se fosse preso, quando saísse, me mataria”, conta. </p>
+
+<p>Rosália é um retrato do perfil das mulheres indígenas vítimas de violência, cujos dados são agregados pelo Sistema de Informação de Agravos de Notificação (Sinan), do Ministério da Saúde.</p>
+
+<h4 id="entre-2007-e-2017-foram-registradas-8221-notificações-de-casos-de-violência-contra-mulheres-indígenas-em-um-terço-deles-o-agressor-é-uma-pessoa-próxima-como-o-ex-ou-atual-companheiro">Entre 2007 e 2017, foram registradas 8.221 notificações de casos de violência contra mulheres indígenas. Em um terço deles, o agressor é uma pessoa próxima, como o ex ou atual companheiro. </h4>
+
+<p>O espancamento e a ameaça são os principais formas de agressão e a residência é o local onde a maioria dos casos acontece, sendo as mulheres de 10 a 19 anos a maioria das vítimas. Os dados do Sinan foram compilados e divulgados Secretaria Especial de Saúde Indígena (Sesai), órgão ligado ao Ministério da Saúde.</p>
+
+<p>Referência no Brasil quando o assunto é violência contra a mulher indígena, Léia do Vale Rodrigues, do povo Wapichana, explica que a situação de vulnerabilidade frente a violência da mulher indígena é resultado do escasso conhecimento da legislação, tanto por parte das mulheres como por parte dos seus agressores e comunidades, o que impede, muitas vezes, a procura pela Lei Maria da Penha.</p>
+
+<p><a href="https://azmina.com.br/penhas/">Leia mais: Aplicativo Penhas combate violência contra a mulher</a></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O <strong>Núcleo</strong> baseou todas as suas análises em dados fornecidos diretamente pelo Ministério da Cidadania, sob a rubrica do Ministério do Desenvolvimento Social. Essas informações foram obtidas diretamente da API tal como disponibilizada no <a href="http://www.dados.gov.br/dataset/bolsa-familia-misocial">Portal de Dados Abertos do governo federal</a>, que contém valores e números de famílias agrupados por município.</p>
+
+<p>Nessa API ainda não constam dados de dezembro de 2019 (ver print abaixo), motivo pelo qual esse mês foi desconsiderado nas análises, a fim de evitar distorções por conta de possíveis, embora não imediatamente averiguadas, características sazonais do último mês do ano.</p>
+
+<p><img src="../img/bolsa-familia-exugamento/print_mds.png" alt="Desembolsos totais de benefícios" /></p>
+
+<h4 id="link-para-página-acima"><a href="http://bit.ly/2uL1KXh">link para página acima</a></h4>
+
+<p>A extração dos dados e as análises foram feitas utilizando a linguagem de programação R, e os códigos podem ser encontrados integralmente <a href="https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a">neste link</a>.</p>
+
+<p>Por termos feito apenas uma descrição dos dados encontrados, sem chegar a conclusões nem juízos, o <strong>Núcleo</strong> não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a>.</p>
+
+<p>Essa reportagem <em>pode</em> ser atualizada caso os dados de dezembro de 2019 sejam publicados.</p>
+
+<style>
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+ #featured_img img, #thumb_img img {
+	 max-width: 100%;
+}
+ #thumb_img {
+	 margin-top: 2%;
+}
+ #thumb_img img {
+	 float: left;
+	 max-width: 32%;
+	 width: 32%;
+	 cursor: pointer;
+	 margin-right: 2%;
+	 border: 2px solid #eee;
+	 box-sizing: border-box;
+}
+ #thumb_img img.active {
+	 border: 2px solid #cac6b8;
+}
+ #thumb_img img:last-child {
+	 margin-right: 0;
+}
+
+</style>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET
