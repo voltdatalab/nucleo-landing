@@ -9,7 +9,6 @@ subtitle_redes: "Entre 2007 e 2017, foram registradas 8.221 notificações de ca
 excerpt: "Entre 2007 e 2017, foram registradas 8.221 notificações de casos de violência contra mulheres indígenas. Em um terço deles, o agressor é uma pessoa próxima, como o ex ou atual companheiro."
 date: 05/03/2020
 reportagem: Maria Fernanda Ribeiro
-graficos: Sérgio Spagnuolo
 arte: Estúdio Rebimboca
 edicao: Helena Bertho
 credito_img: Maria Fernanda Ribeiro
