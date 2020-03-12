@@ -2,7 +2,7 @@
 published: TRUE
 layout: conteudo
 tipo: descrição
-title: "SUS perdeu 49 mil leitos hospitalares desde 2007"
+title: "SUS perdeu 49 mil leitos de internação hospitalar desde 2007"
 titulo_redes: "Coronavírus: SUS perdeu 49 mil leitos hospitalares desde 2007"
 subtitle: "Pandemia de coronavírus pode sobrecarregar o sistema de saúde brasileiro. O número de leitos disponíveis teve queda total (SUS e não SUS) de 6,2% desde 2007 até 2019, numa perda de 28.300 unidades."
 subtitle_redes: "Pandemia pode sobrecarregar o sistema de saúde brasileiro; dados são do Ministério da Saúde."
@@ -18,7 +18,7 @@ dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1Lxy8dwKibGilFYT_VLYo6LMLR5XnGjKa9TgJWsKHNV8/edit?usp=sharing'
 background: '../img/capacidade-hospitalar/coronavirus_coverum.jpeg'
-atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias)"
+atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias). Atualiza reportagem às 15h48 de 12.mar.2020 com informações sobre leitos complementares."
 categories:
   - "políticas públicas"
 tags:
@@ -76,6 +76,8 @@ A seriedade acerca da capacidade de leitos é reassegurada por especialistas. Se
 
 A entidade [preparou](https://www.amib.org.br/fileadmin/user_upload/Aumento.Capacidade.COVID19.Versao10.03.pdf) um documento destacando as principais questões a serem consideradas em caso de um peso maior sobre o sistema de tratamento intensivo no país.
 
+Se considerarmos apenas _leitos complementares_ (UTIs e Unidades Intermediárias), houve aumento total (SUS e não SUS) de 83% na oferta desses leitos, sendo 58% no SUS. O **Núcleo** considerou apenas _leitos de internação_ nessa conta, seguindo [estudo](https://portal.cfm.org.br/index.php?option=com_content&view=article&id=27721:2018-07-12-14-05-59&catid=3) do Conselho Federal de Medicina.
+
 ---
 
 ###### Na imprensa
@@ -118,7 +120,7 @@ O **Núcleo** recorreu a dados do Ministério da Saúde, no [sistema Tabnet](htt
 
 Segundo [nota técnica](http://tabnet.datasus.gov.br/cgi/cnes/NT_RecursosF%C3%ADsicos.htm) do Tabnet, _leitos de internação_ consideram leitos em "ambientes hospitalares, nas categorias de leitos cirúrgicos, clínicos, obstétricos, pediátricos, hospital dia e outras especialidades, na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS. São as camas destinadas à internação de um paciente no hospital. Não considera como leito hospitalar os leitos de observação."
 
-Há também a categioria de _leitos complementares_, que são "leitos em ambientes hospitalares, nas categorias de leitos complementares (UTI e Unidade Intermediária), na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS." O **Núcleo** considerou apenas leitos de internação nessa conta.
+Há também a categioria de _leitos complementares_, que são "leitos em ambientes hospitalares, nas categorias de leitos complementares (UTI e Unidade Intermediária), na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS."
 
 Por termos feito apenas uma descrição dos dados encontrados, sem fazer juízos, o **Núcleo** não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
 
