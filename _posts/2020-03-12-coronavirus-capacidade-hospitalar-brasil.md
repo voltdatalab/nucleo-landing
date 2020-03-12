@@ -17,9 +17,8 @@ dados_abertos: "Acesse os dados do Ministério da Saúde (Datasus - Tabnet)"
 dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1Lxy8dwKibGilFYT_VLYo6LMLR5XnGjKa9TgJWsKHNV8/edit?usp=sharing'
-nota_abertura:
 background: '../img/capacidade-hospitalar/coronavirus_coverum.jpeg'
-atualizacao: ""
+atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias)"
 categories:
   - "políticas públicas"
 tags:
@@ -34,7 +33,7 @@ Com a iminência da epidemia de [COVID-19](https://www.paho.org/bra/index.php?op
 
 O **Núcleo** foi atrás de dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES), [disponibilizados](http://www2.datasus.gov.br/DATASUS/index.php?area=0204) pelo Ministério da Saúde, para entender o estado da capacidade de atendimento de unidades de saúde brasileiras.
 
-Sobre o número de leitos disponíveis, um dos indicadores mais discutidos recentemente, foi constatada uma queda total (considerando SUS e não SUS) de 6,2% no número de leitos de internação desde 2007 até fim de 2019, totalizando 28.300 unidades.
+Sobre o número de leitos disponíveis, um dos indicadores mais discutidos recentemente, foi constatada uma queda total (considerando SUS e não SUS) de 6,2% no número de leitos de internação regulares desde 2007 até fim de 2019, totalizando 28.300 unidades. A conta não considera leitos complementares (UTI e unidades intermediárias).
 
 
 ---
@@ -116,6 +115,10 @@ O **Núcleo** recorreu a dados do Ministério da Saúde, no [sistema Tabnet](htt
 - **Estabelecimentos**: nas rubricas "_Tipo de Atendimento Prestado - Ambulatório_", "_Tipo de Atendimento Prestado - Internação_" e "_Tipo de Atendimento Prestado - Vigilância Epidemiológica e/ou Sanitária_".
 
 - **Recursos físicos**: na rubrica "_Hospitalar - Leitos Internação_".
+
+Segundo nota técnica do Tabnet, _leitos de internação_ consideram leitos em "ambientes hospitalares, nas categorias de leitos cirúrgicos, clínicos, obstétricos, pediátricos, hospital dia e outras especialidades, na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS. São as camas destinadas à internação de um paciente no hospital. Não considera como leito hospitalar os leitos de observação."
+
+Há também a categioria de _leitos complementares_, que são "leitos em ambientes hospitalares, nas categorias de leitos complementares (UTI e Unidade Intermediária), na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS." O **Núcleo** considerou apenas leitos de internação nessa conta.
 
 Por termos feito apenas uma descrição dos dados encontrados, sem fazer juízos, o **Núcleo** não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
 
