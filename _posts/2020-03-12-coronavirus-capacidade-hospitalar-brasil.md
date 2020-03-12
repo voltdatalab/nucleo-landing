@@ -18,7 +18,7 @@ dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1Lxy8dwKibGilFYT_VLYo6LMLR5XnGjKa9TgJWsKHNV8/edit?usp=sharing'
 background: '../img/capacidade-hospitalar/coronavirus_coverum.jpeg'
-atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias). Atualiza reportagem às 15h48 de 12.mar.2020 com informações sobre leitos complementares."
+atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias). Atualiza reportagem às 15h48 de 12.mar.2020 com informações sobre leitos complementares. Atualiza reportagem às 16h03 de 12.mar.2020 com tabela sobre tipos de leitos de internação."
 categories:
   - "políticas públicas"
 tags:
@@ -53,6 +53,16 @@ Sobre o número de leitos disponíveis, um dos indicadores mais discutidos recen
 No entanto, essa queda foi principalmente puxada pelo Sistema Único de Saúde, principal recurso de saúde pública brasileiro, onde houve uma redução de oferta de 14,3% (49 mil leitos) desde 2007, ao passo que a oferta de leitos fora do SUS teve acréscimo de 18,2%.  
 
 O motivo da queda no número de leitos em geral acontece porque, embora o setor privado tenha apresentado substancial crescimento, o SUS possui muito mais leitos disponíveis.
+
+| tipo                  | dez.2007 | dez.2019 |
+|-----------------------|----------|----------|
+| Cirúrgicos            | 75.55    | 74.454   |
+| Clínicos              | 107.02   | 106.794  |
+| Obstétrico            | 48.309   | 38.799   |
+| Pediátrico            | 54.326   | 38.191   |
+| Outras Especialidades | 54.799   | 31.827   |
+| Hospital/DIA          | 4.148    | 4.903    |
+| Total                 | 344.152  | 294.968  |
 
 <p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
 
