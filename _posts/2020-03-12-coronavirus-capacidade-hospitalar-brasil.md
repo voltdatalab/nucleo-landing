@@ -116,7 +116,7 @@ O **Núcleo** recorreu a dados do Ministério da Saúde, no [sistema Tabnet](htt
 
 - **Recursos físicos**: na rubrica "_Hospitalar - Leitos Internação_".
 
-Segundo nota técnica do Tabnet, _leitos de internação_ consideram leitos em "ambientes hospitalares, nas categorias de leitos cirúrgicos, clínicos, obstétricos, pediátricos, hospital dia e outras especialidades, na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS. São as camas destinadas à internação de um paciente no hospital. Não considera como leito hospitalar os leitos de observação."
+Segundo [nota técnica](http://tabnet.datasus.gov.br/cgi/cnes/NT_RecursosF%C3%ADsicos.htm) do Tabnet, _leitos de internação_ consideram leitos em "ambientes hospitalares, nas categorias de leitos cirúrgicos, clínicos, obstétricos, pediátricos, hospital dia e outras especialidades, na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS. São as camas destinadas à internação de um paciente no hospital. Não considera como leito hospitalar os leitos de observação."
 
 Há também a categioria de _leitos complementares_, que são "leitos em ambientes hospitalares, nas categorias de leitos complementares (UTI e Unidade Intermediária), na quantidade existente e na disponibilizada para atendimento pelo SUS e atendimento Não SUS." O **Núcleo** considerou apenas leitos de internação nessa conta.
 
