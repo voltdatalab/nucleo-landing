@@ -55,6 +55,8 @@ No entanto, essa queda foi principalmente puxada pelo Sistema Único de Saúde, 
 
 O motivo da queda no número de leitos em geral acontece porque, embora o setor privado tenha apresentado substancial crescimento, o SUS possui muito mais leitos disponíveis.
 
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
+
 <div id="content">
 <div id="thumb_img" class="cf">
   <button class="active botao" onclick="changeimg('../img/capacidade-hospitalar/nucleo_internacao_sus.png',this);">Internação - SUS
