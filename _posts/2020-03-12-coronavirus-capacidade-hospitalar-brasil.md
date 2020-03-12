@@ -18,7 +18,7 @@ dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1Lxy8dwKibGilFYT_VLYo6LMLR5XnGjKa9TgJWsKHNV8/edit?usp=sharing'
 nota_abertura:
-background: '../img/capacidade-hospitalar/coronavirus_cover.jpeg'
+background: '../img/capacidade-hospitalar/coronavirus_coverum.jpeg'
 atualizacao: ""
 categories:
   - "políticas públicas"
