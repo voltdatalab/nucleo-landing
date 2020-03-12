@@ -1,0 +1,97 @@
+I"�
+<p>Com a iminência da epidemia de COVID-19 no Brasil, a capacidade hospitalar e ambulatorial no país tem sido cada vez mais discutida. No fim do ano passado, antes das notícias sobre o coronavírus se espalharem, o Conselho Federal de Medicina já havia alertado para uma queda no número de leitos hospitalares.</p>
+
+<p>O Núcleo foi atrás de dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES), disponibilizados pelo Ministério da Saúde, para entender o estado da capacidade de atendimento de unidades de saúde brasileiras.</p>
+
+<p>Sobre o número de leitos disponíveis, um dos indicadores mais discutidos recentemente, foi constatada uma queda total (SUS e não SUS) de 6,2% no número de leitos de internação desde 2007 até fim de 2019, numa perda total de 28.300 unidades.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>A epidemia de coronavírus deve testar limites do sistema de saúde brasileiro</em></p>
+  </li>
+  <li>
+    <p><em>Caso a epidemia se espalhe pelo Brasil, podem faltar leitos</em></p>
+  </li>
+  <li>
+    <p><em>SUS é o principal sistema de saúde do país</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>No entanto, essa queda foi principalmente puxada pelo Sistema Único de Saúde, principal recurso de saúde pública brasileiro, onde houve uma redução de oferta de 14,3% (49 mil leitos) desde 2007, ao passo que a oferta de leitos fora do SUS teve acréscimo de 18,2%.</p>
+
+<p>O motivo da queda no número de leitos em geral acontece porque, embora o setor privado tenha apresentado substancial crescimento, o SUS possui muito mais leitos disponíveis.</p>
+
+<style>
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+ #featured_img img, #thumb_img img {
+	 max-width: 100%;
+}
+ #thumb_img {
+	 margin-top: 2%;
+}
+ #thumb_img img {
+	 float: left;
+	 max-width: 32%;
+	 width: 32%;
+	 cursor: pointer;
+	 margin-right: 2%;
+	 border: 2px solid #eee;
+	 box-sizing: border-box;
+}
+ #thumb_img img.active {
+	 border: 2px solid #cac6b8;
+}
+ #thumb_img img:last-child {
+	 margin-right: 0;
+}
+
+</style>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET
