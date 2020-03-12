@@ -76,7 +76,9 @@ A seriedade acerca da capacidade de leitos é reassegurada por especialistas. Se
 
 A entidade [preparou](https://www.amib.org.br/fileadmin/user_upload/Aumento.Capacidade.COVID19.Versao10.03.pdf) um documento destacando as principais questões a serem consideradas em caso de um peso maior sobre o sistema de tratamento intensivo no país.
 
-Se considerarmos apenas _leitos complementares_ (UTIs e Unidades Intermediárias), houve aumento total (SUS e não SUS) de 83% na oferta desses leitos, sendo 58% no SUS. O **Núcleo** considerou apenas _leitos de internação_ nessa conta, seguindo [estudo](https://portal.cfm.org.br/index.php?option=com_content&view=article&id=27721:2018-07-12-14-05-59&catid=3) do Conselho Federal de Medicina.
+Se considerarmos apenas _leitos complementares_ (UTIs e Unidades Intermediárias), houve aumento total (SUS e não SUS) de 83% na oferta desses leitos, sendo 58% no SUS.
+
+O **Núcleo** considerou apenas _leitos de internação_ na conta principal, seguindo [estudo](https://portal.cfm.org.br/index.php?option=com_content&view=article&id=27721:2018-07-12-14-05-59&catid=3) do Conselho Federal de Medicina.
 
 ---
 
