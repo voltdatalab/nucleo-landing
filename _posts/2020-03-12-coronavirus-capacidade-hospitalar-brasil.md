@@ -94,6 +94,8 @@ O **Núcleo** considerou apenas _leitos de internação_ na conta principal, seg
 
 ###### Na imprensa
 
+* [Mais demandado em caso de surto de coronavírus, SUS só tem 44% dos leitos de UTI do País](https://saude.estadao.com.br/noticias/geral,rede-mais-demandada-em-caso-de-surto-de-coronavirus-sus-so-tem-44-dos-leitos-de-uti-do-pais,70003230123) &sdot; *E Estado de S.Paulo* &sdot; (12/03/2020)
+
 * [Coronavírus acende alerta sobre preparo de hospitais no Brasil para tratar infectados graves](https://brasil.elpais.com/brasil/2020-03-12/coronavirus-acende-alerta-sobre-preparo-de-hospitais-no-brasil-para-tratar-infectados-graves.html) &sdot; *El País* &sdot; (11/03/2020)
 
 * [Ministério da Saúde alerta hospitais sobre pico do coronavírus](https://www.bbc.com/portuguese/geral-51736012) &sdot; *BBC Brasil* &sdot; (11/03/2020)
