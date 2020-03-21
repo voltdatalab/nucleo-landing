@@ -18,7 +18,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508d
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo sobre trending topics"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1BqoLRA_MXGCfRWgCr-601BSAVRXu6x_RIaAV7Zxi7zY/edit?usp=sharing'
 background: '../img/corona-twitter/corona_twitter.jpeg'
-atualizacao: ""
+atualizacao: "Adiciona esclarecimento sobre metodologia utilizada"
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/no-twitter-coronavirus-so-ganhou-forca-apos-contaminacao-de-autoridades-022439916.html' target='_blank'>Yahoo Brasil</a>"
 categories:
   - "redes"
@@ -436,6 +436,8 @@ No Google, o assunto também começou a disparar a partir de 8 de março. O term
 ### METODOLOGIA
 
 O **Núcleo** capturou 1.034.973 tuítes das 20h50 do dia 9 de março até 3h19 do dia 19, utilizando a API gratuita do Twitter. Os códigos podem ser [encontrados aqui](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
+
+A conta considera _apenas_ tuítes únicos, ou seja, exclui retuítes e respostas a tuítes. Isso porque queremos medir a espontaneidade de publicações sobre o tema, não a reação (comentários e compartilhamentos). Por isso o número pode parecer mais modesto, mas na verdade é bem substancial.
 
 Com a finalidade de manter a privacidade de usuários com perfis pouco notórios, o **Núcleo** não vai divulgar os dados brutos -- cada pessoa pode rodar o código de extração para obter esses resultados.
 
