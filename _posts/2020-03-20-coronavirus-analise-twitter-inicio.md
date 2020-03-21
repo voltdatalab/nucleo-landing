@@ -103,7 +103,7 @@ No Google, o assunto também começou a disparar a partir de 8 de março. O term
 				<span class="flag">A manifestação</span>
 				<span class="time-wrapper"><span class="time">15 de março</span></span>
 			</div>
-			<div class="desc">Presidente participa cumprimenta manifestantes e é criticado por estar sob suspeita de infecção</div>
+			<div class="desc">Presidente cumprimenta manifestantes e é criticado por estar sob suspeita de infecção</div>
 		</div>
 	</li>
 
