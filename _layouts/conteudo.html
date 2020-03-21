@@ -41,7 +41,7 @@
     {% endif %}
     <div class="overlay"></div>
   </header>
-			<p class="feature_credito">Imagem por {{ page.credito_img }}</p>
+			
 
 <div class="container wrap sidebar-right box_conteudo">
   <div class="container">
@@ -49,12 +49,12 @@
 			<div class="creditos">
 				<div class="sidebar col-sm-4">
 					<span class="arquivado creditos_alt">
-						{% if page.reportagem %} Reportagem de <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
-						{% if page.analise %} Análise por <span>{{ page.analise }}</span><br /> {% endif %}
-						{% if page.colaboracao %} Colaboração de <span>{{ page.colaboracao }}</span><br /> {% endif %}
-						{% if page.graficos %} Gráficos por <span>{{ page.graficos }}</span><br /> {% endif %}
-						{% if page.arte %} Arte de <span>{{ page.arte }}</span><br /> {% endif %}
-						{% if page.edicao %} Edição de <span>{{ page.edicao }}</span>{% else %} Por Equipe Núcleo {% endif %}
+						{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
+						{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
+						{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
+						{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
+						{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
+						{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Por Equipe Núcleo {% endif %}
 					</span>
 					<br />
 					<br />
@@ -80,16 +80,16 @@
 				<p>
 					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
 				</p>
+				<p>
+					<span class="arquivado creditos_alt">
+						<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
+					</span>
+				</p>
 
 			</div>
 		</div>
 			<div class="main col-sm-7">
         <div class="texto_post">
-
-					<span class="arquivado creditos_alt">
-						<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
-					</span>
-
 
         {{ content }}
 
