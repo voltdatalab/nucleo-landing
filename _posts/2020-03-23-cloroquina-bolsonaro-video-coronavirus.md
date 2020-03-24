@@ -15,8 +15,8 @@ edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida, com imagem da Agência Brasil
 dados_abertos: "Acesse o código para extração de Tweets via API"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
-dados_abertos: "Acesse os dados do Google Trends"
-dados_abertos_link: 'https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina'
+dados_abertos2: "Acesse os dados do Google Trends"
+dados_abertos_link2: 'https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina'
 background: '../img/corona-twitter/bolsonaro_cloroquina.jpeg'
 atualizacao: ""
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-interesse-sobre-cloroquina-disparou-apos-video-de-bolsonaro-220342444.html' target='_blank'>Yahoo Brasil</a>"
@@ -92,4 +92,4 @@ O **Núcleo** analisou 150 mil tuítes, de 15 a 23 de março de 2020, captados p
 
 Os dados do Google são da plataforma do [Google Trends](https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina) e vão de 16 a 23 de março. No caso do Google, optou-se apenas por "cloroquina" pois foi o termo utilizado no vídeo do presidente. No caso do Twitter, incluiu-se 'hidroxicloroquina' para aumentar a base de análise, já que o termo estava sendo utilizado também nessa rede. Para melhorar a visualização, em alguns casos os primeiros e último dia não foram incluídos nos gráficos, o que não muda a análise.
 
-Por fim, [o link](https://twitter.com/jairbolsonaro/status/1241434576049840130) para o tuíte do vídeo de Bolsonaro. 
+Por fim, [o link](https://twitter.com/jairbolsonaro/status/1241434576049840130) para o tuíte do vídeo de Bolsonaro.
