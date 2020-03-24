@@ -13,7 +13,7 @@
   background-size: cover !important;
   background-position: center center;
   display: block;
-  background: url({{ site.baseurl }}{{ post.background }}) rgba(0, 0, 0, 0.6);
+  background: url({{ site.baseurl }}{{ post.background }}) rgba(0, 0, 0, 0.4);
   background-blend-mode: multiply;">
         <div class="container" style="min-height: 400px">
                 <div class="col-lg-10"><br />
@@ -25,7 +25,7 @@
                   <div class="col-lg-8">
                   <span class="arquivado" style="color:#fff">
 
-                    {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff">{{ post.categories }}</span></a>
+                    {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff;background-color:#4b31dd">{{ post.categories }}</span></a>
 
                   </span>
                   <br /><br />
@@ -40,17 +40,24 @@
 
 <!-- Page Content -->
 <div class="container" style="padding: 0 5% 0px">
-  <h3 style="text-transform: uppercase; color:#4b31dd">O que já publicamos</h3>
           <div class="row">
 {% for post in site.posts offset:1 limit : 12 %}
-                <div class="col-md-4" style="min-height: 480px"><br />
-                <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
-                <img src="{{ site.baseurl }}{{ post.background }}" width='100%;' />
+          <div
+          style="
+          max-width:100%;
+          padding: 15% 2% 3%;
+          background-size: cover !important;
+          background-position: top;
+          display: block;
+          background: url({{ site.baseurl }}{{ post.background }}) rgba(0, 0, 0, 0.4);
+          background-blend-mode: multiply;
+          border-bottom: 2px solid #fff">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
-                  <span class="arquivado">
+                  <br />
+                  <span class="arquivado" style="color:#fff">
 
-                    {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span>{{ post.categories }}</span></a>
+                    {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff;background-color:#4b31dd">{{ post.categories }}</span></a>
 
                   </span><br /><br />
 
