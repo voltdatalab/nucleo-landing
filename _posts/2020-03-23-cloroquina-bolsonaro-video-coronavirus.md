@@ -40,7 +40,7 @@ A cloroquina e a hidroxicloroquina já vinham ganhando notoriedade na última se
 
 ###### É importante porque...
 
-- Ainda não é cientificamente comprovado (até ao menos 23/03) que cloroquina seja de fato eficiente
+- Ainda não é cientificamente comprovado (até ao menos 23/03) que cloroquina seja de fato eficiente contra COVID-19
 
 - Endosso presidencial pode levar a compras desnecessárias e desabastecimento do produto para os que mais precisam dele
 
@@ -76,6 +76,8 @@ O aumento do interesse depois do vídeo de Bolsonaro também ser visualizado a p
 ###### Na imprensa
 
 * [Eficácia da cloroquina para a cura da Covid-19 não é comprovada](https://aosfatos.org/noticias/video-engana-ao-afirmar-que-foi-descoberto-remedio-eficaz-contra-covid-19/) &sdot; *Aos Fatos* &sdot; (20/03/2020)
+
+* [Hidroxicloroquina não é garantia de cura do coronavírus, diferentemente do que circula nas redes](https://www1.folha.uol.com.br/equilibrioesaude/2020/03/hidroxicloroquina-nao-e-garantia-de-cura-do-coronavirus-diferentemente-do-que-circula-nas-redes.shtml) &sdot; *Folha de S.Paulo* &sdot; (23/03/2020)
 
 * [Google registra explosão de buscas por seguro-desemprego em meio a MP de Bolsonaro e coronavírus](https://www1.folha.uol.com.br/mercado/2020/03/google-registra-explosao-de-buscas-por-seguro-desemprego-em-meio-a-mp-de-bolsonaro-e-coronavirus.shtml) &sdot; *Folha de S.Paulo* &sdot; (23/03/2020)
 
