@@ -13,7 +13,7 @@ h4{margin-top:20px;}
 
 
 
-O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações. Por uma característica intrínseca à forma de se produzir conteúdo jornalístico em muitas redações brasileiras, nem sempre somos creditados como referência -- prática que levamos no cerne do nosso jornalismo.
+O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações.
 
 Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.
 
