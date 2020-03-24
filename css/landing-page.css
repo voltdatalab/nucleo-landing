@@ -105,10 +105,8 @@ li a{
 
 .page-ttt{
   font-size: 1.7em;
-  color: #000;
   text-transform: uppercase;
   color: #fff;
-  text-transform: uppercase;
   background-color: rgba(75, 49, 221, 0.8);
   display: inline;
   line-height: 1.3em
