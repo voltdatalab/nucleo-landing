@@ -20,6 +20,11 @@
                 <li>
                     <a href="{{ site.baseurl }}/impacto">IMPACTO</a>
                 </li>
+                {% for social in site.social %}
+                <li>
+                  <a href="{{ social.url }}" style="border:0px"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                {% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
