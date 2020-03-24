@@ -29,23 +29,21 @@ Mande uma mensagem via:
 
 ## <i class="fas fa-long-arrow-alt-right"></i> CPI sobre Óleo do Nordeste
 
-Nossa reportagem sobre como o Ministério do Meio-Ambiente foi alertado constantemente pelo Ibama sobre falta de recursos no combate contra o derramamento de óleo no Nordeste serviu para subsidiar relatório para a [CPI na Câmara](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/externas/56a-legislatura/derramamento-de-oleo-no-nordeste) que analisa o tema.
+[Nossa reportagem](https://nucleo.jor.br/ecossistema/2020-01-11-ibama-alertas-ministerio-documentos) sobre como o Ministério do Meio-Ambiente foi alertado constantemente pelo Ibama sobre falta de recursos no combate contra o derramamento de óleo no Nordeste serviu para subsidiar relatório para a [CPI na Câmara](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/externas/56a-legislatura/derramamento-de-oleo-no-nordeste) que analisa o tema.
 
 #### Como soubemos disso?
 Uma funcionária da Consultoria Legislativa da Câmara dos Deputados [entrou em contato](https://twitter.com/sergiospagnuolo/status/1217508811646390272) em janeiro de 2020 via Whatsapp para solicitar os documentos utilizados.
 
-#### Acesse: [IBAMA ALERTOU DIARIAMENTE MINISTÉRIO DO MEIO AMBIENTE SOBRE FALTA DE RECURSOS PARA AÇÕES CONTRA ÓLEO NO NORDESTE](https://nucleo.jor.br/ecossistema/2020-01-11-ibama-alertas-ministerio-documentos)
 
 <hr>
 
 ## <i class="fas fa-long-arrow-alt-right"></i> Justiça pede esclarecimentos ao Executivo
 
-Análise que fizemos sobre a redução no número de leitos hospitalares foi utilizado como fonte no pedido de organizações da sociedade civil em _amicus curiae_ em ADIs que questionavam o teto de gastos.
+[Análise que fizemos](https://nucleo.jor.br/pol%C3%ADticas%20p%C3%BAblicas/2020-03-12-coronavirus-capacidade-hospitalar-brasil) sobre a redução no número de leitos hospitalares foi utilizado como fonte no pedido de organizações da sociedade civil em _amicus curiae_ em ADIs que questionavam o teto de gastos.
 
 #### Como soubemos disso?
 Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), através do Coordenador de Justiça Social e Econômica da Oxfam Brasil.
 
-#### Acesse: [SUS PERDEU 49 MIL LEITOS DE INTERNAÇÃO HOSPITALAR DESDE 2007](https://nucleo.jor.br/pol%C3%ADticas%20p%C3%BAblicas/2020-03-12-coronavirus-capacidade-hospitalar-brasil)
 
 <hr>
 
