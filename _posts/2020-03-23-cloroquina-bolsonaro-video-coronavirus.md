@@ -31,7 +31,7 @@ tags:
 
 ---
 
-Na tarde de sábado, 21 de março, o Jair Bolsonaro publicou um vídeo no Twitter no qual anuncia "possível cura dos pacientes com a COVID-19", sem fazer nenhum alerta, aviso ou menção de que os resultados do tratamento com cloroquina contra o coronavírus ainda são inconclusivos, de acordo com especialistas e autoridades sanitárias em todo o mundo.
+Na tarde de sábado, 21 de março, o presidente Jair Bolsonaro publicou um vídeo no Twitter no qual anuncia "possível cura dos pacientes com a COVID-19", sem fazer nenhum alerta, aviso ou menção de que os resultados do tratamento com cloroquina contra o coronavírus ainda são inconclusivos, de acordo com especialistas e autoridades sanitárias em todo o mundo.
 
 A cloroquina e a hidroxicloroquina já vinham ganhando notoriedade na última semana após a divulgação de pesquisas [ainda preliminares](https://www1.folha.uol.com.br/equilibrioesaude/2020/03/pesquisas-com-remedio-contra-coronavirus-ainda-sao-preliminares-afirmam-especialistas.shtml) com o medicamento. O site de checagem Aos Fatos [explica bem o assunto](https://aosfatos.org/noticias/video-engana-ao-afirmar-que-foi-descoberto-remedio-eficaz-contra-covid-19/).
 
@@ -91,3 +91,5 @@ O aumento do interesse depois do vídeo de Bolsonaro também ser visualizado a p
 O **Núcleo** analisou 150 mil tuítes, de 15 a 23 de março de 2020, captados pela API gratuita do Twitter. O código da análise pode ser [encontrado aqui](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
 
 Os dados do Google são da plataforma do [Google Trends](https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina) e vão de 16 a 23 de março. No caso do Google, optou-se apenas por "cloroquina" pois foi o termo utilizado no vídeo do presidente. No caso do Twitter, incluiu-se 'hidroxicloroquina' para aumentar a base de análise, já que o termo estava sendo utilizado também nessa rede. Para melhorar a visualização, em alguns casos os primeiros e último dia não foram incluídos nos gráficos, o que não muda a análise.
+
+Por fim, [o link](https://twitter.com/jairbolsonaro/status/1241434576049840130) para o tuíte do vídeo de Bolsonaro. 
