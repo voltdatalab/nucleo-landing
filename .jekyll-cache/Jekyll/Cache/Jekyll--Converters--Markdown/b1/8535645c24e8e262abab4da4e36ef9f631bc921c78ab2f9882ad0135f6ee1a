@@ -1,4 +1,4 @@
-I"�<p>Na tarde de sábado, 21 de março, o Jair Bolsonaro publicou um vídeo no Twitter no qual anuncia “possível cura dos pacientes com a COVID-19”, sem fazer nenhum alerta, aviso ou menção de que os resultados do tratamento com cloroquina contra o coronavírus ainda são inconclusivos, de acordo com especialistas e autoridades sanitárias em todo o mundo.</p>
+I"<p>Na tarde de sábado, 21 de março, o presidente Jair Bolsonaro publicou um vídeo no Twitter no qual anuncia “possível cura dos pacientes com a COVID-19”, sem fazer nenhum alerta, aviso ou menção de que os resultados do tratamento com cloroquina contra o coronavírus ainda são inconclusivos, de acordo com especialistas e autoridades sanitárias em todo o mundo.</p>
 
 <p>A cloroquina e a hidroxicloroquina já vinham ganhando notoriedade na última semana após a divulgação de pesquisas <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/03/pesquisas-com-remedio-contra-coronavirus-ainda-sao-preliminares-afirmam-especialistas.shtml">ainda preliminares</a> com o medicamento. O site de checagem Aos Fatos <a href="https://aosfatos.org/noticias/video-engana-ao-afirmar-que-foi-descoberto-remedio-eficaz-contra-covid-19/">explica bem o assunto</a>.</p>
 
@@ -37,19 +37,24 @@
 
 <p>O aumento do interesse depois do vídeo de Bolsonaro também ser visualizado a partir de buscas do Google, maior mecanismo de busca da internet. O pico de interesse acontece logo depois do tuíte de Bolsonaro com o vídeo.</p>
 
+<p><img src="../img/corona-twitter/googletrends2.png" alt="gráfico trending topics" /></p>
+
 <hr />
 
 <h6 id="na-imprensa">Na imprensa</h6>
 
 <ul>
   <li>
-    <p><a href="https://www1.folha.uol.com.br/poder/2020/03/bolsonaro-e-antepenultimo-em-ranking-de-tuites-de-presidentes-sobre-coronavirus.shtml">Bolsonaro é antepenúltimo em ranking de tuítes de presidentes sobre coronavírus</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (18/03/2020)</p>
+    <p><a href="https://aosfatos.org/noticias/video-engana-ao-afirmar-que-foi-descoberto-remedio-eficaz-contra-covid-19/">Eficácia da cloroquina para a cura da Covid-19 não é comprovada</a> ⋅ <em>Aos Fatos</em> ⋅ (20/03/2020)</p>
   </li>
   <li>
-    <p><a href="https://www.uol.com.br/tilt/noticias/bloomberg/2020/03/17/gigantes-da-tecnologia-se-unem-contra-fake-news-do-coronavirus.htm">Coronavírus: Facebook, Google, Twitter e Microsoft se unem contra fake news</a> ⋅ <em>UOL</em> ⋅ (17/03/2020)</p>
+    <p><a href="https://www1.folha.uol.com.br/mercado/2020/03/google-registra-explosao-de-buscas-por-seguro-desemprego-em-meio-a-mp-de-bolsonaro-e-coronavirus.shtml">Google registra explosão de buscas por seguro-desemprego em meio a MP de Bolsonaro e coronavírus</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (23/03/2020)</p>
   </li>
   <li>
-    <p><a href="https://olhardigital.com.br/coronavirus/noticia/twitter-removera-publicacoes-que-estimulam-a-propagacao-do-coronavirus/98283">Twitter removerá publicações que estimulam a propagação do coronavírus</a> ⋅ <em>Olhar Digital</em> ⋅ (19/03/2020)</p>
+    <p><a href="https://aosfatos.org/noticias/todas-as-declaracoes-de-bolsonaro-sobre-coronavirus-checadas/">Todas as declarações de Bolsonaro sobre coronavírus, checadas</a> ⋅ <em>Aos Fatos</em> ⋅ (19/03/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://aosfatos.org/noticias/nao-ha-evidencia-cientifica-de-que-auto-hemoterapia-cure-covid-19/">Não há evidência científica de que auto-hemoterapia cure a Covid-19</a> ⋅ <em>Aos Fatos</em> ⋅ (23/03/2020)</p>
   </li>
 </ul>
 
@@ -57,20 +62,9 @@
 
 <h3 id="metodologia">METODOLOGIA</h3>
 
-<p>O <strong>Núcleo</strong> capturou 1.034.973 tuítes das 20h50 do dia 9 de março até 3h19 do dia 19, utilizando a API gratuita do Twitter. Os códigos podem ser <a href="https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5">encontrados aqui</a>.</p>
+<p>O <strong>Núcleo</strong> analisou 150 mil tuítes, de 15 a 23 de março de 2020, captados pela API gratuita do Twitter. O código da análise pode ser <a href="https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5">encontrado aqui</a>.</p>
 
-<p>A conta considera <em>apenas</em> tuítes únicos, ou seja, exclui retuítes e respostas a tuítes. Isso porque queremos medir a espontaneidade de publicações sobre o tema, não a reação (comentários e compartilhamentos). Por isso o número pode parecer mais modesto, mas na verdade é bem substancial.</p>
+<p>Os dados do Google são da plataforma do <a href="https://trends.google.com/trends/explore?date=now%207-d&amp;geo=BR&amp;q=cloroquina">Google Trends</a> e vão de 16 a 23 de março. No caso do Google, optou-se apenas por “cloroquina” pois foi o termo utilizado no vídeo do presidente. No caso do Twitter, incluiu-se ‘hidroxicloroquina’ para aumentar a base de análise, já que o termo estava sendo utilizado também nessa rede. Para melhorar a visualização, em alguns casos os primeiros e último dia não foram incluídos nos gráficos, o que não muda a análise.</p>
 
-<p>Com a finalidade de manter a privacidade de usuários com perfis pouco notórios, o <strong>Núcleo</strong> não vai divulgar os dados brutos – cada pessoa pode rodar o código de extração para obter esses resultados.</p>
-
-<p>Os dados sobre trending topics foram obtidos manualmente via <a href="https://trendogate.com/">Trendogate</a>, que cataloga os 50 assuntos mais populares por dia na rede social, por país.</p>
-
-<p>O <strong>Núcleo</strong> entrou em contato com o Twitter via email em busca de estatísticas agregadas pela própria plataforma, no Brasil. A plataforma respondeu apenas as duas informações abaixo, sem discriminação por país:</p>
-
-<blockquote>
-  <ul>
-    <li>No período de 9 a 19 de março foram contabilizados 409,3 milhões Tweets no mundo sobre o COVID-19</li>
-    <li>No período de 16 a 18 de março foram contabilizados 154,4 milhões Tweets no mundo sobre o COVID-19</li>
-  </ul>
-</blockquote>
+<p>Por fim, <a href="https://twitter.com/jairbolsonaro/status/1241434576049840130">o link</a> para o tuíte do vídeo de Bolsonaro.</p>
 :ET
