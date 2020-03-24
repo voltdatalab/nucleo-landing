@@ -3,11 +3,12 @@ layout: opiniao
 title: 'O Impacto do Núcleo'
 desc: 'Qual o resultado do nosso jornalismo?'
 subtitle: 'Qual o resultado do nosso jornalismo?'
+link: impacto
 atualizacao: 24/03/2020
 ---
 
 <style>
-h2{text-transform:uppercase;font-size:1.2em; border-bottom:1px solid #000}
+h2{text-transform:uppercase;font-size:1.2em; border-bottom:1px solid #000;}
 h4{margin-top:20px;}
 </style>
 
@@ -17,13 +18,13 @@ O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do fun
 
 Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.
 
-Mande uma mensagem via:
+Envie uma mensagem via:
 
-- [<i class="fab fa-whatsapp fa-lg"></i> Whatsapp](https://wa.me/5511934441844)
+<i class="fab fa-whatsapp fa-lg"></i> [Whatsapp](https://wa.me/5511934441844)
 
-- [<i class="far fa-envelope"></i> nucleo@voltdata.info](mailto:nucleo@voltdata.info)
+<i class="far fa-envelope fa-lg"></i> [nucleo@voltdata.info](mailto:nucleo@voltdata.info)
 
-- [<i class="fab fa-twitter fa-lg"></i> @nucleojor](https://twitter.com/nucleojor)
+<i class="fab fa-twitter fa-lg"></i> [@nucleojor](https://twitter.com/nucleojor)
 
 <br> <br>
 

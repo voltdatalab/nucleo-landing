@@ -25,10 +25,10 @@
 {% endfor %}
 
 <!-- Page Content -->
-<div class="container-fluid" style="padding: 0 5% 0px">
+<div class="container" style="padding: 0 5% 0px">
           <div class="row">
 {% for post in site.posts offset:1 limit : 12 %}
-                <div class="col-md-4" style="min-height: 420px"><br />
+                <div class="col-md-4" style="min-height: 480px"><br />
                 <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
                 <img src="{{ site.baseurl }}{{ post.background }}" width='100%;' />
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
