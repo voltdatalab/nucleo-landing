@@ -90,4 +90,4 @@ O aumento do interesse depois do vídeo de Bolsonaro também ser visualizado a p
 
 O **Núcleo** analisou 150 mil tuítes, de 15 a 23 de março de 2020, captados pela API gratuita do Twitter. O código da análise pode ser [encontrado aqui](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
 
-Os dados do Google são da plataforma do [Google Trends](https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina) e vão de 16 a 23 de março. Para melhorar a visualização, os dos primeiros e últimos dias não foram incluídos nos gráficos, o que não muda a análise.
+Os dados do Google são da plataforma do [Google Trends](https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina) e vão de 16 a 23 de março. No caso do Google, optou-se apenas por "cloroquina" pois foi o termo utilizado no vídeo do presidente. No caso do Twitter, incluiu-se 'hidroxicloroquina' para aumentar a base de análise, já que o termo estava sendo utilizado também nessa rede. Para melhorar a visualização, em alguns casos os primeiros e último dia não foram incluídos nos gráficos, o que não muda a análise.
