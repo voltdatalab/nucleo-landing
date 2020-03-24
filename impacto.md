@@ -1,8 +1,8 @@
 ---
 layout: opiniao
 title: 'O Impacto do Núcleo'
-desc: 'JORNALISMO <br /> DADOS <br /> TRANSPARÊNCIA'
-subtitle: 'Qual o resultado de nossas reportagens?'
+desc: 'Qual o resultado do nosso jornalismo?'
+subtitle: 'Qual o resultado do nosso jornalismo?'
 atualizacao: 24/03/2020
 ---
 
