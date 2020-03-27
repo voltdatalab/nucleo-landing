@@ -40,9 +40,9 @@ A cloroquina e a hidroxicloroquina já vinham ganhando notoriedade na última se
 
 ###### É importante porque...
 
-- Ainda não é cientificamente comprovado (até ao menos 23/03) que cloroquina seja de fato eficiente contra COVID-19
+- *Ainda não é cientificamente comprovado (até ao menos 23/03) que cloroquina seja de fato eficiente contra COVID-19*
 
-- Endosso presidencial pode levar a compras desnecessárias e desabastecimento do produto para os que mais precisam dele
+- *Endosso presidencial pode levar a compras desnecessárias e desabastecimento do produto para os que mais precisam dele*
 
 ---
 

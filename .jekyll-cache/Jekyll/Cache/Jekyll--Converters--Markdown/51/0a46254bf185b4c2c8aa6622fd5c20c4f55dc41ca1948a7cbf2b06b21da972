@@ -1,5 +1,5 @@
-I"<style>
-h2{text-transform:uppercase;font-size:1.2em; border-bottom:1px solid #000;font-family: Roboto mono}
+I")<style>
+h2{text-transform:uppercase;font-size:1.2em; border-bottom:1px solid #000;}
 h4{margin-top:20px;}
 </style>
 
@@ -7,19 +7,13 @@ h4{margin-top:20px;}
 
 <p>Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.</p>
 
-<p>Mande uma mensagem via:</p>
+<p>Envie uma mensagem via:</p>
 
-<ul>
-  <li>
-    <p><a href="https://wa.me/5511934441844"><i class="fab fa-whatsapp fa-lg"></i> Whatsapp</a></p>
-  </li>
-  <li>
-    <p><a href="mailto:nucleo@voltdata.info"><i class="far fa-envelope"></i> nucleo@voltdata.info</a></p>
-  </li>
-  <li>
-    <p><a href="https://twitter.com/nucleojor"><i class="fab fa-twitter fa-lg"></i> @nucleojor</a></p>
-  </li>
-</ul>
+<p><i class="fab fa-whatsapp fa-lg"></i> <a href="https://wa.me/5511934441844">Whatsapp</a></p>
+
+<p><i class="far fa-envelope fa-lg"></i> <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a></p>
+
+<p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/nucleojor">@nucleojor</a></p>
 
 <p><br /> <br /></p>
 
@@ -44,6 +38,8 @@ h4{margin-top:20px;}
 <h2 id="-pautando-a-imprensa"><i class="fas fa-long-arrow-alt-right"></i> Pautando a imprensa</h2>
 
 <p><em>Temos uma parceria com o Yahoo Brasil, que republica algumas de nossas matérias.</em></p>
+
+<h4 id="aos-fatos-como-a-desinformação-sobre-cloroquina-se-multiplicou-no-twitter-após-aval-de-bolsonaro-à-droga">Aos Fatos: <a href="https://aosfatos.org/noticias/como-desinformacao-sobre-cloroquina-se-multiplicou-no-twitter-apos-aval-de-bolsonaro-droga/">Como a desinformação sobre cloroquina se multiplicou no Twitter após aval de Bolsonaro à droga</a></h4>
 
 <h4 id="nexo-como-o-novo-coronavírus-pressiona-o-sistema-de-saúde-brasileiro">Nexo: <a href="https://www.nexojornal.com.br/expresso/2020/03/12/Como-o-novo-coronav%C3%ADrus-pressiona-o-sistema-de-sa%C3%BAde-brasileiro">Como o novo coronavírus pressiona o sistema de saúde brasileiro</a></h4>
 

@@ -91,10 +91,11 @@ li a{
 }
 
 .page-tt{
-  font-size: 2.3em;
+  font-size: 2.5em;
   color: #fff;
   text-transform: uppercase;
-  background-color: rgba(75, 49, 221, 0.8);
+  /*background-color: rgba(75, 49, 221, 0.4);*/
+  background-color: rgba(0, 0, 0, 0.5);
   display: inline;
   line-height: 1.3em
 }
@@ -107,7 +108,7 @@ li a{
   font-size: 1.7em;
   text-transform: uppercase;
   color: #fff;
-  background-color: rgba(75, 49, 221, 0.8);
+  background-color: rgba(0, 0, 0, 0.5);
   display: inline;
   line-height: 1.3em
 }
@@ -125,7 +126,7 @@ li a{
   font-family: 'Barlow', sans-serif !important;
   color: #fff;
   font-size: 1.3em;
-  background-color: rgba(75, 49, 221, 0.8);
+  background-color: rgba(0, 0, 0, 0.1);
   display: inline;
 }
 
@@ -203,7 +204,7 @@ label{
 
 .intro-header {
     padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     text-align: center;
     color: #333;
     background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
@@ -214,13 +215,12 @@ label{
 
 .intro-message {
     position: relative;
-    padding-top: 10%;
-    padding-bottom: 20%;
+    padding: 5% 0
 }
 
-.intro-message > h1 {
+.intro-message > h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 1.5em;
     color: #231f20;
 }
 
@@ -265,7 +265,11 @@ label{
     }
 
     #logotipo{
-      margin-top: 5px
+      margin-top: 5px;
+    }
+
+    .page-tt{
+      font-size: 2em;
     }
 }
 
@@ -404,7 +408,8 @@ ul.share-buttons .sr-only{
   width: 100%;
   text-align: left;
   color: #fff;
-  padding-bottom: 3%
+  padding-bottom: 3%;
+  font-size: 1em
 }
 
 #about p{
@@ -415,4 +420,30 @@ ul.share-buttons .sr-only{
   background-color: #4b31dd
 }
 
-/* POST */
+/* BANNER POST */
+
+.bannerpost{
+  max-width:100%;
+  padding: 15% 2% 3%;
+  margin-top: -20px;
+  background-size: cover !important;
+  background-position: center center;
+  display: block;
+  background-blend-mode: multiply;
+}
+
+.indexpost{
+  max-width:100%;
+  padding: 15% 2% 3%;
+  background-size: cover !important;
+  background-position: top;
+  display: block;
+  background-blend-mode: multiply;
+  border-bottom: 2px solid #fff
+}
+
+@media(max-width:767px) {
+    .bannerpost{
+      margin-top: 20px;
+    }
+}

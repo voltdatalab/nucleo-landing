@@ -39,9 +39,9 @@ Esse pode ser um indicativo de como as autoridades brasileiras estavam lidando c
 
 ###### É importante porque...
 
-- O assunto tem dominado as discussões em redes sociais, à medida que medidas mais drásticas são tomadas para conter o vírus
+- *O assunto tem dominado as discussões em redes sociais, à medida que medidas mais drásticas são tomadas para conter o vírus*
 
-- Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um lugar de discussão política e de assuntos do momento
+- *Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um lugar de discussão política e de assuntos do momento*
 
 ---
 

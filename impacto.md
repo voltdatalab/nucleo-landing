@@ -52,6 +52,8 @@ Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), 
 
 *Temos uma parceria com o Yahoo Brasil, que republica algumas de nossas matérias.*
 
+#### Aos Fatos: [Como a desinformação sobre cloroquina se multiplicou no Twitter após aval de Bolsonaro à droga](https://aosfatos.org/noticias/como-desinformacao-sobre-cloroquina-se-multiplicou-no-twitter-apos-aval-de-bolsonaro-droga/)
+
 #### Nexo: [Como o novo coronavírus pressiona o sistema de saúde brasileiro](https://www.nexojornal.com.br/expresso/2020/03/12/Como-o-novo-coronav%C3%ADrus-pressiona-o-sistema-de-sa%C3%BAde-brasileiro)
 
 #### Canaltech: [Twitter prioriza contas verificadas e de autoridades para combater fake news](https://canaltech.com.br/redes-sociais/twitter-prioriza-perfis-verificados-e-autoridades-fake-news-coronavirus-162194/)

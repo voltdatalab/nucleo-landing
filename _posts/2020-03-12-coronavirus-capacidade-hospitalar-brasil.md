@@ -1,7 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
-tipo: descrição
+tipo: análise
 title: "SUS perdeu 49 mil leitos de internação hospitalar desde 2007"
 titulo_redes: "Coronavírus: SUS perdeu 49 mil leitos hospitalares desde 2007"
 subtitle: "Pandemia de coronavírus pode sobrecarregar o sistema de saúde brasileiro. O número de leitos disponíveis teve queda total (SUS e não SUS) de 6,2% desde 2007 até 2019, numa perda de 28.300 unidades."

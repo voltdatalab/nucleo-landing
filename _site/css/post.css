@@ -123,15 +123,22 @@ h2.subheading {
 
 .texto_post blockquote{
   font-style: italic;
-  font-size: 1em !important;
-  border-left: 3px solid #2eefa0;
+  font-size: 1.3em !important;
+  border-left: 4px solid #2eefa0;
   padding-left: 10px;
   max-width: 100% !important;
 }
 
+.texto_post blockquote ul{
+  padding-left: 0;
+  max-width: 70%
+}
+
 .texto_post blockquote li{
-  font-style: italic;
-  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.7em !important;
+  list-style-type: none;
 }
 
 blockquote.twitter-tweet {

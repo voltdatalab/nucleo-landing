@@ -1,0 +1,22 @@
+
+	<div class="intro-header">
+
+		<div class="container">
+				<div class="col-lg-auto">
+					<div class="intro-message">
+						<h2>{{ page.desc }}</h2>
+						<h3>{{ page.subTitle }}</h3>
+						<ul class="list-inline intro-social-buttons"> <br />
+							{% for social in site.social %}
+							<li>
+								<a href="{{ social.url }}" target="_blank"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name">{{ social.title }}</span></a>
+							</li>
+							{% endfor %}
+						</ul><br />
+						<a class="btn" href="{{ page.link }}">Conheça nosso impacto</a> <br />
+					</div>
+				</div>
+		</div>
+		<!-- /.container -->
+
+	</div>
