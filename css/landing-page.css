@@ -441,6 +441,10 @@ ul.share-buttons .sr-only{
   border-bottom: 2px solid #fff
 }
 
+.indexpost:hover{
+  background-blend-mode: lighten;
+}
+
 @media(max-width:767px) {
     .bannerpost{
       margin-top: 20px;
