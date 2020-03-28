@@ -3,9 +3,9 @@ layout: categories
 ---
 
 <div class="container">
-    <h2><span class="arquivado">Arquivado em <span>#{{ page.tag }}</span></span></h2>
 
     <section id="publicacoes">
+      <h2><span style="font-family:Roboto Mono, monospace;font-weight:300">Arquivado em <span style="color:#4b31dd;text-transform:uppercase">#{{ page.tag }}</span></span></h2>
     <!-- Page Content -->
     {% for post in site.categories[page.tag] %}
         <div class="content-section-a">
@@ -14,7 +14,7 @@ layout: categories
                     <div class="col-lg-6">
                     <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                      <h2 class="page-tt">{{ post.titulo_redes }}</h2></a>
+                      <h2 style="color:#231f20;text-transform:uppercase">{{ post.titulo_redes }}</h2></a>
                       <br />
                       <span class="arquivado">
 
@@ -24,8 +24,8 @@ layout: categories
                       <br />
                     <p class="conteudo">{{ post.excerpt }} <strong><a href="{{ post.url }}">[Continuar...]</a></strong></p>
                     </div>
-                  <div class="col-lg-5" style="float:right; padding-top: 40px; padding-right: 40px;">
-                    <img src="{{ site.baseurl }}{{ post.background }}" width='100%'/>
+                  <div class="col-lg-5" style="float:right; padding-top: 20px; padding-right: 40px;">
+                    <img src="{{ site.baseurl }}{{ post.background }}" width='95%'/>
                   </div>
                   </div>
           </div>

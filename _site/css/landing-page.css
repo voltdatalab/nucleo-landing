@@ -124,9 +124,8 @@ li a{
 
 .conteudo{
   font-family: 'Barlow', sans-serif !important;
-  color: #fff;
-  font-size: 1.3em;
-  background-color: rgba(0, 0, 0, 0.1);
+  color: #231f20;
+  font-size: 1sem;
   display: inline;
 }
 
@@ -283,7 +282,7 @@ label{
 
 .content-section-a {
     padding: 25px 0;
-    background-color: #ffffff;
+    background-color: inherit;
 }
 
 .content-section-b {
