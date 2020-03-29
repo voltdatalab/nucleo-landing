@@ -2,8 +2,8 @@
 published: TRUE
 layout: conteudo
 tipo: descrição
-title: "Com coronavírus, trânsito nas maiores cidades brasileiras cai 42% em março"
-titulo_redes: "Com coronavírus, trânsito nas maiores cidades brasileiras cai 42%"
+title: "Com coronavírus, trânsito cai em média 42% nas maiores cidades brasileiras em março"
+titulo_redes: "Coronavírus: trânsito cai 42% nas maiores cidades brasileiras"
 subtitle: "Análise com dados do BID/Waze mostra queda média na intensidade de congestionamento de 24 regiões metropolitanas do Brasil. No país, redução em geral foi de 33%"
 subtitle_redes: "Queda no congestionamento aconteceu em 24 regiões metropolitanas."
 excerpt: "O Núcleo analisou dados do Ministério da Cidadania atualizados até novembro de 2019 e constatou que houve queda no número de beneficiários do programa nesse ano na ordem de 7,3% na comparação com novembro de 2018."
