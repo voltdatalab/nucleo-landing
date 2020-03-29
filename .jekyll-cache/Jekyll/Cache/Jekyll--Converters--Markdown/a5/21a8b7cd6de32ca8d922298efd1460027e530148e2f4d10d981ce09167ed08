@@ -1,0 +1,43 @@
+I"�<p>O congestionamento de veículos nas 24 maiores regiões metropolitanas do Brasil caiu quase pela metade a partir da segunda semana de março, em um momento no qual todo o país passa por medidas de isolamento e fechamento de comércio para combater a epidemia de coronavírus.</p>
+
+<p>Análise com <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest mostra um declínio médio de 41,7% na intensidade de congestionamento de trânsito (TCI, na sigla em inglês) nas maiores cidades do Brasil a partir de 8 de março até dia 28, em relação à primeira semana do mês.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Mostra os efeitos da epidemia e das medidas de contenção na circulação de pessoas e veículos</em></p>
+  </li>
+  <li>
+    <p><em>Indica também menor atividade econômica</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><img src="../img/covid/transito_cidades.png" alt="grafico cidades trânsito" /></p>
+
+<p>O TCI mede tanto a extensão do trânsito quanto sua duração em um determinado espaço.</p>
+
+<p>Essa queda nas regiões metropolitanas está em linha com a média de 24 países da América Latina, onde o TCI caiu 43,3% no mesmo período. No Brasil, em geral, considerando outras regiões, a intensidade do trânsito teve redução de 33,7%.</p>
+
+<p>Na América do Sul, a maior queda apurada foi na Venezuela, seguida de Paraguai e Equador. Apenas o Uruguai teve uma queda menor do que a brasileira, mostrando que o Brasil tem sido mais lento em reduzir sua movimentação.</p>
+
+<p><img src="../img/covid/transito_paises.png" alt="grafico cidades trânsito" /></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>Os <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> são baseados em um convênio entre o Banco Interamericano de Desenvolvimento e o <a href="https://www.waze.com/en/ccp">programa</a> “Waze for Cities”.</p>
+
+<p>Os gráficos desconsideram algumas cidades e países a fim de facilitar a visualização de dados.</p>
+
+<p>As regiões metropolitanas consideradas na conta foram: Belém, Belo Horizonte, Brasília, Campinas, Curitiba, Florianópolis, Fortaleza, Goiânia, João Pessoa, Joinville, Maceió, Manaus, Natal, Porto Alegre, Recife, Rio de Janeiro, Salvador, Santos, São José dos Campos, São Luís, São Paulo, Sorocaba, Teresina e Vitória.</p>
+
+<p>Os países considerados na conta foram: Argentina, Bahamas, Barbados, Belize, Bolívia, Brasil, Chile, Colômbia, Costa Rica, República Dominicana, Equador, El Salvador, Guatemala, Guiana, Haiti, Honduras, Jamaica, México, Nicarágua, Panamá, Paraguai, Peru, Suriname, Trinidad &amp; Tobago, Uruguai e Venezuela.</p>
+
+<p>A metodologia pode ser encontrada <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-529">neste documento</a>. Descrevendo o TCI (tradução do <strong>Núcleo</strong>):</p>
+
+<p><em>“Essa medida do TCI sumariza tanto a extensão dos congestionamentos na rede viária de um polígono (ex. uma região metropolitana) quanto sua duração, porque a continuidade de congestionamentos é contada cada vez dentro de um intervalo i. Por exemplo, se na região metropolitana A e na região metropolitana B as mesmas 10 linhas de congestionamento são formadas em um dia, cada uma com 150 metros de comprimento, teríamos uma medida de 1.500 metros de congestionamento tanto em A quanto em B durante o dia. No entanto, se congestionamentos em A têm uma duração que seja o dobro da duração de B, o TCI para A seria o dobro do TCI para B.”</em></p>
+:ET
