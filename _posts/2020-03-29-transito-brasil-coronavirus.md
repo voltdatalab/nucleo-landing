@@ -6,7 +6,7 @@ title: "Com coronavírus, trânsito cai em média 42% nas maiores cidades brasil
 titulo_redes: "Coronavírus: trânsito cai 42% nas maiores cidades brasileiras"
 subtitle: "Análise com dados do BID/Waze mostra queda média na intensidade de congestionamento de 24 regiões metropolitanas do Brasil. No país, redução em geral foi de 33%"
 subtitle_redes: "Queda no congestionamento aconteceu em 24 regiões metropolitanas."
-excerpt: "O Núcleo analisou dados do Ministério da Cidadania atualizados até novembro de 2019 e constatou que houve queda no número de beneficiários do programa nesse ano na ordem de 7,3% na comparação com novembro de 2018."
+excerpt: "O congestionamento médio de veículos nas 24 maiores regiões metropolitanas do Brasil caiu quase pela metade a partir da segunda semana de março, em um momento no qual todo o país passa por medidas de isolamento e fechamento de comércio para combater a epidemia de coronavírus."
 date: 29/03/2020
 graficos: Sérgio Spagnuolo
 arte: Sérgio Spagnuolo
