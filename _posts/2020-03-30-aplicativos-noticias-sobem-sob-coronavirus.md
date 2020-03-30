@@ -12,7 +12,7 @@ credito_img: Sérgio Spagnuolo
 dados_abertos: "Acesse o estudo da RankMyAPP feito a pedido do Núcleo"
 dados_abertos_link: '../img/covid/ESTUDO_RankMyAPP.pdf'
 background: '../img/covid/apps_noticias_cover.jpg'
-atualizacao: ""
+atualizacao: "Texto alterado às 18h08 de 30 de março de 2020 para incluir informação no terceiro parágrafo, relativa à Apple Store."
 categories:
   - "mídia"
 tags:
@@ -26,7 +26,7 @@ A instalações de aplicativos de notícias cresceram 68% após o agravamento da
 
 O número de downloads semanais de aplicativos de notícia saltou de pouco mais de 2.000 na semana de 24 de fevereiro a 1º de março para cerca de 3.500 na semana de 16 a 22 de março. Medidas mais drásticas de distanciamento social começaram a ser tomadas em todo o Brasil por volta dessa última semana.
 
-O levantamento foi realizado pela empresa [RankMyAPP](https://www.rankmyapp.com/pt-br/) a pedido do **Núcleo** e considera downloads realizados na categoria "notícias e revistas" na plataforma Play Store, do Google, orientada para aparelhos que rodam o sistema operacional Android.
+O levantamento foi realizado pela empresa [RankMyAPP](https://www.rankmyapp.com/pt-br/) a pedido do **Núcleo** e considera downloads realizados na categoria "notícias e revistas" na plataforma Play Store, do Google, orientada para aparelhos que rodam o sistema operacional Android, e Apple Store.
 
 
 ---
