@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: descrição
 title: "Governo corta 218 mil beneficiários do Bolsa Família em março"
-titulo_redes: "Governo corta 218 mil beneficiários do Bolsa Família em marça"
+titulo_redes: "Governo corta 218 mil beneficiários do Bolsa Família em março"
 subtitle: "Análise do Núcleo constatou redução de 1,2% no número de famílias beneficiadas em março ante fevereiro, em um momento no qual o Brasil luta com desaceleração da atividade econômica por conta do coronavírus."
 subtitle_redes: "Análise do Núcleo constatou redução de 1,2% nas famílias beneficiadas em março vs fevereiro"
 excerpt: "Em um momento crítico para o Brasil por conta de medidas de combate ao coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 218 mil famílias. Esse é o nova queda em um ano no número recipientes do principal programa social do governo federal."
