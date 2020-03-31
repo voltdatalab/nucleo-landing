@@ -1,0 +1,76 @@
+I"�<p>Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro – uma redução de 218 mil famílias. Esse é o nona redução mensal em um ano no número recipientes do principal programa social do governo federal.</p>
+
+<p>Uma análise do <strong>Núcleo</strong> constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,05 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,6%, num total de 702 mil famílias.</p>
+
+<p><img src="../img/bolsa-familia-exugamento/bolsa_familia_marco.png" alt="Gráfico sobre Bolsa Família em março" /></p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>O Bolsa Família é o maior programa social do Brasil</em></p>
+  </li>
+  <li>
+    <p><em>Em momento de isolamento social para combater a COVID-19, em que muitas pessoas não estão saindo para trabalhar, as famílias recipientes precisam de renda mais do que nunca</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>O <strong>Núcleo</strong> consultou a API oficial do Bolsa Família oficial do Ministério da Cidadania nesta terça-feira, 31, e os <a href="http://aplicacoes.mds.gov.br/sagi/servicos/misocial?q=*&amp;fq=anomes_s:2020*&amp;fq=tipo_s:mes_mu&amp;wt=csv&amp;fl=ibge:codigo_ibge,anomes:anomes_s,qtd_familias_beneficiarias_bolsa_familia,valor_repassado_bolsa_familia&amp;rows=10000000&amp;sort=anomes_s%20asc,%20codigo_ibge%20asc">dados de março</a> já constavam lá - mas ainda não <a href="https://aplicacoes.mds.gov.br/sagi/vis/data3/v.php?q[]=5ItjcmGJnfSh1aLB1MiFcoeVhX5hhoNzgIuIhJh2dHukfYXnybKys9%2B%2BsqilzpK4yca6q7DVybrMibllqHyigKm%2FudC0iLe6osWKpucSF63jsN11k66z2d3NurM2Asm3ycZTpqB5verfwKSm1K1zhMbNy69Qn7SvCAbEu8nFtIQ%3D">no site</a>.</p>
+
+<p>Vale notar que as medidas de isolamento social para contenção à epidemia de coronavírus começaram apenas a partir de meados de março, e seria improvável qualquer mudança de planejamento de última hora na concessão do Bolsa Família por parte do governo Bolsonaro, a fim de atenuar os efeitos da crise.</p>
+
+<p>O programa sofre constantes alterações no número de beneficiários, com a finalidade de ajustes, como exclusão de <a href="https://g1.globo.com/politica/blog/valdo-cruz/post/2020/01/07/para-combater-fraudes-no-bolsa-familia-governo-quer-ter-acesso-a-ir-de-beneficiarios.ghtml">fraudes</a>, por exemplo.</p>
+
+<p>No entanto, as repetidas quedas no número de famílias beneficiadas nos últimos 12 meses (houve alta apenas em abril e maio de 2019 e janeiro de 2020) mostram um enxugamento do programa, conforme o <strong>Núcleo</strong> <a href="https://nucleo.jor.br/dinheiro%20p%C3%BAblico/2020-03-03-bolsa-familia-dados-2019">já mostrou</a>.</p>
+
+<p><img src="../img/bolsa-familia-exugamento/bolsa_familia_varpct_marco.png" alt="Gráfico sobre Bolsa Família em março - variação" /></p>
+
+<p>A administração federal e o Congresso já trabalham em medidas para conter a crise, inclusive a concessão de auxílios de R$600 para trabalhadores autônomos ou informais.</p>
+
+<p>Bolsonaro tem repetidamente pedido pela volta à normalidade, contrariando a Organização Mundial da Saúde, especialistas e até mesmo seu Ministério da Saúde, que buscam manter as medidas de contenção à epidemia, que fecharam comércio e mantiveram pessoas em suas casas, reduzindo assim a atividade econômica do país.</p>
+
+<p><img src="../img/bolsa-familia-exugamento/bolsa_familia_marco_emreais.png" alt="Gráfico sobre Bolsa Família em março - valores em reais" /></p>
+
+<hr />
+
+<h6 id="na-imprensa">Na imprensa</h6>
+
+<ul>
+  <li>
+    <p><a href="https://brasil.elpais.com/brasil/2020-01-31/governo-bolsonaro-nao-explica-tamanho-real-da-fila-do-bolsa-familia.html">Governo Bolsonaro não explica tamanho real da fila do Bolsa Família</a> ⋅ <em>El País</em> ⋅ (31/01/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www1.folha.uol.com.br/mercado/2020/02/bolsonaro-trava-bolsa-familia-em-cidades-pobres-e-fila-chega-a-1-milhao.shtml?origin=folha">Bolsonaro trava Bolsa Família em cidades pobres e fila chega a 1 milhão</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (10/02/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www1.folha.uol.com.br/mercado/2020/02/governo-bolsonaro-fecha-porta-e-reduz-em-75-reingressos-ao-bolsa-familia.shtml">Governo Bolsonaro fecha porta e reduz em 75% reingressos ao Bolsa Família</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (15/02/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://politica.estadao.com.br/noticias/geral,fila-do-bolsa-familia-ja-tem-3-5-milhoes-de-pessoas-municipios-voltam-a-dar-cesta-basica,70003201822">Fila do Bolsa Família já tem 3,5 milhões de pessoas; municípios voltam a dar cesta básica</a> ⋅ <em>O Estado de S.Paulo</em> ⋅ (18/02/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www.poder360.com.br/midia/brasil-ve-midia-digital-crescer-e-331-veiculos-jornalisticos-serem-extintos/">Há um ano, governo já sabia da falta de dinheiro para o Bolsa Família</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (26/02/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://brasil.elpais.com/politica/2020-03-02/governo-bolsonaro-descumpre-lei-de-acesso-a-informacao-e-nao-responde-sobre-bolsa-familia.html">Governo Bolsonaro descumpre Lei de Acesso à Informação e não responde sobre Bolsa Família</a> ⋅ <em>El País</em> ⋅ (02/03/2020)</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O <strong>Núcleo</strong> baseou todas as suas análises em dados fornecidos diretamente pelo Ministério da Cidadania, sob a rubrica do Ministério do Desenvolvimento Social. Essas informações foram obtidas diretamente da API tal como disponibilizada no <a href="http://www.dados.gov.br/dataset/bolsa-familia-misocial">Portal de Dados Abertos do governo federal</a>, que contém valores e números de famílias agrupados por município.</p>
+
+<p>É possível encontrar dados do Bolsa Família também no <a href="http://www.portaltransparencia.gov.br/beneficios/consulta?de=01%2F01%2F2020&amp;ate=01%2F12%2F2020&amp;ordenarPor=mesAno&amp;direcao=desc">Portal da Transparência</a> do governo federal.</p>
+
+<p>A extração dos dados e as análises foram feitas utilizando a linguagem de programação R, e os códigos podem ser encontrados integralmente <a href="https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a">neste link</a>.</p>
+
+<p>Por termos feito apenas uma agregação dos dados oficiais disponibilizados, sem juízo de valor sobre por que aumentou ou subiu, o <strong>Núcleo</strong> não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a>.</p>
+
+<p>Essa reportagem <em>pode</em> ser atualizada caso os dados sejam atualizados.</p>
+:ET
