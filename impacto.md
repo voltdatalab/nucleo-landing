@@ -4,7 +4,7 @@ title: 'O Impacto do Núcleo'
 desc: 'Qual o resultado do nosso jornalismo?'
 subtitle: 'Qual o resultado do nosso jornalismo?'
 link: impacto
-atualizacao: 24/03/2020
+atualizacao: 31/03/2020
 ---
 
 <style>
