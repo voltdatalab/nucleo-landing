@@ -1,6 +1,6 @@
-I"�<p>Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro – uma redução de 218 mil famílias. Esse é o nona redução mensal em um ano no número recipientes do principal programa social do governo federal.</p>
+I"�<p>Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro – uma redução de 218 mil famílias. Essa é a nona redução mensal em um ano no número recipientes do principal programa social do governo federal.</p>
 
-<p>Uma análise do <strong>Núcleo</strong> constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,05 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,6%, num total de 702 mil famílias.</p>
+<p>Uma análise do <strong>Núcleo</strong> constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,06 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,6%, num total de 702 mil famílias.</p>
 
 <p><img src="../img/bolsa-familia-exugamento/bolsa_familia_marco.png" alt="Gráfico sobre Bolsa Família em março" /></p>
 
@@ -29,9 +29,9 @@
 
 <p>Vale notar que o programa sofre constantes alterações no número de beneficiários, com a finalidade de ajustes como a exclusão de <a href="https://g1.globo.com/politica/blog/valdo-cruz/post/2020/01/07/para-combater-fraudes-no-bolsa-familia-governo-quer-ter-acesso-a-ir-de-beneficiarios.ghtml">fraudes</a>, por exemplo.</p>
 
-<p>A administração federal e o Congresso já trabalham em medidas para conter a crise, inclusive a concessão de auxílios de R$600 para trabalhadores autônomos ou informais.</p>
+<p>A administração federal e o Congresso já trabalham <a href="https://g1.globo.com/economia/noticia/2020/03/24/coronavirus-veja-as-medidas-economicas-ja-anunciadas-pelo-governo-federal-e-pelo-bc.ghtml">em medidas</a> para conter a crise, inclusive a <a href="https://economia.uol.com.br/noticias/redacao/2020/03/30/senado-aprova-auxilio-de-r-600-a-trabalhadores-informais-por-tres-meses.htm">concessão</a> de auxílios de R$600 para trabalhadores autônomos ou informais.</p>
 
-<p>Bolsonaro tem repetidamente pedido pela volta à normalidade, contrariando a Organização Mundial da Saúde, especialistas e até mesmo seu Ministério da Saúde, que buscam manter as medidas de contenção à epidemia, que fecharam comércio e mantiveram pessoas em suas casas, reduzindo assim a atividade econômica do país.</p>
+<p>Bolsonaro tem repetidamente <a href="https://g1.globo.com/politica/noticia/2020/03/24/bolsonaro-pede-na-tv-volta-a-normalidade-e-fim-do-confinamento-em-massa.ghtml">pedido</a> pela volta à normalidade no cotidiado das pessoas, contrariando a Organização Mundial da Saúde, especialistas e até mesmo seu Ministério da Saúde, que busca manter ativas medidas drásticas de contenção à epidemia, como o chamado isolamento social, o qual resultou no fechamento do comércio e de escritórios, deixando muitas pessoas em suas casas e reduzindo, assim, a atividade econômica do país.</p>
 
 <p><img src="../img/bolsa-familia-exugamento/bolsa_familia_marco_emreais.png" alt="Gráfico sobre Bolsa Família em março - valores em reais" /></p>
 
@@ -70,7 +70,7 @@
 
 <p>A extração dos dados e as análises foram feitas utilizando a linguagem de programação R, e os códigos podem ser encontrados integralmente <a href="https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a">neste link</a>.</p>
 
-<p>Por termos feito apenas uma agregação dos dados oficiais disponibilizados, sem juízo de valor sobre por que aumentou ou subiu, o <strong>Núcleo</strong> não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a>.</p>
+<p>Por termos feito apenas uma agregação dos dados oficiais disponibilizados, sem juízo de valor sobre por que o número de beneficiários caiu, o <strong>Núcleo</strong> não entrou em contato com o governo para pedir esclarecimentos. Se governo, organizações ou pessoas desejarem enviar algum esclarecimento acerca desses dados, favor contatar os editores no email <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a>.</p>
 
 <p>Essa reportagem <em>pode</em> ser atualizada caso os dados sejam atualizados.</p>
 :ET
