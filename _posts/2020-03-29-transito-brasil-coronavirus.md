@@ -50,6 +50,14 @@ Na América do Sul, a maior queda apurada foi na Venezuela, seguida de Paraguai 
 
 ![grafico cidades trânsito](../img/covid/transito_paises.png)
 
+---
+
+###### Na imprensa
+
+* [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml) &sdot; *Folha de S.Paulo* &sdot; (31/03/2020)
+
+---
+
 ### METODOLOGIA
 
 Os [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) são baseados em um convênio entre o Banco Interamericano de Desenvolvimento e o [programa](https://www.waze.com/en/ccp) "Waze for Cities".

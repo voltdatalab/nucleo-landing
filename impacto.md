@@ -52,6 +52,8 @@ Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), 
 
 *Temos uma parceria com o Yahoo Brasil, que republica algumas de nossas matérias.*
 
+#### Folha de S.Paulo: [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml)
+
 #### Aos Fatos: [Como a desinformação sobre cloroquina se multiplicou no Twitter após aval de Bolsonaro à droga](https://aosfatos.org/noticias/como-desinformacao-sobre-cloroquina-se-multiplicou-no-twitter-apos-aval-de-bolsonaro-droga/)
 
 #### Nexo: [Como o novo coronavírus pressiona o sistema de saúde brasileiro](https://www.nexojornal.com.br/expresso/2020/03/12/Como-o-novo-coronav%C3%ADrus-pressiona-o-sistema-de-sa%C3%BAde-brasileiro)
