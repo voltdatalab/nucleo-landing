@@ -27,7 +27,7 @@ tags:
   - "Governo Bolsonaro"
 ---
 
-Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 218 mil famílias. Esse é a nona redução mensal em um ano no número recipientes do principal programa social do governo federal.
+Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 218 mil famílias. Essa é a nona redução mensal em um ano no número recipientes do principal programa social do governo federal.
 
 Uma análise do **Núcleo** constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,05 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,6%, num total de 702 mil famílias.
 
