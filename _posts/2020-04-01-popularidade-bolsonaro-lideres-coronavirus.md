@@ -98,7 +98,7 @@ Uma possível resposta, portanto, estaria nas respostas dos governos (e a avalia
 
 No levantamento da Quaest Consultoria e Pesquisa anteriormente citado, 52% dos entrevistados disseram que Bolsonaro estava lidando "mal" ou "muito mal" com a crise do coronavírus, enquanto 41% avaliavam "bem" ou "muito bem" a [atuação do presidente](https://www.itatiaia.com.br/noticia/maioria-dos-brasileiros-considera-pandemia-de) (7% não responderam disseram que não sabem). De acordo com [pesquisa](http://atlaspolitico.com.br/downloads/Atlas_BR_031820.pdf) conduzida pela consultoria Atlas Político entre 16 e 18 de março, 64% da população brasileira desaprova o plano de combate ao coronavírus adotado pelo presidente, enquanto somente 33% o aprovam.
 
-![avaliação bolsonaro](../img/bolsonaro-aprovacao/avaliacao_Brasil_nome.png)
+![avaliação bolsonaro](../img/bolsonaro-aprovacao/grafico_bolsonaro.png)
 
 A situação difere em outros países. No Chile, pesquisa Plaza Pública-Cadem que foi a campo entre 18 e 20 de março apontou que, apesar da má avaliação decorrente que o presidente Sebastián Piñera acumula desde os protestos do ano passado, a população se divide quanto a sua gestão da crise: na pesquisa mais recente, 43% da população avaliou a gestão bem ou muito bem, enquanto 48% a avaliaram mal ou muito mal. Além disso, os índices vêm crescendo: na pesquisa anterior, de 16 de março, somente 36% a avaliavam como bem ou muito bem.
 
