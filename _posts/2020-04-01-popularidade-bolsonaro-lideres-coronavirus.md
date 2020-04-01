@@ -17,6 +17,8 @@ dados_abertos: "Acesse o código da análise"
 dados_abertos_link: 'https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit?usp=sharing"
+dados_abertos3: "Acesse o PDF com pesquisa da Quaest"
+dados_abertos_link3: "../img/bolsonaro-aprovacao/Quaest_RelatorioNacional_Mar2020_1_Avaliação.pdf"
 background: '../img/bolsonaro-aprovacao/bolsonaro-aprovacao-destaque.jpeg'
 atualizacao: ""
 categories:
