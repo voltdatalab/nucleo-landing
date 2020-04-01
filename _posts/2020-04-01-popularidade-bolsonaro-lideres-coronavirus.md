@@ -94,7 +94,7 @@ Desde então, a ciência política documenta a observação deste efeito em dive
 
 ##### Por que o governo Bolsonaro não parece capaz de se beneficiar deste efeito?
 
-Uma possível resposta, portanto, estaria nas respostas dos governos (e a avaliação da população a eles). Nesta mesma amostra de países, foram coletados dados sobre como os cidadãos vêem a ação dos respectivos governos nacionais.
+Uma possível resposta estaria nas respostas dos governos (e a avaliação da população a eles). Nesta mesma amostra de países, foram coletados dados sobre como os cidadãos vêem a ação dos respectivos governos nacionais.
 
 No levantamento da Quaest Consultoria e Pesquisa anteriormente citado, 52% dos entrevistados disseram que Bolsonaro estava lidando "mal" ou "muito mal" com a crise do coronavírus, enquanto 41% avaliavam "bem" ou "muito bem" a [atuação do presidente](https://www.itatiaia.com.br/noticia/maioria-dos-brasileiros-considera-pandemia-de) (7% não responderam disseram que não sabem). De acordo com [pesquisa](http://atlaspolitico.com.br/downloads/Atlas_BR_031820.pdf) conduzida pela consultoria Atlas Político entre 16 e 18 de março, 64% da população brasileira desaprova o plano de combate ao coronavírus adotado pelo presidente, enquanto somente 33% o aprovam.
 
@@ -136,7 +136,7 @@ Sobre o "efeito de união nacional": Roberto Ramos e Carlos Sanz apontam [em art
 
 Em estudo sobre este efeito em disputas militares para o caso norte-americano, William Baker e John Oneal [argumentam](https://journals.sagepub.com/doi/10.1177/0022002701045005006) que "o que parece importar mais para o tamanho do efeito não é a própria natureza da disputa mas quão efetivamente a Casa Branca gerencia a apresentação da disputa por meio de declarações do presidente, cobertura da imprensa e a obtenção de apoio bipartidário."
 
-Os dados coletados e códigos da análise estão disponíveis [neste link](https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9).
+Os códigos da análise estão disponíveis [neste link](https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9).
 
 <style>
 .expandimg{
