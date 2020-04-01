@@ -4,8 +4,8 @@ layout: conteudo
 tipo: análise
 title: "Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia"
 titulo_redes: "Avaliação de Bolsonaro fica estagnada durante pandemia"
-subtitle: "Análise do Núcleo com dados de aprovação e popularidade em oito países mostra que tendência do presidente brasileiro é negativa - ele é o único que tem se posicionado ativamente contra recomendações da Organização Mundial da Saúde sobre isolamento social no combate ao coronavírus."
-subtitle_redes: "Análise com dados de oito países mostra que tendência do presidente brasileiro é negativa."
+subtitle: "Análise do Núcleo com dados de aprovação e popularidade em oito países mostra que tendência do presidente brasileiro é a única negativa - ele é o único que tem se posicionado ativamente contra recomendações da Organização Mundial da Saúde sobre isolamento social no combate ao coronavírus."
+subtitle_redes: "Análise com dados de oito países mostra que tendência do presidente brasileiro é a única negativa."
 excerpt: "Com a exceção do Brasil, em todos os oito países analisados pelo Núcleo os presidentes ou primeiros-ministros observaram crescimento nos índices relacionados à avaliação do seu trabalho ou governo após o início do combate à COVID-19."
 date: 01/04/2020
 analise: Lucas Gelape
