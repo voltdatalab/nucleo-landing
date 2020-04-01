@@ -32,7 +32,7 @@ tags:
 
 
 
-Na contramão de outros chefes de Estado, Jair Bolsonaro não conseguiu melhorar a avaliação de seu governo durante a crise da epidemia de coronavírus, em um momento no qual o presidente tem adotado uma postura contrária a políticas de isolamento social recomendadas pela Organização Mundial da Saúde e apoiadas pela população.
+Na contramão de outros líderes mundiais, Jair Bolsonaro não conseguiu melhorar a avaliação de seu governo durante a crise da epidemia de coronavírus, em um momento no qual o presidente tem adotado uma postura contrária a políticas de isolamento social recomendadas pela Organização Mundial da Saúde e apoiadas pela população.
 
 Com a exceção do Brasil, em todos os outros países analisados pelo Núcleo (Chile, EUA, Itália, França, Grã-Bretanha, Portugal e Peru) os presidentes ou primeiros-ministros observaram crescimento nos índices relacionados à avaliação do seu trabalho ou governo após o início do combate à COVID-19.
 
@@ -80,7 +80,7 @@ Na figura abaixo, estão as séries históricas de pesquisas de opinião naciona
 
 * Na Itália, à época o país epicentro da doença, o Instituto Ixè [registrou](https://www.istitutoixe.it/2020/03/24/gli-italiani-e-il-coronavirus-24-marzo/) um aumento de 9 pontos percentuais na confiança da população em relação ao primeiro-ministro Giuseppe Conte entre os dias 10 e 24 de março.
 
-* No Chile, apesar da má avaliação que o presidente Sebastián Piñera acumula desde os protestos do ano passado, entre pesquisas que se encerraram no dia 13 de março e 27 de março, a aprovação do presidente registrou crescimento de 9 pontos percentuais, saindo de 12% para 21%, segundo pesquisa Cadem/Plaza Pública. Entre pesquisas que se encerraram no dia 13 de março e 27 de março, a aprovação do presidente Sebastián Piñera registrou crescimento de 9 pontos percentuais, saindo de 12% para 21%, segundo pesquisa Cadem/Plaza Pública.
+* No Chile, apesar da má avaliação que o presidente Sebastián Piñera acumula desde os protestos do ano passado, entre pesquisas que se encerraram no dia 13 de março e 27 de março, a aprovação do presidente registrou crescimento de 9 pontos percentuais, saindo de 12% para 21%, segundo pesquisa Cadem/Plaza Pública.
 
 * Na Grã-Bretanha, pesquisa Ipsos-Mori já detectava um movimento de crescimento da satisfação dos eleitores com o primeiro-ministro Boris Johnson, saltando de 47% para 52% entre o início de fevereiro e o meio de março. Em pesquisas mais recentes, entre os dias 18 e 23 de março, o YouGov [detectou](https://yougov.co.uk/topics/politics/articles-reports/2020/03/24/coronavirus-reaction-pushes-pms-popularity-positiv) um aumento de 12 pontos percentuais em opiniões favoráveis ao primeiro-ministro.
 
@@ -100,7 +100,7 @@ No levantamento da Quaest Consultoria e Pesquisa anteriormente citado, 52% dos e
 
 ![avaliação bolsonaro](../img/bolsonaro-aprovacao/grafico_bolsonaro.png)
 
-A situação difere em outros países. No Chile, pesquisa Plaza Pública-Cadem que foi a campo entre 18 e 20 de março apontou que, apesar da má avaliação decorrente que o presidente Sebastián Piñera acumula desde os protestos do ano passado, a população se divide quanto a sua gestão da crise: na pesquisa mais recente, 43% da população avaliou a gestão bem ou muito bem, enquanto 48% a avaliaram mal ou muito mal. Além disso, os índices vêm crescendo: na pesquisa anterior, de 16 de março, somente 36% a avaliavam como bem ou muito bem.
+A situação difere em outros países. No Chile, pesquisa Plaza Pública-Cadem que foi a campo entre 18 e 20 de março apontou que a população se divide quanto a sua gestão da crise: na pesquisa mais recente, 43% da população avaliou a gestão bem ou muito bem, enquanto 48% a avaliaram mal ou muito mal. Além disso, os índices vêm crescendo: na pesquisa anterior, de 16 de março, somente 36% a avaliavam como bem ou muito bem.
 
 Em [pesquisa](https://www.kantar.com/Inspiration/Coronavirus/Seven-in-ten-in-G7-say-personal-income-has-or-will-be-affected-by-coronavirus) realizada pela Kantar em países do G7 entre os dias 19 e 21 de março, o governo japonês foi o único que não atingiu o patamar de 50% de respondentes aprovando a maneira como os governos estão respondendo à crise.
 
