@@ -1,0 +1,230 @@
+I"�5<p>Na contramão de outros chefes de Estado, Jair Bolsonaro não conseguiu melhorar a avaliação de seu governo durante a crise da epidemia de coronavírus, em um momento no qual o presidente tem adotado uma postura contrária a políticas de isolamento social recomendadas pela Organização Mundial da Saúde e apoiadas pela população.</p>
+
+<p>Com a exceção do Brasil, em todos os oito países analisados pelo Núcleo os presidentes ou primeiros-ministros observaram crescimento nos índices relacionados à avaliação do seu trabalho ou governo após o início do combate à COVID-19.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Indica quão popular são as posições tomadas por Bolsonaro durante a crise do coronavírus</em></p>
+  </li>
+  <li>
+    <p><em>2020 é ano eleitoral e presidente pode perder poder de endossar candidatos</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Em pesquisas conduzidas pela <a href="http://quaest.com.br/">Quaest</a> Pesquisa &amp; Consultoria, a aprovação da administração do presidente Jair Bolsonaro caiu de 52 para 46 pontos percentuais (no limite da margem de erro) entre as duas pesquisas realizadas em março. Já a não-aprovação oscilou de 47 para 51 pontos percentuais. Neste mesmo período, o sentimento de “preocupação” em relação ao futuro do país cresceu de 61 para 72 pontos percentuais, segundo os respondentes.</p>
+
+<p>O levantamento mais recente foi realizado entre os dias 19 e 23 de março – ou seja, iniciado um dia após a entrevista coletiva do presidente e seus ministros para <a href="https://g1.globo.com/jornal-nacional/noticia/2020/03/18/bolsonaro-reune-ministros-e-anuncia-medidas-para-a-crise-da-covid-19.ghtml">anunciar medidas</a> de combate à COVID-19 e encerrando no dia em que foi editada (e parcialmente revogada) a medida provisória que <a href="https://economia.uol.com.br/noticias/redacao/2020/03/23/mp-governo-bolsonaro-contrato-de-trabalho-coronavirus.htm">permitia</a> a suspensão dos contratos de trabalho por até quatro meses.</p>
+
+<p>Em outros países, presidentes e primeiros-ministros se beneficiaram de medidas tomadas para contenção dos efeitos da COVID-19.</p>
+
+<p>Na Itália, à época o país epicentro da doença, o Instituto Ixè <a href="https://www.istitutoixe.it/2020/03/24/gli-italiani-e-il-coronavirus-24-marzo/">registrou</a> um aumento de 9 pontos percentuais na confiança da população em relação ao primeiro-ministro Giuseppe Conte entre os dias 10 e 24 de março.</p>
+
+<p>No Chile, pesquisa Plaza Pública-Cadem que foi a campo entre 18 e 20 de março apontou que, apesar da má avaliação decorrente que o presidente Sebastián Piñera acumula desde os protestos do ano passado, a população se divide quanto a sua gestão da crise: na pesquisa mais recente, 43% da população avaliou a gestão bem ou muito bem, enquanto 48% a avaliaram mal ou muito mal. Além disso, os índices vêm crescendo: na pesquisa anterior, de 16 de março, somente 36% a avaliavam como bem ou muito bem.</p>
+
+<p>Entre pesquisas que se encerraram no dia 13 de março e 27 de março, a aprovação do presidente Sebastián Piñera registrou crescimento de 9 pontos percentuais, saindo de 12% para 21%, segundo pesquisa Cadem/Plaza Pública.</p>
+
+<p>Na Grã-Bretanha, pesquisa Ipsos-Mori já detectava um movimento de crescimento da satisfação dos eleitores com o primeiro-ministro Boris Johnson, saltando de 47% para 52% entre o início de fevereiro e o meio de março. Em pesquisas mais recentes, entre os dias 18 e 23 de março, o YouGov <a href="https://yougov.co.uk/topics/politics/articles-reports/2020/03/24/coronavirus-reaction-pushes-pms-popularity-positiv">detectou</a> um aumento de 12 pontos percentuais em opiniões favoráveis ao primeiro-ministro.</p>
+
+<p>Mesmo nos Estados Unidos, onde as respostas do governo Trump à crise oscilaram nas últimas semanas, a aprovação presidencial vem apresentando <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/">aumento</a>, ainda que <a href="https://twitter.com/RachelBitecofer/status/1243532991453892610">leve</a>.</p>
+
+<p>Na figura abaixo, estão as séries históricas de pesquisas de opinião nacionais relacionadas ao desempenho dos governos de cada país analisado.</p>
+
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
+
+<div id="content">
+<div id="thumb_img" class="cf">
+  <button class="active botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_Brasil_nome.png',this);">Brasil
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_Chile_pais.png',this);">Chile
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_EUA_pais.png',this);">EUA
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_Franca_pais.png',this);">França
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_GB_pais.png',this);">Grã-Bretanha
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_Italia_pais.png',this);">Itália
+  </button>
+  <button class="botao" onclick="changeimg('../img/bolsonaro-aprovacao/avaliacao_Portugal_pais.png',this);">Portugal
+  </button>
+</div>
+  <div id="featured_img">
+    <img id="img" src="../img/bolsonaro-aprovacao/avaliacao_Brasil_nome.png" />
+  </div>
+</div>
+
+<p>Segundo <a href="https://fivethirtyeight.com/features/trumps-reelection-may-hinge-on-the-economy-and-coronavirus/">diversos</a> (outra referência <a href="https://www.bloomberg.com/opinion/articles/2020-03-28/coronavirus-gives-boris-johnson-s-political-immunity">aqui</a>) analistas, isso pode <a href="https://www1.folha.uol.com.br/colunas/marcus-melo/2020/03/razoes-da-desordem.shtml">estar</a> relacionado ao que a ciência política <a href="https://www.theguardian.com/news/datablog/2020/jan/04/trump-iran-suleimani-president-approval-ratings">denomina</a> “efeito de união nacional” (ou rally around the flag, em inglês): o aumento da popularidade de líderes políticos em momentos de crises nacionais. Em sua formulação original, essa teoria argumenta que em eventos internacionais, nos quais a atuação do presidente é exigida e que são dramáticos e claramente identificáveis o presidente dos Estados Unidos poderia se beneficiar de súbitos (e curtos) <a href="https://www.jstor.org/stable/1955610">aumentos</a> de popularidade presidencial, devido a uma união nacional em torno do líder.</p>
+
+<p>Desde então, a ciência política documenta a observação deste efeito em diversos países do mundo, <a href="https://journals.sagepub.com/doi/10.1177/1354068809346073">principalmente</a> em eventos de guerra ou terrorismo. Há registros também deste efeito em <a href="https://ceciliahmo.files.wordpress.com/2020/03/can_natural_disasters_have_a_rallyeffect.pdf">casos</a> de eventos naturais  (como após um terremoto em 2015 no Nepal), inclusive em nível subnacional (como argumentam os autores <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414019858959">deste artigo</a> sobre o efeito em eleições municipais após incêndios acidentais na Espanha), ainda que a literatura não seja consensual neste ponto.</p>
+
+<p>Por que o governo Bolsonaro não parece capaz de se beneficiar deste efeito?</p>
+
+<p>Uma possível resposta, portanto, estaria nas respostas dos governos (e a avaliação da população a eles). Nesta mesma amostra de países, foram coletados dados sobre como os cidadãos vêem a ação dos respectivos governos nacionais.</p>
+
+<p>No levantamento da Quaest Consultoria e Pesquisa anteriormente citado, 52% dos entrevistados disseram que Bolsonaro estava lidando “mal” ou “muito mal” com a crise do coronavírus, enquanto 41% avaliavam “bem” ou “muito bem” a <a href="https://www.itatiaia.com.br/noticia/maioria-dos-brasileiros-considera-pandemia-de">atuação do presidente</a> (7% não responderam disseram que não sabem). De acordo com <a href="http://atlaspolitico.com.br/downloads/Atlas_BR_031820.pdf">pesquisa</a> conduzida pela consultoria Atlas Político entre 16 e 18 de março, 64% da população brasileira desaprova o plano de combate ao coronavírus adotado pelo presidente, enquanto somente 33% o aprovam.</p>
+
+<p><img src="../img/bolsonaro-aprovacao/avaliacao_Brasil_nome.png" alt="avaliação bolsonaro" /></p>
+
+<p>A situação difere em outros países. Em <a href="https://www.kantar.com/Inspiration/Coronavirus/Seven-in-ten-in-G7-say-personal-income-has-or-will-be-affected-by-coronavirus">pesquisa</a> realizada pela Kantar em países do G7 entre os dias 19 e 21 de março, o governo japonês foi o único que não atingiu o patamar de 50% de respondentes aprovando a maneira como os governos estão respondendo à crise.</p>
+
+<p>Em Portugal, uma pesquisa ICS/ISCTE feita entre 20 e 22 de março apontou que cerca de 75% da população afirma ter alguma ou muita confiança nas <a href="https://sondagens-ics-ul.iscte-iul.pt/wp-content/uploads/2020/03/Sondagem-ICS_ISCTE_Mar%C3%A7o2020_Covid.pdf">respostas</a> dadas pelo primeiro-ministro. E, no Peru, pesquisa Ipsos apontou que 83% dos residentes em áreas urbanas aprovam o <a href="https://www.ipsos.com/es-pe/encuesta-de-opinion-cuarentena-covid-19">desempenho</a> do governo frente à crise.</p>
+
+<p><img src="../img/bolsonaro-aprovacao/avaliacao_Brasil_nome.png" alt="avaliação G7" /></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O Núcleo buscou pesquisas de opinião divulgadas publicamente em países da América do Sul, Europa Ocidental e Estados Unidos que aferissem a avaliação da opinião pública sobre os chefes de Estado ou seus governos, em uma série histórica, e que houvessem conduzido tais pesquisas após o início da crise e tomadas de medidas em combate a Covid-19.</p>
+
+<p>O foco desta análise foi identificar a consistência destas medidas de opinião pública ao longo dos últimos meses de 2019 e primeiros meses de 2020. Apesar das perguntas variarem entre as pesquisas (como apontado na matéria), agrupamos as respostas em três categorias: “positivo”, “negativo” e “outros”, para indicar a direção em que a opinião pública se direcionava ao presidente/governo. Abaixo, encontra-se uma tabela com a categorização realizada:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoria de resposta</th>
+      <th>Categorização Núcleo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aprova</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Confia</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Favorável</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Satisfeito</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Desfavorável</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Insatisfeito</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não aprova</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não confia</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não respondeu</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Não sabe</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Sem opinião</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Não aprova, nem desaprova</td>
+      <td>Outros</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Para a mesma amostra de países, buscamos pesquisas de opinião que aferissem como as populações locais avaliaram as respostas dos governos e líderes à crise.</p>
+
+<p>Sobre o “efeito de união nacional”: Roberto Ramos e Carlos Sanz apontam <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414019858959">em artigo</a> sobre os incêndios naturais na Espanha, que “ao se olhar para um único desastre, uma resposta particularmente boa ou ruim do incumbente ou um choque concomitante (por exemplo, econômico) pode afetar resultados eleitorais”.</p>
+
+<p>Em estudo sobre este efeito em disputas militares para o caso norte-americano, William Baker e John Oneal <a href="https://journals.sagepub.com/doi/10.1177/0022002701045005006">argumentam</a> que “o que parece importar mais para o tamanho do efeito não é a própria natureza da disputa mas quão efetivamente a Casa Branca gerencia a apresentação da disputa por meio de declarações do presidente, cobertura da imprensa e a obtenção de apoio bipartidário.”</p>
+
+<p>Os dados coletados e códigos da análise estão disponíveis em:</p>
+
+<style>
+.expandimg{
+  width: 900px !important;
+}
+
+@media(max-width:767px) {
+    .expandimg {
+      display: none;
+    }
+  }
+
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+ #featured_img img, #thumb_img img {
+	 max-width: 100%;
+}
+ #thumb_img {
+	 margin-top: 2%;
+}
+ #thumb_img img {
+	 float: left;
+	 max-width: 32%;
+	 width: 32%;
+	 cursor: pointer;
+	 margin-right: 2%;
+	 border: 2px solid #eee;
+	 box-sizing: border-box;
+}
+ #thumb_img img.active {
+	 border: 2px solid #cac6b8;
+}
+ #thumb_img img:last-child {
+	 margin-right: 0;
+}
+
+</style>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET
