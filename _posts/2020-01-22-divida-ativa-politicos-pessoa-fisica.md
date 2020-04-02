@@ -1,7 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
-tipo: APURAÇÃO
+tipo: investigação
 title: "Mais de 7 mil políticos possuem dívida ativa com o governo federal"
 titulo_redes: "7 mil políticos têm dívida com governo federal"
 subtitle: "Registros da Dívida Ativa da União mostram que 7.186 políticos eleitos devem conjuntamente mais de R$ 1,1 bilhão aos cofres públicos. SP, BA e CE são Estados de origem com maior montante; PSDB lidera a lista dentre os partidos cujos políticos mais devem."
@@ -18,7 +18,7 @@ dados_abertos_link: 'https://dados.nucleo.jor.br/politicos_inscritos_pgfn'
 background: '../img/devedores-pgfn/devedores-pf.jpeg'
 atualizacao: ""
 categories:
-  - "dinheiro público"
+  - "governo"
 tags:
   - "Dívida Ativa da União, "
   - "Políticos eleitos, "

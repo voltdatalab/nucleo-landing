@@ -21,7 +21,7 @@ background: '../img/capacidade-hospitalar/medicos-intensivistas.jpeg'
 atualizacao: ""
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/brasil-pode-ter-falta-de-medicos-de-ut-is-para-combate-ao-coronavirus-213144441.html' target='_blank'>Yahoo Brasil</a>"
 categories:
-  - "políticas públicas"
+  - "recursos"
 tags:
   - "Coronavírus, "
   - "Saúde, "

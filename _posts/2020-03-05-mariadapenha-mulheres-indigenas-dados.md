@@ -18,7 +18,7 @@ nota_abertura: "Esta reportagem foi originalmente publicada na <a href='https://
 background: '../img/mulheres-indigenas/Mariquinha_MariaFernandaRibeiro.jpeg'
 atualizacao: ""
 categories:
-  - "direitos humanos"
+  - "direitos"
 tags:
   - "Mulheres indígenas, "
   - "Direitos humanos, "

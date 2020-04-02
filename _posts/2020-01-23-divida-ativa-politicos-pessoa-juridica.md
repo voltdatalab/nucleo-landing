@@ -1,7 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
-tipo: APURAÇÃO
+tipo: investigação
 title: "Empresas ligadas a políticos eleitos devem R$ 2,8 bilhões ao governo federal"
 titulo_redes: "Empresas ligadas a políticos devem R$2,8 bi ao governo"
 subtitle: "Análise inédita do <strong>Núcleo</strong> identifica montante devido por 2.885 empresas cujos políticos são sócios, administradores, presidentes ou diretores."
@@ -20,7 +20,7 @@ dados_abertos_link2: https://dados.nucleo.jor.br/politicos_inscritos_pgfn/cruzam
 background: '../img/devedores-pgfn/devedores-pj.jpeg'
 atualizacao: ""
 categories:
-  - "dinheiro público"
+  - "governo"
 tags:
   - "Dívida Ativa da União, "
   - "Receita Federal, "

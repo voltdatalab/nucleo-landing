@@ -20,7 +20,7 @@ dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1S8z8lM-0FKtEt-yDHW
 background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento_marco.jpg'
 atualizacao: ""
 categories:
-  - "dinheiro público"
+  - "governo"
 tags:
   - "Bolsa Família, "
   - "Programas sociais, "

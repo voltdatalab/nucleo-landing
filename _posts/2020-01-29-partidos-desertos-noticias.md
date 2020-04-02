@@ -18,7 +18,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaed
 background: '../img/atlas-partidos/atlas_header.jpeg'
 atualizacao: "Matéria atualizada às 17h48 de 29/01/2020 para mudar formatação das tabelas, a fim de melhorar visualização em celulares. Nenhuma informação foi alterada."
 categories:
-  - "mídia"
+  - "media"
 tags:
   - "Desertos de Notícias, "
   - "Atlas da Notícia, "

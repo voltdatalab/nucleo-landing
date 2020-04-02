@@ -1,4 +1,4 @@
 ---
-tag: "mídia"
-permalink: "/mídia"
+tag: "media"
+permalink: "/media"
 ---

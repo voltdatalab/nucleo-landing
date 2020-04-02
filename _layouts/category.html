@@ -5,11 +5,13 @@ layout: categories
 <div class="container">
 
     <section id="publicacoes">
-      <h2><span style="font-family:Roboto Mono, monospace;font-weight:300">Arquivado em <span style="color:#4b31dd;text-transform:uppercase">#{{ page.tag }}</span></span></h2>
-    <!-- Page Content -->
-    {% for post in site.categories[page.tag] %}
         <div class="content-section-a">
           <div class="container" style="padding: 0 2% 60px">
+            <br /><br />
+            <h3 style="marging-top:100px;font-weight: 300;">ARQUIVADO EM <span class="chapeu" style="text-transform:uppercase">#{{ page.tag }}</span></h3> <br /><br />
+    <!-- Page Content -->
+    {% for post in site.categories[page.tag] %}
+
                     <div class="row">
                     <div class="col-lg-6">
                     <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
@@ -28,10 +30,12 @@ layout: categories
                     <img src="{{ site.baseurl }}{{ post.background }}" width='95%'/>
                   </div>
                   </div>
-          </div>
 
-        </div>
+
+
     {% endfor %}
+    </div>
+    </div>
     </section>
 
 </div>

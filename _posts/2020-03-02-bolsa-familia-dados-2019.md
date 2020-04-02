@@ -20,7 +20,7 @@ dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1cgcXEqARoq_cv17Dqe
 background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento.jpeg'
 atualizacao: "Texto atualizado às 17h04 de 3.mar.2020 para corrigir erro de digitação no parágrafo imediatamente anterior à tabela: onde se lia 3,19 milhões, agora lê-se 13,19. "
 categories:
-  - "dinheiro público"
+  - "governo"
 tags:
   - "Bolsa Família, "
   - "Programas sociais, "
