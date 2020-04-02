@@ -8,14 +8,14 @@
         <div class="container" style="min-height: 400px;">
                 <div class="col-lg-10"><br />
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                  <h5 style="color:#fff">MAIS RECENTE</h5>
+                  <h5 style="color:#fff"><i class="fas fa-fire-alt"></i> MAIS RECENTE</h5>
                   <h2 class="page-tt">{{ post.title }}</h2></a>
                   </div>
                   <br />
                   <div class="col-lg-8">
                   <span class="arquivado" style="color:#fff">
 
-                    {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff;background-color:#4b31dd">{{ post.categories }}</span></a>
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff;background-color:#4b31dd">{{ post.categories }}</span></a>
 
                   </span>
                   <br /><br />
