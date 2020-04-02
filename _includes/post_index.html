@@ -9,7 +9,7 @@
                 <div class="col-lg-10"><br />
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h5 class="chapeu"><i class="fas fa-fire-alt"></i> MAIS RECENTE</h5><br /><br />
-                  <h2 class="page-tt">{{ post.title }}</h2></a>
+                  <h2 class="page-tt">{{ post.title | append: ''}}</h2></a>
                   </div>
                   <br />
                   <div class="col-lg-8">

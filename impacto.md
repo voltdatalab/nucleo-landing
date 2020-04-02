@@ -10,9 +10,8 @@ atualizacao: 31/03/2020
 <style>
 h2{text-transform:uppercase;font-size:1.2em; border-bottom:1px solid #000;}
 h4{margin-top:20px;}
-
+.highlight{max-width:300px;}
 </style>
-
 
 
 O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações.
@@ -28,6 +27,17 @@ Envie uma mensagem via:
 <i class="fab fa-twitter fa-lg"></i> [@nucleojor](https://twitter.com/nucleojor)
 
 <br> <br>
+
+{% assign counter = 0 %}
+{% for post in site.posts %}
+  {% assign thisyear = post.date | date: "%Y" %}
+  {% assign prevyear = post.previous.date | date: "%Y" %}
+  {% assign counter = counter | plus: 1 %}
+  {% if thisyear != prevyear %}
+    Já publicamos {{ counter }} matérias em {{ thisyear }}.
+    {% assign counter = 0 %}
+  {% endif %}
+{% endfor %}
 
 ## <i class="fas fa-long-arrow-alt-right"></i> CPI sobre Óleo do Nordeste
 
