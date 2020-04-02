@@ -20,7 +20,7 @@ dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc
 dados_abertos3: "Acesse o PDF com pesquisa da Quaest"
 dados_abertos_link3: "../img/bolsonaro-aprovacao/Quaest_RelatorioNacional_Mar2020_1_Avaliação.pdf"
 background: '../img/bolsonaro-aprovacao/bolsonaro-aprovacao-destaque.jpeg'
-atualizacao: ""
+atualizacao: "Texto atualizado em 2 de abril de 2020 para incluir nota sobre comparabilidade de percentuais de pesquisas entre países."
 categories:
   - "pesquisas"
 tags:
@@ -50,7 +50,7 @@ Em pesquisas conduzidas pela [Quaest](http://quaest.com.br/) Pesquisa & Consulto
 
 O levantamento mais recente foi realizado entre os dias 19 e 23 de março -- ou seja, iniciado um dia após a entrevista coletiva do presidente e seus ministros para [anunciar medidas](https://g1.globo.com/jornal-nacional/noticia/2020/03/18/bolsonaro-reune-ministros-e-anuncia-medidas-para-a-crise-da-covid-19.ghtml) de combate à COVID-19 e encerrando no dia em que foi editada (e parcialmente revogada) a medida provisória que [permitia](https://economia.uol.com.br/noticias/redacao/2020/03/23/mp-governo-bolsonaro-contrato-de-trabalho-coronavirus.htm) a suspensão dos contratos de trabalho por até quatro meses.
 
-Na figura abaixo, estão as séries históricas de pesquisas de opinião nacionais relacionadas ao desempenho dos governos de cada país analisado.
+Na figura abaixo, estão as séries históricas de pesquisas de opinião nacionais relacionadas ao desempenho dos governos de cada país analisado. Note que os percentuais não podem ser comparados diretamente, pois as pesquisas variam entre países (para mais informações, ver a nossa seção de "Metodologia").
 
 <p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
 
@@ -86,7 +86,7 @@ Na figura abaixo, estão as séries históricas de pesquisas de opinião naciona
 
 * Mesmo nos Estados Unidos, onde as respostas do governo Trump à crise oscilaram nas últimas semanas, a aprovação presidencial vem apresentando [aumento](https://projects.fivethirtyeight.com/trump-approval-ratings/), ainda que [leve](https://twitter.com/RachelBitecofer/status/1243532991453892610).
 
-* No Peru, pesquisa Ipsos em áreas urbanas [apontou](https://www.ipsos.com/es-pe/encuesta-de-opinion-cuarentena-covid-19) que o presidente Martín Vizcarra atingiu 87% de aprovação em pesquisa feita em 20 e 21 de março. Na pesquisa anterior (com amostra representativa para todo o país, portanto diferente da pesquisa mais recente), a aprovação era 35 pontos percentuais mais baixa (52%). 
+* No Peru, pesquisa Ipsos em áreas urbanas [apontou](https://www.ipsos.com/es-pe/encuesta-de-opinion-cuarentena-covid-19k) que o presidente Martín Vizcarra atingiu 87% de aprovação em pesquisa feita em 20 e 21 de março. Na pesquisa anterior (com amostra representativa para todo o país, portanto diferente da pesquisa mais recente), a aprovação era 35 pontos percentuais mais baixa (52%).
 
 ### ENROLAR-SE NA BANDEIRA
 
