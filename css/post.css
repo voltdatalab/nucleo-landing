@@ -107,9 +107,19 @@ h2.subheading {
   text-transform: uppercase;
   line-height: 1.5em;
   margin: 35px 0;
-  font-size: 1em;
+  font-size: 1.2em;
+  font-weight: 400;
   width: 80%;
   font-family: 'Source Serif Pro', monospace;
+}
+
+.texto_post h5 a{
+  border-bottom: 3px solid #2eefa0
+}
+
+.texto_post h5 a:hover{
+  color: #000;
+  text-decoration: none;
 }
 
 .texto_post h6{
@@ -139,6 +149,15 @@ h2.subheading {
   font-weight: 700;
   font-size: 0.7em !important;
   list-style-type: none;
+}
+
+figcaption{
+  font-weight: 300 !important;
+  font-size: 0.9em;
+  margin-top: -35px;
+  margin-bottom: 30px;
+  width: 95%;
+  font-style: italic;
 }
 
 blockquote.twitter-tweet {

@@ -1,0 +1,175 @@
+I"�<p>Nas regiões metropolitanas do Brasil, há um padrão geográfico claro: casas na periferia tendem a ter mais moradores por quarto do que as casas mais centrais.</p>
+
+<p>Usando dados do Censo 2010, mapeamos o percentual de domicílios com mais de dois moradores por dormitório. O resultado não é exatamente surpreendente, mas revela mais um dos abismos entre periferia e centro nas metrópoles brasileiras.</p>
+
+<p>Enquanto no Itaim Bibi, em São Paulo, só 2% dos domicílios tem mais de duas pessoas por quarto, em Paraisópolis esse número é de 44%. Se considerarmos o corte como mais de três pessoas por quarto, são 19% dos domicílios em Paraisópolis nessa condição.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li><em>Mostra a dificuldade prática na política de isolamento social nas periferias, para combate ao coronavírus</em></li>
+</ul>
+
+<hr />
+
+<p><img src="../img/covid/mapa_paraisopolis.png" alt="Itaim Bibi (canto superior direito) tem só 2% dos domicílios com mais de duas pessoas por quarto; em Paraisópolis (em vermelho), são 44% dos domicílios" /></p>
+
+<figcaption>Itaim Bibi (canto superior direito) tem só 2% dos domicílios com mais de duas pessoas por quarto; em Paraisópolis (em vermelho), são 44% dos domicílios</figcaption>
+
+<p>No Itaim Palista, bairro na zona leste paulistana, cerca de 32% dos domicílios têm mais de dois moradores por quarto. Esse padrão de diferença entre centro e periferia é observado em toda a Região Metropolitanta de São Paulo.</p>
+
+<p><img src="../img/covid/mapa_maior_sp.png" alt="Itaim Bibi (canto superior direito) tem só 2% dos domicílios com mais de duas pessoas por quarto; em Paraisópolis (em vermelho), são 44% dos domicílios" /></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O Núcleo buscou pesquisas de opinião divulgadas publicamente em países da América do Sul, Europa Ocidental e Estados Unidos que aferissem a avaliação da opinião pública sobre os chefes de Estado ou seus governos, em uma série histórica, e que houvessem conduzido tais pesquisas após o início da crise e tomadas de medidas em combate a Covid-19.</p>
+
+<p>O foco desta análise foi identificar a consistência destas medidas de opinião pública ao longo dos últimos meses de 2019 e primeiros meses de 2020. Apesar das perguntas variarem entre as pesquisas (como apontado na matéria), agrupamos as respostas em três categorias: “positivo”, “negativo” e “outros”, para indicar a direção em que a opinião pública se direcionava ao presidente/governo. Abaixo, encontra-se uma tabela com a categorização realizada:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoria de resposta</th>
+      <th>Categorização Núcleo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aprova</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Confia</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Favorável</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Satisfeito</td>
+      <td>Positivo</td>
+    </tr>
+    <tr>
+      <td>Desfavorável</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Insatisfeito</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não aprova</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não confia</td>
+      <td>Negativo</td>
+    </tr>
+    <tr>
+      <td>Não respondeu</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Não sabe</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Sem opinião</td>
+      <td>Outros</td>
+    </tr>
+    <tr>
+      <td>Não aprova, nem desaprova</td>
+      <td>Outros</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Para a mesma amostra de países, buscamos pesquisas de opinião que aferissem como as populações locais avaliaram as respostas dos governos e líderes à crise.</p>
+
+<p>Sobre o “efeito de união nacional”: Roberto Ramos e Carlos Sanz apontam <a href="https://journals.sagepub.com/doi/abs/10.1177/0010414019858959">em artigo</a> sobre os incêndios naturais na Espanha, que “ao se olhar para um único desastre, uma resposta particularmente boa ou ruim do incumbente ou um choque concomitante (por exemplo, econômico) pode afetar resultados eleitorais”.</p>
+
+<p>Em estudo sobre este efeito em disputas militares para o caso norte-americano, William Baker e John Oneal <a href="https://journals.sagepub.com/doi/10.1177/0022002701045005006">argumentam</a> que “o que parece importar mais para o tamanho do efeito não é a própria natureza da disputa mas quão efetivamente a Casa Branca gerencia a apresentação da disputa por meio de declarações do presidente, cobertura da imprensa e a obtenção de apoio bipartidário.”</p>
+
+<p>Os códigos da análise estão disponíveis <a href="https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9">neste link</a>.</p>
+
+<style>
+.expandimg{
+  width: 900px !important;
+}
+
+@media(max-width:767px) {
+    .expandimg {
+      display: none;
+    }
+  }
+
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+ #featured_img img, #thumb_img img {
+	 max-width: 100%;
+}
+ #thumb_img {
+	 margin-top: 2%;
+}
+ #thumb_img img {
+	 float: left;
+	 max-width: 32%;
+	 width: 32%;
+	 cursor: pointer;
+	 margin-right: 2%;
+	 border: 2px solid #eee;
+	 box-sizing: border-box;
+}
+ #thumb_img img.active {
+	 border: 2px solid #cac6b8;
+}
+ #thumb_img img:last-child {
+	 margin-right: 0;
+}
+
+</style>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET

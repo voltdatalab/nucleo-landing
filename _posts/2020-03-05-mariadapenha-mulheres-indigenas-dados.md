@@ -79,7 +79,7 @@ De acordo com a delegada Ana Caroline Terra, de São Félix do Araguaia, o Minis
 
 ![Telma Taurepang, da coordenação da União das Mulheres Indígenas da Amazônia Brasileira – Umiab (Foto: Maria Fernanda Ribeiro)](https://azmina.com.br/wp-content/uploads/2020/03/TelmaTaurepang_MariaFernandaRibeiro.jpg)
 
-<small><em>Telma Taurepang, da coordenação da União das Mulheres Indígenas da Amazônia Brasileira – Umiab (Foto: Maria Fernanda Ribeiro)/<em></small>
+<figcaption>Telma Taurepang, da coordenação da União das Mulheres Indígenas da Amazônia Brasileira – Umiab (Foto: Maria Fernanda Ribeiro)</figcaption>
 
 Barreira linguística
 Além da distância, há também a barreira do idioma para muitas das mulheres indígenas. Mariquinha, por exemplo, não fala português fluente. Apesar da longa convivência com a sociedade não-indígena, a etnia Karajá conseguiu manter costumes tradicionais, como sua língua nativa. 
@@ -96,7 +96,7 @@ O serviços de atendimento à mulheres vítimas de violência também precisam c
 
 ![Mulheres Karajá (Foto: Maria Fernanda Ribeiro)](https://azmina.com.br/wp-content/uploads/2020/03/MulheresKaraja_MariaFernandaRibeiro.jpg)
 
-<small><em>Mulheres Karajá (Foto: Maria Fernanda Ribeiro)</em></small>
+<figcaption>Mulheres Karajá (Foto: Maria Fernanda Ribeiro)</figcaption>
 
 A Casa da Mulher Brasileira reúne serviços de atendimento a mulheres vítimas de violência e foi criada em 2013 pela ex-presidente Dilma Rousseff, no âmbito do programa Mulher: Viver sem Violência. Deveria ser implementada em todos os 26 estados e o Distrito Federal até o fim de 2018, mas só chegou a sete estados: São Paulo, Brasília, Ceará, Paraná, Maranhão, Mato Grosso do Sul e Roraima. A reportagem procurou o Ministério da Mulher, da Família e dos Direitos Humanos, por meio de sua assessoria de imprensa, mas não foi atendida. 
 
@@ -110,7 +110,7 @@ De acordo com Eliane Karajá, responsável pela coordenação do encontro, conve
 
 ![Eliane Karajá, coordenadora do Encontro da Associação Indígenas Vale do Araguaia (Foto: Maria Fernanda)](https://azmina.com.br/wp-content/uploads/2020/03/ElianeKaraja_MariaFernandaRibeiro.jpg)
 
-<small><em>Eliane Karajá, coordenadora do Encontro da Associação Indígenas Vale do Araguaia (Foto: Maria Fernanda)</em></small>
+<figcaption>Eliane Karajá, coordenadora do Encontro da Associação Indígenas Vale do Araguaia (Foto: Maria Fernanda)</figcaption>
 
 O trabalho mais extenso já realizado no país sobre isso, inclusive, é fruto do trabalho de uma mulher índigena. Léia do Vale Rodrigues, do povo Wapichana, encabeçou as ações da Fundação Nacional do Índio (Funai) entre 2008 e 2010 para levar informações sobre a Lei Maria da Penha para homens e mulheres indígenas. 
 
@@ -146,7 +146,7 @@ Criar mecanismos próprios para solucionar os casos de violência doméstica é 
 
 “A maioria dos casos é por uso de bebida e, se precisar, tiramos esse homem de dentro da casa para proteger a mulher. Nós explicamos para a mulher sobre a Lei Maria da Penha, da importância de denunciar, das medidas protetivas e nós mesmos a levamos até a delegacia”, disse o cacique.
 
-Essa reportagem foi produzida pela Bolsa de Reportagem AzMina 2019 em parceria com o Volt Data Lab
+*Essa reportagem foi produzida pela Bolsa de Reportagem AzMina 2019 em parceria com o Volt Data Lab*
 
 ### METODOLOGIA
 
