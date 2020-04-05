@@ -28,19 +28,6 @@ Envie uma mensagem via:
 <i class="fab fa-twitter fa-lg"></i> [@nucleojor](https://twitter.com/nucleojor)
 
 <br>
-
-{% assign counter = 0 %}
-{% for post in site.posts %}
-  {% assign thisyear = post.date | date: "%Y" %}
-  {% assign prevyear = post.previous.date | date: "%Y" %}
-  {% assign counter = counter | plus: 1 %}
-  {% if thisyear != prevyear %}
-    Já publicamos {{ counter }} matérias em {{ thisyear }}.
-    {% assign counter = 0 %}
-  {% endif %}
-{% endfor %}
-
-<br>
 <br>
 
 ## &#8594; Análise sobre avaliação do governo pauta grande imprensa
