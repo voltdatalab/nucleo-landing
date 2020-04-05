@@ -36,7 +36,7 @@ Uma análise [completa](https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-
 
 #### Como soubemos disso?
 
-- [Link para *JN*](https://globoplay.globo.com/v/8458466/programa/?s=33m15s)
+- [Link para *JN* - edição 04/04/2020](https://globoplay.globo.com/v/8458466/programa/?s=33m15s)
 
 - [Link para *G1*](https://g1.globo.com/politica/noticia/2020/04/04/ao-contrario-de-outros-paises-governos-de-brasil-e-mexico-perdem-popularidade-na-crise-do-coronavirus.ghtml)
 
