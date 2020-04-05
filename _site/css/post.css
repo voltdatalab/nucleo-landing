@@ -19,13 +19,14 @@
 }
 
 .post-heading{
-  margin-top: 75px
+  margin-top: 75px;
 }
 
 .post-heading h1{
   text-transform: uppercase;
   font-size: 3.5em;
   font-weight: 700;
+
 }
 
 h2.subheading {
