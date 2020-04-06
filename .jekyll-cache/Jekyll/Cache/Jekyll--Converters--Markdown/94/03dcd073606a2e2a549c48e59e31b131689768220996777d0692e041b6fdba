@@ -1,0 +1,55 @@
+I"�<p>Após a intensidade do trânsito em geral ter caído em média 60% no Brasil desde a segunda semana de março, o movimento de veículos nas 23 das 24 maiores cidades do Brasil registrou aumento no fim de semana de 4-5 de abril em relação ao anterior (apenas Florianópolis não). São Paulo, no último domingo, teve o dia mais movimentado desde 19 de março.</p>
+
+<p>Os <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> são disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest e mostram a intensidade de congestionamento de trânsito (TCI, na sigla em inglês) nas maiores cidades do Brasil e diversos países a partir de 8 de março, em relação à primeira semana do mês (dias 1 a 7).</p>
+
+<div class="flourish-embed" data-src="../img/interativos/index.html"><script src="/flourish.embed.js"></script></div>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Mostra que o isolamento social pode estar perdendo força</em></p>
+  </li>
+  <li>
+    <p><em>Indica que algumas pessoas podem ter sido impactadas pela postura do presidente Bolsonaro, contrário ao confinamento da população, apesar das orientações da OMS</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Comparado ao domingo anterior, a TCI no Brasil em geral também teve alta, de 7 pontos percentuais. O dado é o pior entre os países analisados (que incluem Argentina, Bolívia, Chile, Colômbia, Equador, México, Paraguai, Peru, Uruguai e Venezuela).</p>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/1829364" data-url="https://flo.uri.sh/visualisation/1829364/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<p><br /></p>
+
+<p>O TCI mede tanto a extensão do trânsito quanto sua duração em um determinado espaço.</p>
+
+<p>O levantamento anterior <a href="https://nucleo.jor.br/urbe/2020-03-29-transito-brasil-coronavirus">havia mostrado</a> que o Brasil já vinha sendo mais lento em reduzir sua movimentação em comparação com outros países da América Latina. A Bolívia, por exemplo, conseguiu reduzir o congestionamento em 99%. O máximo que o Brasil conseguiu foi 73% em 27 de março; o índice do último domingo foi de 51%.</p>
+
+<hr />
+
+<h6 id="na-imprensa">Na imprensa</h6>
+
+<ul>
+  <li><a href="https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml">Coronavírus reduz trânsito e turbina busca por serviços de delivery</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (31/03/2020)</li>
+</ul>
+
+<hr />
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>Os <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> são baseados em um convênio entre o Banco Interamericano de Desenvolvimento e o <a href="https://www.waze.com/en/ccp">programa</a> “Waze for Cities”.</p>
+
+<p>Os gráficos desconsideram algumas cidades e países a fim de facilitar a visualização de dados.</p>
+
+<p>As regiões metropolitanas consideradas na conta foram: Belém, Belo Horizonte, Brasília, Campinas, Curitiba, Florianópolis, Fortaleza, Goiânia, João Pessoa, Joinville, Maceió, Manaus, Natal, Porto Alegre, Recife, Rio de Janeiro, Salvador, Santos, São José dos Campos, São Luís, São Paulo, Sorocaba, Teresina e Vitória.</p>
+
+<p>Os países considerados na conta foram: Argentina, Bahamas, Barbados, Belize, Bolívia, Brasil, Chile, Colômbia, Costa Rica, República Dominicana, Equador, El Salvador, Guatemala, Guiana, Haiti, Honduras, Jamaica, México, Nicarágua, Panamá, Paraguai, Peru, Suriname, Trinidad &amp; Tobago, Uruguai e Venezuela.</p>
+
+<p>A metodologia pode ser encontrada <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-529">neste documento</a>. Descrevendo o TCI (tradução do <strong>Núcleo</strong>):</p>
+
+<p><em>“Essa medida do TCI sumariza tanto a extensão dos congestionamentos na rede viária de um polígono (ex. uma região metropolitana) quanto sua duração, porque a continuidade de congestionamentos é contada cada vez dentro de um intervalo i. Por exemplo, se na região metropolitana A e na região metropolitana B as mesmas 10 linhas de congestionamento são formadas em um dia, cada uma com 150 metros de comprimento, teríamos uma medida de 1.500 metros de congestionamento tanto em A quanto em B durante o dia. No entanto, se congestionamentos em A têm uma duração que seja o dobro da duração de B, o TCI para A seria o dobro do TCI para B.”</em></p>
+:ET
