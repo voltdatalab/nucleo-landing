@@ -103,6 +103,7 @@ h2.subheading {
   font-size: 0.8em;
 }
 
+
 .texto_post h5{
   color: #4b31dd;
   text-transform: uppercase;
@@ -132,6 +133,9 @@ h2.subheading {
   text-align: center;
 }
 
+small{
+  line-height: 1.6em !important
+}
 .texto_post blockquote{
   font-style: italic;
   font-size: 1.3em !important;

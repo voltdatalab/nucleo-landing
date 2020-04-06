@@ -59,7 +59,9 @@ O levantamento anterior [havia mostrado](https://nucleo.jor.br/urbe/2020-03-29-t
 
 ###### Na imprensa
 
-* [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml) &sdot; *Folha de S.Paulo* &sdot; (31/03/2020)
+
+- [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml) &sdot; *Folha de S.Paulo* &sdot; (31/03/2020)
+
 
 ---
 
