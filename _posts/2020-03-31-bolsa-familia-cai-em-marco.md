@@ -2,8 +2,8 @@
 published: TRUE
 layout: conteudo
 tipo: descrição
-title: "Governo corta 218 mil beneficiários do Bolsa Família em março"
-titulo_redes: "Governo corta 218 mil beneficiários do Bolsa Família em março"
+title: "Governo corta 158 mil beneficiários do Bolsa Família em março"
+titulo_redes: "Governo corta 158 mil beneficiários do Bolsa Família em março"
 subtitle: "Análise do Núcleo constatou redução de 1,2% no número de famílias beneficiadas em março ante fevereiro, em um momento no qual o Brasil luta com desaceleração da atividade econômica por conta do coronavírus."
 subtitle_redes: "Análise do Núcleo constatou redução de 1,2% nas famílias beneficiadas em março vs fevereiro"
 excerpt: "Em um momento crítico para o Brasil por conta de medidas de combate ao coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 218 mil famílias. Esse é o nova queda em um ano no número recipientes do principal programa social do governo federal."
@@ -18,7 +18,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e6
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo -- jan.2019 a mar.2020 (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1S8z8lM-0FKtEt-yDHWRszQ12yUzI3dXTHvmYhuBIoA4/edit?usp=sharing"
 background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento_marco.jpg'
-atualizacao: ""
+atualizacao: "Atualiza título e primeiro parágrafo para corrigir o número de beneficiários cortados, de 218 mil para 158 mil. Corrige segundo parágrafo, com número de beneficiários cortados de 700 mil para cerca de 1 milhão. Os erros foram cometidos por conta de uma fórmula errada apenas na diferença de beneficiários. Todo os outros dados (números absolutos e percentuais) estão correto."
 categories:
   - "governo"
 tags:
@@ -27,9 +27,9 @@ tags:
   - "Governo Bolsonaro"
 ---
 
-Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 218 mil famílias. Essa é a nona redução mensal em um ano no número recipientes do principal programa social do governo federal.
+Em um momento crítico para o Brasil por conta de medidas de combate à epidemia de coronavírus, que têm levado a uma redução da atividade econômica do país, o número de beneficiários pelo Bolsa Família caiu 1,2% em março em relação a fevereiro -- uma redução de 158 mil famílias. Essa é a nona redução mensal em um ano no número recipientes do principal programa social do governo federal.
 
-Uma análise do **Núcleo** constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,06 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,6%, num total de 702 mil famílias.
+Uma análise do **Núcleo** constatou que, em fevereiro de 2020, o número de famílias beneficiadas em 5.570 municípios era de 13,21 milhões. Em março, esse montante caiu para 13,06 milhões. No comparativo anual, entre março de 2020 e o mesmo mês em 2019, a queda é de 7,5%, num total de cerca de 1 milhão de famílias.
 
 ![Gráfico sobre Bolsa Família em março](../img/bolsa-familia-exugamento/bolsa_familia_marco.png)
 
