@@ -26,7 +26,7 @@ tags:
   - "Coronavírus"
 ---
 
-Após a intensidade do trânsito em geral ter caído em média 60% no Brasil desde a segunda semana de março, o movimento de veículos nas 23 das 24 maiores cidades do Brasil registraram aumento no fim de semana de 4-5 de abril em relação ao anterior (apenas Florianópolis não). São Paulo, no último domingo, teve o dia mais movimentado desde 19 de março.
+Após a intensidade do trânsito em geral ter caído em média 60% no Brasil desde a segunda semana de março, o movimento de veículos nas 23 das 24 maiores cidades do Brasil registrou aumento no fim de semana de 4-5 de abril em relação ao anterior (apenas Florianópolis não). São Paulo, no último domingo, teve o dia mais movimentado desde 19 de março.
 
 Os [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) são disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest e mostram a intensidade de congestionamento de trânsito (TCI, na sigla em inglês) nas maiores cidades do Brasil e diversos países a partir de 8 de março, em relação à primeira semana do mês (dias 1 a 7).
 
