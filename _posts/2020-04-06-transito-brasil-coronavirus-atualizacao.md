@@ -30,7 +30,9 @@ Após a intensidade do trânsito em geral ter caído em média 60% no Brasil des
 
 Os [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) são disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest e mostram a intensidade de congestionamento de trânsito (TCI, na sigla em inglês) nas maiores cidades do Brasil e diversos países a partir de 8 de março, em relação à primeira semana do mês (dias 1 a 7).
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/1829685" data-url="https://flo.uri.sh/visualisation/1829685/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed" data-src="https://nucleo.jor.br/img/interativos/transito_cidades/index.html"><script src="https://nucleo.jor.br/img/interativos/transito_cidades/flourish.embed.js"></script></div>
+
 
 ---
 
@@ -44,7 +46,7 @@ Os [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavi
 
 Comparado ao domingo anterior, a TCI no Brasil em geral também teve alta, de 7 pontos percentuais. O dado é o pior entre os países analisados (que incluem Argentina, Bolívia, Chile, Colômbia, Equador, México, Paraguai, Peru, Uruguai e Venezuela).
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/1829364" data-url="https://flo.uri.sh/visualisation/1829364/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="https://nucleo.jor.br/img/interativos/transito_paises/index.html"><script src="https://nucleo.jor.br/img/interativos/transito_paises/flourish.embed.js"></script></div>
 
 <br>
 
