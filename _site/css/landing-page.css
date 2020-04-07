@@ -65,13 +65,14 @@ p a{
   text-decoration: none;
   color: inherit;
   border-collapse: separate;
-  border-spacing: -15px;
+  border-spacing: -150px !important;
 }
 
 p a:hover{
   border-bottom: 5px solid #2eefa0;
   text-decoration: none;
-  color: #4b31dd;
+  font-weight: 500;
+  color: #231f20;
 }
 
 .social{

@@ -18,7 +18,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e6
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo -- jan.2019 a mar.2020 (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1S8z8lM-0FKtEt-yDHWRszQ12yUzI3dXTHvmYhuBIoA4/edit?usp=sharing"
 background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento_marco.jpg'
-atualizacao: "Atualiza título e primeiro parágrafo para corrigir o número de beneficiários cortados, de 218 mil para 158 mil. Corrige segundo parágrafo, com número de beneficiários cortados de 700 mil para cerca de 1 milhão. Os erros foram cometidos por conta de uma fórmula errada apenas na diferença de beneficiários. Todos os outros dados (números absolutos e percentuais) estão corretos."
+atualizacao: "Atualiza em 6 de abril de 2020 o título e primeiro parágrafo para corrigir o número de beneficiários cortados, de 218 mil para 158 mil. Corrige segundo parágrafo, com número de beneficiários cortados de 700 mil para cerca de 1 milhão. Os erros foram cometidos por conta de uma fórmula errada apenas na diferença de beneficiários. Todos os outros dados (números absolutos e percentuais) estão corretos. Adiciona tabela com valores."
 categories:
   - "governo"
 tags:
@@ -44,6 +44,28 @@ Uma análise do **Núcleo** constatou que, em fevereiro de 2020, o número de fa
 ---
 
 O **Núcleo** consultou a API oficial do Bolsa Família oficial do Ministério da Cidadania nesta terça-feira, 31, e os [dados de março](http://aplicacoes.mds.gov.br/sagi/servicos/misocial?q=*&fq=anomes_s:2020*&fq=tipo_s:mes_mu&wt=csv&fl=ibge:codigo_ibge,anomes:anomes_s,qtd_familias_beneficiarias_bolsa_familia,valor_repassado_bolsa_familia&rows=10000000&sort=anomes_s%20asc,%20codigo_ibge%20asc) já constavam lá - mas ainda não [no site](https://aplicacoes.mds.gov.br/sagi/vis/data3/v.php?q[]=5ItjcmGJnfSh1aLB1MiFcoeVhX5hhoNzgIuIhJh2dHukfYXnybKys9%2B%2BsqilzpK4yca6q7DVybrMibllqHyigKm%2FudC0iLe6osWKpucSF63jsN11k66z2d3NurM2Asm3ycZTpqB5verfwKSm1K1zhMbNy69Qn7SvCAbEu8nFtIQ%3D).
+
+| data       | famílias   | var. mes|
+|------------|------------|---------|
+| 2019-01-01 | 13.760.886 | -2.7    |
+| 2019-02-01 | 13.914.330 | 1.12    |
+| 2019-03-01 | 14.105.240 | 1.37    |
+| 2019-04-01 | 14.134.323 | 0.21    |
+| 2019-05-01 | 14.339.058 | 1.45    |
+| 2019-06-01 | 14.072.368 | -1.86   |
+| 2019-07-01 | 13.841.302 | -1.64   |
+| 2019-08-01 | 13.826.716 | -0.11   |
+| 2019-09-01 | 13.537.137 | -2.09   |
+| 2019-10-01 | 13.505.758 | -0.23   |
+| 2019-11-01 | 13.189.567 | -2.34   |
+| 2019-12-01 | 13.170.607 | -0.14   |
+| 2020-01-01 | 13.228.015 | 0.44    |
+| 2020-02-01 | 13.216.880 | -0.08   |
+| 2020-03-01 | 13.058.228 | -1.2    |
+
+
+
+<figcaption>Fonte: <a href="http://aplicacoes.mds.gov.br/sagi/servicos/misocial?q=*&fq=anomes_s:2020*&fq=tipo_s:mes_mu&wt=csv&fl=ibge:codigo_ibge,anomes:anomes_s,qtd_familias_beneficiarias_bolsa_familia,valor_repassado_bolsa_familia&rows=10000000&sort=anomes_s%20asc,%20codigo_ibge%20asc"> API Ministério da Cidadania</a></figcaption>
 
 É importante dizer que as medidas de isolamento social para contenção à epidemia de coronavírus começaram apenas a partir de meados de março, e seria improvável qualquer mudança de planejamento de última hora na concessão do Bolsa Família por parte do governo Bolsonaro, a fim de atenuar os efeitos da crise. Havia pouco tempo para mudanças em um programa tão grande.
 

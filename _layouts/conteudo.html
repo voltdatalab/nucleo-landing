@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	{% include head_post.html %}
 	<body>
@@ -34,6 +34,8 @@
   </div>
 </div>
 
+{% if page.credito_img %}<h6 class="feature_credito"> {{ page.credito_img }} </h6>{% endif %}
+
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
@@ -41,6 +43,7 @@
     {% endif %}
     <div class="overlay"></div>
   </header>
+
 
 
 <div class="container wrap sidebar-right box_conteudo">

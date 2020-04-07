@@ -1,6 +1,6 @@
 .masthead {
   margin-bottom: 5px;
-  margin-top: 50px;
+  margin-top: 10px;
   background-attachment: scroll;
   background-repeat: no-repeat;
   position: relative;
@@ -159,7 +159,7 @@ small{
 figcaption{
   font-weight: 300 !important;
   font-size: 0.9em;
-  margin-top: -35px;
+  margin-top: -28px;
   margin-bottom: 30px;
   width: 95%;
   font-style: italic;
@@ -218,10 +218,11 @@ blockquote.twitter-tweet a:focus {
 }
 
 .feature_credito{
-  font-size: .8em;
+  font-size: .7em;
   margin-right: 5px;
-  margin-top: 0;
+  margin-top: -6px;
   float: right;
+  font-weight: 300
 }
 
 .box_conteudo{
