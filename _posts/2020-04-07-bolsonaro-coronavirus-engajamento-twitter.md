@@ -38,9 +38,10 @@ O **Núcleo** captou e analisou 1,27 milhão de tweets únicos (exclui RTs e com
 
 ###### É importante porque...
 
-- *Mostra a dificuldade prática na política de isolamento social nas periferias, para combate ao coronavírus*
+- *O Twitter sempre foi importante para a comunicação de Bolsonaro, inclusive em busca de apoio. Perder a conversa lá significa enfraquecimento dele em um de seus principais canais*
 
-- *Em domicílios com muitos moradores por quarto, pode ser praticamente impossível adotar medidas de isolamento caso algum morador apresente sintomas do coronavírus*
+- *Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um lugar de discussão política e de assuntos do momento*
+
 
 ---
 
