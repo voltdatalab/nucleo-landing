@@ -51,7 +51,7 @@ O peso desse recorte é significante: apesar de representar apenas 0,08% do tota
 
 ![gráfico dispersão engajamento tweets](../img/corona-twitter/dispersao_1000tweet.png)
 
-Nos tweets com mais engajamento, Bolsonaro tem perdido significativamente: 71% de todas as interações foram realizadas em tweets negativos ao presidente, ao passo que apenas 20,5% foram positivas. O restante foi considerado neutro. Vale ressaltar que o Twitter é a rede na qual a oposição parece [mais crescer](http://observademocraciadigital.org/posts/twitter-e-a-rede-em-que-os-parlamentares-de-partidos-situados-no-grupo-de-centro-alcancaram-maior-protagonismo-no-debate-sobre-o-covid-19/), de acordo com relatório de março da FGV/DAPP.
+Nos tweets com mais engajamento, Bolsonaro tem perdido significativamente: 71% de todas as interações foram realizadas em tweets negativos ao presidente, ao passo que apenas 20,5% foram positivas. O restante foi considerado neutro. Vale ressaltar que o Twitter é a rede na qual a oposição parece [mais crescer](http://observademocraciadigital.org/posts/twitter-e-a-rede-em-que-os-parlamentares-de-partidos-situados-no-grupo-de-centro-alcancaram-maior-protagonismo-no-debate-sobre-o-covid-19/), de acordo com relatório de março da FGV/DAPP. O pesquisador Fabio Malini, da Universidade Federal do Espírito Santo, também já havia [falado](https://twitter.com/fabiomalini/status/1242838964228313088) sobre isso. 
 
 Isso não quer dizer que a base de apoiadores de Bolsonaro seja pequena ou pouco engajada, mas que seus críticos conseguiram superar seus defensores na última quinzena no mês.
 
