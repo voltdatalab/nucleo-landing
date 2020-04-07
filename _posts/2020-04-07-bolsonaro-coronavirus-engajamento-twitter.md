@@ -18,7 +18,7 @@ dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1ykAoTKuyf3P0epNjDI8
 dados_abertos2: "Acesse o código para extração de Tweets via API"
 dados_abertos_link2: "https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5"
 background: '../img/corona-twitter/bolsonaro_twitter_destaque.jpg'
-nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://aosfatos.org/radar/' target='_blank'>Aos Fatos</a>"
+nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://aosfatos.org/noticias/base-bolsonarista-no-twitter-impulsiona-desinformacao-mas-perde-espaco-na-rede/' target='_blank'>Aos Fatos</a>"
 atualizacao:
 categories:
   - "redes"
