@@ -47,6 +47,8 @@ Uma funcionária da Consultoria Legislativa da Câmara dos Deputados [entrou em 
 #### Como soubemos disso?
 Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), através do Coordenador de Justiça Social e Econômica da Oxfam Brasil.
 
+<hr>
+
 ## &#8594; Análise sobre avaliação do governo pauta grande imprensa
 
 Uma análise [completa](https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus) sobre a avaliação do governo Bolsonaro em tempos de coronavírus serviu como base para pautar diversos verículos jornalísticos, incluindo o *Jornal Nacional*, o *G1*, a *Folha de S.Paulo* e o *Brazil Report*.
