@@ -1,5 +1,5 @@
 ---
-layout: opiniao
+layout: impacto
 title: 'Qual o resultado do nosso jornalismo?'
 desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!'
 subtitle: ''
@@ -30,22 +30,6 @@ Envie uma mensagem via:
 <br>
 <br>
 
-## &#8594; Análise sobre avaliação do governo pauta grande imprensa
-
-Uma análise [completa](https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus) sobre a avaliação do governo Bolsonaro em tempos de coronavírus serviu como base para pautar diversos verículos jornalísticos, incluindo o *Jornal Nacional*, o *G1*, a *Folha de S.Paulo* e o *Brazil Report*.
-
-#### Como soubemos disso?
-
-- [Link para *JN* - edição 04/04/2020](https://globoplay.globo.com/v/8458466/programa/?s=33m15s)
-
-- [Link para *G1*](https://g1.globo.com/politica/noticia/2020/04/04/ao-contrario-de-outros-paises-governos-de-brasil-e-mexico-perdem-popularidade-na-crise-do-coronavirus.ghtml)
-
-- [Link para *Folha*](https://www1.folha.uol.com.br/colunas/monicabergamo/2020/04/bolsonaro-e-unico-lider-do-mundo-a-perder-popularidade-em-crise-de-coronavirus-mostram-pesquisas.shtml)
-
-- [Link para Brazilian Report](https://brazilian.report/latin-america/2020/03/24/amlo-bolsonaro-feel-the-limits-of-personalized-politics/)
-
-<hr>
-
 
 ## &#8594; CPI sobre Óleo do Nordeste
 
@@ -63,6 +47,19 @@ Uma funcionária da Consultoria Legislativa da Câmara dos Deputados [entrou em 
 #### Como soubemos disso?
 Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), através do Coordenador de Justiça Social e Econômica da Oxfam Brasil.
 
+## &#8594; Análise sobre avaliação do governo pauta grande imprensa
+
+Uma análise [completa](https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus) sobre a avaliação do governo Bolsonaro em tempos de coronavírus serviu como base para pautar diversos verículos jornalísticos, incluindo o *Jornal Nacional*, o *G1*, a *Folha de S.Paulo* e o *Brazil Report*.
+
+#### Como soubemos disso?
+
+- [Link para *JN* - edição 04/04/2020](https://globoplay.globo.com/v/8458466/programa/?s=33m15s)
+
+- [Link para *G1*](https://g1.globo.com/politica/noticia/2020/04/04/ao-contrario-de-outros-paises-governos-de-brasil-e-mexico-perdem-popularidade-na-crise-do-coronavirus.ghtml)
+
+- [Link para *Folha*](https://www1.folha.uol.com.br/colunas/monicabergamo/2020/04/bolsonaro-e-unico-lider-do-mundo-a-perder-popularidade-em-crise-de-coronavirus-mostram-pesquisas.shtml)
+
+- [Link para Brazilian Report](https://brazilian.report/latin-america/2020/03/24/amlo-bolsonaro-feel-the-limits-of-personalized-politics/)
 
 <hr>
 
@@ -92,3 +89,5 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 *  __GIJN__: [Data Journalism Top 10: Social Distancing Simulations, Coronavirus Cluster Research, Flattening the COVID-19 Curve, Trump Cherry-Picks Data](https://gijn.org/2020/03/19/data-journalism-top-10-social-distancing-simulations-coronavirus-cluster-research-flattening-the-covid-19-curve-trump-cherry-picks-data/)
 
 *  __Jornalistas&Cia__: [Sérgio Spagnuolo lança o Núcleo Jornalismo](http://www.jornalistasecia.com.br/edicoes/jornalistasecia1238mp08.pdf)
+
+* __Portal Imprensa__: [Aplicativos de notícias crescem no Brasil após epidemia de coronavírus, segundo pesquisa do Núcleo Jornalismo](http://portalimprensa.com.br/noticias/ultimas_noticias/83379/aplicativos+de+noticias+crescem+no+brasil+apos+epidemia+de+coronavirus+segundo+pesquisa+do+nucleo+jornalismo)

@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html>
 	{% include head.html %}
-	<body>
+	<body style="background-image:url(../img/landing-nucleo_symbol-background.png);background-size:600px;background-repeat: no-repeat;background-position: center; background-attachment: fixed">
 		{% include nav.html %}
 
-
+</div>
 
 		<!-- índice simples de matérias  -->
-		<div class="container" style="padding: 0 5% 0px;max-width:800px;margin-top:75px">
+		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
 
 			<br /><br />
-		  <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> IMPACTO</h5>
+		  <h5 class="chapeu">
+				<i class="fas fa-layer-group fa-lg"></i> IMPACTO
+			</h5>
 								<div class="post-heading">
 									<br />
 									<h1 style="text-transform:uppercase">{{ page.title }}</h1>
@@ -33,17 +35,19 @@
 									</code>
 
 								</div>
+							</div>
 
+							<div class="container" style="max-width: 600px">
 									{{ content }}
 
 									<hr />
-									<div class="container" style="margin-bottom: 30px;">
-										<span style="font-family:'Roboto Mono';font-size:0.8em;text-align:center">
+										<p>
+										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
 											Última atualização desta página em {{ page.atualizacao | date: '%d/%m/%Y' }}
 										</span>
+										</p>
 									</div>
 
-		            </div>
 
 
   {% include footer.html %}
