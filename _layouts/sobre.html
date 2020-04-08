@@ -11,7 +11,7 @@
 
 			<br /><br />
 		  <h5 class="chapeu">
-				<i class="fas fa-layer-group fa-lg"></i> IMPACTO
+				<i class="fas fa-layer-group fa-lg"></i> QUEM SOMOS
 			</h5>
 								<div class="post-heading">
 									<br />
@@ -38,17 +38,13 @@
 								</div>
 							</div>
 
-							<div class="container" style="max-width: 540px">
-									{{ content }}
-
-									<hr />
-										<p>
-										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
-											Última atualização desta página em {{ page.atualizacao | date: '%d/%m/%Y' }}
-										</span>
-										</p>
-									</div>
-
+							{% include intro_sobrenos.html %}
+							{% include slide1.html %}
+							{% include slide2.html %}
+							{% include slide3.html %}
+							{% include slide4.html %}
+							{% include slide5.html %}
+							{% include js.html %}
 
 
   {% include footer.html %}

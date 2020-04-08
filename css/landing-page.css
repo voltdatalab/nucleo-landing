@@ -402,13 +402,13 @@ ul.share-buttons{
 ul.share-buttons li{
   display: inline;
   margin-right: 7px;
-  color: #fff
+  color: #4b31dd
 }
 
 ul.share-buttons i{
   display: inline;
   margin-right: 7px;
-  color: #fff
+  color: #4b31dd
 }
 
 ul.share-buttons .sr-only{
@@ -422,13 +422,20 @@ ul.share-buttons .sr-only{
   overflow: hidden;
 }
 
+hr {
+  height: 1px;
+  background-color: #4b31dd;
+  text-align: center;
+  margin: 50px auto;
+}
+
 /* SEÇOES */
 
 #about{
-  background-color: #4b31dd;
+  background-color: #eeeeee;
   width: 100%;
   text-align: left;
-  color: #fff;
+  color: #231f20;
   padding-bottom: 3%;
   font-size: 1em
 }
