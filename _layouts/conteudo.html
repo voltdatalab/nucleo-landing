@@ -35,7 +35,7 @@
 {% if page.credito_img %}<h6 class="feature_credito"> {{ page.credito_img }} </h6>{% endif %}
 
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+<header class="masthead" style="background-image: url('../img/{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
   <header class="masthead">
     {% endif %}

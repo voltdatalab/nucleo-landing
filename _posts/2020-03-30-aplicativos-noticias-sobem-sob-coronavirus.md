@@ -11,7 +11,7 @@ date: 30/03/2020
 credito_img: Sérgio Spagnuolo
 dados_abertos: "Acesse o estudo da RankMyAPP feito a pedido do Núcleo"
 dados_abertos_link: '../img/covid/ESTUDO_RankMyAPP.pdf'
-background: '../img/covid/apps_noticias_cover.jpg'
+background: 'covid/apps_noticias_cover.jpg'
 atualizacao: "Texto alterado às 18h08 de 30 de março de 2020 para incluir informação no terceiro parágrafo, relativa à Apple Store."
 categories:
   - "media"

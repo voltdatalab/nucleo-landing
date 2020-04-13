@@ -4,7 +4,7 @@
           <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> DESTAQUES</h5>
           <br /><br />
 {% for post in site.posts offset:1 limit : 6 %}
-          <div class="indexpost" style="background: url({{ site.baseurl }}{{ post.background }}) rgba(0, 0, 0, 0.4);">
+          <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
                   <br />

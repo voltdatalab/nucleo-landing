@@ -17,7 +17,7 @@ dados_abertos: "Acesse os códigos e os dados"
 dados_abertos_link: 'https://github.com/rmhirota/politicos_devedores'
 dados_abertos2: "Acesse a base de dados organizada pelo <strong>Núcleo</strong>"
 dados_abertos_link2: https://dados.nucleo.jor.br/politicos_inscritos_pgfn/cruzamento_total_empresas
-background: '../img/devedores-pgfn/devedores-pj.jpeg'
+background: 'devedores-pgfn/devedores-pj.jpeg'
 atualizacao: ""
 categories:
   - "governo"

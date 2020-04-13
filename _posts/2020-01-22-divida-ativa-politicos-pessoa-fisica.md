@@ -15,7 +15,7 @@ edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://dados.nucleo.jor.br/politicos_inscritos_pgfn'
-background: '../img/devedores-pgfn/devedores-pf.jpeg'
+background: 'devedores-pgfn/devedores-pf.jpeg'
 atualizacao: ""
 categories:
   - "governo"

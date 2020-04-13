@@ -17,7 +17,7 @@ dados_abertos: "Acesse o código"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo -- jan.2019 a mar.2020 (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1S8z8lM-0FKtEt-yDHWRszQ12yUzI3dXTHvmYhuBIoA4/edit?usp=sharing"
-background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento_marco.jpg'
+background: 'bolsa-familia-exugamento/bolsa-familia-exugamento_marco.jpg'
 atualizacao: "Atualiza em 6 de abril de 2020 o título e primeiro parágrafo para corrigir o número de beneficiários cortados, de 218 mil para 158 mil. Corrige segundo parágrafo, com número de beneficiários cortados de 700 mil para cerca de 1 milhão. Os erros foram cometidos por conta de uma fórmula errada apenas na diferença de beneficiários. Todos os outros dados (números absolutos e percentuais) estão corretos. Adiciona tabela com valores."
 categories:
   - "governo"

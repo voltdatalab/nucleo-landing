@@ -17,7 +17,7 @@ dados_abertos: "Acesse os dados do Ministério da Saúde (Datasus - Tabnet)"
 dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1Lxy8dwKibGilFYT_VLYo6LMLR5XnGjKa9TgJWsKHNV8/edit?usp=sharing'
-background: '../img/capacidade-hospitalar/coronavirus_coverum.jpeg'
+background: 'capacidade-hospitalar/coronavirus_coverum.jpeg'
 atualizacao: "Atualiza reportagem às 15h31 de 12.mar.2020 para esclarecer na metodologia que a análise trata dos leitos de internação, e não considera os chamados leitos complementares (UTI e unidades intermediárias). Atualiza reportagem às 15h48 de 12.mar.2020 com informações sobre leitos complementares. Atualiza reportagem às 16h03 de 12.mar.2020 com tabela sobre tipos de leitos de internação."
 categories:
   - "governo"

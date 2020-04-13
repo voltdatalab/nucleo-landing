@@ -17,7 +17,7 @@ dados_abertos: "Acesse o código"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a'
 dados_abertos2: "Acesse os dados agregados (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1cgcXEqARoq_cv17DqeKbibSMY84ZzGocm3uA8Iiqi9Y/edit?usp=sharing"
-background: '../img/bolsa-familia-exugamento/bolsa-familia-exugamento.jpeg'
+background: 'bolsa-familia-exugamento/bolsa-familia-exugamento.jpeg'
 atualizacao: "Texto atualizado às 17h04 de 3.mar.2020 para corrigir erro de digitação no parágrafo imediatamente anterior à tabela: onde se lia 3,19 milhões, agora lê-se 13,19. "
 categories:
   - "governo"
