@@ -80,4 +80,4 @@ A partir desses dados, o **Núcleo** extraiu as informações do site do Portal 
 
 A rubrica da ação é "21C0 - ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE IMPORTANCIA INTERNACIONAL DECORRENTE DO CORONAVIRUS", e o elemento da despesa é "33 - Passagens e Despesas com Locomoção".
 
-Já foram empenhados mais de R$3 bilhões de reais sob essa rubrica, sem considerar políticas de auxílio econômico.
+Já foram empenhados mais de R$3 bilhões sob essa rubrica, sem considerar políticas de auxílio econômico.
