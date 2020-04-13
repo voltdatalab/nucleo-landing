@@ -1,41 +1,51 @@
 ---
-layout: categories
+layout: posts
+tagline: 'ARQUIVADO EM'
+subtitle: ''
 ---
 
-<div class="container">
+<div class="container" style="padding: 0 5% 0px;max-width:850px">
+          <div class="row">
 
-    <section id="publicacoes">
-        <div class="content-section-a">
-          <div class="container" style="padding: 0 2% 60px">
-            <br /><br />
-            <h3 style="marging-top:100px;font-weight: 300;">ARQUIVADO EM <span class="chapeu" style="text-transform:uppercase">#{{ page.tag }}</span></h3> <br /><br />
-    <!-- Page Content -->
-    {% for post in site.categories[page.tag] %}
+{% for post in site.categories[page.tag] %}
+        <div class="col-sm-6 col-lg-6">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                  <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#000;font-weight:300">
 
-                    <div class="row">
-                    <div class="col-lg-6">
-                    <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
-                    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                      <h2 style="color:#231f20;text-transform:uppercase">{{ post.titulo_redes }}</h2></a>
-                      <br />
-                      <span class="arquivado">
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ post.categories }}"><span style="color:#fff;background-color:#4b31dd">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>
 
-                        {{ post.date | date: '%d/%m/%Y' }}  <br />
+                  </span>
+                  <br /><br />
+          </div>
 
-                      </span>
-                      <br />
-                    <p class="conteudo">{{ post.excerpt }} <strong><a href="{{ post.url }}">[Continuar...]</a></strong></p>
-                    </div>
-                  <div class="col-lg-5" style="float:right; padding-top: 20px; padding-right: 40px;">
-                    <img src="{{ site.baseurl }}{{ post.background }}" width='95%'/>
-                  </div>
-                  </div>
+                {% endfor %}
+                </div>
+
+            </div>
 
 
+<br /><br /><br />
 
-    {% endfor %}
-    </div>
-    </div>
-    </section>
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
 
-</div>
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>

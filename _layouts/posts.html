@@ -11,7 +11,7 @@
 
 			<br /><br />
 		  <h5 class="chapeu">
-				<i class="fas fa-layer-group fa-lg"></i> ÍNDICE DE PUBLICAÇÕES
+				<i class="fas fa-layer-group fa-lg"></i> {{ page.tagline }}
 			</h5>
 								<div class="post-heading">
 									<br />
@@ -28,7 +28,7 @@
 										  {% assign prevyear = post.previous.date | date: "%Y" %}
 										  {% assign counter = counter | plus: 1 %}
 										  {% if thisyear != prevyear %}
-										    Já publicamos <u>{{ counter }} matérias</u> em {{ thisyear }} </a>
+										    Já publicamos um total de <u>{{ counter }} matérias</u> em {{ thisyear }} </a>
 										    {% assign counter = 0 %}
 										  {% endif %}
 										{% endfor %}

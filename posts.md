@@ -2,7 +2,7 @@
 layout: posts
 title: 'Todas as nossas matérias'
 desc: 'Veja o índice de tudo o que já publicamos'
-subtitle: ''
+tagline: 'ÍNDICE'
 link: posts
 atualizacao: 05/04/2020
 ---
