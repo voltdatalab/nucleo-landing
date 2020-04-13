@@ -1,5 +1,5 @@
 ---
-published: FALSE
+published: TRUE
 layout: conteudo
 tipo: descrição
 title: 'Coronavírus: repatriação de brasileiros no exterior custou ao menos R$25 milhões'
@@ -16,7 +16,7 @@ dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1qy0x_D6MmtqGfJlwNK8
 dados_abertos2: "Acesse o código para extração do Portal da Transparência do governo federal"
 dados_abertos_link2: "https://gist.github.com/voltdatalab/86141036c589828adc8bc55e498772bb"
 background: '../img/covid/destaque_itamaraty_coronavirus.jpeg'
-nota_abertura: ""
+nota_abertura: nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-repatriacao-de-brasileiros-no-exterior-custa-ao-menos-r-25-milhoes-210430844.html' target='_blank'>Yahoo Brasil</a>"
 atualizacao:
 categories:
   - "governo"
@@ -31,6 +31,8 @@ Esforços da diplomacia brasileira para a repatriação de brasileiros no exteri
 
 Até essa data, no Portal da Transparência, constavam nove empenhos realizados por representações brasileiras em outros países sob a [rubrica orçamentária](http://www.portaltransparencia.gov.br/programas-e-acoes/acao/21C0-enfrentamento-da-emergencia-de-saude-publica-de-importancia-internacional-decorrente-do-coronavirus) de enfrentamento à COVID-19.
 
+O Ministério das Relações Exteriores tem sido cobrado por ações para retornar os mais de [6.500 brasileiros](https://oglobo.globo.com/brasil/coronavirus-veja-onde-estao-os-65-mil-brasileiros-que-aguardam-retornar-ao-brasil-24356236) no exterior que querem voltar mas não conseguem, por conta de cancelamentos de vôos em todo o mundo.
+
 ---
 
 ###### É importante porque...
@@ -44,7 +46,10 @@ Até essa data, no Portal da Transparência, constavam nove empenhos realizados 
 
 A [maior despesa](http://www.portaltransparencia.gov.br/despesas/empenho/240076000012020NE000167?ordenarPor=fase&direcao=desc) apurada foi o fretamento de aeronaves por EUR1,47 milhões (R$8,35 milhões) pelo consulado-geral em Lisboa para a repatriação de brasileiros em Portugal. O empenho foi autorizado em 7 de abril.
 
-Há mais de [6,5 mil](https://oglobo.globo.com/brasil/coronavirus-veja-onde-estao-os-65-mil-brasileiros-que-aguardam-retornar-ao-brasil-24356236) brasileiros no exterior esperando para voltar. Apenas em Portugal, segundo o jornal Observador, [há 1.300 cidadãos](https://observador.pt/2020/04/11/covid-19-repatriamento-de-1-300-brasileiros-retidos-em-portugal-comeca-na-proxima-semana/). Na Itália, um grupo de brasileiros [está dentro](https://g1.globo.com/mundo/noticia/2020/04/12/brasileiros-ha-mais-de-20-dias-retidos-em-cruzeiro-na-italia-estao-com-covid-19.ghtml) de um navio de cruzeiros, em quarentena. Na Indonésia, mais de 120 brasileiros aguardam por repatriação, segundo o [site G1](https://g1.globo.com/sc/santa-catarina/noticia/2020/04/11/com-pandemia-mais-de-120-brasileiros-aguardam-por-repatriacao-na-indonesia-estamos-nos-virando.ghtml).
+Na Argentina, o consulado geral gastou cerca de R$80 mil [no aluguel](http://www.portaltransparencia.gov.br/despesas/favorecido?de=01/04/2020&ate=30/04/2020&funcaoSubfuncao=FN07&funcaoSubfuncao=SB211&programa=2216&acao=21C0&programaGoverno=00&grupo=3&elemento=33&modalidade=90&orgaos=UG240043&ordenarPor=valor&direcao=desc) de ônibus de Rosário e Buenos até Paso de Los Libres, na fronteira com o Brasil. Na Índia, a embaixada [empenhou](http://www.portaltransparencia.gov.br/despesas/empenho/240259000012020NE000001?ordenarPor=fase&direcao=desc) USD846 mil (R$4,4 milhões) em um voo fretado.
+
+
+Segundo o jornal Observador, [1.300 pessoas](https://observador.pt/2020/04/11/covid-19-repatriamento-de-1-300-brasileiros-retidos-em-portugal-comeca-na-proxima-semana/) aguardam retorno de terras portuguesas. Na Itália, um grupo de brasileiros [está dentro](https://g1.globo.com/mundo/noticia/2020/04/12/brasileiros-ha-mais-de-20-dias-retidos-em-cruzeiro-na-italia-estao-com-covid-19.ghtml) de um navio de cruzeiro, em quarentena. Na Indonésia, mais de 120 brasileiros esperam para voltar, segundo o [G1](https://g1.globo.com/sc/santa-catarina/noticia/2020/04/11/com-pandemia-mais-de-120-brasileiros-aguardam-por-repatriacao-na-indonesia-estamos-nos-virando.ghtml).
 
 O Itamaraty publicou em suas redes sociais um [cronograma impreciso](https://twitter.com/ItamaratyGovBr/status/1249040752900018178) sobre a repatriação desses cidadãos. A Defensoria Pública da União [pediu](https://oglobo.globo.com/brasil/defensoria-pede-que-itamaraty-divulgue-plano-de-repatriacao-de-brasileiros-24364396) para que o Itamaraty divulgue um plano.
 
