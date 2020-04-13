@@ -216,7 +216,11 @@ label{
 }
 
 .navbar-right li a{
-  color: #231f20 !important
+  color: #231f20 !important;
+}
+
+.navbar-right li a:hover{
+  color: #4b31dd !important;
 }
 
 #logotipo{
@@ -487,4 +491,11 @@ hr {
 
 .post-heading h1{
   margin-top: 3px;
+}
+
+.spancateg{
+  color:#fff !important;
+  background-color:#4b31dd;
+  padding: 3px 5px;
+  border-radius: 7px;
 }

@@ -15,19 +15,19 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
             	<li>
-                    <a href="{{ site.baseurl }}/sobre">SOBRE O NÚCLEO</a>
+                    <a href="{{ site.baseurl }}/sobre">SOBRE</a>
                 </li>
                 <li>
                     <a href="{{ site.baseurl }}/impacto">IMPACTO</a>
-                </li>
-                <li>
-                    <a href="{{ site.baseurl }}/en">ENGLISH</a>
                 </li>
                 {% for social in site.social %}
                 <li>
                   <a href="{{ social.url }}" style="border:0px"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name"></span></a>
                 </li>
                 {% endfor %}
+                <li>
+                    <a href="{{ site.baseurl }}/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
