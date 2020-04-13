@@ -1,7 +1,8 @@
 ---
-layout: impacto
+layout: pages
 title: 'Qual o resultado do nosso jornalismo?'
 desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!'
+tagline: IMPACTO
 subtitle: ''
 link: impacto
 atualizacao: 05/04/2020
@@ -19,9 +20,11 @@ O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do fun
 
 Se nosso jornalismo foi útil para você de alguma forma, fale pra gente! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.
 
-Envie uma mensagem via:
+Encontre a gente:
 
 <i class="fab fa-whatsapp fa-lg"></i> [Whatsapp](https://wa.me/5511934441844)
+
+<i class="fab fa-telegram fa-lg"></i> [Telegram](https://t.me/nucleojor )
 
 <i class="far fa-envelope fa-lg"></i> [nucleo@voltdata.info](mailto:nucleo@voltdata.info)
 

@@ -8,7 +8,7 @@ title: Núcleo Jornalismo
 email: nucleo@voltdata.info
 author: Núcleo Jornalismo
 description: > # "Write an awesome description for your new site here.
-  Investigações sobre debates, gastos públicos e políticas públicas
+  Análises sobre debates, gastos públicos e políticas públicas
 copyright: '<img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="200px" />'
 credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza apenas Google Analytics.'
 
@@ -19,6 +19,7 @@ credits: 'Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Repro
 # Build settings
 markdown: kramdown
 permalink: /:categories/:year-:month-:day-:title
+plugins: [jekyll-paginate]
 
 paginate:           5
 paginate_path:      "/posts/page:num/"
@@ -36,6 +37,8 @@ social:
     url: https://github.com/voltdatalab
   - title: whatsapp
     url: https://wa.me/5511934441844
+  - title: telegram
+    url: https://t.me/nucleojor
 
 collections:
   category:
