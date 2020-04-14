@@ -5,7 +5,7 @@ desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!
 tagline: IMPACTO
 subtitle: ''
 link: impacto
-atualizacao: 05/04/2020
+atualizacao: 14/04/2020
 ---
 
 <style>
@@ -20,7 +20,15 @@ O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do fun
 
 Se nosso jornalismo foi útil para você de alguma forma, fale pra gente! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.
 
-Encontre a gente:
+<br>
+
+#### COMO CREDITAR O NÚCLEO?
+
+Caso sejamos utilizados como referência para seu trabalho, favor nos creditar como **Núcleo Jornalismo**, de preferência <u>com o link</u> para a análise de referência. Isso é realmente importante para nós, literalmente ajuda na continuidade do nosso trabalho e captação de recursos.
+
+<br>
+
+##### Estamos nesses canais:
 
 <i class="fab fa-whatsapp fa-lg"></i> [Whatsapp](https://wa.me/5511934441844)
 
@@ -74,6 +82,11 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 
 <br>
 
+#### Como referência
+
+* __Folha de S.Paulo__ (artigo de opinião): [Bolsonaro é burro mesmo](https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/04/bolsonaro-e-burro-mesmo.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
+
+* __Aos Fatos__: [Como as redes bolsonaristas usam desinformação para pressionar por queda de Mandetta](https://aosfatos.org/noticias/como-as-redes-bolsonaristas-usam-desinformacao-para-pressionar-por-queda-de-Mandetta/)
 
 * __Folha de S.Paulo__: [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml)
 
@@ -85,10 +98,6 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 
 *  __Brazilian Report__: [Over 7,000 Brazilian politicians in debt to federal government](https://brazilian.report/power/2020/01/28/brazilian-politicians-debt-federal-government/)
 
-*  __Yahoo Brasil__: [Coronavírus: interesse sobre cloroquina disparou após vídeo de Bolsonaro](https://br.noticias.yahoo.com/coronavirus-interesse-sobre-cloroquina-disparou-apos-video-de-bolsonaro-220342444.html)
-
-*  __Yahoo Brasil__: [No Twitter, coronavírus só ganhou força após contaminação de autoridades](https://br.noticias.yahoo.com/no-twitter-coronavirus-so-ganhou-forca-apos-contaminacao-de-autoridades-022439916.html)
-
 *  __Metro1__: [Políticos devem mais de R$ 1 bi à União; BA tem 2º maior montante](https://www.metro1.com.br/noticias/politica/86520,politicos-devem-mais-de-r-1-bi-a-uniao-ba-tem-2o-maior-montante)
 
 *  __GIJN__: [Data Journalism Top 10: Social Distancing Simulations, Coronavirus Cluster Research, Flattening the COVID-19 Curve, Trump Cherry-Picks Data](https://gijn.org/2020/03/19/data-journalism-top-10-social-distancing-simulations-coronavirus-cluster-research-flattening-the-covid-19-curve-trump-cherry-picks-data/)
@@ -96,3 +105,14 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 *  __Jornalistas&Cia__: [Sérgio Spagnuolo lança o Núcleo Jornalismo](http://www.jornalistasecia.com.br/edicoes/jornalistasecia1238mp08.pdf)
 
 * __Portal Imprensa__: [Aplicativos de notícias crescem no Brasil após epidemia de coronavírus, segundo pesquisa do Núcleo Jornalismo](http://portalimprensa.com.br/noticias/ultimas_noticias/83379/aplicativos+de+noticias+crescem+no+brasil+apos+epidemia+de+coronavirus+segundo+pesquisa+do+nucleo+jornalismo)
+
+
+#### Em parceria
+
+* __Yahoo! Brasil__: [Coronavírus: repatriação de brasileiros no exterior custa ao menos R$25 milhões](https://br.noticias.yahoo.com/coronavirus-repatriacao-de-brasileiros-no-exterior-custa-ao-menos-r-25-milhoes-210430844.html)
+
+* __Aos Fatos__: [Base bolsonarista no Twitter impulsiona desinformação, mas perde espaço na rede](https://aosfatos.org/noticias/base-bolsonarista-no-twitter-impulsiona-desinformacao-mas-perde-espaco-na-rede/)
+
+*  __Yahoo Brasil__: [Coronavírus: interesse sobre cloroquina disparou após vídeo de Bolsonaro](https://br.noticias.yahoo.com/coronavirus-interesse-sobre-cloroquina-disparou-apos-video-de-bolsonaro-220342444.html)
+
+*  __Yahoo Brasil__: [No Twitter, coronavírus só ganhou força após contaminação de autoridades](https://br.noticias.yahoo.com/no-twitter-coronavirus-so-ganhou-forca-apos-contaminacao-de-autoridades-022439916.html)
