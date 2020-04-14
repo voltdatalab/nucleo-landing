@@ -15,7 +15,7 @@ dados_abertos: "Dados tabelados pelo Núcleo (Google Sheets)"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1qy0x_D6MmtqGfJlwNK8f4A7PFwQo0oG4swi2GComKD0/edit?usp=sharing'
 dados_abertos2: "Acesse o código para extração do Portal da Transparência do governo federal"
 dados_abertos_link2: "https://gist.github.com/voltdatalab/86141036c589828adc8bc55e498772bb"
-background: 'covid/destaque_itamaraty_coronavirus.jpeg'
+background: 'covid/destaque_itamaraty_covid.jpeg'
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-repatriacao-de-brasileiros-no-exterior-custa-ao-menos-r-25-milhoes-210430844.html' target='_blank'>Yahoo Brasil</a>"
 atualizacao:
 categories:
