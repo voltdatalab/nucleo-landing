@@ -76,6 +76,8 @@ A empresa de georreferenciamento In Loco, de Recife, também publica um [índice
 
 O governo do Estado de São Paulo [estima](https://www.saopaulo.sp.gov.br/noticias-coronavirus/isolamento-social-em-sao-paulo-e-de-55-aponta-sistema-de-monitoramento-inteligente/) que a taxa de isolamento social deve ficar em 70% da população para que as medidas de contenção funcionem. No último domingo, segundo medição da administração paulista, ficou em 59%.
 
+![gráfico geral de barras, quedas diárias](../img/covid/transito_fds4.png)
+
 
 ### METODOLOGIA
 
