@@ -18,19 +18,19 @@ dados_abertos2: "Dados originais do BID/Waze"
 dados_abertos_link2: "https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard"
 background: 'covid/transito_covid3.jpeg'
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-fins-de-semana-colocam-isolamento-social-a-prova-no-brasil-202636598.html' target='_blank'>Yahoo Brasil</a>"
-atualizacao:
+atualizacao: "Atualiza às 20h02 de 15 de abril para esclarecer, na seção de metodologia, que primeiro dia da semana é segunda-feira de acordo com padronização da ISO."
 categories:
   - "urbe"
 tags:
   - "Trânsito, "
   - "Isolamento social, "
-  - "COVID-19, "
+  - "COVID-19, " 
   - "Coronavírus"
 ---
 
 Apesar de o trânsito no Brasil ter caído mais do que pela metade no último mês, os índices de isolamento social no país ainda estão aquém do esperado por autoridades. Fins de semana têm colocado à prova metas de reclusão de governos estaduais para combate ao coronavírus, à medida que a movimentação tende a crescer aos sábados e, especialmente, aos domingos.
 
-Em geral, o congestionamento médio de veículos no país entre 15 de março e 14 de abril apresentou queda de 60% em relação à primeira semana de março, dias 1 a 7, quando a movimentação ainda estava normal, de acordo com análise do **Núcleo** com [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) do com dados disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest.
+Em geral, o congestionamento médio de veículos no país entre 15 de março e 14 de abril apresentou queda de 60% em relação à primeira semana de março, dias 1 a 7, quando a movimentação ainda estava normal, de acordo com análise do **Núcleo** com [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest.
 
 ---
 
@@ -82,6 +82,8 @@ O governo do Estado de São Paulo [estima](https://www.saopaulo.sp.gov.br/notici
 ### METODOLOGIA
 
 O **Núcleo** analisou os dados do BID/Waze e fez suas próprias classificações, identificado os dias da semana por nome e as semanas a partir de quando os dados começaram a ser mensurados.
+
+O primeiro dia da semana foi considerado como segunda-feira, padrão [estabelecido](https://www.timeanddate.com/calendar/days/) pela International Organization for Standardization (ISO 8601).
 
 A semana de 8 a 15 de março foi considerada "semana 0" e não entra na conta das análises do **Núcleo** em nenhum cenário, principalmente porque as medidas de distanciamento social começaram a ser adotadas como políticas públicas a partir da semana seguinte -- embora antes o tráfego de veículos de fato apresentasse um recuo, mesmo que modesto.
 
