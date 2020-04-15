@@ -1,0 +1,78 @@
+I"B<p>Apesar de o trânsito no Brasil ter caído mais do que pela metade no último mês, os índices de isolamento social no país ainda estão aquém do esperado por autoridades. Fins de semana têm colocado à prova metas de reclusão de governos estaduais para combate ao coronavírus, à medida que a movimentação tende a crescer aos sábados e, especialmente, aos domingos.</p>
+
+<p>Em geral, o congestionamento médio de veículos no país entre 15 de março e 14 de abril apresentou queda de 60% em relação à primeira semana de março, dias 1 a 7, quando a movimentação ainda estava normal, de acordo com análise do Núcleo com <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> do com dados disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest.</p>
+
+<p>No entanto, ao considerarmos semana a semana, o índice que chegou a ver redução de 68% entre 23 e 29 de março na comparação com o início do mês passado, paulatinamente caiu nas duas semanas seguintes para 61% na semana encerrada em 12 de abril.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Mostra os efeitos da epidemia e das medidas de contenção na circulação de pessoas e veículos</em></p>
+  </li>
+  <li>
+    <p><em>Indica também desafios do isolamento social</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Um dos principais motores desse recuo na queda do tráfego veicular é a tendência de maior circulação nas ruas durante fins de semana.</p>
+
+<p>Enquanto na primeira semana efetiva de isolamento (16 a 22 de março) a reclusão estava ganhando corpo durante os dias úteis, alcançando o ápice no fim de semana, a partir da segunda semana os sábados e domingos passaram a ter maior circulação geral em relação aos dias anteriores, particularmente o último dia da semana.</p>
+
+<p>Não é à toa que a movimentação média aos domingos recuou, desde 15 de março, apenas 54%, ao passo que às sextas-feiras a queda chega a quase 68%. Sábados têm um índice um pouco maior, mas se consideramos os dias imediatamente anteriores, a tendência é de queda.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>dia da semana</th>
+      <th>redução média na intensidade de trânsito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>segunda</td>
+      <td>-56.33%</td>
+    </tr>
+    <tr>
+      <td>terça</td>
+      <td>-58.41%</td>
+    </tr>
+    <tr>
+      <td>quarta</td>
+      <td>-56.25%</td>
+    </tr>
+    <tr>
+      <td>quinta</td>
+      <td>-59.69%</td>
+    </tr>
+    <tr>
+      <td>sexta</td>
+      <td>-67.69%</td>
+    </tr>
+    <tr>
+      <td>sábado</td>
+      <td>-62.48%</td>
+    </tr>
+    <tr>
+      <td>domingo</td>
+      <td>-54.42%</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O governo federal criou uma <a href="http://www.portaltransparencia.gov.br/comunicados/603503-portal-da-transparencia-divulga-gastos-federais-especificos-para-combate-ao-coronavirus">rubrica orçamentária</a> específica para gastos federais no combate ao coronavírus.</p>
+
+<p>A partir desses dados, o <strong>Núcleo</strong> extraiu as informações do site do Portal da Transparência com este código e filtrou os dados de gastos com transporte do Itamaraty.</p>
+
+<p>A rubrica da ação é “21C0 - ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE IMPORTANCIA INTERNACIONAL DECORRENTE DO CORONAVIRUS”, e o elemento da despesa é “33 - Passagens e Despesas com Locomoção”.</p>
+
+<p>Já foram empenhados mais de R$3 bilhões sob essa rubrica, sem considerar políticas de auxílio econômico.</p>
+:ET
