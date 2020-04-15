@@ -30,7 +30,7 @@ tags:
 
 Apesar de o trânsito no Brasil ter caído mais do que pela metade no último mês, os índices de isolamento social no país ainda estão aquém do esperado por autoridades. Fins de semana têm colocado à prova metas de reclusão de governos estaduais para combate ao coronavírus, à medida que a movimentação tende a crescer aos sábados e, especialmente, aos domingos.
 
-Em geral, o congestionamento médio de veículos no país entre 15 de março e 14 de abril apresentou queda de 60% em relação à primeira semana de março, dias 1 a 7, quando a movimentação ainda estava normal, de acordo com análise do Núcleo com [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) do com dados disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest.
+Em geral, o congestionamento médio de veículos no país entre 15 de março e 14 de abril apresentou queda de 60% em relação à primeira semana de março, dias 1 a 7, quando a movimentação ainda estava normal, de acordo com análise do **Núcleo** com [dados](https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard) do com dados disponibilizados pelo Banco Interamericano de Desenvolvimento/IDB Invest.
 
 ---
 
