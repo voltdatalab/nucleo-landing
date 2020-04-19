@@ -63,7 +63,9 @@ Mas se acrescentarmos os picos à série histórica, vemos por exemplo que a ent
 
 Com esse *spread* entre tweets negativos e positivos colocados em comparação (entrevista e anúncio) é possível notar o tom do debate na rede social e presumir que houve uma recepção majoritariamente negativa à demissão do ministro.
 
-![amostragem de carga de tweets](../img/corona-twitter/mandetta_porhora_demit.png)
+Note que a escala é em tweets por hora no gráfico abaixo, diferente de cima. Isso porque é mais fácil ver tweets por hora ao longo de vários dias, ao passo que num período de algumas horas o uso tweets por minuto permite ver melhor as nuances.
+
+![carga de tweets por hora](../img/corona-twitter/mandetta_porhora_demit.png)
 
 As [divergências](https://oglobo.globo.com/brasil/bolsonaro-diz-que-divergencia-com-mandetta-cada-vez-mais-se-tornava-uma-realidade-1-24376367) entre Bolsonaro e Mandetta estavam evidentes há dias, principalmente pela predominância que o ex-ministro vinha ganhando no combate ao coronavírus, mas também pela discordância do presidente em relação à posição de Mandetta nos esforços para conter o avanço do vírus.
 
