@@ -1,0 +1,96 @@
+I"u<p>O anúncio da demissão do ministro Luiz Henrique Mandetta do Ministério da Saúde gerou um pico de reações de carga negativa no Twitter, indicando potencial contrariedade com o afastamento <a href="https://brasil.elpais.com/sociedade/2020-04-16/mandetta-e-demitido-por-bolsonaro.html">forçado</a> do ministro pelo presidente Jair Bolsonaro, em meio à pandemia de coronavírus.</p>
+
+<p>Análise do <strong>Núcleo</strong> com mais de 300 mil tweets mostra que logo após <a href="https://twitter.com/lhmandetta/status/1250865863755997189">publicação de Mandetta</a> anunciando sua saída do governo há um pico de tweets negativos muito superior a positivos, continuando assim por algumas horas.</p>
+
+<p><img src="../img/corona-twitter/mandetta_tweets_negativos_minutos.png" alt="tweets negativos por minuto" /></p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>O Twitter sempre foi importante para a comunicação de Bolsonaro, inclusive em busca de apoio. Perder a conversa lá significa enfraquecimento dele em um de seus principais canais</em></p>
+  </li>
+  <li>
+    <p><em>Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um termômetro de discussão política e de assuntos do momento no país, pautando autoridades, imprensa e o debate em geral</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<h5 id="é-importante-salientar-que-a-carga-positiva-ou-negativa-de-um-tweet-não-dita-necessariamente-a-disposição-de-um-tuiteiro-em-relação-à-demissão-de-mandetta-contra-ou-a-favor-mas-sim-traz-pesos-e-sentimentos-ao-centro-do-debate">É importante salientar que a carga (<strong>positiva</strong> ou <strong>negativa</strong>) de um tweet não dita necessariamente a disposição de um tuiteiro em relação à demissão de Mandetta (contra ou a favor), mas sim traz pesos e sentimentos ao centro do debate.</h5>
+
+<p>Sentimentos <strong>negativos</strong> indicam que o debate tende a ser carregado de adjetivos e críticas pesadas, ao passo que os <strong>positivos</strong> refletem frequentemente um tom mais ameno e elogioso (seja a Bolsonaro ou a Mandetta, por exemplo), mas também pode representar ironias (alguém usando termos afáveis para ironizar uma posição desfavorável, por exemplo).</p>
+
+<p>Publicações com carga negativa são usuais no Twitter, à medida que a rede social é reconhecidamente um lugar de crítica política e campo de batalha ideológico entre esquerda e direita, mas o que chama a atenção nesse caso é a diferença em que essa distribuição acontece no momento do tweet de Mandetta e nos momentos seguintes.</p>
+
+<p>Como é possível ver no gráfico demonstrativo abaixo, em uma distribuição de tweets sem picos é possível observar que publicações com carga negativa são em geral predominantes sobre tweets positivos, mas com uma margem não muito grande.</p>
+
+<p><img src="../img/corona-twitter/mandetta_amostragem_usual.png" alt="amostragem de carga de tweets" /></p>
+
+<p class="figcaption">Gráfico demonstrativo</p>
+
+<p>Mas se acrescentarmos os picos à série histórica, vemos por exemplo que a entrevista de Mandetta ao programa Fantástico, da Rede Globo, no dia 12 de abril gerou um pico de tweets com carga positiva, ao passo que o anúncio de sua demissão foi predominantemente negativo.</p>
+
+<p>Com esse <em>spread</em> entre tweets negativos e positivos colocados em comparação (entrevista e anúncio) é possível notar o tom do debate na rede social e presumir que houve uma recepção majoritariamente negativa à demissão do ministro.</p>
+
+<p><img src="../img/corona-twitter/mandetta_porhora_demit.png" alt="amostragem de carga de tweets" /></p>
+
+<p>As <a href="https://oglobo.globo.com/brasil/bolsonaro-diz-que-divergencia-com-mandetta-cada-vez-mais-se-tornava-uma-realidade-1-24376367">divergências</a> entre Bolsonaro e Mandetta estavam evidentes há dias, principalmente pela predominância que o ex-ministro vinha ganhando no combate ao coronavírus, mas também pela discordância do presidente em relação à posição de Mandetta nos esforços para conter o avanço do vírus.</p>
+
+<p>Bolsonaro defende medidas mais amenas de movimentação de pessoas, a fim de evitar um colapso na economia, ao passo que Mandetta, com respaldo da comunidade científica e da Organização Mundial da Saúde (OMS) defende isolamento social mais intenso, com menor circulação de pessoas na ruas. Segundo pesquisa do Datafolha, <a href="https://www1.folha.uol.com.br/poder/2020/04/demissao-de-mandetta-por-bolsonaro-e-reprovada-por-64-diz-datafolha.shtml">cerca de dois terços</a> dos brasileiros reprovaram a demissão de Mandetta.</p>
+
+<h3 id="tipos-de-tweets">TIPOS DE TWEETS</h3>
+
+<p><em>Os autores dos tweets foram mantidos anônimos</em></p>
+
+<ul>
+  <li>Positivo em geral</li>
+</ul>
+
+<p><img src="../img/corona-twitter/mandetta_positivo_geral.png" alt="" /></p>
+
+<ul>
+  <li>Negativo em geral</li>
+</ul>
+
+<p><img src="../img/corona-twitter/mandetta_negativo_geral.png" alt="" /></p>
+
+<ul>
+  <li>Positividade irônica</li>
+</ul>
+
+<p><img src="../img/corona-twitter/mandetta_positivo_ironico.png" alt="" /></p>
+
+<hr />
+
+<h6 id="na-imprensa">Na imprensa</h6>
+
+<ul>
+  <li>
+    <p><a href="https://www1.folha.uol.com.br/poder/2020/04/mandetta-foi-de-grande-exemplo-a-traidor-para-a-direita-no-twitter.shtml">Mandetta foi de ‘grande exemplo’ a ‘traidor’ para a direita no Twitter</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (16/04/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www.bbc.com/portuguese/internacional-52316728">Mandetta é demitido do Ministério da Saúde após um mês de conflito com Bolsonaro: relembre os principais choques</a> ⋅ <em>BBC Brasil</em> ⋅ (16/04/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www1.folha.uol.com.br/poder/2020/03/bolsonaro-se-isola-com-direita-apos-discurso-e-centro-e-esquerda-se-unem-de-novo.shtml">Bolsonaro se isola com direita em rede social após pronunciamento, e centro e esquerda se unem de novo</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (26/03/2020)</p>
+  </li>
+  <li>
+    <p><a href="https://www1.folha.uol.com.br/poder/2020/04/em-embate-com-bolsonaro-mandetta-dispara-em-popularidade-digital-e-supera-lula-e-huck.shtml">Em embate com Bolsonaro, Mandetta dispara em popularidade digital e supera Lula e Huck</a> ⋅ <em>Folha de S.Paulo</em> ⋅ (09/04/2020)</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O Núcleo capturou cerca de 700 mil tweets com os termos “Mandetta” ou “Bolsonaro” entre dias 11 e 17 de abril, utilizando a API gratuita do Twitter. O código para extração pode ser <a href="https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5">encontrado aqui</a>.</p>
+
+<p>O vocabulário dos tuítes foi comparado com dois léxicos da biblioteca <a href="https://cran.r-project.org/web/packages/lexiconPT/lexiconPT.pdf">lexiconPT</a>, que relaciona diferentes palavras do português com valores de sentimentos positivos ou negativos atribuídos a elas. O algoritmo foi capaz de detectar a carga de sentimento de 310 mil tweets.</p>
+
+<p>Com a finalidade de manter a privacidade de usuários com perfis pouco notórios, o Núcleo não vai divulgar os dados brutos – cada pessoa pode rodar o código de extração para obter esses resultados.</p>
+
+<p>A conta considera apenas tuítes únicos, ou seja, exclui retuítes e respostas a tuítes. Isso porque queremos medir a espontaneidade de publicações sobre o tema, não a reação (comentários e compartilhamentos).</p>
+:ET

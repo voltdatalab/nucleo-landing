@@ -85,9 +85,14 @@ h2.subheading {
   font-size: 1.3em
 }
 
-.texto_post img{
-  width: 95%;
+.texto_post > p > img{
+  width: 98%;
   margin: 15px 0
+}
+
+.bigimg{
+  max-width: 900px;
+  width: 100%
 }
 
 .texto_post h3{
@@ -163,6 +168,33 @@ figcaption{
   margin-bottom: 30px;
   width: 95%;
   font-style: italic;
+}
+
+.figcaption{
+  font-weight: 300 !important;
+  font-size: 0.9em;
+  margin-top: -28px;
+  margin-bottom: 30px;
+  width: 95%;
+  font-style: italic;
+}
+
+.texto_post > figure {
+  width: 120%;
+  margin: 0 auto;
+}
+
+.texto_post > figure > figcaption {
+  text-align: center;
+  font-size: .9em;
+  font-style: italic;
+  color: #5e5e5e;
+  }
+
+.texto_post > figure > img {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 blockquote.twitter-tweet {

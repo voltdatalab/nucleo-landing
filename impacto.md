@@ -86,6 +86,8 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 
 * __Folha de S.Paulo__ (artigo de opinião): [Bolsonaro é burro mesmo](https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/04/bolsonaro-e-burro-mesmo.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
 
+* __IJNet__: [Como o jornalismo de dados está cobrindo a pandemia na América Latina](https://ijnet.org/pt-br/story/como-o-jornalismo-de-dados-est%C3%A1-cobrindo-pandemia-na-am%C3%A9rica-latina)
+
 * __Aos Fatos__: [Como as redes bolsonaristas usam desinformação para pressionar por queda de Mandetta](https://aosfatos.org/noticias/como-as-redes-bolsonaristas-usam-desinformacao-para-pressionar-por-queda-de-Mandetta/)
 
 * __Folha de S.Paulo__: [Coronavírus reduz trânsito e turbina busca por serviços de delivery](https://www1.folha.uol.com.br/cotidiano/2020/03/coronavirus-reduz-transito-e-turbina-busca-por-servicos-de-delivery.shtml)

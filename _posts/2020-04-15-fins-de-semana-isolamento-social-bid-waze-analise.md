@@ -24,7 +24,7 @@ categories:
 tags:
   - "Trânsito, "
   - "Isolamento social, "
-  - "COVID-19, " 
+  - "COVID-19, "
   - "Coronavírus"
 ---
 
@@ -44,9 +44,16 @@ Em geral, o congestionamento médio de veículos no país entre 15 de março e 1
 
 ---
 
+![gráfico geral de barras, quedas semanais](../img/covid/transito_fds1.png)
+
 No entanto, ao considerarmos semana a semana, o índice que chegou a ver redução de 68% entre 23 e 29 de março na comparação com o início do mês passado, paulatinamente caiu nas duas semanas seguintes para 61% na semana encerrada em 12 de abril.
 
-![gráfico geral de barras, quedas semanais](../img/covid/transito_fds1.png)
+<figure>
+<img src="../img/covid/transito_fds1.png" alt="gráfico geral de barras, quedas semanais">
+	<figcaption>Fig1. - This is an example figcaption</figcaption>
+
+
+</figure>
 
 ##### Um dos principais motores desse recuo na queda do tráfego veicular é a tendência de maior circulação nas ruas durante fins de semana.
 

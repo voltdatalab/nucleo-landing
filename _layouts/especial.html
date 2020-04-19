@@ -5,8 +5,25 @@
 		{% include nav.html %}
 <!-- Page Header -->
 
+<div class="container">
+  <div class="row">
+    <div class="mx-auto">
+      <div class="post-heading" style="text-align:center; max-width:900px; margin: 6% auto">
+        <h1>{{ page.title }}</h1>
+					{% if page.subtitle %}
+	        <h2 class="subheading" style="font-size:1.1em;text-align:center;max-width: 600px; margin: 0 auto">{{ page.subtitle }}</h2>
+	        {% endif %}
+					<br /><br />
+        <span class="arquivado">
+          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <u><a href="{{ base.url }}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
+        </span>
+						</div>
+					</div>
+				</div>
+			</div>
+
 {% if page.background %}
-<header class="masthead" style="max-height:600px; background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+<header class="masthead" style="max-height:600px;max-width:1024px;margin: 0 auto;background-image: url('../img/{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
 	{% else %}
 	<header class="masthead">
 		{% endif %}
@@ -14,95 +31,61 @@
 
 	</header>
 	{% if page.credito_img %}<h6 class="feature_credito"> {{ page.credito_img }} </h6>{% endif %}
-<div class="container">
-  <div class="row">
-    <div class="col-lg-10 mx-auto">
-      <div class="post-heading">
-        <h1>{{ page.title }}</h1>
-					{% if page.subtitle %}
-	        <h2 class="subheading" style="max-width: 600px">{{ page.subtitle }}</h2>
-	        {% endif %}
 
-        <span class="arquivado">
-          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <u><a href="{{ base.url }}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u> &middot;
-					<div class="popover__wrapper">
+	<div class="container">
+	  <div class="row">
+	    <div class="creditos" style="text-align:center; max-width:900px; margin: 2% auto">
+				<span class="arquivado creditos_alt">
+					{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
+					{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
+					{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
+					{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
+					{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
+					{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
+					{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
+				</span><br /><br />
+				<ul class="share-buttons">
+					<li><i class="fas fa-share-alt"></i></li>
+				<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+				<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+				<li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+				<li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+				<li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+				<li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+			</ul>
+						</div>
+					</div>
+				</div>
 
-												Essa é uma <span class="popover__title"><u>{{ page.tipo }}</u></span>
-
-											<div class="popover__content">
-												<p class="popover__message">
-													- <strong>Investigação</strong>: mais aprofundada, investigativa<br /><br />
-													- <strong>Análise</strong>: baseada principalmente em análise de dados <br /><br />
-													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
-													- <strong>Descrição</strong>: exploração sem necessidade de conclusão
-												</p>
-											</div>
-										</div> <br />
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="container wrap sidebar-right box_conteudo">
   <div class="container">
     <div class="row">
-			<div class="creditos">
-				<div class="sidebar col-sm-4">
-					<span class="arquivado creditos_alt">
-						{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
-						{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
-						{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
-						{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
-						{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
-						{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
-						{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
-					</span>
-					<br />
-					<br />
-					{% if page.dados_abertos %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
-					{% if page.dados_abertos2 %} <h5 class="links_dados"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
-					{% if page.dados_abertos3 %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
-
-					<br />
-					<p>
-						<i class="fas fa-share-alt"></i> </p>
-					<ul class="share-buttons">
-					<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
-					<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
-				  <li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
-				  <li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
-				  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-				  <li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
-				</ul>
-
-				<h4><small>Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, mande uma mensagem no Whatsapp do Núcleo. Se tiver sugestões e correções, também queremos saber. <a href="https://wa.me/5511934441844" target="_blank"><i class="fab fa-whatsapp fa-lg"></i></a></small></h4>
-				<br />
-
-				<p>
-					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
-				</p>
-				<p>
-					<span class="arquivado creditos_alt">
-						<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
-					</span>
-				</p>
-
-			</div>
-		</div>
-			<div class="main col-sm-7">
-        <div class="texto_post">
+			<div class="main">
+        <div class="texto_post" style="max-width: 600px; margin: 0 auto">
 
         {{ content }}
-
+				
         </div>
         <hr>
 				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
+				{% if page.dados_abertos %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
+				{% if page.dados_abertos2 %} <h5 class="links_dados"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
+				{% if page.dados_abertos3 %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
 	      	</div>
+
+					<h4><small>Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, mande uma mensagem no Whatsapp do Núcleo. Se tiver sugestões e correções, também queremos saber. <a href="https://wa.me/5511934441844" target="_blank"><i class="fab fa-whatsapp fa-lg"></i></a></small></h4>
+					<br />
+
+					<p>
+						{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
+					</p>
+					<p>
+						<span class="arquivado creditos_alt">
+							<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
+						</span>
+					</p>
 
   	</div>
 	</div>
-</div>
 
   {% include footer.html %}
   {% include js.html %}

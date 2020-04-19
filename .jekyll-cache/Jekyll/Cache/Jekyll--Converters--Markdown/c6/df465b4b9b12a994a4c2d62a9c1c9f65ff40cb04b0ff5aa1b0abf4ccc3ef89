@@ -1,0 +1,49 @@
+I"�<p>O anúncio da demissão do ministro Luiz Henrique Mandetta do Ministério da Saúde gerou um pico de reações de carga negativa no Twitter, indicando potencial contrariedade com o afastamento forçado do ministro pelo presidente Jair Bolsonaro, em meio à pandemia de coronavírus.</p>
+
+<p>Análise do <strong>Núcleo</strong> com mais de 300 mil tweets mostra que logo após <a href="https://twitter.com/lhmandetta/status/1250865863755997189">publicação de Mandetta</a> anunciando sua saída do governo há um pico de tweets negativos muito superior a positivos, continuando assim por algumas horas.</p>
+
+<p><img src="../img/corona-twitter/mandetta_tweets_negativos_minutos.png" alt="tweets negativos por minuto" /></p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>O Twitter sempre foi importante para a comunicação de Bolsonaro, inclusive em busca de apoio. Perder a conversa lá significa enfraquecimento dele em um de seus principais canais</em></p>
+  </li>
+  <li>
+    <p><em>Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um termômetro de discussão política e de assuntos do momento no país, pautando autoridades, imprensa e o debate em geral</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<h5 id="é-importante-salientar-que-a-carga-positiva-ou-negativa-de-um-tweet-não-dita-necessariamente-a-disposição-de-um-tuiteiro-em-relação-à-demissão-de-mandetta-contra-ou-a-favor-mas-sim-traz-pesos-e-sentimentos-ao-centro-do-debate">É importante salientar que a carga (<strong>positiva</strong> ou <strong>negativa</strong>) de um tweet não dita necessariamente a disposição de um tuiteiro em relação à demissão de Mandetta (contra ou a favor), mas sim traz pesos e sentimentos ao centro do debate.</h5>
+
+<p>Sentimentos <strong>negativos</strong> indicam que o debate tende a ser carregado de adjetivos e críticas pesadas, ao passo que os <strong>positivos</strong> refletem frequentemente mais elogios (seja a Bolsonaro ou a Mandetta, por exemplo) e até ironias (alguém usando termos postivos para ironizar a atuação do ministro, por exemplo).</p>
+
+<p>É possível que um tuíte que critica a imprensa e defende o presidente seja negativo, e um tuíte que critica Bolsonaro seja positivo (exemplo, se achar bom que ele seja investigado).</p>
+
+<p>Uma carga negativa de publicações é usual no Twitter, à medida que a rede social é reconhecidamente um lugar de crítica política e campo de batalha ideológico entre esquerda e direita, mas o que chama a atenção é a diferença em que essa distribuição acontece no momento do tweet de Mandetta e nas horas seguintes.</p>
+
+<p>Como é possível ver no gráfico demonstrativo abaixo, em uma distribuição de tweets sem picos é possível observar que publicações com carga negativa são em geral predominantes sobre tweets positivos, mas com uma margem não muito grande.</p>
+
+<p><img src="../img/corona-twitter/mandetta_amostragem_usual.png" alt="amostramge de carga de tweets" /></p>
+
+<p class="figcaption">Gráfico demonstrativo</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O <strong>Núcleo</strong> analisou os dados do BID/Waze e fez suas próprias classificações, identificado os dias da semana por nome e as semanas a partir de quando os dados começaram a ser mensurados.</p>
+
+<p>O primeiro dia da semana foi considerado como segunda-feira, padrão <a href="https://www.timeanddate.com/calendar/days/">estabelecido</a> pela International Organization for Standardization (ISO 8601).</p>
+
+<p>A semana de 8 a 15 de março foi considerada “semana 0” e não entra na conta das análises do <strong>Núcleo</strong> em nenhum cenário, principalmente porque as medidas de distanciamento social começaram a ser adotadas como políticas públicas a partir da semana seguinte – embora antes o tráfego de veículos de fato apresentasse um recuo, mesmo que modesto.</p>
+
+<p>A partir disso fizemos análises de médias comparáveis a partir semana por semana e também dia por dia, a fim de saber as diferenças apresentadas nos fins de semana em relação aos dias de semana.</p>
+
+<p>Foi tentada uma média móvel de semana a semana, a fim de fazer uma outra medida de tendência, mas a ideia foi descartada porque o número de semanas consideradas ainda é pequeno.</p>
+
+<p>O código da análise pode ser encontrado <a href="https://gist.github.com/voltdatalab/d76f1c41fea201c926bf141afc140dc4">neste link</a>, na linguagem R.</p>
+:ET
