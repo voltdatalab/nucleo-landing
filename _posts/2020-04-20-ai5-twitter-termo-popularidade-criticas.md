@@ -17,7 +17,7 @@ dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508d
 dados_abertos2: "Agregações tabuladas pelo Núcleo (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/133o1ViurOcQUIiE21l2lMRCCEvvp6W_tCxya6hiioFY/edit?usp=sharing"
 background: 'corona-twitter/tweets_ai5_cover.jpeg'
-nota_abertura:
+nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/posts-vinculados-a-esquerda-fazem-disparar-termo-ai-5-no-twitter-220914533.html' target='_blank'>Yahoo Brasil</a>"
 atualizacao:
 categories:
   - "redes"
