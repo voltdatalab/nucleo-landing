@@ -79,6 +79,16 @@ Os dados consideram apenas tweets únicos, ou seja, sem considerar retweets e se
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Impressionante a canalhada querendo desqualificar manifestações a favor de Bolsonaro e contra arroubos de Rodrigo Maia como se fossem atos pelo ai-5, ou contra o Congresso.<br>Democracia pulsando forte, povo mandou seu recado hoje.</p>&mdash; Flavio Bolsonaro (@FlavioBolsonaro) <a href="https://twitter.com/FlavioBolsonaro/status/1252030404179243011?ref_src=twsrc%5Etfw">April 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
+
+###### Na imprensa
+
+* [Esquerda inflama após ato pró-intervenção com Bolsonaro, e direita fala de golpe contra presidente](https://www1.folha.uol.com.br/poder/2020/04/esquerda-inflama-apos-ato-pro-intervencao-com-bolsonaro-e-direita-fala-de-golpe-contra-presidente.shtml) &sdot; *Folha de S.Paulo* &sdot; (20/04/2020)
+
+* [O bolsonarismo se reorganiza nas redes](https://veja.abril.com.br/blog/thomas-traumann/o-bolsonarismo-se-reorganiza-nas-redes/amp/?__twitter_impression=true) &sdot; *Veja* &sdot; (20/04/2020)
+-
+---
+
 
 ### METODOLOGIA
 
