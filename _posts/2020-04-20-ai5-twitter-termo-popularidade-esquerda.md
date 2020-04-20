@@ -2,8 +2,8 @@
 published: TRUE
 layout: conteudo
 tipo: análise
-title: 'Críticas contra Bolsonaro e manifestantes fazem disparar termo "AI-5" no Twitter'
-titulo_redes: 'AI-5 dispara no Twitter com críticas à manifestação pró-Bolsonaro'
+title: "Críticas contra Bolsonaro e manifestantes fazem disparar termo 'AI-5' no Twitter"
+titulo_redes: "'AI-5' dispara no Twitter com críticas à manifestação pró-Bolsonaro"
 subtitle: 'Análise do Núcleo com 136 mil tweets constatou que uso do termo foi impulsionado principalmente por críticas feitas pela esquerda à manifestação no Dia do Exército'
 subtitle_redes: 'Análise do Núcleo com 136 mil tweets constatou que termo foi impulsionado principalmente por críticas feitas da esquerda'
 excerpt: "Análise do Núcleo com mais de 300 mil tweets mostra que logo após publicação de Mandetta anunciando sua saída do governo há um pico de tweets negativos muito superior a positivos, continuando assim por algumas horas."
