@@ -5,7 +5,7 @@ desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!
 tagline: IMPACTO
 subtitle: ''
 link: impacto
-atualizacao: 14/04/2020
+atualizacao: 24/04/2020
 ---
 
 <style>
@@ -111,9 +111,17 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 
 #### Em parceria
 
+* __Yahoo! Brasil__: [Coronavírus: contratos sem licitação do Ministério da Saúde superam R$2,7 bilhões](https://br.noticias.yahoo.com/coronavirus-contratos-sem-licitacao-do-ministerio-da-saude-superam-r-27-bilhoes-210946831.html)
+
+* __Yahoo! Brasil__: [Posts vinculados à esquerda fazem disparar termo "AI-5" no Twitter](https://br.noticias.yahoo.com/posts-vinculados-a-esquerda-fazem-disparar-termo-ai-5-no-twitter-220914533.html)
+
+* __Yahoo! Brasil__: [Coronavírus: fins de semana colocam isolamento social à prova no Brasil](https://br.noticias.yahoo.com/coronavirus-fins-de-semana-colocam-isolamento-social-a-prova-no-brasil-202636598.html)
+
 * __Yahoo! Brasil__: [Coronavírus: repatriação de brasileiros no exterior custa ao menos R$25 milhões](https://br.noticias.yahoo.com/coronavirus-repatriacao-de-brasileiros-no-exterior-custa-ao-menos-r-25-milhoes-210430844.html)
 
 * __Aos Fatos__: [Base bolsonarista no Twitter impulsiona desinformação, mas perde espaço na rede](https://aosfatos.org/noticias/base-bolsonarista-no-twitter-impulsiona-desinformacao-mas-perde-espaco-na-rede/)
+
+* __Yahoo Brasil__: [Brasil pode ter falta de médicos de UTIs para combate ao coronavírus](https://br.noticias.yahoo.com/brasil-pode-ter-falta-de-medicos-de-ut-is-para-combate-ao-coronavirus-213144441.html)
 
 *  __Yahoo Brasil__: [Coronavírus: interesse sobre cloroquina disparou após vídeo de Bolsonaro](https://br.noticias.yahoo.com/coronavirus-interesse-sobre-cloroquina-disparou-apos-video-de-bolsonaro-220342444.html)
 
