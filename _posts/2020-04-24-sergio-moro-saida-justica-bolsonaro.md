@@ -30,8 +30,7 @@ tags:
 
 O anúncio, na manhã de 24 de abril, sobre a [saída](https://g1.globo.com/politica/noticia/2020/04/24/moro-anuncia-demissao-do-ministerio-da-justica-e-deixa-o-governo-bolsonaro.ghtml) de Sergio Moro do Ministério da Justiça gerou a maior onda de engajamento político no Twitter desde o início das políticas de isolamento social no Brasil, em meados de março, mesmo considerado pronunciamentos polêmicos do presidente Jair Bolsonaro, manifestações de rua e até a demissão do ministro da Saúde.  
 
-No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça, ao passo que o pronunciamento de Bolsonaro em 24 de março, maior engajamento até então, havia 113 mil tweets únicos.
-
+No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça, ao passo que o pronunciamento de Bolsonaro em 24 de março, maior engajamento até então, gerou 113 mil tweets únicos em uma hora.
 
 ![moro pico tweets por hora](../img/corona-twitter/moro_pico_tweets_porhora.png)
 
