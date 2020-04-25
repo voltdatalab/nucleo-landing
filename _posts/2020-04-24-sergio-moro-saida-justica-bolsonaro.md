@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: análise
 title: "No Twitter, barulho com saída de Moro supera demissão de Mandetta e discursos de Bolsonaro"
-titulo_redes: "'AI-5' dispara no Twitter com críticas à manifestação pró-Bolsonaro"
+titulo_redes: "No Twitter, barulho com saída de Moro supera demissão de Mandetta e discursos de Bolsonaro"
 subtitle: 'Análise do Núcleo constatou que foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça.'
 subtitle_redes: 'Análise mostra que foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça.'
 excerpt: "No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça, ao passo que o pronunciamento de Bolsonaro em 24 de março, maior engajamento até então, havia geral 113 mil tweets únicos."
@@ -30,7 +30,7 @@ tags:
 
 O anúncio, na manhã de 24 de abril, sobre a [saída](https://g1.globo.com/politica/noticia/2020/04/24/moro-anuncia-demissao-do-ministerio-da-justica-e-deixa-o-governo-bolsonaro.ghtml) de Sergio Moro do Ministério da Justiça gerou a maior onda de engajamento político no Twitter desde o início das políticas de isolamento social no Brasil, em meados de março, mesmo considerado pronunciamentos polêmicos do presidente Jair Bolsonaro, manifestações de rua e até a demissão do ministro da Saúde.  
 
-No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça, ao passo que o pronunciamento de Bolsonaro em 24 de março, maior engajamento até então, havia geral 113 mil tweets únicos.
+No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma única hora sobre o ex-ministro da Justiça, ao passo que o pronunciamento de Bolsonaro em 24 de março, maior engajamento até então, havia 113 mil tweets únicos.
 
 
 ![moro pico tweets por hora](../img/corona-twitter/moro_pico_tweets_porhora.png)
