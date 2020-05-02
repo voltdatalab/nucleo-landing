@@ -58,6 +58,7 @@ h6 {
 p{
   font-weight: 400;
   font-size: 1.2em;
+  margin-bottom: 20px
 }
 
 p a{
@@ -499,4 +500,16 @@ hr {
   padding: 3px 5px;
   border-radius: 7px;
   line-height: 2.6em
+}
+
+/* NOTAS DE RODAPÉ */
+
+.footnotes ol{
+  padding-inline-start: 15px;
+}
+
+.footnotes li{
+  list-style-type: lower-roman;
+  font-size: 0.7em;
+  padding-bottom: 12px;
 }

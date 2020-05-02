@@ -1,0 +1,53 @@
+I"�<h3 id="sobre-o-projeto">SOBRE O PROJETO</h3>
+
+<p>O <strong>Monitor Nuclear</strong> é uma aplicação do <strong>Núcleo Jornalismo</strong> que identifica tendências de engajamento político no Twitter nos tweets publicados por possíveis pré-candidatos à eleição presidencial de 2022.</p>
+
+<p>Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.</p>
+
+<p>Com apenas 14,35 milhões de usuários <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, o Twitter está longe de representar o eleitorado brasileiro <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.</p>
+
+<p>A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate do momento.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<h4 id="dados">Dados</h4>
+
+<p>Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.</p>
+
+<p>Os tweets analisados são obtidos diretamente do Twitter, utilizando a API do Workbench. Os dados são abertos e podem ser consultados e baixados <a href="https://app.workbenchdata.com/workflows/70006/">neste link</a>.</p>
+
+<h4 id="análise">Análise</h4>
+
+<p>A análise é baseada em três variáveis: data de publicação, total de curtidas por tweet e total de retweets por tweet.</p>
+
+<p>Os dados não consideram comentários, por dois motivos:</p>
+
+<ol>
+  <li>
+    <p>curtidas e retweets estão limitados a apenas um por perfil, funcionando quase como uma métrica de endosso ao conteúdo. Isso torna mais difícil para <em>bots</em> e perfis falsos inflarem artificialmente tweets originais, ao contrário do que acontece com uma hashtag, por exemplo, à medida que um perfil pode curtir múltiplos tweets com um termo.</p>
+  </li>
+  <li>
+    <p>comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação de apoio, podendo ser críticos, ofensivos, spam, piadas, memes ou <em>tags</em> para pessoas acompanharem o assunto.</p>
+  </li>
+</ol>
+
+<p>Vale notar que essa metodologia do <strong>Monitor</strong> é válida para se visualizar engajamento sobre em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
+
+<p><br /></p>
+
+<h4 id="referências">Referências</h4>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/">Statista</a>, ref. abril de 2020 <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p><a href="http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais">TSE</a> - Estatísticas de Eleitorado <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: <em>“O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases.”</em> - <a href="https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/">Episódio #95, Foro de Teresina aos 28m28s</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

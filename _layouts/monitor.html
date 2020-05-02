@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+</div>
+
+<style>
+
+h2{
+	font-size: 1.5em
+}
+
+h3{
+	margin-top: 45px;
+}
+
+h4{
+	text-transform: uppercase;
+	margin-top: 45px
+}
+
+small{
+	font-family: 'Roboto Mono';
+	font-size: 0.6em;
+}
+
+iframe{
+	margin: 0 auto
+}
+
+@media (max-width: 640px){
+      iframe{
+        height: 900px;
+      }
+}
+
+@media (max-width: 420px){
+      iframe{
+      height: 900px
+      }
+}
+
+</style>
+
+		<!-- índice simples de matérias  -->
+		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
+
+			<br /><br />
+		  <h5 class="chapeu">
+				<i class="fas fa-layer-group fa-lg"></i> {{ page.tagline }}
+			</h5>
+								<div class="post-heading">
+									<br />
+									<h1 style="text-transform:uppercase">{{ page.title }}</h1>
+
+									<h2 style="color:#999999;font-family: 'Roboto Mono'">{{ page.desc }}</h2>
+
+									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+
+									<code>
+										{% assign counter = 0 %}
+										{% for post in site.posts %}
+										  {% assign thisyear = post.date | date: "%Y" %}
+										  {% assign prevyear = post.previous.date | date: "%Y" %}
+										  {% assign counter = counter | plus: 1 %}
+										  {% if thisyear != prevyear %}
+										    Já publicamos <u>{{ counter }} matérias</u> em {{ thisyear }} <a href="{{"/posts" | relative_url }}"><i class="far fa-list-alt"></i> &rarr;</a>
+										    {% assign counter = 0 %}
+										  {% endif %}
+										{% endfor %}
+
+									</code>
+
+								</div>
+							</div>
+
+						<div class="container" style="max-width: 1200px; margin: 0 auto">
+							<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" frameborder="no" width="100%" height="500px" allowfullscreen></iframe>
+						</div>
+
+							<div class="container" style="max-width: 540px">
+
+								<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+
+									{{ content }}
+
+									<hr />
+										<p>
+										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
+										{% if page.atualizacao %}	Última atualização desta página em {{ page.atualizacao | date: '%d/%m/%Y' }} {% endif %}
+										</span>
+										</p>
+									</div>
+
+
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>
