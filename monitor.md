@@ -3,7 +3,7 @@ layout: monitor
 title: 'Monitor Nuclear'
 desc: 'Tendências de engajamento político no Twitter'
 tagline: APLICAÇÃO
-background: 'monitor_destaque.jpeg' 
+background: 'monitor_destaque1.jpeg' 
 subtitle: ''
 ---
 <br>
