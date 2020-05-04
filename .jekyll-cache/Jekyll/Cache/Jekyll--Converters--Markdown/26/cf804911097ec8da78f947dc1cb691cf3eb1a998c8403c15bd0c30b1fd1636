@@ -1,12 +1,12 @@
-I"}"<p><br /></p>
+I"P$<p><br /></p>
 
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;quote=Monitor%20do%20N%C3%BAcleo%20Jornalismo" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;text=Monitor%20do%20N%C3%BAcleo%20Jornalismo:%20http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;text=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos:%20https%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
 <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;title=Monitor%20do%20N%C3%BAcleo%20Jornalismo&amp;summary=Veja%20tend%C3%AAncias%20sobre%20engajamento%20pol%C3%ADtico%20no%20Twitter&amp;source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&amp;summary=&amp;source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 </ul>
 
 <p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code> ou <code class="highlighter-rouge">Monitor Nuclear</code>, se possível com link para <code class="highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
@@ -26,6 +26,10 @@ COMPARTILHE:
 <p>A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.</p>
 
 <p>Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ainda não está disponível, mas esperamos abri-lo no futuro.</p>
+
+<h4 id="escolha-dos-nomes">Escolha dos nomes</h4>
+
+<p>Os nomes foram escolhidos de forma arbitrária, tanto pela sua relevância no noticiário nacional quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos.</p>
 
 <h4 id="dados">Dados</h4>
 

@@ -3,18 +3,18 @@ layout: monitor
 title: 'Monitor Nuclear'
 desc: 'Tendências de engajamento político no Twitter'
 tagline: APLICAÇÃO
-background: 'monitor_destaque1.jpeg' 
+background: 'monitor_destaque1.jpeg'
 subtitle: ''
 ---
 <br>
 
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20do%20N%C3%BAcleo%20Jornalismo" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&text=Monitor%20do%20N%C3%BAcleo%20Jornalismo:%20http%3A%2F%2Fnucleo.jor.br%2Fmonitor&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&text=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos:%20https%3A%2F%2Fnucleo.jor.br%2Fmonitor&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
 <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo&summary=Veja%20tend%C3%AAncias%20sobre%20engajamento%20pol%C3%ADtico%20no%20Twitter&source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 </ul>
 
 <small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência `Monitor de Twitter, do Núcleo Jornalismo` ou `Monitor Nuclear`, se possível com link para `www.nucleo.jor.br/monitor`.</small>
@@ -35,6 +35,13 @@ A rede social é recorrentemente um meio utilizado por autoridades para se comun
 A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.
 
 Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ainda não está disponível, mas esperamos abri-lo no futuro.  
+
+#### Escolha dos nomes
+
+Os nomes foram escolhidos de forma arbitrária, tanto pela sua relevância no noticiário político nacional recente quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+
+Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform).
+
 
 #### Dados
 
