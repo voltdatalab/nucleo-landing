@@ -1,4 +1,15 @@
-I"�<p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code>, se possível com link para <code class="highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
+I"}"<p><br /></p>
+
+<ul class="share-buttons" style="text-align: center">
+COMPARTILHE:
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;quote=Monitor%20do%20N%C3%BAcleo%20Jornalismo" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;text=Monitor%20do%20N%C3%BAcleo%20Jornalismo:%20http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+<li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&amp;title=Monitor%20do%20N%C3%BAcleo%20Jornalismo&amp;summary=Veja%20tend%C3%AAncias%20sobre%20engajamento%20pol%C3%ADtico%20no%20Twitter&amp;source=http%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
+</ul>
+
+<p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code> ou <code class="highlighter-rouge">Monitor Nuclear</code>, se possível com link para <code class="highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
 
 <h3 id="sobre-o-projeto">SOBRE O PROJETO</h3>
 
@@ -20,7 +31,7 @@
 
 <p>Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.</p>
 
-<p>Os tweets analisados são obtidos diretamente do Twitter, utilizando a API do Workbench, atualizada a cada seis horas. Os dados são abertos e podem ser consultados e baixados <a href="https://app.workbenchdata.com/workflows/70006/">neste link</a>.</p>
+<p>Os tweets analisados são obtidos diretamente do Twitter<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>, utilizando a API do Workbench, atualizada a cada seis horas. Os dados são abertos e podem ser consultados e baixados <a href="https://app.workbenchdata.com/workflows/70006/">neste link</a>.</p>
 
 <p>O <strong>Monitor</strong> é construido com a linguagem R.</p>
 
@@ -34,7 +45,7 @@
 
 <p><strong>2.</strong> comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação provável de endosso, podendo ser críticos, ofensivos, spam, piadas, memes ou <em>tags</em> para pessoas acompanharem o assunto.</p>
 
-<p>Vale notar que essa metodologia do <strong>Monitor</strong> é válida para se visualizar engajamento sobre em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
+<p>Vale notar que a metodologia do <strong>Monitor</strong> é válida para se visualizar engajamento em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
 
 <h4 id="fórmulas">Fórmulas</h4>
 
@@ -51,6 +62,18 @@
   </li>
 </ol>
 
+<p>Em todos os casos, a linha de tendência utiliza <a href="http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf">regressão local (LOESS)</a>, um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curso prazo.</p>
+
+<h4 id="créditos">Créditos</h4>
+
+<p>O <strong>Monitor Nuclear</strong> foi desenvolvido por <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a>.</p>
+
+<p>A estratégia digital é de <a href="https://twitter.com/alexorrico">Alexandre Orrico</a>.</p>
+
+<p>A arte de destaque e o conceito visual dos gráficos são de <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a>.</p>
+
+<p>As opiniões de <a href="https://twitter.com/lgelape">Lucas Gelape</a>, <a href="https://twitter.com/renata_mh">Renata Hirota</a>, <a href="https://twitter.com/lubodenmuller">Luiza Bodenmuller</a> e <a href="https://twitter.com/vitor">Vitor Conceição</a> foram importantes para a melhoria do projeto.</p>
+
 <h4 id="referências">Referências</h4>
 
 <div class="footnotes">
@@ -63,6 +86,9 @@
     </li>
     <li id="fn:3">
       <p>Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: <em>“O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases.”</em> - <a href="https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/">Episódio #95, Foro de Teresina aos 28m28s</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p><a href="https://developer.twitter.com/en/docs">API DO TWITTER</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>

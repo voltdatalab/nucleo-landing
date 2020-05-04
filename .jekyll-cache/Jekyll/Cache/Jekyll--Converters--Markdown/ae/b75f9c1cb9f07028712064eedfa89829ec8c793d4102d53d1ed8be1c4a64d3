@@ -1,4 +1,4 @@
-I""!<p><br /></p>
+I"�!<p><br /></p>
 
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
@@ -62,11 +62,15 @@ COMPARTILHE:
   </li>
 </ol>
 
+<p>Em todos os casos, a linha de tendência utiliza regressão local (LOESS), um método estatístico que estima curvas e superfícies através de suavização.</p>
+
 <h4 id="créditos">Créditos</h4>
 
-<p>O <strong>Monitor Nuclear</strong> foi desenvolvido por <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a>, em parceria com <a href="https://twitter.com/alexorrico">Alexandre Orrico</a>.</p>
+<p>O <strong>Monitor Nuclear</strong> foi desenvolvido por <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a>.</p>
 
-<p>A arte e o conceito visual são de <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a>.</p>
+<p>A estratégia digital é de <a href="https://twitter.com/alexorrico">Alexandre Orrico</a>.</p>
+
+<p>A arte de destaque e o conceito visual dos gráficos são de <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a>.</p>
 
 <p>As opiniões de <a href="https://twitter.com/lgelape">Lucas Gelape</a>, <a href="https://twitter.com/renata_mh">Renata Hirota</a>, <a href="https://twitter.com/lubodenmuller">Luiza Bodenmuller</a> e <a href="https://twitter.com/vitor">Vitor Conceição</a> foram importantes para a melhoria do projeto.</p>
 

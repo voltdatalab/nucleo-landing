@@ -1,4 +1,4 @@
-I"�<p><br /></p>
+I"*"<p><br /></p>
 
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
@@ -31,7 +31,7 @@ COMPARTILHE:
 
 <p>Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.</p>
 
-<p>Os tweets analisados são obtidos diretamente do Twitter, utilizando a API do Workbench, atualizada a cada seis horas. Os dados são abertos e podem ser consultados e baixados <a href="https://app.workbenchdata.com/workflows/70006/">neste link</a>.</p>
+<p>Os tweets analisados são obtidos diretamente do Twitter<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>, utilizando a API do Workbench, atualizada a cada seis horas. Os dados são abertos e podem ser consultados e baixados <a href="https://app.workbenchdata.com/workflows/70006/">neste link</a>.</p>
 
 <p>O <strong>Monitor</strong> é construido com a linguagem R.</p>
 
@@ -62,11 +62,20 @@ COMPARTILHE:
   </li>
 </ol>
 
-<h4 id="referências">Referências</h4>
+<p>Em todos os casos, a linha de tendência utiliza regressão local (LOESS), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curso prazo.</p>
 
 <h4 id="créditos">Créditos</h4>
 
-<p>O monitor foi desenvolvido por Sérgio Spagnuolo, com auxílio de Lucas Gelape. As opiniões de Renata Hirota, Luiza Bodenmuller e Vitor Conceição foram importantes para a melhoria do projeto.</p>
+<p>O <strong>Monitor Nuclear</strong> foi desenvolvido por <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a>.</p>
+
+<p>A estratégia digital é de <a href="https://twitter.com/alexorrico">Alexandre Orrico</a>.</p>
+
+<p>A arte de destaque e o conceito visual dos gráficos são de <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a>.</p>
+
+<p>As opiniões de <a href="https://twitter.com/lgelape">Lucas Gelape</a>, <a href="https://twitter.com/renata_mh">Renata Hirota</a>, <a href="https://twitter.com/lubodenmuller">Luiza Bodenmuller</a> e <a href="https://twitter.com/vitor">Vitor Conceição</a> foram importantes para a melhoria do projeto.</p>
+
+<h4 id="referências">Referências</h4>
+
 <div class="footnotes">
   <ol>
     <li id="fn:1">
@@ -77,6 +86,9 @@ COMPARTILHE:
     </li>
     <li id="fn:3">
       <p>Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: <em>“O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases.”</em> - <a href="https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/">Episódio #95, Foro de Teresina aos 28m28s</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p><a href="https://developer.twitter.com/en/docs">API DO TWITTER</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>

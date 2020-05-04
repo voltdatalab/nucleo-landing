@@ -65,6 +65,8 @@ Isso nos permite calcular duas métricas fundamentais para nossa análise: a `ta
 
 2. `Tendência de engajamento`: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 4 dias como o _default_, indicando um ciclo noticioso rápido, mas constante.  
 
+Em todos os casos, a linha de tendência utiliza [regressão local (LOESS)](http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curso prazo. 
+
 #### Créditos
 
 O **Monitor Nuclear** foi desenvolvido por [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo).
