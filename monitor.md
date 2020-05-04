@@ -40,8 +40,9 @@ Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ai
 
 Os nomes foram escolhidos de forma arbitrária, tanto pela sua relevância no noticiário político nacional recente quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
 
-Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform).
+Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto [7c0]().
 
+Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform).
 
 #### Dados
 
@@ -94,3 +95,5 @@ As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](htt
 [^3]: Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: _"O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases."_ - [Episódio #95, Foro de Teresina aos 28m28s](https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/)
 
 [^4]: [API DO TWITTER](https://developer.twitter.com/en/docs)
+
+[^5]: [Arquivo .csv](https://github.com/projeto7c0/redes-sociais-politicos/blob/master/redes-sociais-politicos-full.csv) com redes sociais de políticos
