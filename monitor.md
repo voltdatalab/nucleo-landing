@@ -51,7 +51,7 @@ Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo pro
 
 Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.
 
-Os tweets analisados são obtidos diretamente do Twitter[^4], utilizando a API do Workbench, atualizada a cada seis horas. Os dados são abertos e podem ser consultados e baixados [neste link](https://app.workbenchdata.com/workflows/70006/).
+Os dados analisados são obtidos diretamente da API do Twitter[^4], e atualizados a cada seis horas - hora-base de 17h. Os dados já analisados são abertos e podem ser consultados e baixados [neste link](https://uc8f8f2631cacaa97002ad402994.dl.dropboxusercontent.com/cd/0/inline/A3If5uq3_Rcy577SJh3FbWtC54-_84Z3P8BvyydwCbtzNTGxMoi4QCHjAA2gc4IgVyWO0n_esVZPY5SPvJnY2j0uTL7VrRXybnvrCNzxqqthNcCiKJriz2W15NesYKHlCJw/file). O código para extração pode ser encontrado [neste gist](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
 
 O **Monitor** é construido com a linguagem R.
 
@@ -87,7 +87,7 @@ A estratégia digital é de [Alexandre Orrico](https://twitter.com/alexorrico).
 
 A arte de destaque e o conceito visual dos gráficos são de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
 
-As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](https://twitter.com/renata_mh), [Luiza Bodenmuller](https://twitter.com/lubodenmuller) e [Vitor Conceição](https://twitter.com/vitor) foram importantes para a melhoria do projeto.
+As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](https://twitter.com/renata_mh), [Luiza Bodenmuller](https://twitter.com/lubodenmuller), [Vitor Conceição](https://twitter.com/vitor) e [Lucas Lago](https://twitter.com/lucaslago) foram importantes para a melhoria do projeto.
 
 #### Referências
 
