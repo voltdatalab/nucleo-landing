@@ -38,11 +38,14 @@ Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ai
 
 #### Escolha dos nomes
 
-Os nomes foram escolhidos de forma arbitrária, tanto pela sua relevância no noticiário político nacional recente quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+Os nomes foram escolhidos tanto pela sua relevância no noticiário político nacional recente quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+
+Uma medida utilizada para a lista final veio a partir da análise 50 perfis de políticos. Essa análise mostrou que a taxa de engajamento mediana era de 1.133 interações por tweet em 2020. Todos os perfis que não checaram a esse patamar foram excluídos da lista.
+
+No entanto, a ideia é identificar e analisar os políticos mais relevantes. Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
 
 Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto [7c0]().
 
-Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform).
 
 #### Dados
 
