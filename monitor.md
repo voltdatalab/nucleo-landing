@@ -19,6 +19,8 @@ Com apenas 14,35 milhões de usuários [^1], o Twitter está longe de representa
 
 A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate do momento.
 
+Essa importância é destacada também no estudo Twiplomacy de 2017 [^4]: "_Redes sociais se tornaram a cara-metade da diplomacia. Passou de uma consideração posterior para a primeira consideração de líderes mundiais e governos em todo o mundo, à medida que audiências recorrem a seus feeds de Twitter em busca paras as últimas notícias e declarações... As redes sociais fornecem uma plataforma de comunicação incondicional, e tornou-se a ferramenta mais poderosa para um comunicador. O Twitter, em particular, tornou-se um barômetro diplomático, uma ferramenta usada para analisar e prever relações internacionais._"
+
 
 ### METODOLOGIA
 
@@ -87,6 +89,8 @@ As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](htt
 
 [^3]: Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: _"O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases."_ - [Episódio #95, Foro de Teresina aos 28m28s](https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/)
 
-[^4]: [API DO TWITTER](https://developer.twitter.com/en/docs)
+[^4]: [Twiplomacy Study 2017](https://twiplomacy.com/blog/twiplomacy-study-2017/)
 
-[^5]: [Arquivo .csv](https://github.com/projeto7c0/redes-sociais-politicos/blob/master/redes-sociais-politicos-full.csv) com redes sociais de políticos
+[^5]: [API DO TWITTER](https://developer.twitter.com/en/docs)
+
+[^6]: [Arquivo .csv](https://github.com/projeto7c0/redes-sociais-politicos/blob/master/redes-sociais-politicos-full.csv) com redes sociais de políticos
