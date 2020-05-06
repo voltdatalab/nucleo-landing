@@ -11,13 +11,13 @@ contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação do <strong>Núc
 
 ### SOBRE O PROJETO
 
-O **Monitor Nuclear** é uma aplicação do **Núcleo Jornalismo** que identifica tendências de engajamento político no Twitter nos tweets publicados por possíveis pré-candidatos à eleição presidencial de 2022.
+O **Monitor Nuclear** é uma aplicação do **Núcleo Jornalismo** que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.
 
 Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.
 
 Com apenas 14,35 milhões de usuários [^1], o Twitter está longe de representar o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3].
 
-A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate do momento.
+A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.
 
 Essa importância é destacada também no estudo Twiplomacy de 2017 [^4]: "_Redes sociais viraram a cara-metade da diplomacia. Passaram de uma consideração posterior para a primeira coisa levada em conta por líderes mundiais e governos em todo o mundo, à medida que audiências recorrem a seus feeds de Twitter em busca das últimas notícias e declarações... As redes sociais fornecem uma plataforma de comunicação incondicional, tornando-se a ferramenta mais poderosa para um comunicador. O Twitter, em particular, tornou-se um barômetro diplomático, uma ferramenta usada para analisar e prever relações internacionais._"
 
