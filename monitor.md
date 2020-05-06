@@ -36,7 +36,7 @@ Uma medida utilizada para a lista final veio a partir da análise 50 perfis de p
 
 No entanto, a ideia é identificar e analisar os políticos mais relevantes. Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
 
-Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto 7c0.
+Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto [7c0](https://projeto7c0.com.br/).
 
 
 #### Dados
@@ -67,9 +67,9 @@ Isso nos permite calcular duas métricas fundamentais para nossa análise: a `ta
 
 1. `Taxa de engajamento`: é a média simples do total de interações pelo número de tweets disparados em um único dia. Assim, se um perfil tuitou 10 vezes e teve 100 interações, a taxa de engajamento é de 10 interações por tweet. Se outro perfil tuitou uma vez e teve 100 interações, essa taxa é de 100 por tweet.
 
-2. `Tendência de engajamento`: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 4 dias como o _default_, indicando um ciclo noticioso rápido, mas constante.  
+2. `Tendência de engajamento`: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 15 dias como o _default_, indicando um ciclo noticioso rápido, mas constante.  
 
-Em todos os casos, a linha de tendência utiliza [regressão local (LOESS)](http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curso prazo.
+Em todos os casos, a linha de tendência utiliza [regressão local (LOESS)](http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curto prazo.
 
 #### Créditos
 
