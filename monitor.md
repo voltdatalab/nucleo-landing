@@ -45,6 +45,8 @@ Os dados são baseados em tweets originais (retweets são desconsiderados) publi
 
 Os dados analisados são obtidos diretamente da API do Twitter[^4], e atualizados a cada seis horas - hora-base de 17h. Os dados já analisados são abertos e podem ser consultados e baixados [neste link](https://uc8f8f2631cacaa97002ad402994.dl.dropboxusercontent.com/cd/0/inline/A3If5uq3_Rcy577SJh3FbWtC54-_84Z3P8BvyydwCbtzNTGxMoi4QCHjAA2gc4IgVyWO0n_esVZPY5SPvJnY2j0uTL7VrRXybnvrCNzxqqthNcCiKJriz2W15NesYKHlCJw/file). O código para extração pode ser encontrado [neste gist](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
 
+A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil. Tentar obter publicações mais antigas com dados atualizados, mas a partir do lançamento de maio de 2020) passamos a acumular todos os tweets, agregando todas as entradas. Nosso script roda automaticamente de seis em seis horas, puxando os últimos 50 tweets publicados por cada perfil para atualizar suas contagens.  
+
 O **Monitor** é construido com a linguagem R.
 
 #### Base da análise
