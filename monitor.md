@@ -34,7 +34,7 @@ Uma medida utilizada para a lista final veio a partir da análise 50 perfis de p
 
 No entanto, a ideia é identificar e analisar os políticos mais relevantes. Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
 
-Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto [7c0]().
+Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto 7c0.
 
 
 #### Dados
