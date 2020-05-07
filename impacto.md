@@ -5,7 +5,7 @@ desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!
 tagline: IMPACTO
 subtitle: ''
 link: impacto
-atualizacao: 24/04/2020
+atualizacao: 06/05/2020
 ---
 
 <style>
@@ -83,6 +83,8 @@ Veja abaixo algumas das principais ocasiões nas quais o **Núcleo** foi citado 
 <br>
 
 #### Como referência
+
+* __Storybench__ (inglês): [How Núcleo Jornalismo is tracking Brazilian politicians on Twitter](https://www.storybench.org/how-nucleo-jornalismo-is-tracking-brazilian-politicians-on-twitter/)
 
 * __Folha de S.Paulo__ (artigo de opinião): [Bolsonaro é burro mesmo](https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/04/bolsonaro-e-burro-mesmo.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
 
