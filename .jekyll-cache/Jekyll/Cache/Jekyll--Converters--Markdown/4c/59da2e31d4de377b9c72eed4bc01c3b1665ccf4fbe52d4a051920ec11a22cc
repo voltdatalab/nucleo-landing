@@ -1,0 +1,41 @@
+I"�<p>No começo das políticas de isolamento social no Brasil, sob as quais mais pessoas passaram a ficar mais tempo confinadas em suas casas, utilizando banda-larga para trabalho, teleconferências e <em>streaming</em>, houve preocupações (e até <a href="https://www.correio24horas.com.br/noticia/nid/covid-19-qualidade-da-internet-cai-e-operadoras-tentam-manter-suas-conexoes/">afirmações</a>) iniciais de que a qualidade da banda larga residencial pudesse definhar.</p>
+
+<p>Mas, de acordo com <a href="https://www.speedtest.net/insights/blog/tracking-covid-19-impact-global-internet-performance/#/Brazil">dados</a> divulgados pela empresa de métricas de internet Ookla, uma das maiores empresas de teste de velocidade de banda larga do mundo, na verdade a qualidade da internet parece ter até melhorado um pouco, contrariando previsões e a perceção de muitas pessoas.</p>
+
+<p><img src="../img/covid/bl_fixo_materia.png" alt="gráfico sobre qualidade da banda larga fixa" /></p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Com mais pessoas utilizando banda larga residencial, a qualidade da conexão à internet é chave para economia</em></p>
+  </li>
+  <li>
+    <p><em>Mesmo com pressão sobre as redes, setor parece ter estar se saindo bem (até 13/05/2020)</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Esses dados corroboram um <a href="https://nic.br/publicacao/influencia-da-covid-19-na-qualidade-da-internet-no-brasil/">estudo</a> do NIC.br datado de 9 de abril, no qual foi constatado que houve <a href="https://br.noticias.yahoo.com/internet-brasileira-sentiu-impacto-do-coronavirus-mas-pior-ja-passou-diz-cgi-161126525.html">pouca mudança</a> na qualidade da banda larga no país em geral até o começo daquele mês.</p>
+
+<p>Isso significa que <a href="https://www1.folha.uol.com.br/mercado/2020/03/coronavirus-eleva-trafego-na-internet-mas-analistas-descartam-apagao.shtml">medidas</a> colocadas em prática por empresas de telefonia e de internet para segurar o aumento na demanda doméstica surtiram certo efeito. Globo, Netflix, Facebook e Instagram, por exemplo, <a href="https://labs.ebanx.com/en/news/technology/netflix-facebook-and-instagram-reduce-video-streaming-quality-in-brazil/">reduziram</a> a qualidade do streaming no país a fim de evitar uma sobrecarga na rede.</p>
+
+<p>Em nota enviada ao Núcleo dia 19 de março, o SindiTeleBrasil, sindicato patronal que reúne as principais operadoras de telefonia do país, informou que “a ampliação da velocidade será disponibilizada gradativamente e eventualmente onde for preciso, dentro das normas de segurança de operação das redes de cada operadora.”</p>
+
+<p>Mas isso tampouco significa ausência de problemas para o setor.</p>
+
+<p>A combinação de aumento na utilização doméstica e da onipresença de serviços de internet na vida das pessoas, na qual elas precisam constantemente de conexão, parecem ter gerado uma percepção <a href="https://oglobo.globo.com/economia/defesa-do-consumidor/coronavirus-reclamacoes-sobre-banda-larga-fixa-sobem-32-apos-isolamento-social-24352281">oposta</a> para muitos, com uma <a href="https://www.tudocelular.com/nextel/noticias/n154856/anatel-aumento-reclamacoes-operadoras-banda-larga.html">alta considerável</a> de reclamações de 32% na Anatel. Além disso, o tráfego de fato aumentou consideravelmente em abril.</p>
+
+<p>Até mesmo a internet móvel parece ter tido alguma melhora, após uma ligeira degradação em março.</p>
+
+<p><img src="../img/covid/bl_mobile_materia.png" alt="gráfico sobre qualidade da banda larga móvel" /></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O <strong>Núcleo</strong> se baseou nos dados disponibilizados pela Ookla, que podem ser encontrados <a href="https://www.speedtest.net/insights/blog/how-ookla-ensures-accurate-reliable-data-2020/">neste link</a>.</p>
+
+<p>A Ookla é uma referência na mensuração de qualidade de banda larga em todo o mundo, com mais de 28 bilhões de testes realizados com sua ferramenta SpeedTest.</p>
+:ET
