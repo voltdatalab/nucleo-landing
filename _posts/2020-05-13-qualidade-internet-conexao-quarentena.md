@@ -29,7 +29,7 @@ tags:
 
 No começo das políticas de isolamento social no Brasil, com a maioria das pessoas confinadas em suas casas, utilizando banda-larga para trabalho, teleconferências e _streaming_, houve preocupações (e até [afirmações](https://www.correio24horas.com.br/noticia/nid/covid-19-qualidade-da-internet-cai-e-operadoras-tentam-manter-suas-conexoes/)) iniciais de que a qualidade da banda larga residencial pudesse definhar.
 
-Mas, de acordo com [dados](https://www.speedtest.net/insights/blog/tracking-covid-19-impact-global-internet-performance/#/Brazil) divulgados pela empresa de métricas de internet Ookla, que possui uma das mais populares ferramentas de teste de velocidade de banda larga do mundo, na verdade a qualidade da internet parece ter até melhorado um pouco até agora (13/05/2020), contrariando previsões e a perceção de muitas pessoas.
+Mas, de acordo com [dados](https://www.speedtest.net/insights/blog/tracking-covid-19-impact-global-internet-performance/#/Brazil) divulgados pela empresa de métricas de internet Ookla, que possui uma das mais populares ferramentas de teste de velocidade de banda larga do mundo, na verdade a qualidade da internet parece ter até melhorado um pouco até agora (13/05/2020), contrariando previsões e a percepção de muitas pessoas.
 
 
 ![gráfico sobre qualidade da banda larga fixa](../img/covid/bl_fixo_materia.png)
