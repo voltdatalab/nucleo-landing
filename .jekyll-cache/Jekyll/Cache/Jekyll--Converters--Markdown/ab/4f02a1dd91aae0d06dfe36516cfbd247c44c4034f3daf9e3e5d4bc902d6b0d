@@ -1,0 +1,129 @@
+I"F<p>Desde abril, dados do <a href="https://transparencia.registrocivil.org.br/inicio">Portal de Transparência do Registro Civil</a> foram utilizados para construir notícias e narrativas acerca de óbitos não confirmados de COVID-19 no Brasil.</p>
+
+<p>A principal característica da maior parte dessas peças era comparar o mês que terminava (abril) com o mesmo mês no ano anterior, e a partir daí indicar que não havia crescimento no número de registros de óbitos entre os anos. Uma das conclusões foi de que a pandemia da Covid-19 não era tão grave quanto estava sendo propagado pela imprensa e por certos políticos.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Dados como esses são utilizados para tomada de decisões na pandemia, e precisam ser analisados com rigor</em></p>
+  </li>
+  <li>
+    <p><em>Além de olhar os dados, é importante compreender a dinâmica de atualização do portal</em></p>
+  </li>
+  <li>
+    <p><em>Um portal de divulgação de dados sem a devida contextualização pode ser utilizado para criar narrativas falsas através de informações verdadeiras</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Essas narrativas, contudo, ignoravam possíveis atrasos na notificação na própria plataforma, incluindo os prazos legais de notificação, que são de:</p>
+
+<ul>
+  <li>
+    <p>24 horas para a família informar o cartório sobre o falecimento;</p>
+  </li>
+  <li>
+    <p>5 dias para o cartório efetuar o registro de óbito;</p>
+  </li>
+  <li>
+    <p>8 dias para o Centro Nacional de Informações do Registro Civil que atualiza o portal.</p>
+  </li>
+</ul>
+
+<p>Esses prazos legais indicam que um atraso de até 14 dias deve ser esperado para atualização do portal, o que provavelmente reflete sobre a totalidade de certo mês.</p>
+
+<h3 id="acompanhamento-diário">Acompanhamento diário</h3>
+
+<p>Para compreender como funcionam os atrasos no Portal da Transparência do Registro Civil, foi realizado um acompanhamento diário desse recurso.</p>
+
+<p>Não foram examinados os dados do <a href="https://transparencia.registrocivil.org.br/especial-covid">Especial Covid-19</a>, mas sim aqueles relativos ao número absoluto de registros de óbitos no país. Não foi realizado também nenhum acompanhamento regional específico.</p>
+
+<p>Inicialmente, até o dia 05 de maio, acompanhou-se apenas os dados do ano de 2020, sendo discriminados mês a mês. Esse acompanhamento não precisou de nenhum conhecimento de programação, ou seja, foi feito manualmente usando uma planilha.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dia do acompanhamento</th>
+      <th>Jan/2020</th>
+      <th>Feb/2020</th>
+      <th>Mar/2020</th>
+      <th>Apr/2020</th>
+      <th>May/2020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/Maio</td>
+      <td>102.244</td>
+      <td>85.782</td>
+      <td>97.382</td>
+      <td>93.131</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>02/Maio</td>
+      <td>102.244</td>
+      <td>85.784</td>
+      <td>97.383</td>
+      <td>93.630</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td>03/Maio</td>
+      <td>102.244</td>
+      <td>85.784</td>
+      <td>97.383</td>
+      <td>93.630</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td>04/Maio</td>
+      <td>102.286</td>
+      <td>85.813</td>
+      <td>97.444</td>
+      <td>94.129</td>
+      <td>598</td>
+    </tr>
+    <tr>
+      <td>05/Maio</td>
+      <td>102.311</td>
+      <td>85.844</td>
+      <td>97.538</td>
+      <td>99.588</td>
+      <td>5.559</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A primeira observação,  percebida nos primeiros cinco dias de acompanhamento, refere-se ao aumento de 6.000 registros para o mês de abril, indicando que o atraso esperado de até 14 dias realmente afeta o sistema.</p>
+
+<p>Inclusive, foi possível observar que registros foram adicionados aos meses de janeiro, fevereiro e março, indicando que, na realidade, o atraso nos dados é pode ser substancialmente maior que as duas semanas <a href="https://transparencia.registrocivil.org.br/especial-covid#prazos">indicadas</a> no portal.</p>
+
+<p><img src="../img/covid/prazos_registro_civil.png" alt="print do potal - prazos de dados" /></p>
+
+<p>Com a percepção desse atraso ampliou-se o acompanhamento, já no dia 5 de maio, para os anos de 2019 e 2018. No dia 7, o monitoramento foi expandido para os anos de 2016 e 2017. Somente o número total de registros de óbitos foi apurado.</p>
+
+<p>Foram inseridos <strong>novos</strong> registros de óbitos em todos os anos acompanhados pelo <strong>Núcleo</strong>. Apesar dos números de registros adicionados serem baixos, indicam que o sistema possui atrasos muito além do prazo legal indicado.</p>
+
+<p>Vale notar que o sistema não atualizou os dados em 15 dos 31 dias acompanhados.</p>
+
+<h3 id="o-sumiço-de-dados">O sumiço de dados</h3>
+
+<p>No dia 14 de maio, os dados para os anos de 2016, 2017 e 2018 foram alterados de forma relevante.</p>
+
+<p>A soma de registros do triênio, que antes totalizava 3.469.202 óbitos, foi então reduzida para 2.876.131, indicando um problema na fidedignidade dos registros da plataforma.</p>
+
+<p>O caso foi reportado pela <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/05/meio-milhao-de-mortes-somem-de-sistema-usado-para-monitorar-covid-19.shtml">Folha de S.Paulo</a> em 14 de maio, e teve como fonte relato do jornalista do <strong>Núcleo</strong> no Twitter.</p>
+
+<p>A ARPEN Brasil <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/05/meio-milhao-de-mortes-somem-de-sistema-usado-para-monitorar-covid-19.shtml">informou em nota</a>, contudo, que os dados removidos eram referentes ao Estado do Rio de Janeiro, e que foram removidos por não estarem padronizados no mesmo formato que os dados dos outros estados.</p>
+
+<p>Isso foi suficiente para que algumas outras fake news fossem criadas em cima dos dados, acusando a ARPEN de manipular os dados para mostrar que a Covid-19 é mais letal. A teoria ganhou impulso inclusive nas redes sociais de pessoas que trabalham no aparato estatal brasileiro.</p>
+
+<p>Esses dados não foram reinseridos na plataforma até o dia da publicação desse artigo.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+:ET

@@ -1,0 +1,44 @@
+I"g	<p>Desde abril, dados do <a href="https://transparencia.registrocivil.org.br/especial-covid">Portal de Transparência do Registro Civil</a> foram utilizados para construir notícias e narrativas acerca de óbitos não confirmados de COVID-19 no Brasil.</p>
+
+<p>A principal característica da maior parte dessas peças era comparar o mês que terminava (abril) com o mesmo mês no ano anterior, e a partir daí indicar que não havia crescimento no número de registros de óbitos entre os anos. Uma das conclusões foi de que a pandemia da Covid-19 não era tão grave quanto estava sendo propagado pela imprensa e por certos políticos.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Dados como esses são utilizados para tomada de decisões na pandemia, e precisam ser analisados com rigor</em></p>
+  </li>
+  <li>
+    <p><em>Além de olhar os dados, é importante compreender a dinâmica de atualização do portal</em></p>
+  </li>
+  <li>
+    <p><em>Um portal de divulgação de dados sem a devida contextualização pode ser utilizado para criar narrativas falsas através de informações verdadeiras</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Essas narrativas, contudo, ignoravam possíveis atrasos na notificação na própria plataforma, incluindo os prazos legais de notificação, que são de:</p>
+
+<ul>
+  <li>
+    <p>24 horas para a família informar o cartório sobre o falecimento;</p>
+  </li>
+  <li>
+    <p>5 dias para o cartório efetuar o registro de óbito;</p>
+  </li>
+  <li>
+    <p>8 dias para o Centro Nacional de Informações do Registro Civil que atualiza o portal.</p>
+  </li>
+</ul>
+
+<p>Esses prazos legais indicam que um atraso de até 14 dias deve ser esperado para atualização do portal, o que provavelmente reflete sobre a totalidade do mês de abril.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>O <strong>Núcleo</strong> se baseou nos dados disponibilizados pela Ookla, que podem ser encontrados <a href="https://www.speedtest.net/insights/blog/how-ookla-ensures-accurate-reliable-data-2020/">neste link</a>.</p>
+
+<p>A Ookla é uma referência na mensuração de qualidade de banda larga em todo o mundo, com mais de 28 bilhões de testes realizados com sua ferramenta <a href="https://www.speedtest.net/pt">SpeedTest</a>. A metodologia deles pode ser <a href="https://www.speedtest.net/awards/methodology">encontrada aqui</a>.</p>
+:ET

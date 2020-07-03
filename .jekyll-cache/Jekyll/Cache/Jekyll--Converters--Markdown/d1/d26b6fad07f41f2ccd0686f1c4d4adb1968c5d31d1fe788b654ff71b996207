@@ -1,0 +1,234 @@
+I"�8<p>Desde abril, dados do <a href="https://transparencia.registrocivil.org.br/inicio">Portal de Transparência do Registro Civil</a> foram utilizados para construir notícias e narrativas acerca de óbitos não confirmados de COVID-19 no Brasil.</p>
+
+<p>A principal característica da maior parte dessas peças era comparar o mês que terminava (abril) com o mesmo mês no ano anterior, e a partir daí indicar que não havia crescimento no número de registros de óbitos entre os anos. Uma das conclusões foi de que a pandemia da Covid-19 não era tão grave quanto estava sendo propagado pela imprensa e por certos políticos.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Dados como esses são utilizados para tomada de decisões na pandemia, e precisam ser analisados com rigor</em></p>
+  </li>
+  <li>
+    <p><em>Além de olhar os dados, é importante compreender a dinâmica de atualização do portal</em></p>
+  </li>
+  <li>
+    <p><em>Um portal de divulgação de dados sem a devida contextualização pode ser utilizado para criar narrativas falsas através de informações verdadeiras</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Essas narrativas, contudo, ignoravam possíveis atrasos na notificação na própria plataforma, incluindo os prazos legais de notificação, que são de:</p>
+
+<ul>
+  <li>
+    <p>24 horas para a família informar o cartório sobre o falecimento;</p>
+  </li>
+  <li>
+    <p>5 dias para o cartório efetuar o registro de óbito;</p>
+  </li>
+  <li>
+    <p>8 dias para o Centro Nacional de Informações do Registro Civil que atualiza o portal.</p>
+  </li>
+</ul>
+
+<p>Esses prazos legais indicam que um atraso de até 14 dias deve ser esperado para atualização do portal, o que provavelmente reflete sobre a totalidade de certo mês.</p>
+
+<h3 id="acompanhamento-diário">Acompanhamento diário</h3>
+
+<p>Para compreender como funcionam os atrasos no Portal da Transparência do Registro Civil, foi realizado um acompanhamento diário desse recurso.</p>
+
+<p>Não foram examinados os dados do <a href="https://transparencia.registrocivil.org.br/especial-covid">Especial Covid-19</a>, mas sim aqueles relativos ao número absoluto de registros de óbitos no país. Não foi realizado também nenhum acompanhamento regional específico.</p>
+
+<p>Inicialmente, até o dia 05 de maio, acompanhou-se apenas os dados do ano de 2020, sendo discriminados mês a mês. Esse acompanhamento não precisou de nenhum conhecimento de programação, ou seja, foi feito manualmente usando uma planilha.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dia do acompanhamento</th>
+      <th>Jan/2020</th>
+      <th>Feb/2020</th>
+      <th>Mar/2020</th>
+      <th>Apr/2020</th>
+      <th>May/2020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/Maio</td>
+      <td>102.244</td>
+      <td>85.782</td>
+      <td>97.382</td>
+      <td>93.131</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>02/Maio</td>
+      <td>102.244</td>
+      <td>85.784</td>
+      <td>97.383</td>
+      <td>93.630</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td>03/Maio</td>
+      <td>102.244</td>
+      <td>85.784</td>
+      <td>97.383</td>
+      <td>93.630</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td>04/Maio</td>
+      <td>102.286</td>
+      <td>85.813</td>
+      <td>97.444</td>
+      <td>94.129</td>
+      <td>598</td>
+    </tr>
+    <tr>
+      <td>05/Maio</td>
+      <td>102.311</td>
+      <td>85.844</td>
+      <td>97.538</td>
+      <td>99.588</td>
+      <td>5.559</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A primeira observação,  percebida nos primeiros cinco dias de acompanhamento, refere-se ao aumento de 6.000 registros para o mês de abril, indicando que o atraso esperado de até 14 dias realmente afeta o sistema.</p>
+
+<p><img src="../img/covid/arpen2020.png" alt="print do potal - evolução registros de janeiro" /></p>
+
+<p>Inclusive, foi possível observar que registros foram adicionados aos meses de janeiro, fevereiro e março, indicando que, na realidade, o atraso nos dados é pode ser substancialmente maior que as duas semanas <a href="https://transparencia.registrocivil.org.br/especial-covid#prazos">indicadas</a> no portal.</p>
+
+<p>Com a percepção desse atraso ampliou-se o acompanhamento, já no dia 5 de maio, para os anos de 2019 e 2018. No dia 7, o monitoramento foi expandido para os anos de 2016 e 2017. Somente o número total de registros de óbitos foi apurado.</p>
+
+<p>Foram inseridos <strong>novos</strong> registros de óbitos em todos os anos acompanhados pelo <strong>Núcleo</strong>. Apesar dos números de registros adicionados serem baixos, indicam que o sistema possui atrasos muito além do prazo legal indicado.</p>
+
+<p><img src="../img/covid/prazos_registro_civil.png" alt="print do potal - prazos de dados" /></p>
+<figcaption>Reprodução de aviso no Portal de Transparência do Registro Civil, datado de 3 de julho de 2020.</figcaption>
+
+<p>Vale notar que o sistema não atualizou os dados em 15 dos 31 dias acompanhados.</p>
+
+<h3 id="o-sumiço-de-500-mil-regitros">O sumiço de 500 mil regitros</h3>
+
+<p>No dia 14 de maio, os dados para os anos de 2016, 2017 e 2018 tiveram alterações relevantes.</p>
+
+<p>A soma de registros do triênio, que antes totalizava 3.469.202 óbitos, foi então reduzida para 2.876.131, indicando possível problema na fidedignidade dos registros da plataforma, até no longo prazo.</p>
+
+<p>O caso foi primeiramente reportado na imprensa pela <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/05/meio-milhao-de-mortes-somem-de-sistema-usado-para-monitorar-covid-19.shtml">Folha de S.Paulo</a> em 14 de maio, e teve como fonte <a href="https://twitter.com/lucaslago/status/1260970890294104066">relato</a> do jornalista do <strong>Núcleo</strong> no Twitter.</p>
+
+<p>A Associação Nacional dos Registradores de Pessoas Naturais (ARPEN Brasil) <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/05/meio-milhao-de-mortes-somem-de-sistema-usado-para-monitorar-covid-19.shtml">informou em nota</a> que os dados removidos eram referentes ao Estado do Rio de Janeiro, e que foram removidos por não estarem padronizados no mesmo formato que os dados dos outros estados.</p>
+
+<p>No entanto, o desencontro de dados foi suficiente para impulsionar algumas peças de desinformação, inclusive as que acusavam a ARPEN de manipular os dados para mostrar que a Covid-19 é mais letal. A teoria ganhou impulso inclusive nas redes sociais de <a href="https://twitter.com/AiltonBenedito/status/1263181237126139904">pessoas</a> que trabalham em entidades do Estado brasileiro.</p>
+
+<p>Os dados não foram reinseridos na plataforma até o dia da publicação deste artigo.</p>
+
+<h3 id="sumiço-e-reaparecimento-de-3-milhões-de-registros">Sumiço e reaparecimento de 3 milhões de registros</h3>
+<p>Na manhã do dia 27 de maio, 70% dos registros de óbitos foram removidos da plataforma, novamente levantando suspeitas sobre a confiabilidade do portal.</p>
+
+<p>A ARPEN Brasil informou ao <strong>Núcleo</strong> via Whatsapp que os dados desapareceram por conta de um erro na atualização da base de dados e que isso seria corrigido no dia seguinte.</p>
+
+<p>No dia 28 de maio, esses dados estavam corretamente registrados na plataforma.</p>
+
+<h3 id="possibilidades-de-uso-dos-dados">Possibilidades de uso dos dados</h3>
+
+<p>Tanto jornalistas quanto governos estão procurando fontes de dados confiáveis para ajudar a compreender a pandemia.</p>
+
+<p>Fontes não confiáveis, porém, podem <a href="https://edition.cnn.com/interactive/2020/05/world/worldometer-coronavirus-mystery/index.html">levar a erros</a>, especialmente na tomada de decisões em tempo real.</p>
+
+<p>Certamente os dados do Portal da Transparência do Registro Civil possuem eficiência dentro de contextos e análises específicas, mas sua utilidade na análise da situação epidemiológica atual já <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/05/base-de-dados-de-cartorios-traz-falhas-que-impedem-calcular-efeito-real-do-coronavirus-no-brasil.shtml">foi colocada à prova</a>.</p>
+
+<p>Em sistemas de processamento distribuídos há diferentes estratégias para estruturação e criação de consistência na entrada de dados.</p>
+
+<p>Intuitivamente imaginamos que os dados são cadastrados de tal forma que são consistentes desde o primeiro momento – por exemplo, após um falecimento, o registro de óbito é realizado e está presente e disponível para o portal.</p>
+
+<p>Existem, porém, mais de 7.500 cartórios no Brasil, em regiões com realidades completamente diferentes. Essas informações são agregadas em um sistema centralizado – o portal da transparência. Cada um desses cartórios realiza o processamento local do registro de óbito e depois envia para o sistema central.</p>
+
+<p>Mas esses cartórios podem possuir dinâmicas próprias e atrasos pontuais ou sistêmicos, ocasionados pelos recursos e limitações únicos de cada um. Em sistemas onde os dados são alimentados de forma assíncrona por unidades de processamento locais, dá-se o nome de ‘<a href="https://www.youtube.com/watch?v=RY_2gElt3SA">sistemas de consistência eventual</a>’. <em>Para uma explicação mais detalhada, ver o <a href="https://en.wikipedia.org/wiki/Eventual_consistency">artigo na Wikipedia</a>, em inglês</em>.</p>
+
+<p>Sistemas com consistência eventual partem do princípio de que é mais importante divulgar algum dado, ainda que impreciso, do que aguardar para que todos os atrasos sejam solucionados e os dados estejam completamente consistentes. Isso vale tanto para sistemas onde a consistência do valor não é o mais importante, quanto para situações onde atrasos estão fora do controle do sistema central.</p>
+
+<p>Portanto, sistemas assim são amplamente utilizados em diversos serviços onde a precisão do valor é menos relevante que a disponibilização aproximada do valor. Redes sociais e plataformas de vídeo, por exemplo, utilizam esse tipo de estratégia ao contar curtidas e visualizações.</p>
+
+<h5 id="resumindo-o-uso-da-estratégia-de-consistência-eventual-pelo-portal-de-transparência-do-registro-civil-acontece-porque-os-dados-são-registrados-de-forma-distribuída-em-cartórios-com-realidades-extremamente-diferentes-e-esperar-a-plena-consistência-para-publicação-reduziria-a-utilidade-da-informação"><strong>RESUMINDO</strong>: o uso da estratégia de consistência eventual pelo Portal de Transparência do Registro Civil acontece porque os dados são registrados de forma distribuída em cartórios com realidades extremamente diferentes, e esperar a plena consistência para publicação reduziria a utilidade da informação.</h5>
+
+<p>Assim, sabendo que a arquitetura do sistema segue a estratégia de consistência eventual, podemos traçar algumas premissas para utilizar esses dados.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>Pelo acompanhamento que realizamos e com informações fornecidas com o representante do portal é possível estabelecer algumas premissas de como a base de dados se comporta:</p>
+
+<ol>
+  <li>
+    <p>Exceto por interferência da ARPEN ou erros, a curva de registros é estritamente crescente;</p>
+  </li>
+  <li>
+    <p>A atualização é irregular, existem dias em que os dados não são atualizados.</p>
+  </li>
+  <li>
+    <p>Existe atraso para todos os registros de óbito no país, porém eles não são distribuídos igualmente na extensão do país;</p>
+  </li>
+  <li>
+    <p>Um aumento súbito no número de registros não reduziria os atrasos que acontecem no sistema. Pode ser que um aumento súbito no número de registros aumente o atraso;</p>
+  </li>
+  <li>
+    <p>As variações diárias para um período são menores quanto mais antigo é esse período, ou seja, os dados se aproximam cada vez mais do valor real porém a taxa de atualização é cada vez menor.</p>
+  </li>
+</ol>
+
+<p>Com as premissas apresentadas acima, podemos analisar os dados coletados no portal.</p>
+
+<p>A comparação com o maior valor registrado para os dois primeiros meses de 2019 e os dados para os mesmos meses em 2020, mostra que seria esperado um aumento no número de óbitos para o ano corrente.</p>
+
+<p>Mas apesar de os primeiros quatro meses de 2020 possuírem mais registros que o mesmo período em 2019, os meses afetados pela pandemia (março e abril, no caso) já mostram porcentagens <em>expressivamente</em> maiores na comparação com o ano anterior:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Mês (2020)</th>
+      <th>Nº de registros de óbito em 31 de maio</th>
+      <th>% em relação ao mesmo mês em 2019</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Janeiro</td>
+      <td>104.853</td>
+      <td>101.4%</td>
+    </tr>
+    <tr>
+      <td>Fevereiro</td>
+      <td>88.140</td>
+      <td>100.5%</td>
+    </tr>
+    <tr>
+      <td>Março</td>
+      <td>100.507</td>
+      <td>108.2%</td>
+    </tr>
+    <tr>
+      <td>Abril</td>
+      <td>107.281</td>
+      <td>105.7%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="../img/covid/arpen_meses_var.png" alt="Variação de meses janeiro a abril de dados do Arpen" /></p>
+
+<p>Note que os registros de óbitos referentes a abril de 2020 (observados em maio) subiram de 91% para 105,7% do valor registrado em 2019 para o mesmo período.</p>
+
+<p>Como a atualização do portal não é constante, para avaliar a variação da taxa de atualização dos registros foi utilizada a média móvel de 7 dias, com objetivo de reduzir o impacto que fins de semana teriam na computação de novos dados no sistema.</p>
+
+<p>Observamos que para os meses anteriores a abril de 2020 a taxa de atualização corrigida pela média móvel nunca é superior a 250 registros diários. Mas o próprio mês de abril, vemos uma queda na taxa de atualização de 1.200 registros diários para menos de 100 registros diários durante o mês de maio.</p>
+
+<p>Já a taxa de atualização do mês de maio de 2020, começa em torno de 2000 registros por dia, e tem como ponto máximo mais de 5800 registros diários na média móvel.</p>
+
+<p>Esse valor de 5800 registros diários seria o equivalente a 1300 óbitos além da média diária do registro para o mesmo mês do ano anterior.
+E olhando a variação diária do total anual durante o mês de maio de 2020, temos que o ponto máximo da curva da média móvel foi de 7034 registros de óbitos no dia 18 de maio, e além disso, o mês termina com a curva em um patamar superior ao do início.</p>
+:ET
