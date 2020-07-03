@@ -19,7 +19,7 @@ dados_abertos_link2: "https://transparencia.registrocivil.org.br/inicio"
 background: 'covid/registro_civil.jpg'
 atualizacao: ""
 categories:
-  - "transparencia"
+  - "transparência"
 tags:
   - "Portal da transparência do registro civil, "
   - "Dados abertos, "
