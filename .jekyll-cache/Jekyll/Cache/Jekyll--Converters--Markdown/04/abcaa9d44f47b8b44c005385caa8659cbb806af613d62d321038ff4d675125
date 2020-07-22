@@ -1,0 +1,63 @@
+I"�<p>O engajamento das publicações de Jair Bolsonaro no Twitter tem minguado nas últimas semanas para o menor patamar em mais de um ano.</p>
+
+<p>Análise do <strong>Núcleo</strong> com dados do <a href="../monitor">Monitor Nuclear</a> com os últimos 3.876 tweets originais de Bolsonaro desde fevereiro de 2019 mostra que a <code class="language-plaintext highlighter-rouge">tendência de engajamento</code> do presidente está em queda desde a semana da divulgação do <a href="https://g1.globo.com/politica/noticia/2020/05/22/em-reuniao-bolsonaro-diz-nao-posso-ser-surpreendido-com-noticias-po-eu-tenho-a-pf-que-nao-me-da-informacoes-assista.ghtml">vídeo</a> da reunião ministerial e de sua entrevista à frente do Palácio do Alvorada para criticar a ação do STF contra desinformação, para o qual ele <a href="https://www.youtube.com/watch?v=-0VmL3IxtI0">deu o alerta</a> “acabou, porra”.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>O Twitter sempre foi importante para a comunicação de Bolsonaro, inclusive em busca de apoio. Perder a engajamento lá significa menos interesse em suas mensagens</em></p>
+  </li>
+  <li>
+    <p><em>Boa parte das autoridades se comunica com suas bases pelo Twitter, que se tornou um termômetro de discussão política e de assuntos do momento no país, pautando autoridades, imprensa e o debate em geral</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Para avaliar tendências no engajamento de políticos, o algoritmo do Monitor Nuclear calcula a média móvel da relação entre o total de interações simples (curtidas e retweets) em tweets originais e o número de publicações por dia. Esse cálculo serve para atenuar oscilações diárias e mostrar o comportamento dos dados no curto prazo.</p>
+
+<p>O engajamento médio do presidente, considerando um intervalo de 15 dias, está no menor patamar em mais de um ano (desde julho de 2019), caindo severamente após um pico no final de maio e começo de junho.</p>
+
+<p><img src="../img/twitter-files/bolsonaro_tt_engajamento.png" alt="gráfico com tendência de engajamento" /></p>
+
+<p>Não que o presidente tenha ficado longe de controvérsias, como ter feito um <a href="https://veja.abril.com.br/politica/jair-bolsonaro-toma-hidroxicloroquina-em-video-e-diz-esta-dando-certo/">vídeo</a> no qual toma cloroquina após ter sido diagnosticado com Covid-19 (o remédio <a href="https://www.paho.org/bra/index.php?option=com_content&amp;view=article&amp;id=6101:covid19&amp;Itemid=875#cloroquina-hidroxicloroquina">não tem eficácia comprovada</a> contra a doença e é algo de constante especulação e desinformação), o imbróglio envolvendo a <a href="https://g1.globo.com/politica/noticia/2020/06/18/ministro-da-educacao-abraham-weintraub-anuncia-saida-do-cargo-em-video-com-bolsonaro.ghtml">saída</a> do ministro da Educação e a eventual nomeação de outro nome para o cargo, que logo foi forçado a deixar o governo por <a href="https://g1.globo.com/educacao/noticia/2020/06/29/entenda-as-polemicas-sobre-os-titulos-academicos-do-novo-ministro-da-educacao-carlos-alberto-decotelli.ghtml">ter mentido</a> em seu currículo. Mas isso não se refletiu diretamente em interesse pelos tweets do presidente.</p>
+
+<p>A <code class="language-plaintext highlighter-rouge">taxa de engajamento</code> (média de interações por dia de cada tweet) vem apresentando tendência de queda pelo menos desde o começo do mandato, no início de 2019, mesmo com os picos no fim de maio e começo de junho.</p>
+
+<p><img src="../img/twitter-files/bolsonaro_tx_engajamento.png" alt="gráfico com taxa de engajamento" /></p>
+
+<p>Considerando um agrupamento mensal, para facilitar a visualização, as interações médias por tweet foram de 24 mil curtidas e retweets em junho de 2020, segundo menor patamar da série analisada pelo <strong>Núcleo</strong> (gráfico abaixo).</p>
+
+<p><img src="../img/twitter-files/bolsonaro_engajamento_mensal_medio.png" alt="gráfico com tendência de engajamento" /></p>
+
+<p>Essa queda acontece no mesmo momento em que Bolsonaro tem tuitado um pouco mais.</p>
+
+<p><img src="../img/twitter-files/bolsonaro_engajamento_ntweets.png" alt="gráfico com tendência de engajamento" /></p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+<p>O <strong>Núcleo</strong> usou dados do <a href="../monitor">Monitor Nuclear</a> para fazer essas análises.</p>
+
+<p>O Monitor Nuclear é uma aplicação do Núcleo Jornalismo que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.</p>
+
+<p>Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.</p>
+
+<p>Com apenas 14,35 milhões de usuários, o Twitter está longe de representar o eleitorado brasileiro, mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil.</p>
+
+<p>A análise é baseada em três variáveis: data de publicação, total de curtidas por tweet e total de retweets por tweet.</p>
+
+<p>Os dados não consideram comentários, por dois motivos:</p>
+
+<ol>
+  <li>
+    <p>curtidas e retweets estão limitados a apenas um por perfil, funcionando quase como uma métrica de endosso ao conteúdo. Isso torna mais difícil para bots e perfis falsos inflarem artificialmente tweets originais, ao contrário do que acontece com uma hashtag, por exemplo, à medida que um perfil pode curtir múltiplos tweets com um termo.</p>
+  </li>
+  <li>
+    <p>comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação provável de endosso, podendo ser críticos, ofensivos, spam, piadas, memes ou tags para pessoas acompanharem o assunto.</p>
+  </li>
+</ol>
+
+<p>Vale notar que a metodologia do Monitor é válida para se visualizar engajamento em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
+:ET

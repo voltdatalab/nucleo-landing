@@ -47,7 +47,7 @@ Os dados analisados são obtidos diretamente da API do Twitter[^4], e atualizado
 
 A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil. Tentar obter publicações mais antigas com dados atualizados, mas a partir do lançamento de maio de 2020) passamos a acumular todos os tweets, agregando todas as entradas. Nosso script roda automaticamente de seis em seis horas, puxando os últimos 50 tweets publicados por cada perfil para atualizar suas contagens.  
 
-O **Monitor** é construido com a linguagem R.
+O **Monitor** é construído com a linguagem R.
 
 #### Base da análise
 
