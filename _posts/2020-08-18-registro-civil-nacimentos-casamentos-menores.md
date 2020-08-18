@@ -43,7 +43,7 @@ Longe da atenção do público estão casos no qual casamentos de crianças fora
 
 ---
 
-A advogada Isabela Del Monde, da [Rede Feminista de Juristas](https://www.instagram.com/defemde/?hl=pt-br) (deFEMde), explica que até então o casamento de menores de 16 anos era permitido pelo Código Civil em casos de gravidez. No entanto, o Código Penal considera que relações sexuais com menores  de 14 configura estupro de vulnerável.  - Link para a matéria: https://azmina.com.br/reportagens/lei-permitiu-1-284-casamentos-de-meninas-menores-de-15-anos-desde-2014/ -
+A advogada Isabela Del Monde, da [Rede Feminista de Juristas](https://www.instagram.com/defemde/?hl=pt-br) (deFEMde), explica que até então o casamento de menores de 16 anos era permitido pelo Código Civil em casos de gravidez. No entanto, o Código Penal considera que relações sexuais com menores  de 14 configura estupro de vulnerável.
 
 ![gráfico sobre casamento de menores de 15 anos](../img/registrocivil/nucleo_casamento_menores.png)
 
