@@ -68,6 +68,8 @@ Na verdade, desde 2005, a extinção de pena com o casamento já não estava mai
 
 Isabela Del Monde observa que a justiça brasileira por muito tempo entendeu que casamento era uma forma de negar a violência sexual: até a criação da Lei Maria da Penha, em 2006, a justiça não previa estupro dentro do casamento.
 
+#### [SAIBA MAIS - DOCUMENTÁRIO CASAMENTI INFANTIL (2018)](https://www.youtube.com/watch?v=qIPAKKzNZ_w)
+
 ### CASAMENTO INFANTIL
 
 A UNICEF considera casamento infantil a união, formal ou informal, antes dos 18 anos. Segundo [relatório](https://data.unicef.org/resources/profile-of-child-marriage-and-early-unions-in-latin-america-and-the-caribbean/) da organização, uma em cada quatro meninas da América Latina se casa antes dos 18 anos.
