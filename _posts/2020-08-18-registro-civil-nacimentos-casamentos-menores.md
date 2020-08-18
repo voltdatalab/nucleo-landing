@@ -4,7 +4,7 @@ layout: conteudo
 tipo: reportagem
 title: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos desde 2014"
 titulo_redes: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos desde 2014"
-subtitle: "Análise do Núcleo em parceria com Revista Azmina mostra que, entre 2014 e 2018, registrou-se no Brasil que pelo menos 1.284 meninas e 73 meninos menores de 15 anos se casaram."
+subtitle: "Análise do Núcleo em parceria com Revista AzMina mostra que, entre 2014 e 2018, registrou-se no Brasil que pelo menos 1.284 meninas e 73 meninos menores de 15 anos se casaram."
 subtitle_redes: "Prática foi proibida expressamente apenas em março de 2019"
 excerpt: "O engajamento das publicações de Jair Bolsonaro no Twitter tem minguado nas últimas semanas para o menor patamar em mais de um ano."
 date: 18/08/2020
@@ -18,7 +18,7 @@ dados_abertos2: "Estatísticas do Registro Civil 2018 (IBGE)"
 dados_abertos_link2: "https://sidra.ibge.gov.br/pesquisa/registro-civil/quadros/brasil/2018"
 background: 'registrocivil/capa_pauta_casamento_infantil.jpeg'
 atualizacao: ""
-nota_abertura: "Publicado em parceria com a <a href='https://azmina.com.br/' target='_blank'>Revista Azmina</a>"
+nota_abertura: "Publicado em parceria com a <a href='https://azmina.com.br/' target='_blank'>Revista AzMina</a>"
 categories:
   - "direitoshumanos"
 tags:
