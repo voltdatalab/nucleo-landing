@@ -17,7 +17,7 @@ dados_abertos_link: "https://docs.google.com/spreadsheets/d/1m4WxKCZo_zDMWTLKI3H
 dados_abertos2: "Estatísticas do Registro Civil 2018 (IBGE)"
 dados_abertos_link2: "https://sidra.ibge.gov.br/pesquisa/registro-civil/quadros/brasil/2018"
 background: 'registrocivil/capa_pauta_casamento_infantil.jpeg'
-atualizacao: ""
+atualizacao: "Texto atualizado às 18h04 de 18/08/2020 para incluir comentários de advogada."
 nota_abertura: "Publicado em parceria com a <a href='https://azmina.com.br/reportagens/lei-permitiu-1-284-casamentos-de-meninas-menores-de-15-anos-desde-2014/' target='_blank'>Revista AzMina</a>"
 categories:
   - "direitos"
@@ -43,6 +43,8 @@ Longe da atenção do público estão casos no qual casamentos de crianças fora
 
 ---
 
+A advogada Isabela Del Monde, da [Rede Feminista de Juristas](https://www.instagram.com/defemde/?hl=pt-br) (deFEMde), explica que até então o casamento de menores de 16 anos era permitido pelo Código Civil em casos de gravidez. No entanto, o Código Penal considera que relações sexuais com menores  de 14 configura estupro de vulnerável.  - Link para a matéria: https://azmina.com.br/reportagens/lei-permitiu-1-284-casamentos-de-meninas-menores-de-15-anos-desde-2014/ -
+
 ![gráfico sobre casamento de menores de 15 anos](../img/registrocivil/nucleo_casamento_menores.png)
 
 
@@ -66,7 +68,9 @@ Desde março de 2019, o casamento de menores de 16 anos é proibido no Brasil. J
 
 Na verdade, desde 2005, a extinção de pena com o casamento já não estava mais prevista no Código Penal, mas o texto seguia no Código Civil. Ou seja: até 2005 o adulto que cometesse estupro de vulnerável tinha respaldo da justiça para não ser punido pelo crime caso se casasse com a vítima.
 
-Isabela Del Monde observa que a justiça brasileira por muito tempo entendeu que casamento era uma forma de negar a violência sexual: até a criação da Lei Maria da Penha, em 2006, a justiça não previa estupro dentro do casamento.
+"A gente tinha uma contradição legislativa entre o Código Penal que estabelece o crime de estupro de vulnerável e o Código Civil que autorizava o casamento de menores de 16 anos em casos de gravidez. Não é incomum de haver no Brasil uma contradição de leis e, nesses casos, deveria ter sido aplicado o que estava previsto no Código Penal. Essa previsão antiga do Código Civil revela um conservadorismo e uma naturalização da violência sexual no Brasil", disse Isabela Del Monde.
+
+Ela também observa que a justiça brasileira por muito tempo entendeu que casamento era uma forma de negar a violência sexual: até a criação da Lei Maria da Penha, em 2006, a justiça não previa estupro dentro do casamento.
 
 #### [SAIBA MAIS - DOCUMENTÁRIO CASAMENTI INFANTIL (2018)](https://www.youtube.com/watch?v=qIPAKKzNZ_w)
 
