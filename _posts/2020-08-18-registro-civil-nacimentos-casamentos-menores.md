@@ -17,7 +17,7 @@ dados_abertos_link: "https://docs.google.com/spreadsheets/d/1m4WxKCZo_zDMWTLKI3H
 dados_abertos2: "Estatísticas do Registro Civil 2018 (IBGE)"
 dados_abertos_link2: "https://sidra.ibge.gov.br/pesquisa/registro-civil/quadros/brasil/2018"
 background: 'registrocivil/capa_pauta_casamento_infantil.jpeg'
-atualizacao: "Texto atualizado às 18h04 de 18/08/2020 para incluir comentários de advogada."
+atualizacao: "Texto atualizado às 18h04 de 18/08/2020 para incluir comentários de advogada. Atualiza às 11h17 de 19/08/2020 para acrescentar esclarecimento no 5o parágrafo de que o IBGE não divulga a idade exata para menores de 15 anos."
 nota_abertura: "Publicado em parceria com a <a href='https://azmina.com.br/reportagens/lei-permitiu-1-284-casamentos-de-meninas-menores-de-15-anos-desde-2014/' target='_blank'>Revista AzMina</a>"
 categories:
   - "direitos"
@@ -50,7 +50,7 @@ A advogada Isabela Del Monde, da [Rede Feminista de Juristas](https://www.instag
 
 Os dados são da [mais recente](https://sidra.ibge.gov.br/pesquisa/registro-civil/tabelas) pesquisa de registro civil do IBGE, de 2018 -- ou seja, informados por cartórios.
 
-O IBGE não informa a idade exata dos cônjuges, mas é possível afirmar que a maioria dos casamentos de meninas nessa faixa etária acontece com parceiros maiores de idade -- foram 1.006 uniões com homens de 18 anos ou mais, 78% do total.
+O IBGE não informa a idade exata dos cônjuges menores de 15 anos, mas é possível afirmar que a maioria dos casamentos de meninas nessa faixa etária acontece com parceiros maiores de idade -- foram 1.006 uniões com homens de 18 anos ou mais, 78% do total.
 
 Na outra ponta, 22% dos casamentos dessas meninas foram com menores de 18 anos.  
 
