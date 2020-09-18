@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: investigação
 title: "Incêndios já tomam quase metade das terras indígenas no Pantanal"
-titulo_redes: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos desde 2014"
+titulo_redes: "Incêndios já tomam quase metade das terras indígenas no Pantanal"
 subtitle: 'Levantamento inédito da Agência Pública indica que parte das queimadas começou em terras privadas; indígenas relatam que “fogo veio de fora” e “destruiu tudo"'
 subtitle_redes: "Dados indicam que parte das queimadas começou em terras privadas"
 excerpt: 'Levantamento inédito da Agência Pública indica que parte das queimadas começou em terras privadas; indígenas relatam que “fogo veio de fora” e “destruiu tudo"'
