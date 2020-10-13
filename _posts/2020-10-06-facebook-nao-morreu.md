@@ -6,7 +6,7 @@ tipo: especial
 title: "O Facebook não morreu"
 titulo_redes: "O Facebook não morreu"
 subtitle: 'Com estratégia orientada para grupos, rede social que conecta mais de um terço do planeta fortalece bolhas e mantém crescimento de usuários e receita'
-subtitle_redes: "Rede social só está mais concentrada em grupos, não no feed"
+subtitle_redes: "Só caiu de cabeça nos grupos"
 excerpt: 'Com estratégia orientada para grupos, rede social que conecta mais de um terço do planeta fortalece bolhas e mantém crescimento de usuários e receita'
 date: 08/10/2020
 autoria: Alexandre Orrico
@@ -35,9 +35,6 @@ tags:
   integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
   crossorigin="anonymous">
   </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
-
 
 **Não é porque** você e seus amigos não usam o Facebook que ele está morto e enterrado.
 
@@ -72,8 +69,6 @@ A rede social sofre, visivelmente, uma desidratação em faixas específicas de 
 **O Facebook sabe disso**, e tenta manter a faixa mais jovem de usuários dentro do ecossistema da companhia mesmo que fora do seu aplicativo principal. Por ecossistema, claro, falamos do Instagram (que clonou funcionalidades tanto do Snapchat <input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>Evan Spiegel, fundador do Snapchat, recusou uma proposta de compra diretamente de Mark Zuckerberg de US$ bilhões. “Poucas pessoas no mundo têm a chance de construir um negócio como este. Trocar isso por algum ganho de curto prazo não é muito interessante”, <a href="https://www.forbes.com/sites/jjcolao/2014/01/06/the-inside-story-of-snapchat-the-worlds-hottest-app-or-a-3-billion-disappearing-act/#63b8ee9c67d2">justificou</a> à Forbes. Para referência, o Instagram foi comprado por<a href="https://oglobo.globo.com/economia/facebook-compra-instagram-por-us-1-bilhao-em-dinheiro-acoes-4530157">US$ 1 bilhão</a> e o WhatsApp por <a href="https://oglobo.globo.com/economia/facebook-compra-whatsapp-por-us-19-bilhoes-11656044">US$ 19 bilhões</a>.<br><br></span>, os Stories, quanto do TikTok, os Reels) e do WhatsApp.
 
 No Brasil, na [pesquisa](https://cetic.br/media/analises/tic_kids_online_brasil_2019_coletiva_imprensa.pdf) TIC Kids Online, do Cetic.br, divulgada este ano, o WhatsApp pela primeira vez ultrapassou o Facebook como rede social preferida entre os jovens de 9 a 17 anos. O Instagram, no terceiro lugar, mostra forte tendência de crescimento.
-
-<img src="{{ site.baseurl }}/img/social-fb/gif-reactions.gif" width="100%">
 
 <span class="texto-destak"> Mas como é possível o Facebook estar mais cheio do que nunca se, quando você entra lá, ele muitas vezes parece um deserto?</span> <br>
 
@@ -124,6 +119,8 @@ Claro, é preciso levar em consideração o número de usuários de cada platafo
 O <strong>Núcleo</strong> acompanhou de perto muitos destes grupos durante o último mês e viu de tudo: informações falsas, vídeos ao vivo, links para canais obscuros de YouTube e militância fervorosa, quase religiosa, como estamos acostumados a ver de uns anos para cá nas redes.
 
 Para entender o comportamento polarizado dos grupos nós precisamos voltar para 2009, o ano de surgimento do algoritmo do Facebook. Ou seja, o conteúdo na rede passou aos poucos a ser recomendado de acordo com o comportamento do usuário em vez de aparecer em ordem cronológica.
+
+<img src="{{ site.baseurl }}/img/social-fb/gif-reactions-crop.gif" width="100%">
 
 Em 2016, o mecanismo sofreu um ajuste para tirar a força das curtidas e reduzir conteúdo caça-likes, e em 2018 passou a priorizar comentários e conversas, para recompensar posts que criam "relações entre os usuários”, disse comunicado oficial da rede.
 
