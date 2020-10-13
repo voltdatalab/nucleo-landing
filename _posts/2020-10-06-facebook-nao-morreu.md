@@ -17,6 +17,7 @@ dados_abertos: "Dados sobre usuários do Facebook - via Statista"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit?usp=sharing"
 dados_abertos2: ""
 dados_abertos_link2: ""
+gif: 'social-fb/facebook.gif'
 background: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: ""
 nota_abertura: ""
@@ -64,10 +65,6 @@ O lucro [cresceu 11%](https://investor.fb.com/investor-news/press-release-detail
   </div>
 </div>
 
-<br>
-
-<br>
-
 <hr>
 
 A rede social sofre, visivelmente, uma desidratação em faixas específicas de idade <input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Apenas 51% dos jovens norte-americanos com idades entre 13 de 17 anos estão no Facebook, segundo <a href="https://www.investopedia.com/news/aging-facebook-losing-teens-pew-research-survey/">pesquisa</a> da Pew Research Center, feita em 2019. Há 8 anos este percentual era de 90%. O fenômeno ocorre em vários países do mundo, ainda que insuficiente para decrescer a taxa de usuários da plataforma.<br><br></span>, como a da geração Z (pessoas nascidas, em média, entre a segunda metade dos anos 1990 até o início do ano 2010), que preferia o Snapchat até recentemente e já algum tempo o TikTok.
@@ -76,7 +73,7 @@ A rede social sofre, visivelmente, uma desidratação em faixas específicas de 
 
 No Brasil, na [pesquisa](https://cetic.br/media/analises/tic_kids_online_brasil_2019_coletiva_imprensa.pdf) TIC Kids Online, do Cetic.br, divulgada este ano, o WhatsApp pela primeira vez ultrapassou o Facebook como rede social preferida entre os jovens de 9 a 17 anos. O Instagram, no terceiro lugar, mostra forte tendência de crescimento.
 
-<img src="{{ site.baseurl }}/img/line_break.png" width="100%">
+<img src="{{ site.baseurl }}/img/social-fb/gif-reactions.gif" width="100%">
 
 <span class="texto-destak"> Mas como é possível o Facebook estar mais cheio do que nunca se, quando você entra lá, ele muitas vezes parece um deserto?</span> <br>
 
@@ -94,21 +91,21 @@ Essa mudança de rumo começou lá em 2016, quando a empresa sofria uma tempesta
 
 Como parte da resposta às críticas, Zuckerberg [lançou](https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634) em 2017 um grande manifesto sobre como o Facebook passaria a focar na construção de comunidades seguras. Três anos depois, em janeiro de 2020, o Facebook pagou algo em torno de US$ 10 milhões [em um anúncio](https://www.youtube.com/watch?v=Rpxqja0zD5Y) justamente sobre a função de grupos no intervalo do Superbowl -- um cobiçado espaço publicitário na TV norte-americana.
 
+### OS GRUPOS
+
 Para se ter uma ideia melhor da atividade que acontece dentro dos grupos aqui no Brasil, pense que há comunidades como a _Aliança pelo Brasil - Presidente Jair Bolsonaro_, com mais de 100 mil membros e quase 3 mil publicações por dia (posts + comentários). Ou como a _Somos 75 Por Cento Contra Bolsonaro_, que reúne 18 mil pessoas e tem o impressionante número de 5,7 mil publicações diárias ou mais de 170 mil por mês.
 
 Apenas grupos com o termo "Bolsonaro" ultrapassam a casa da centena, muitos contendo dezenas de milhares de usuários.
 
-Para se ter uma ideia do volume que esse recurso representa para o presidente, o termo "Bolsonaro" foi citado em 5,13 milhões posts de grupos públicos em português entre 1º de janeiro de 2018 e 12 de outubro deste ano, totalizando 418,2 milhões de interações.
+E o volume que esse recurso representa é gigantesco, ainda mais para o presidente. O termo "Bolsonaro" foi citado em 5,13 milhões posts de grupos públicos em português entre 1º de janeiro de 2018 e 12 de outubro deste ano, totalizando 418,2 milhões de interações.
 
 Se levarmos em conta, além de grupos, também as _fan pages_ e perfis verificados, foram 8 milhões de posts e 3,2 bilhões de interações (likes, comentários e compartilhamentos) em menos de dois anos. No Instagram, comparativamente, foram 493 mil posts públicos com o termo "Bolsonaro", que geraram 1,48 bilhão de interações.
 
-<span class="texto-destak-right"> Você leu certo: o termo "Bolsonaro" gerou mais de 3 bilhões de interações em menos de dois anos.</span>
+<span class="texto-destak-right">Você leu certo: o termo "Bolsonaro" gerou mais de 3 bilhões de interações em menos de dois anos no Facebook.</span>
 
-Esse volume é menor do que interações com posts contendo os termos "Trump" ou "coronavirus", por exemplo, mas fica acima de "Obama" e "Biden" -- o que indica uma predisposição para a direta de usuários do Facebook.
+Esse volume é menor do que interações com posts contendo os termos "Trump" ou "coronavirus", por exemplo, mas fica acima de "Obama" e "Biden" -- o que, grosso modo, indica uma predisposição para a direta de usuários do Facebook.
 
-<img id="img" src="{{ site.baseurl }}/img/social-fb/fb_total_interacoes.png" width="100%">
-
-
+<img id="img" src="{{ site.baseurl }}/img/social-fb/fb_total_interacoes.png" width="100%" class="img-destak" style="left:0 !important">
 
 ### E O TWITTER?
 

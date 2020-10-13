@@ -555,7 +555,8 @@ h2.subheading-special {
 }
 
 .creditos_special{
-  font-family: 'Days One', sans-serif;
+  font-family: 'Barlow', sans-serif;
+  text-transform: uppercase;
   font-size: 0.9em;
   color: #231f20;
 }
@@ -585,7 +586,7 @@ sup::after {
   content: counter(cb_counter_var);
   vertical-align: super;
   font-size: 1.5em;
-  color: #c7254e
+  color: #f33872
 }
 
 /* This initially hides the footnote (i.e. span)  */

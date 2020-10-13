@@ -12,14 +12,6 @@
 					max-width: 980px;
 					text-align: center;
 				}
-
-				.destak-special{
-					margin: 50px 0 30px;
-					height: 450px;
-					background: url('../img/{{ site.baseurl }}{{ page.background }}') rgba(0, 0, 0, 0.4);
-					background-position: center;
-					background-size: cover;
-				}
 				.mid_especial{
 					margin: 50px 0 30px;
 					overflow: hidden;
@@ -51,8 +43,30 @@
 				</div>
 
 				<!-- IMAGEM DE DESTAQUE NA DIV -->
+				<style>
+				{% if page.gif %}
+
+				.destak-special{
+					margin: 50px 0 30px;
+					height: 450px;
+					background: url('../img/{{ site.baseurl }}{{ page.gif }}') rgba(0, 0, 0, 0.4);
+					background-position: center;
+					background-size: cover;
+				}
+				{% else %}
+				.destak-special{
+					margin: 50px 0 30px;
+					height: 450px;
+					background: url('../img/{{ site.baseurl }}{{ page.background }}') rgba(0, 0, 0, 0.4);
+					background-position: center;
+					background-size: cover;
+				}
+				{% endif %}
+				</style>
 
 				<div class="destak-special"></div>
+
+
 				 <br /><br />
 
 				<h2 class="subheading-special">{{ page.subtitle }}</h2>
