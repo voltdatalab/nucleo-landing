@@ -1,6 +1,7 @@
 ---
 published: TRUE
 layout: conteudo
+hidden: true
 tipo: investigação
 title: "Incêndios já tomam quase metade das terras indígenas no Pantanal"
 titulo_redes: "Incêndios já tomam quase metade das terras indígenas no Pantanal"

@@ -14,12 +14,12 @@
         <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
         <span class="arquivado">
-          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <u><a href="{{ base.url }}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u> &middot;
+          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u> &middot;
 					<div class="popover__wrapper">
 									<span class="popover__title"><u>{{ page.tipo }}</u></span>
 											<div class="popover__content">
 												<p class="popover__message">
-													- <strong>Investigação</strong>: mais aprofundada, investigativa<br /><br />
+													- <strong>Investigação/Reportagem</strong>: mais aprofundada, investigativa<br /><br />
 													- <strong>Análise</strong>: baseada principalmente em análise de dados <br /><br />
 													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
 													- <strong>Descrição</strong>: exploração sem necessidade de conclusão

@@ -1,6 +1,7 @@
 {% include head_post.html %}
 
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:2 %}
+{% unless post.categories contains 'draft' %}
 <br />
 
 
@@ -25,6 +26,7 @@
 
               </div>
             </div>
+{% endunless %}
 
 {% endfor %}
 

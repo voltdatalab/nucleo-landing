@@ -325,6 +325,22 @@ hr {
       line-height: 1.2em;
       width: 90%
     }
+
+    h2.subheading-special {
+      font-weight: 400;
+      color: #888888;
+      font-size: 1.5em;
+      line-height: 1.2em;
+      width: 90%
+    }
+
+    .img-destak{
+      width: 100% !important;
+      position: relative;
+      left: 0 !important;
+      float: none !important;
+    }
+
     .arquivado{
       font-size: 0.85em
     }
@@ -342,6 +358,29 @@ hr {
       float:right;
       border-radius: 5px;
       padding: 0 20px 20px;
+    }
+
+    .texto-destak{
+      max-width: 300px;
+      overflow: visible;
+      position: relative;
+      left: 0 !important;
+      margin: 20px 0;
+      color: #4b31dd;
+      text-transform: uppercase;
+      line-height: 1.5em;
+    }
+
+    .texto-destak-right{
+      max-width: 300px;
+      position: relative;
+      right: 0 !important;
+      float: right;
+      margin: 20px 0;
+      color: #4b31dd;
+      text-align: right;
+      text-transform: uppercase;
+      line-height: 1.5em;
     }
 
 }
@@ -414,4 +453,181 @@ td{
 
 .popover__message strong{
   color: #4b31dd;
+}
+
+.chapeu{
+  background-color: #4b31dd;
+  color: #fff;
+  display:inline;
+  padding: 7px 5px;
+  border-radius:5px;
+}
+
+/* ESPECIAL */
+.tt-special{
+  font-size: 3em;
+  color: ##231f20;
+  text-transform: uppercase;
+  display: inline;
+  line-height: 1.3em;
+  padding-bottom: 50px;
+}
+
+h2.subheading-special {
+  font-weight: 400;
+  color: #555555;
+  font-size: 1.4em;
+  line-height: 2.3em;
+  text-transform: uppercase;
+  padding: 7px;
+  background-color: #fff;
+  display: inline;
+}
+
+.img-destak{
+  max-width: 700px;
+  overflow: visible;
+  position: relative;
+  left: -18%;
+  float: left;
+  margin: 20px 0;
+  opacity: 0.3
+}
+
+.img-destak-big{
+  max-width: 920px;
+  overflow: visible;
+  position: relative;
+  left: -30%;
+  float: left;
+  margin: 20px 0;
+  opacity: 1
+}
+
+.texto-destak{
+  max-width: 700px;
+  overflow: visible;
+  position: relative;
+  left: -18%;
+  float: left;
+  margin: 20px 0;
+  color: #4b31dd;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  font-size: 1.2em;
+  font-weight: 400;
+  font-family: 'Source Serif Pro', monospace;
+}
+
+.texto-destak-right{
+  max-width: 700px;
+  overflow: visible;
+  position: relative;
+  right: -18%;
+  float: right;
+  margin: 20px 0;
+  color: #4b31dd;
+  text-align: right;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  font-size: 1.2em;
+  font-weight: 400;
+  font-family: 'Source Serif Pro', monospace;
+}
+
+.texto_post_special h5{
+  color: #4b31dd;
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin: 35px 0;
+  font-size: 1.2em;
+  font-weight: 400;
+  width: 80%;
+  font-family: 'Source Serif Pro', monospace;
+}
+
+.texto_post_special blockquote{
+  font-style: italic;
+  font-size: 0.95em !important;
+  border-left: 1px solid #2eefa0;
+  padding-left: -10px;
+  max-width: 100% !important;
+}
+
+.creditos_special{
+  font-family: 'Days One', sans-serif;
+  font-size: 0.9em;
+  color: #231f20;
+}
+
+.creditos_special span{
+  color: #4b31dd;
+}
+
+.overlay-special{
+  padding: 9px 15px;
+  color: #231f20;
+  border-bottom: 1px solid #4b31dd
+}
+
+
+/* REFERENCIAS - FOOTNOTES */
+
+/* This creates the counter  */
+body {
+  counter-reset: cb_counter_var;
+}
+
+/* This increments the counter value and defines
+the displayed content  */
+sup::after {
+  counter-increment: cb_counter_var;
+  content: counter(cb_counter_var);
+  vertical-align: super;
+  font-size: 1.5em;
+  color: #c7254e
+}
+
+/* This initially hides the footnote (i.e. span)  */
+input[type=checkbox] ~ span {
+    display:none;
+}
+
+/* This styles the footnote text which appears
+when the label is clicked  */
+input[type=checkbox]:checked ~ span {
+    display:inline;
+    font-size: 85%;
+    font-family: 'Roboto Mono', monospace;
+    color: #4b31dd;
+    padding: 10px;
+    cursor:default;
+}
+
+/* This permanently hides the checkbox  */
+input[type=checkbox]{
+    display:none;
+}
+
+/* This styles the footnote label to appear
+like a hyperlink  */
+input[type=checkbox] ~ label {
+    display:inline;
+    cursor:pointer;
+    color:$link-color;
+    text-decoration:underline;
+}
+
+/* This styles the footnote label when the mouse
+hover over it */
+input[type=checkbox] ~ label:hover {
+    text-decoration:underline;
+    cursor:pointer;
+    color:red;
+}
+
+/* This styles the footnote label after it is clicked */
+input[type=checkbox]:checked ~ label {
+    color:red;
+    text-decoration:none;
 }

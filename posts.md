@@ -14,6 +14,8 @@ atualizacao: 05/04/2020
           <div class="row">
 
 {% for post in site.posts limit : 200 %}
+{% unless post.categories contains 'draft' %}
+
         <div class="col-sm-6 col-lg-6">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
@@ -25,6 +27,9 @@ atualizacao: 05/04/2020
                   </span>
                   <br /><br />
           </div>
+
+          {% endunless %}
+
 
                 {% endfor %}
                 </div>

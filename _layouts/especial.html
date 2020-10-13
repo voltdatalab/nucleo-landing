@@ -1,93 +1,103 @@
 <!DOCTYPE html>
 <html>
 	{% include head_post.html %}
+
 	<body>
 		{% include nav.html %}
-<!-- Page Header -->
 
-<div class="container">
-  <div class="row">
-    <div class="mx-auto">
-      <div class="post-heading" style="text-align:center; max-width:900px; margin: 6% auto">
-        <h1>{{ page.title }}</h1>
-					{% if page.subtitle %}
-	        <h2 class="subheading" style="font-size:1.1em;text-align:center;max-width: 600px; margin: 0 auto">{{ page.subtitle }}</h2>
-	        {% endif %}
-					<br /><br />
-        <span class="arquivado">
-          Publicado em {{ page.date | date: '%d/%m/%Y' }} &middot; Arquivado em <u><a href="{{ base.url }}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
-        </span>
-						</div>
-					</div>
+		<section id="publicacoes">
+			<style>
+				.special_banner{
+					margin: 80px auto 20px;
+					max-width: 980px;
+					text-align: center;
+				}
+
+				.destak-special{
+					margin: 50px 0 30px;
+					height: 450px;
+					background: url('../img/{{ site.baseurl }}{{ page.background }}') rgba(0, 0, 0, 0.4);
+					background-position: center;
+					background-size: cover;
+				}
+				.mid_especial{
+					margin: 50px 0 30px;
+					overflow: hidden;
+					width: 100vw;
+				  position: relative;
+				  left: calc(-50vw + 50%);
+
+				}
+				.text_banner_special{
+					max-width: 600px;
+					margin: 0 auto;
+					text-align: center;
+				}
+			</style>
+
+			<div class="special_banner">
+				<div class="text_banner_special">
+				<h1 class="tt-special">{{ page.title }}</h1>
+				<div class="creditos">
+					<h4>
+								<span class="arquivado">
+
+									  <br /> Arquivado em <a href="{{ site.baseurl}}/{{ page.categories }}"><strong>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</strong></a>
+
+								</span> &middot;
+										<span class="arquivado">Publicado em {{ page.date | date: '%d/%m/%Y' }}</span>
+									</h4>
+								</div>
 				</div>
+
+				<!-- IMAGEM DE DESTAQUE NA DIV -->
+
+				<div class="destak-special"></div>
+				 <br /><br />
+
+				<h2 class="subheading-special">{{ page.subtitle }}</h2>
 			</div>
 
-{% if page.background %}
-<header class="masthead" style="max-height:600px;max-width:1024px;margin: 0 auto;background-image: url('../img/{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-	{% else %}
-	<header class="masthead">
-		{% endif %}
-		<div class="overlay"></div>
 
-	</header>
-	{% if page.credito_img %}<h6 class="feature_credito"> {{ page.credito_img }} </h6>{% endif %}
 
-	<div class="container">
-	  <div class="row">
-	    <div class="creditos" style="text-align:center; max-width:900px; margin: 2% auto">
-				<span class="arquivado creditos_alt">
-					{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
-					{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
-					{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
-					{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
-					{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
-					{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
-					{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
-				</span><br /><br />
-				<ul class="share-buttons">
-					<li><i class="fas fa-share-alt"></i></li>
-				<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
-				<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
-				<li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
-				<li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
-				<li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-				<li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
-			</ul>
-						</div>
-					</div>
-				</div>
+								<div class="container" style="padding: 0 5% 0px;max-width:650px">
+									<hr />
+									<h4 style="text-align:center; line-height: 1.6em">
+										<span class="creditos_special">
 
-  <div class="container">
-    <div class="row">
-			<div class="main">
-        <div class="texto_post" style="max-width: 600px; margin: 0 auto">
+										Por <span>{{ page.autoria }}</span> <br />
+										{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
+										{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
+										{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
+										{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
+										{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
+										{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
+										{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
 
-        {{ content }}
-				
-        </div>
-        <hr>
-				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
-				{% if page.dados_abertos %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
-				{% if page.dados_abertos2 %} <h5 class="links_dados"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
-				{% if page.dados_abertos3 %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
-	      	</div>
+									</span>
+								</h4>
+										<hr />
 
-					<h4><small>Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, mande uma mensagem no Whatsapp do Núcleo. Se tiver sugestões e correções, também queremos saber. <a href="https://wa.me/5511934441844" target="_blank"><i class="fab fa-whatsapp fa-lg"></i></a></small></h4>
-					<br />
+								<div class="texto_post_special">
+									<ul class="share-buttons" style="text-align:center">
+									<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+									<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+								  <li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+								  <li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+								  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+								  <li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+								</ul>
+								<br /><br />
+										{{ content }}
+								</div>
 
-					<p>
-						{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
-					</p>
-					<p>
-						<span class="arquivado creditos_alt">
-							<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
-						</span>
-					</p>
 
-  	</div>
-	</div>
+								      </div>
 
-  {% include footer.html %}
-  {% include js.html %}
-</body>
+
+	</section>
+
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
 </html>
