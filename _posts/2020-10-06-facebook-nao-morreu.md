@@ -22,7 +22,7 @@ background: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: ""
 nota_abertura: ""
 categories:
-  - "redes"
+  - "draft"
 tags:
   - "Facebook, "
   - "Política Digital, "
