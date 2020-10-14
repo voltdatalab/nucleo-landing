@@ -80,6 +80,8 @@ Segundo o próprio Facebook, há mais de [10 milhões de grupos ativos](https://
 
 Ou seja: as conversas ainda estão lá, mas talvez você não enxergue porque elas acontecem agora dentro de bolhas e fora do escrutínio público, parecido com o que acontece no Whatsapp.
 
+<p style="text-align:center"><img src="{{ site.baseurl }}/img/social-fb/gif-reactions-crop.gif" width="50%"></p>
+
 A plataforma realmente foi redesenhada, do código ao visual, para fazer com que seja mais fácil sair dos espaços públicos de conversas e ir para canais mais privados.
 
 Essa mudança de rumo começou lá em 2016, quando a empresa sofria uma tempestade de críticas <input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br><br>Desinformação espalhada pelo Facebook foi motivo de registros de mortes e instabilidade social em diversos países, como Índia, Bangladesh, Camarões e Sri Lanka. Em Myamnar, o Facebook <a href="https://www.facebook.com/photo.php?fbid=2507822102569071&set=pb.100000239162618.-2207520000..&type=3">foi usado</a> como ferramenta para limpeza étnica, segundo a ONU. O próprio Facebook concordou com as acusações e assumiu que foi lento em tomar atitudes para evitar genocídio de minoria mulçumana no país.<br><br></span> por não tomar atitudes suficientes para frear a difusão de fake news na plataforma.
@@ -100,7 +102,7 @@ Se levarmos em conta, além de grupos, também as _fan pages_ e perfis verificad
 
 Esse volume é menor do que interações com posts contendo os termos "Trump" ou "coronavirus", por exemplo, mas fica acima de "Obama" e "Biden" -- o que, grosso modo, indica uma predisposição para a direta de usuários do Facebook.
 
-<img id="img" src="{{ site.baseurl }}/img/social-fb/fb_total_interacoes.png" width="100%" class="img-destak" style="left:0 !important">
+<img id="img" src="{{ site.baseurl }}/img/social-fb/circles.png" class="img-destak" style="opacity:1">
 
 ### E O TWITTER?
 
@@ -112,19 +114,89 @@ Claro, é preciso levar em consideração o número de usuários de cada platafo
 
 <img id="img" src="{{ site.baseurl }}/img/social-fb/fb_tt_compare.png" class="img-destak">
 
-
-
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
+
+### ÓDIO QUE ENGAJA
 
 O <strong>Núcleo</strong> acompanhou de perto muitos destes grupos durante o último mês e viu de tudo: informações falsas, vídeos ao vivo, links para canais obscuros de YouTube e militância fervorosa, quase religiosa, como estamos acostumados a ver de uns anos para cá nas redes.
 
 Para entender o comportamento polarizado dos grupos nós precisamos voltar para 2009, o ano de surgimento do algoritmo do Facebook. Ou seja, o conteúdo na rede passou aos poucos a ser recomendado de acordo com o comportamento do usuário em vez de aparecer em ordem cronológica.
 
-<img src="{{ site.baseurl }}/img/social-fb/gif-reactions-crop.gif" width="100%">
+<section class="intro">
+</section>
 
-Em 2016, o mecanismo sofreu um ajuste para tirar a força das curtidas e reduzir conteúdo caça-likes, e em 2018 passou a priorizar comentários e conversas, para recompensar posts que criam "relações entre os usuários”, disse comunicado oficial da rede.
+<section class="timeline">
+  <ul>
+    <li>
+      <div>
+        <time>2004</time>&nbsp;&nbsp; Entra no ar o Facebook
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>2007</time>&nbsp;&nbsp; O botão "Curtir" é inventado
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>2009</time>&nbsp;&nbsp; Nasce o algoritmo do Facebook
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>2016</time>&nbsp;&nbsp; Algoritmo é afinado para mostrar postagens de acordo com preferências e comportamento dos usuários
+      </div>
+    </li>
+    <li>
+      <div>
+        <time>2018</time>&nbsp;&nbsp; Interações e conversas passam a ter mais peso na distribuição orgânica do conteúdo
+      </div>
+    </li>
+  </ul>
+</section>
 
-Mas o resultado foi outro: os posts com mais volume de conversas eram justamente os que continham informações falsas ou que estimulavam as pessoas a brigar. A mudança catapultou a Fox News (que investia em posts agressivos) para o topo das marcas que mais geravam engajamento e discussões.
+<script>
+(function() {
+
+  'use strict';
+
+  // define variables
+  var items = document.querySelectorAll(".timeline li");
+
+  function isElementInViewport(el) {
+    var rect = el.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+
+  function callbackFunc() {
+    for (var i = 0; i < items.length; i++) {
+      if (isElementInViewport(items[i])) {
+        items[i].classList.add("in-view");
+      }
+    }
+  }
+
+  // listen for events
+  window.addEventListener("load", callbackFunc);
+  window.addEventListener("resize", callbackFunc);
+  window.addEventListener("scroll", callbackFunc);
+
+})();
+</script>
+
+Em 2016, o mecanismo sofreu um ajuste para tirar a força das curtidas e reduzir conteúdo caça-likes, e em 2018 passou a priorizar comentários e conversas, para recompensar [posts que criam](https://about.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/) "relações entre os usuários”, como disse comunicado oficial da rede.
+
+Mas o resultado foi outro: o conteúdo que gerava numerosos não raro era baseado em desinformação ou posts radicais e apelativos. A mudança [catapultou](https://www.niemanlab.org/2019/03/one-year-in-facebooks-big-algorithm-change-has-spurred-an-angry-fox-news-dominated-and-very-engaged-news-feed/) o canal de TV paga Fox News (que investiu pesado em material agressivo) para o topo das marcas que possuíam fãs mais participativos.
+
+Com o tempo, as marcas e usuários aprenderam a interagir de forma polarizada para engajar. A herança que todos nós conhecemos bem foi espalhada para outras redes e, claro, está presente nos grupos, só que agora longe do escrutínio público, parecido com o que acontece no Whatsapp.
+
+Em grupos de como o [Coronavírus Brasil Covid-19](https://www.facebook.com/groups/1702360076683411/) (89 mil membros) ou no [EU JÁ TIVE COVID-19](https://www.facebook.com/groups/jativecovid19) (9 mil membros), o estilo emotivo e radical, com forte viés de confirmação, é usado com frequência para impulsionar teorias conspiracionistas, receitas caseiras contra a doença, defesa de cloroquina (sim, ainda) e outros remédios sem eficácia comprovada, sem falar em informações pessoais como fotografias de raio-x, laudos e receitas médicas.
+
 
 <!-- faz aparecer os gráficos -->
 <script>
@@ -187,7 +259,145 @@ $(document).ready(function() {
 	 margin: 3rem auto;
 	 text-align: center;
 }
+/* TIMELINE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.timeline ul {
+  background: #eeeeee;
+  padding: 50px 0;
+}
+
+.timeline ul li {
+  list-style-type: none;
+  position: relative;
+  width: 6px;
+  margin: 0 auto;
+  padding-top: 50px;
+  background: #4b31dd;
+}
+
+.timeline ul li::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #f33872;
+}
+
+.timeline ul li div {
+  position: relative;
+  bottom: 0;
+  width: 400px;
+  padding: 15px;
+  background: #f33872;
+  color: #f4f4f4
+}
+
+.timeline ul li div::before {
+  content: '';
+  position: absolute;
+  bottom: 7px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.timeline ul li:nth-child(odd) div {
+  left: 45px;
+}
+
+.timeline ul li:nth-child(odd) div::before {
+  left: -15px;
+  border-width: 8px 16px 8px 0;
+  border-color: transparent #F45B69 transparent transparent;
+}
+
+.timeline ul li:nth-child(even) div {
+  left: -439px;
+}
+
+.timeline ul li:nth-child(even) div::before {
+  right: -15px;
+  border-width: 8px 0 8px 16px;
+  border-color: transparent transparent transparent #F45B69;
+}
+
+time {
+  display: inline;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  paddin: 10px;
+  border: 1px solid black;
+  background-color: #000
+}
+
+
+/* EFFECTS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.timeline ul li::after {
+  transition: background .5s ease-in-out;
+}
+
+.timeline ul li.in-view::after {
+  background: #4b31dd;
+}
+
+.timeline ul li div {
+  visibility: hidden;
+  opacity: 0;
+  transition: all .5s ease-in-out;
+}
+
+.timeline ul li:nth-child(odd) div {
+  transform: translate3d(200px, 0, 0);
+}
+
+.timeline ul li:nth-child(even) div {
+  transform: translate3d(-200px, 0, 0);
+}
+
+.timeline ul li.in-view div {
+  transform: none;
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media screen and (max-width: 900px) {
+  .timeline ul li div {
+    width: 250px;
+  }
+  .timeline ul li:nth-child(even) div {
+    left: -289px;
+    /*250+45-6*/
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .timeline ul li {
+    margin-left: 20px;
+  }
+  .timeline ul li div {
+    width: calc(100vw - 91px);
+  }
+  .timeline ul li:nth-child(even) div {
+    left: 45px;
+  }
+  .timeline ul li:nth-child(even) div::before {
+    left: -15px;
+    border-width: 8px 16px 8px 0;
+    border-color: transparent #F45B69 transparent transparent;
+  }
+}
 
 </style>
 
