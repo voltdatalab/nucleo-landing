@@ -5,9 +5,9 @@ layout: especial
 tipo: especial
 title: "O Facebook não morreu"
 titulo_redes: "O Facebook não morreu"
-subtitle: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
+subtitle: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
 subtitle_redes: "Análise mostra que rede cresce e grupos fervilham com bilhões de interações"
-excerpt: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
+excerpt: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
 date: 08/10/2020
 autoria: Alexandre Orrico
 edicao: Sérgio Spagnuolo
@@ -162,11 +162,11 @@ time {
 }
 
 .timeline ul li:nth-child(odd) div {
-  transform: translate3d(200px, 0, 0);
+  transform: translate3d(30px, 0, 0);
 }
 
 .timeline ul li:nth-child(even) div {
-  transform: translate3d(-200px, 0, 0);
+  transform: translate3d(-30px, 0, 0);
 }
 
 .timeline ul li.in-view div {
@@ -216,8 +216,7 @@ time {
 
 **Não é porque** você e seus amigos não usam o Facebook que ele está morto e enterrado.
 
-Certo, a maior rede social do planeta, com 2,7 bilhões de [contas ativas](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) por mês, pode ter mutilado o alcance orgânico das postagens para faturar com impulsionamento pago –- o que causou uma revoada <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>A queda do alcance das páginas foi citada <a href="https://www1.folha.uol.com.br/poder/2018/02/folha-deixa-de-publicar-conteudo-no-facebook.shtml">pela Folha</a> como um dos motivos que levaram o jornal a abandonar o perfil na rede social, com quase seis milhões de seguidores, em 2018.
-<br><br></span> de marcas e empresas de mídia. Mas o fato é que o site criado por [Mark Zuckerberg](https://www.facebook.com/zuck) nunca foi tão utilizado, inclusive no Brasil.
+Certo, a maior rede social do planeta, com 2,7 bilhões de [contas ativas](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) por mês, pode ter mutilado o alcance orgânico das postagens para faturar com impulsionamento pago –- o que causou uma revoada de marcas e empresas de mídia<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>A queda do alcance das páginas foi citada <a href="https://www1.folha.uol.com.br/poder/2018/02/folha-deixa-de-publicar-conteudo-no-facebook.shtml">pela Folha</a> como um dos motivos que levaram o jornal a abandonar o perfil na rede social, com quase seis milhões de seguidores, em 2018.<br><br></span>. Mas o fato é que o site criado por [Mark Zuckerberg](https://www.facebook.com/zuck) nunca foi tão utilizado, inclusive no Brasil.
 
 Por aqui, mais de 130 milhões de brasileiros acessam o Facebook todo mês, quantidade quase 10 vezes maior do que a de frequentadores mensais do Twitter, por exemplo. O número cresce ano após ano e a previsão do Statista é que ele chegue perto de [160 milhões em 2025](https://www.statista.com/statistics/244936/number-of-facebook-users-in-brazil/).
 
@@ -242,11 +241,9 @@ O lucro [cresceu 11%](https://investor.fb.com/investor-news/press-release-detail
 
 <hr>
 
-A rede social sofre, visivelmente, uma desidratação em faixas específicas de idade <input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Apenas 51% dos jovens norte-americanos com idades entre 13 de 17 anos estão no Facebook, segundo <a href="https://www.investopedia.com/news/aging-facebook-losing-teens-pew-research-survey/">pesquisa</a> da Pew Research Center, feita em 2019. Há 8 anos este percentual era de 90%. O fenômeno ocorre em vários países do mundo, ainda que insuficiente para decrescer a taxa de usuários da plataforma.<br><br></span>, como a da geração Z (pessoas nascidas, em média, entre a segunda metade dos anos 1990 até o início do ano 2010), que preferia o Snapchat até recentemente e já algum tempo o TikTok.
+A rede social sofre, visivelmente, uma desidratação em faixas específicas de idade <input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Apenas 51% dos jovens norte-americanos com idades entre 13 de 17 anos estão no Facebook, segundo <a href="https://www.investopedia.com/news/aging-facebook-losing-teens-pew-research-survey/" target="_blank">pesquisa</a> da Pew Research Center, feita em 2019. Há 8 anos este percentual era de 90%. O fenômeno ocorre em vários países do mundo, ainda que insuficiente para decrescer a taxa de usuários da plataforma. <br><br>No Brasil, na pesquisa TIC Kids Online, do Cetic.br, <a href="https://cetic.br/media/analises/tic_kids_online_brasil_2018_coletiva_imprensa.pdf" target="_blank">divulgada em 2019</a>, o WhatsApp já ultrapassou o Facebook como rede social preferida entre os jovens de 9 a 17 anos. O Instagram, no terceiro lugar, mostra forte tendência de crescimento.<br><br></span>, como a da geração Z (pessoas nascidas, em média, entre a segunda metade dos anos 1990 até o início do ano 2010), que preferia o Snapchat até recentemente e já algum tempo o TikTok.
 
-**O Facebook sabe disso**, e tenta manter a faixa mais jovem de usuários dentro do ecossistema da companhia mesmo que fora do seu aplicativo principal. Por ecossistema, claro, falamos do Instagram (que clonou funcionalidades tanto do Snapchat <input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>Evan Spiegel, fundador do Snapchat, recusou uma proposta de compra diretamente de Mark Zuckerberg de US$ bilhões. “Poucas pessoas no mundo têm a chance de construir um negócio como este. Trocar isso por algum ganho de curto prazo não é muito interessante”, <a href="https://www.forbes.com/sites/jjcolao/2014/01/06/the-inside-story-of-snapchat-the-worlds-hottest-app-or-a-3-billion-disappearing-act/#63b8ee9c67d2">justificou</a> à Forbes. Para referência, o Instagram foi comprado por<a href="https://oglobo.globo.com/economia/facebook-compra-instagram-por-us-1-bilhao-em-dinheiro-acoes-4530157">US$ 1 bilhão</a> e o WhatsApp por <a href="https://oglobo.globo.com/economia/facebook-compra-whatsapp-por-us-19-bilhoes-11656044">US$ 19 bilhões</a>.<br><br></span>, os Stories, quanto do TikTok, os Reels) e do WhatsApp.
-
-No Brasil, na [pesquisa](https://cetic.br/media/analises/tic_kids_online_brasil_2019_coletiva_imprensa.pdf) TIC Kids Online, do Cetic.br, divulgada este ano, o WhatsApp pela primeira vez ultrapassou o Facebook como rede social preferida entre os jovens de 9 a 17 anos. O Instagram, no terceiro lugar, mostra forte tendência de crescimento.
+**O Facebook sabe disso**, e tenta manter a faixa mais jovem de usuários dentro do ecossistema da companhia mesmo que fora do seu aplicativo principal. Por ecossistema, claro, falamos do Instagram (que clonou funcionalidades tanto do Snapchat <input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>Evan Spiegel, fundador do Snapchat, recusou uma proposta de compra diretamente de Mark Zuckerberg de US$ bilhões. “Poucas pessoas no mundo têm a chance de construir um negócio como este. Trocar isso por algum ganho de curto prazo não é muito interessante”, <a href="https://www.forbes.com/sites/jjcolao/2014/01/06/the-inside-story-of-snapchat-the-worlds-hottest-app-or-a-3-billion-disappearing-act/#63b8ee9c67d2" target="_blank">justificou</a> à Forbes. Para referência, o Instagram foi comprado por <a href="https://oglobo.globo.com/economia/facebook-compra-instagram-por-us-1-bilhao-em-dinheiro-acoes-4530157" target="_blank">US$ 1 bilhão</a> e o WhatsApp por <a href="https://oglobo.globo.com/economia/facebook-compra-whatsapp-por-us-19-bilhoes-11656044" target="_blank">US$ 19 bilhões</a>.<br><br></span>, os Stories, quanto do TikTok, os Reels) e do WhatsApp.
 
 <span class="texto-destak"> Mas como é possível o Facebook estar mais cheio do que nunca se, quando você entra lá, ele muitas vezes parece um deserto?</span> <br>
 
@@ -254,7 +251,7 @@ Uma palavra é essencial para entendermos esse crescimento que vai contra a perc
 
 Segundo o próprio Facebook, há mais de [10 milhões de grupos ativos](https://www.facebook.com/business/news/insights/generation-z) na plataforma, utilizados por 1,4 bilhão de pessoas todos os meses. Na última F8, conferência anual da companhia que aconteceu no ano passado, Zuckerberg deixou claro: os grupos são o [novo coração](https://about.fb.com/news/2019/04/f8-2019-day-1/) do Facebook.
 
-"Os grupos fazem com que as conversas fiquem restritas a determinados ambientes e passam a sensação de que muita gente não usa mais a plataforma, quando na verdade as pessoas estão cada vez mais próximas de outros usuários com interesses parecidos", diz [Amanda Jurno](https://twitter.com/amandajurno), doutora em Comunicação pela UFMG e pesquisadora de plataformas digitais.
+"Os grupos fazem com que as conversas fiquem restritas a determinados ambientes e passam a sensação de que muita gente não usa mais a plataforma, quando na verdade as pessoas estão cada vez mais próximas de outros usuários com interesses parecidos", diz [Amanda Jurno](https://twitter.com/amandajurno), doutora em Comunicação pela Universidade Federal de Minas Gerais (UFMG) e pesquisadora de plataformas digitais.
 
 Ou seja: as conversas ainda estão lá, mas talvez você não enxergue porque elas acontecem agora dentro de bolhas e fora do escrutínio público, parecido com o que acontece no Whatsapp.
 
@@ -295,7 +292,7 @@ Mas o Twitter perde, e muito, em volume para o Facebook. Como exemplo, veja o gr
 
 Claro, é preciso levar em consideração o número de usuários de cada plataforma (o Twitter provavelmente possui mais interação por usuário), mas é justamente esse número absoluto que deixa o Facebook bem vivo.
 
-<img id="img" src="{{ site.baseurl }}/img/social-fb/fb_tt_compare.png" class="img-destak">
+<img id="img" src="{{ site.baseurl }}/img/social-fb/fb_tt_compare.png" class="img-destak" style="max-width:750px">
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
@@ -372,7 +369,7 @@ Para entender o comportamento polarizado e a extensão dos riscos das conversas 
 
 Em 2016, o mecanismo sofreu ajustes para tirar a força das curtidas e reduzir conteúdo caça-likes, e em 2018 passou a priorizar comentários e conversas, para recompensar [posts que criam](https://about.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/) "relações entre os usuários”, como disse comunicado oficial da rede.
 
-Mas o resultado foi outro: o conteúdo que gerava numerosos não raro era baseado em desinformação ou posts radicais e apelativos. A mudança [catapultou](https://www.niemanlab.org/2019/03/one-year-in-facebooks-big-algorithm-change-has-spurred-an-angry-fox-news-dominated-and-very-engaged-news-feed/) o canal de TV paga norte-americano Fox News (que investiu pesado em material agressivo) para o topo das marcas que possuíam fãs mais participativos.
+Mas o resultado foi outro: o conteúdo que gerava volume muitas vezes era baseado em desinformação ou estimulava brigas. A mudança [catapultou](https://www.niemanlab.org/2019/03/one-year-in-facebooks-big-algorithm-change-has-spurred-an-angry-fox-news-dominated-and-very-engaged-news-feed/) o canal de TV paga norte-americano Fox News (que investiu pesado em material radical) para o topo das marcas que possuíam fãs mais participativos.
 
 <span class="texto-destak-right">Com o tempo, as marcas e usuários aprenderam a interagir de forma polarizada para engajar.</span>
 
@@ -398,6 +395,10 @@ A análise dos números de interação e engajamento nos grupos foi feita com o 
 Os dados agregados e analisados estão [neste link](https://docs.google.com/spreadsheets/d/1f6LgF6d2DVxYY-6CDE1raBhveNXHI4kVp3Q7Le9OlmQ/edit#gid=1429677779). O código da análise pode ser [encontrado aqui](https://gist.github.com/sergiospagnuolo/1c63e752ee8bdac1cdb8a7a307761316).
 
 Por fim, também utilizamos dados da plataforma Statista, cujos links estão no texto e os dados tabulados pelo **Núcleo** podem ser [consultados aqui](https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit#gid=59057501).
+
+Também dizemos uma enquete no Twitter. 👇
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Qual é a sua relação com o Facebook nos últimos anos?<br><br>*Saiba o motivo da enquete amanhã</p>&mdash; Núcleo Jornalismo (@nucleojor) <a href="https://twitter.com/nucleojor/status/1316098906153979905?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <!-- faz aparecer os gráficos -->
