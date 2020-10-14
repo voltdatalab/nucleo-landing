@@ -5,7 +5,7 @@ layout: especial
 tipo: especial
 title: "O Facebook não morreu"
 titulo_redes: "O Facebook não morreu"
-subtitle: 'Rede pode parecer vazia, mas análise do Núcleo mostra segue em crescimento e grupos fervilham com bilhões de interações'
+subtitle: 'Rede pode parecer vazia, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
 subtitle_redes: "Análise mostra que rede cresce e grupos fervilham com bilhões de interações"
 excerpt: 'Rede pode parecer vazia, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
 date: 08/10/2020
