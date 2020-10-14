@@ -8,7 +8,7 @@ titulo_redes: "O Facebook não morreu"
 subtitle: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
 subtitle_redes: "Análise mostra que rede cresce e grupos fervilham com bilhões de interações"
 excerpt: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
-date: 08/10/2020
+date: 14/10/2020
 autoria: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 arte: Rodolfo Almeida
@@ -278,7 +278,7 @@ Se levarmos em conta, além de grupos, também as _fan pages_ e perfis verificad
 
 <span class="texto-destak-right">Você leu certo: o termo "Bolsonaro" gerou mais de 3 bilhões de interações em menos de dois anos no Facebook.</span>
 
-Esse volume é menor do que interações com posts contendo os termos "Trump" ou "coronavirus", por exemplo, mas fica acima de "Obama" e "Biden" -- o que, grosso modo, indica uma predisposição para a direta de usuários do Facebook.
+Esse volume é menor do que interações com posts contendo os termos "Trump" ou "coronavirus", por exemplo, mas fica acima de "Obama" e "Biden" -- o que, grosso modo, indica uma certa predisposição para a direta política de usuários do Facebook.
 
 <img id="img" src="{{ site.baseurl }}/img/social-fb/circles.png" class="img-destak" style="opacity:1">
 
@@ -286,11 +286,13 @@ Esse volume é menor do que interações com posts contendo os termos "Trump" ou
 
 ### E O TWITTER?
 
-Uma comparação interessante a ser feita é com o Twitter. Embora seja consideravelmente menor (com apenas 15,7 milhões de usuários), o Twitter muitas vezes dita o tom dos debates políticos no Brasil e em outros lugares, como se fosse um termômetro. Muitas das conversas e tendências que começam por lá transbordam para outras redes sociais.
+Uma comparação interessante a ser feita é com o Twitter. Embora seja consideravelmente menor (com apenas 15,7 milhões de usuários), o Twitter muitas vezes dita o tom dos debates políticos no Brasil e em outros lugares, como se fosse um termômetro.
 
-Mas o Twitter perde, e muito, em volume para o Facebook. Como exemplo, veja o gráfico o gráfico abaixo sobre interações em publicações dos perfis de Bolsonaro em ambas as redes.
+A rede social é recorrentemente um meio utilizado por políticos e autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate. Muitas das conversas e tendências que começam por lá transbordam para outras redes sociais.
 
-Claro, é preciso levar em consideração o número de usuários de cada plataforma (o Twitter provavelmente possui mais interação por usuário), mas é justamente esse número absoluto que deixa o Facebook bem vivo.
+Mas o Twitter perde, e muito, em volume para o Facebook, considerando dados absolutos (em vez de proporcionais ao número de usuários). Como exemplo, veja o gráfico o gráfico abaixo sobre interações em publicações dos perfis de Bolsonaro em ambas as redes.
+
+Claro, o Twitter provavelmente possui mais interação por usuário, mas é justamente o número absoluto que deixa o Facebook ainda bem vivo.
 
 <img id="img" src="{{ site.baseurl }}/img/social-fb/fb_tt_compare.png" class="img-destak" style="max-width:750px">
 
@@ -298,7 +300,7 @@ Claro, é preciso levar em consideração o número de usuários de cada platafo
 
 ### ÓDIO QUE ENGAJA
 
-Para entender o comportamento polarizado e a extensão dos riscos das conversas dentro destes grupos, precisamos voltar para 2009, o ano de surgimento do algoritmo do Facebook, quando o conteúdo na rede passou aos poucos a ser recomendado de acordo com o comportamento do usuário em vez de aparecer em ordem cronológica.
+Para entender o comportamento polarizado e a extensão dos riscos das conversas dentro destes grupos, precisamos voltar para 2009, o ano de surgimento do algoritmo do Facebook, quando o conteúdo na rede passou aos poucos a ser recomendado de acordo com o comportamento do usuário (não apenas qual post curte, mas também quanto tempo olha para uma foto, por exemplo) em vez de aparecer em ordem cronológica.
 
 <section class="intro">
 </section>
@@ -396,7 +398,7 @@ Os dados agregados e analisados estão [neste link](https://docs.google.com/spre
 
 Por fim, também utilizamos dados da plataforma Statista, cujos links estão no texto e os dados tabulados pelo **Núcleo** podem ser [consultados aqui](https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit#gid=59057501).
 
-Também dizemos uma enquete no Twitter. 👇
+Também fizemos uma enquete no Twitter. 👇
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Qual é a sua relação com o Facebook nos últimos anos?<br><br>*Saiba o motivo da enquete amanhã</p>&mdash; Núcleo Jornalismo (@nucleojor) <a href="https://twitter.com/nucleojor/status/1316098906153979905?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
