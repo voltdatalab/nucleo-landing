@@ -5,9 +5,9 @@ layout: especial
 tipo: especial
 title: "O Facebook não morreu"
 titulo_redes: "O Facebook não morreu"
-subtitle: 'Rede pode parecer vazia, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
+subtitle: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
 subtitle_redes: "Análise mostra que rede cresce e grupos fervilham com bilhões de interações"
-excerpt: 'Rede pode parecer vazia, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
+excerpt: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que segue em crescimento e grupos fervilham com bilhões de interações'
 date: 08/10/2020
 autoria: Alexandre Orrico
 edicao: Sérgio Spagnuolo
@@ -22,7 +22,7 @@ background: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: ""
 nota_abertura: ""
 categories:
-  - "draft"
+  - "redes"
 tags:
   - "Facebook, "
   - "Política Digital, "
@@ -216,14 +216,14 @@ time {
 
 **Não é porque** você e seus amigos não usam o Facebook que ele está morto e enterrado.
 
-A maior rede social do planeta, com 2,7 bilhões de [contas ativas](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) por mês, pode ter mutilado o alcance orgânico das postagens para faturar com impulsionamento pago –o que causou uma revoada <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>A queda do alcance das páginas foi citada <a href="https://www1.folha.uol.com.br/poder/2018/02/folha-deixa-de-publicar-conteudo-no-facebook.shtml">pela Folha</a> como um dos motivos que levaram o jornal a abandonar o perfil na rede social, com quase seis milhões de seguidores, em 2018.
-<br><br></span> de marcas e empresas de mídia. Mas o fato é que o site criado por Mark Zuckerberg nunca foi tão utilizado, inclusive no Brasil.
+Certo, a maior rede social do planeta, com 2,7 bilhões de [contas ativas](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) por mês, pode ter mutilado o alcance orgânico das postagens para faturar com impulsionamento pago –- o que causou uma revoada <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>A queda do alcance das páginas foi citada <a href="https://www1.folha.uol.com.br/poder/2018/02/folha-deixa-de-publicar-conteudo-no-facebook.shtml">pela Folha</a> como um dos motivos que levaram o jornal a abandonar o perfil na rede social, com quase seis milhões de seguidores, em 2018.
+<br><br></span> de marcas e empresas de mídia. Mas o fato é que o site criado por [Mark Zuckerberg](https://www.facebook.com/zuck) nunca foi tão utilizado, inclusive no Brasil.
 
-Por aqui, mais de 130 milhões de brasileiros acessam o Facebook todo mês, quantidade 10 vezes maior do que a de frequentadores mensais do Twitter, por exemplo. O número cresce ano após ano e a previsão do Statista é que ele bata quase [160 milhões em 2025](https://www.statista.com/statistics/244936/number-of-facebook-users-in-brazil/).
+Por aqui, mais de 130 milhões de brasileiros acessam o Facebook todo mês, quantidade quase 10 vezes maior do que a de frequentadores mensais do Twitter, por exemplo. O número cresce ano após ano e a previsão do Statista é que ele chegue perto de [160 milhões em 2025](https://www.statista.com/statistics/244936/number-of-facebook-users-in-brazil/).
 
-<span class="texto-destak">Por mais que parte da mídia especializada tente decretar a morte do Facebook ano após ano <input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Lá em 2013 um <a href="https://www.businessinsider.com/why-facebook-isnt-dead-2013-12"> texto</a> do Business Insider já discutia óbito e renascimento do Facebook e citava um estudo que dizia que a migração de adolescentes para outras plataformas seria mortal para  a rede.<br><br></span>, a rede mantém sua taxa anual de crescimento de usuários (em média 12%).</span>
+<span class="texto-destak">Por mais que parte da mídia especializada tente decretar a morte do Facebook ano após ano <input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Lá em 2013 um <a href="https://www.businessinsider.com/why-facebook-isnt-dead-2013-12"> texto</a> do Business Insider já discutia óbito e renascimento do Facebook e citava um estudo que dizia que a migração de adolescentes para outras plataformas seria mortal para  a rede.<br><br></span>, a rede mantém uma taxa média anual de crescimento de usuários de 12%.</span>
 
-O lucro [cresceu 11%](https://investor.fb.com/investor-news/press-release-details/2020/Facebook-Reports-Second-Quarter-2020-Results/default.aspx) na primeira metade de 2020 em comparação com o mesmo período de 2019, mesmo com o impacto da pandemia de COVID-19 e [boicotes](https://economia.uol.com.br/noticias/redacao/2020/07/02/de-adidas-a-unilever-veja-quem-participa-do-boicote-ao-facebook.htm) de marcas megazórdicas como Adidas, Coca-Cola, Ford e Unilever, que fazem parte de um movimento que exige um pulso mais firme do facebook contra a disseminação de notícias falsas.
+O lucro [cresceu 11%](https://investor.fb.com/investor-news/press-release-details/2020/Facebook-Reports-Second-Quarter-2020-Results/default.aspx) na primeira metade de 2020 em comparação com o mesmo período de 2019, mesmo com o impacto da pandemia de COVID-19 e [boicotes](https://economia.uol.com.br/noticias/redacao/2020/07/02/de-adidas-a-unilever-veja-quem-participa-do-boicote-ao-facebook.htm) de marcas megazórdicas como Adidas, Coca-Cola, Ford e Unilever, que fazem parte de um movimento que exige um pulso mais firme do Facebook contra a disseminação de notícias falsas e discurso de ódio.
 
 <hr>
 
