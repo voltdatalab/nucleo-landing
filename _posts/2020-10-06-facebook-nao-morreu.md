@@ -8,7 +8,7 @@ titulo_redes: "O Facebook não morreu"
 subtitle: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
 subtitle_redes: "Análise mostra que rede cresce e grupos fervilham com bilhões de interações"
 excerpt: 'Rede pode parecer esvaziada, mas análise do Núcleo mostra que ela segue em crescimento e grupos fervilham com bilhões de interações'
-date: 14/10/2020
+date: "15/10/2020 10:06"
 autoria: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 arte: Rodolfo Almeida
@@ -22,7 +22,7 @@ background: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: ""
 nota_abertura: ""
 categories:
-  - "draft"
+  - "redes"
 tags:
   - "Facebook, "
   - "Política Digital, "
