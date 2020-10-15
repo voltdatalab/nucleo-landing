@@ -290,7 +290,7 @@ Uma comparação interessante a ser feita é com o Twitter. Embora seja consider
 
 A rede social é recorrentemente um meio utilizado por políticos e autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate. Muitas das conversas e tendências que começam por lá transbordam para outras redes sociais.
 
-Mas o Twitter perde, e muito, em volume para o Facebook, considerando dados absolutos (em vez de proporcionais ao número de usuários). Como exemplo, veja o gráfico o gráfico abaixo sobre interações em publicações dos perfis de Bolsonaro em ambas as redes.
+Mas o Twitter perde, e muito, em volume para o Facebook, considerando dados absolutos (em vez de proporcionais ao número de usuários). Como exemplo, veja o gráfico abaixo sobre interações em publicações dos perfis de Bolsonaro em ambas as redes.
 
 Claro, o Twitter provavelmente possui mais interação por usuário, mas é justamente o número absoluto que deixa o Facebook ainda bem vivo.
 
