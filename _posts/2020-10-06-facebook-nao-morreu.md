@@ -392,7 +392,7 @@ Para o futuro, Zuckerberg planeja conectar pessoas via óculos de realidade virt
 
 O **Núcleo** acompanhou de perto muitos grupos de Facebook durante os últimos dois meses. Os dados foram recolhidos com a assessoria do Facebook, do perfil do próprio Zuckerberg na rede e em materiais das conferências F8 Facebook Connect.
 
-A análise dos números de interação e engajamento nos grupos foi feita com o [CrowdTangle](https://www.crowdtangle.com/), ferramenta do Facebook que disponibiliza dados sobre interações do Facebook. Também foi utilizada a API do Twitter para comparar as interações. A metodologia de análise é a mesma utilizada no [Monitor Nuclear](https://nucleo.jor.br/monitor).
+A análise dos números de interação e engajamento nos grupos foi feita com o [CrowdTangle](https://www.crowdtangle.com/), ferramenta do Facebook que disponibiliza dados sobre interações na sua plataforma. Também foi utilizada a API do Twitter para comparar as interações. A metodologia de análise é a mesma utilizada no [Monitor Nuclear](https://nucleo.jor.br/monitor).
 
 Os dados agregados e analisados estão [neste link](https://docs.google.com/spreadsheets/d/1f6LgF6d2DVxYY-6CDE1raBhveNXHI4kVp3Q7Le9OlmQ/edit#gid=1429677779). O código da análise pode ser [encontrado aqui](https://gist.github.com/sergiospagnuolo/1c63e752ee8bdac1cdb8a7a307761316).
 
