@@ -1,0 +1,52 @@
+I"�<style>
+#newsletter_page{
+  margin: 0 auto;
+  width: 70%;
+}
+#newsletter_page label{
+  font-size: 1em;
+}
+</style>
+
+<p>O <strong>Núcleo</strong> quer chegar a seus leitores onde quer que eles estejam, seja pelo nosso canal no <a href="https://t.me/nucleojor">Telegram</a>, seja pelas redes sociais ou por outras mídias.</p>
+
+<p>Mas o email é uma das formas que queremos investir mais, levando apenas o que é essencial (novidades que publicamos ou anúncios), sem <em>spam</em>, sem forçar a barra com um monte de emails. Não temos uma periodicidade definida.</p>
+
+<p>Entre na nossa lista e fique por dentro sempre que publicarmos algo ou que tivermos algo importante a dizer.</p>
+
+<p><br /></p>
+
+<div id="newsletter_page">
+  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+    <!--<label for="email">receba novidades por email</label> <br />-->
+    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="preencha seu email..." />
+  </div>
+  <div class="revue-form-actions">
+    <input type="hidden" name="list" value="jylms3GrJ1UNELZxWdDKDg" />
+    <input type="hidden" name="subform" value="yes" />
+    <input type="submit" name="submit" id="submit" value="clique aqui para receber" style="max-width:100%" />
+  </div>
+  </form>
+</div>
+
+<p><br /></p>
+
+<p><small>O uso de seus dados é regido pelo nossa <a href="privacidade">política de privacidade</a>.</small></p>
+
+<p><small>Veja abaixo os principais pontos cobertos por essa política:</small></p>
+
+<div style="text-size:0.8em">
+
+* Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;
+
+* Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;
+
+* Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;
+
+* Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab. Você será avisado disso;
+
+* Fazemos um compromisso de tratar sua informação com zelo.
+
+</div>
+:ET

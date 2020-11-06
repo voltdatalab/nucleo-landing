@@ -1,0 +1,20 @@
+I"Ð<style>
+#newsletter_page label{
+  font-size: 1em
+}
+</style>
+
+<div id="newsletter_page">
+  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+    <label for="email">receba novidades por email</label> <br />
+    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="preencha seu email..." />
+  </div>
+  <div class="revue-form-actions">
+    <input type="hidden" name="list" value="jylms3GrJ1UNELZxWdDKDg" />
+    <input type="hidden" name="subform" value="yes" />
+    <input type="submit" name="submit" id="submit" value="clique aqui para receber" style="max-width:100%" />
+  </div>
+  </form>
+</div>
+:ET
