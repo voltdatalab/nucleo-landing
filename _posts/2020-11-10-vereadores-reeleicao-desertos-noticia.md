@@ -18,7 +18,7 @@ dados_abertos_link: "https://www.atlas.jor.br/plataforma/dados/"
 dados_abertos2: "Código da análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/0a2d39d95d011a65911211ce691c8c7d"
 background: 'atlas-partidos/desertos_vereadores.png'
-atualizacao: ""
+atualizacao: "Texto atualizado às 15h08 de 10/11/2020 no 4o parágrafo para tornar a explicação mais clara. Nenhum dado foi alterado."
 nota_abertura: ""
 categories:
   - "media"
@@ -45,7 +45,7 @@ As principais descobertas da análise do **Núcleo** mostram que, nos desertos c
 
 Os desertos de notícia correspondem a 62,6% da totalidade dos municípios brasileiros, de acordo com o levantamento do [Atlas da Notícia](https://www.atlas.jor.br/desertos-de-noticia/) de 2019.
 
-Nas faixas entre 10-20 mil e 20-50 mil habitantes, as diferenças são maiores, e esses valores chegam, respectivamente, a 73,9% e 77,9% e se distanciam ainda mais dos chamados não desertos.
+Nas faixas entre 10-20 mil e 20-50 mil habitantes, as diferenças são maiores, e esses valores chegam, respectivamente, a médias de 73,9% e 77,9% dos vereadores disputando a reeleição em cada município, se distanciando ainda mais dos chamados não desertos.
 
 | Tamanho do município | Deserto | Quase deserto* | Não deserto |
 |----------------------|---------|---------------|-------------|
