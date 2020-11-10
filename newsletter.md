@@ -32,7 +32,7 @@ Entre na nossa lista e fique por dentro sempre que publicarmos algo ou que tiver
     <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="preencha seu email..." />
   </div>
   <div class="revue-form-actions">
-    <input type="hidden" name="list" value="jylms3GrJ1UNELZxWdDKDg"/>
+    <input type="hidden" name="list" value="jsGC7RY0MjqoqvAOuwl8zA"/>
     <input type="hidden" name="subform" value="yes"/>
     <input type="submit" name="submit" id="submit" value="clique aqui para receber" style="max-width:100%"/>
   </div>

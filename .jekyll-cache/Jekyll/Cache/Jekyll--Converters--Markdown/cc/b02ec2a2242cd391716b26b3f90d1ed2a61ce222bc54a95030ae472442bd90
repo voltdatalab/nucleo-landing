@@ -1,0 +1,83 @@
+I",<p>O percentual de vereadores que disputam a reeleição em cidades que não possuem organizações jornalísticas, os chamados “desertos de notícia”, é maior do que nos demais municípios de portes populacionais semelhantes.</p>
+
+<p>Os desertos de notícia correspondem a 62,6% da totalidade dos municípios brasileiros, de acordo com o levantamento do <a href="https://www.atlas.jor.br/desertos-de-noticia/">Atlas da Notícia</a> de 2019.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Desertos de notícia são locais sem iniciativas de jornalismo, as quais ajudam a informar o voto dos cidadãos</em></p>
+  </li>
+  <li>
+    <p><em>Perto das Eleições 2020, é importante ter uma referência de como os desertos de notícia se configuram, para que futuramente possamos ter melhores políticas públicas</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>As principais descobertas da análise do Núcleo mostram que, nos desertos com até 10.000 habitantes, a média de de vereadores eleitos em 2016 que buscam reeleição é de 69,5%, um pouco maior do que nos municípios que possuem alguma presença de jornalismo. Nas faixas entre 10-20 mil e 20-50 mil habitantes, esses valores chegam a 73,7% e 77,9% e se distanciam ainda mais dos chamados não desertos.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tamanho do município</th>
+      <th>Deserto</th>
+      <th>Quase deserto</th>
+      <th>Não deserto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Até 10 mil</td>
+      <td>69,5%</td>
+      <td>68,1%</td>
+      <td>66,7%</td>
+    </tr>
+    <tr>
+      <td>Entre 10 e 20 mil</td>
+      <td>73,7%</td>
+      <td>71,2%</td>
+      <td>67,3%</td>
+    </tr>
+    <tr>
+      <td>Entre 20 e 50 mil</td>
+      <td>77,9%</td>
+      <td>76,4%</td>
+      <td>70,7%</td>
+    </tr>
+    <tr>
+      <td>Entre 50 e 100 mil</td>
+      <td>80,6%</td>
+      <td>78,5%</td>
+      <td>77,3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Analistas enfatizam que as eleições municipais <a href="https://www1.folha.uol.com.br/poder/2020/07/acabou-a-era-dos-disparos-em-massa-em-eleicoes-a-privacidade-esta-mais-discutida-diz-pesquisador.shtml">são disputadas</a> em torno de assuntos locais, como a condição de ruas e avenidas, coleta de lixo, valor de impostos municipais como o IPTU, entre outros.</p>
+
+<p>Uma hipótese para esse evento é que ausência de jornalismo local dificulta o acesso a informação dos eleitores sobre esses assuntos, afetando o controle que cidadãos podem exercer sobre os políticos. Pesquisas realizadas nos Estados Unidos mostram que a ausência de veículos locais pode <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2012.762817">diminuir o engajamento</a> dos cidadãos <a href="https://www.dannyhayes.org/uploads/6/9/8/5/69858539/decline.pdf">com a política</a>, bem como afetar o exercício do <a href="https://www.jstor.org/stable/10.1086/652903?seq=1">controle social</a> pelos eleitores.</p>
+
+<p>Em 302 municípios brasileiros, todos os vereadores eleitos em 2016 disputam a reeleição - um total de 3006 legisladores. Desses, 68,2% são desertos de notícia, 21,2% quase-desertos e 10,6% não desertos. Ou seja, os desertos de notícia estão sobrepresentados nesta faixa de cidades.</p>
+
+<p>Os desertos de notícia são, em geral, cidades pequenas (mediana de <a href="https://www.atlas.jor.br/desertos-de-noticia/">7.100 habitantes</a>). Eles são um fenômeno de abrangência nacional: somente quatro estados brasileiros possuem menos de 50% de seus municípios classificados nessa categoria. Além deles, o Atlas da Notícia chama atenção para os quase desertos, municípios com 1 ou 2 veículos jornalísticos, que também são tipicamente pequenos (mediana de 17.800 habitantes).</p>
+
+<p>O relatório do Atlas da Notícia mostra uma associação entre a presença de veículos jornalísticos e o índice de desenvolvimento humano municipal (IDHM). Dentro dos recortes populacionais apresentados, os desertos de notícia também possuem um IDHM mediano inferior ao das demais categorias.</p>
+
+<h3 id="sobre-candidatos-a-prefeituras">SOBRE CANDIDATOS A PREFEITURAS</h3>
+<p>A diferença nas disputas para a reeleição de vereadores não é observada na disputa pelo Executivo municipal. Entre os pouco mais de 4.300 prefeitos que poderiam se candidatar à reeleição em 2020, o percentual de recandidaturas se mantém na faixa de 75%. No geral, o percentual de prefeitos disputando a reeleição é maior do que em 2016, retornando aos patamares <a href="https://www1.folha.uol.com.br/colunas/voto-a-voto/2020/09/reeleicao-de-prefeitos-e-o-efeito-da-pandemia-da-covid-19.shtml">verificados</a> em 2008 e 2012.</p>
+
+<p>Nos últimos anos, a relação entre o trabalho da imprensa e a democracia esteve em grande evidência. Simultaneamente, o fechamento de veículos locais é uma preocupação mundial. No Brasil, o projeto Atlas da Notícia realiza um levantamento de veículos jornalísticos pelo país e mostra um quadro preocupante de predomínio de desertos de notícia além de um número significativo de quase desertos.</p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+
+<p>Os dados do Atlas da Notícia foram obtidos por meio do pacote <a href="https://github.com/voltdatalab/newsatlasbr">newsatlasbr</a> que acessa a API gratuita do projeto, e os dados eleitorais são do <a href="https://github.com/Cepesp-Fgv/cepesp-r">CepespData</a> (2012 e 2016) e do <a href="https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais">TSE</a> (2020). Os pedidos de candidatura de 2020 que não tenham sido deferidos, estejam aguardando julgamento ou sob recurso pela Justiça Eleitoral foram desconsiderados. (Disclaimer: o Atlas da Notícia é um projeto desenvolvido pelo Volt Data Lab, empresa por trás do Núcleo)</p>
+
+<p>Os dados dessa matéria se baseiam em pedidos de candidatura que não foram classificados como “renúncia”, “indeferido”, “não conhecido”, “falecido”, “cassado” ou “cancelado”. Como a Justiça Eleitoral está constantemente analisando os pedidos de candidatura, utilizamos os dados gerados em 24/10/2020, disponibilizados no Repositório de Dados Eleitorais do TSE.</p>
+
+<p>O cálculo de candidatos a vereador que disputam a reeleição é feito com base nos eleitos em 2016 e no número de cadeiras em disputa naquela eleição (não foram encontradas eleições suplementares para este cargo no CepespData).</p>
+
+<p>Realizamos o cálculo de candidatos à reeleição de prefeitos identificando quem seriam os prefeitos reelegíveis e quantos deles concorreram, pois só podem concorrer à reeleição prefeitos que estão em primeiro mandato. Em nossa análise, consideramos as eleições suplementares realizadas após 2012 e após 2016, de forma a identificar mais precisamente quem são os prefeitos que estão em primeiro mandato no ano de 2020.</p>
+:ET

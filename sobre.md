@@ -12,6 +12,8 @@ O trabalho é guiado, principalmente, pelo rigor analítico sobre assuntos impor
 
 A iniciativa é liderada pela agência [Volt Data Lab](https://voltdata.info).
 
+#### [Leia nossas publicações institucionais e anúncios aqui.](../institucional)
+
 <br>
 
 #### COMO CREDITAR O NÚCLEO?

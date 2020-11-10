@@ -1,6 +1,6 @@
 {% include head_post.html %}
 
-{% for post in site.posts limit:1 offset:1 %}
+{% for post in site.posts limit:1 offset:0 %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
 <br />
@@ -27,7 +27,6 @@
             </div>
 {% endunless %}
 {% endunless %}
-
 {% endfor %}
 
 {% include newsletter_social.html %}
