@@ -11,7 +11,7 @@ subTitle: ''
 
 #### SOBRE EMAIL  
 
-- Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo [Volt Data Lab](www.voltdata.info);
+- Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo **Núcleo Jornalismo** pelo [Volt Data Lab](www.voltdata.info) - empresa por trás do **Núcleo**;
 
 - Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;
 
