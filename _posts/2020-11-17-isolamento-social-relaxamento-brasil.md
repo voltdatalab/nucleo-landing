@@ -8,7 +8,7 @@ titulo_redes: "Mobilidade no Brasil está normal desde julho"
 subtitle: 'Análise do Núcleo do dados do BID/Waze mostra que a partir de julho movimentação de veículos voltou a ser maior do que no começo de março.'
 subtitle_redes: "'Quarentena', em geral, foi relaxada no auge da pandemia, segundo dados do Waze"
 excerpt: 'Análise do Núcleo do dados do BID/Waze mostra que a partir de julho movimentação de veículos voltou a ser maior do que no começo de março.'
-date: "17/11/2020"
+date: "17/11/2020 13:45"
 analise: Sérgio Spagnuolo
 edicao:  Alexandre Orrico
 arte: Rodolfo Almeida
