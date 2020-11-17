@@ -82,6 +82,8 @@ Se considerarmos como ponto de partida a semana encerrada em 19 de julho, quando
 
 Manaus, Belém, Recife e Curitiba são grandes centros que também contribuíram bastante. São Paulo teve a oitava maior variação média, e o Rio de Janeiro, a décima.
 
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Mude a cidade para atualizar os dados</em></small></p>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### COMO FIZEMOS ISSO
