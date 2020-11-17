@@ -1,4 +1,4 @@
-I"&<p>Dados confirmam o que você talvez já suspeite: a movimentação nas ruas de todo o Brasil de fato aumentou nos últimos meses e podemos dizer que a mobilidade retomou níveis pré-pandemia já em meados de julho – um dos períodos de mais óbitos de Covid-19 no país.</p>
+I"�<p>Dados confirmam o que você talvez já suspeite: a movimentação nas ruas de todo o Brasil de fato aumentou nos últimos meses e podemos dizer que a mobilidade retomou níveis pré-pandemia já em meados de julho – um dos períodos de mais óbitos de Covid-19 no país.</p>
 
 <p>Análise do <strong>Núcleo</strong> com dados do Banco Interamericano de Desenvolvimento/IDB Invest, em parceria com o aplicativo de mapas Waze, mostra que a movimentação de veículos no Brasil como um todo começou a disparar a partir da semana encerrada em 19 de julho em comparação à primeira semana de março.</p>
 
@@ -47,7 +47,7 @@
 
 <p>Além do cenário nacional, o BID discrimina dados de 24 regiões metropolitanas, num total de quase 80 milhões de brasileiros. Isso não permite analisar todas as minúcias da intensidade de trânsito em cada canto do território nacional, mas dá uma ideia boa.</p>
 
-<p>Quais grandes cidades mais puxaram a retomada da “normalidade”?</p>
+<h5 id="quais-grandes-cidades-mais-puxaram-a-retomada-da-normalidade">Quais grandes cidades mais puxaram a retomada da “normalidade”?</h5>
 
 <p>Se considerarmos como ponto de partida a semana encerrada em 19 de julho, quando houve uma virada no âmbito nacional no trânsito, Santos foi onde houve maior alta – potencialmente por causa do porto – e única cidade com média positiva.</p>
 
@@ -57,17 +57,17 @@
 
 <h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
 
-<p>O Núcleo analisou os dados do BID/Waze e fez suas próprias classificações, identificado os dias da semana por nome e as semanas a partir de quando os dados começaram a ser mensurados.</p>
+<p>Os <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> são baseados em um convênio entre o Banco Interamericano de Desenvolvimento e o <a href="https://www.waze.com/en/ccp">programa</a> “Waze for Cities”.</p>
 
-<p>O primeiro dia da semana foi considerado como segunda-feira, padrão estabelecido pela International Organization for Standardization (ISO 8601).</p>
+<p>Os gráficos desconsideram algumas cidades e países a fim de facilitar a visualização de dados.</p>
 
-<p>A semana de 8 a 15 de março foi considerada “semana 0” e não entra na conta das análises do Núcleo em nenhum cenário, principalmente porque as medidas de distanciamento social começaram a ser adotadas como políticas públicas a partir da semana seguinte – embora antes o tráfego de veículos de fato apresentasse um recuo, mesmo que modesto.</p>
+<p>As regiões metropolitanas consideradas na conta foram: Belém, Belo Horizonte, Brasília, Campinas, Curitiba, Florianópolis, Fortaleza, Goiânia, João Pessoa, Joinville, Maceió, Manaus, Natal, Porto Alegre, Recife, Rio de Janeiro, Salvador, Santos, São José dos Campos, São Luís, São Paulo, Sorocaba, Teresina e Vitória.</p>
 
-<p>A partir disso fizemos análises de médias comparáveis a partir semana por semana e também dia por dia, a fim de saber as diferenças apresentadas nos fins de semana em relação aos dias de semana.</p>
+<p>Para o Brasil, em geral, os dados consideram mais localidades, o que explica possíveis disparidades com dados das regiões metropolitanas mencionadas.</p>
 
-<p>Foi tentada uma média móvel de semana a semana, a fim de fazer uma outra medida de tendência, mas a ideia foi descartada porque o número de semanas consideradas ainda é pequeno.</p>
+<p>A metodologia pode ser encontrada <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-529">neste documento</a>. Descrevendo o TCI (tradução do Núcleo):</p>
 
-<p>O código da análise pode ser encontrado neste link, na linguagem R.</p>
+<p>“Essa medida do TCI sumariza tanto a extensão dos congestionamentos na rede viária de um polígono (ex. uma região metropolitana) quanto sua duração, porque a continuidade de congestionamentos é contada cada vez dentro de um intervalo i. Por exemplo, se na região metropolitana A e na região metropolitana B as mesmas 10 linhas de congestionamento são formadas em um dia, cada uma com 150 metros de comprimento, teríamos uma medida de 1.500 metros de congestionamento tanto em A quanto em B durante o dia. No entanto, se congestionamentos em A têm uma duração que seja o dobro da duração de B, o TCI para A seria o dobro do TCI para B.”</p>
 
 <style>
 .botao {

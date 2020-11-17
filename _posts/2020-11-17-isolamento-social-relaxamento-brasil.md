@@ -75,7 +75,7 @@ Se considerarmos grandes cidades, como São Paulo, Rio de Janeiro e Belo Horizon
 
 Além do cenário nacional, o BID discrimina dados de 24 regiões metropolitanas, num total de quase 80 milhões de brasileiros. Isso não permite analisar todas as minúcias da intensidade de trânsito em cada canto do território nacional, mas dá uma ideia boa.
 
-Quais grandes cidades mais puxaram a retomada da "normalidade"?
+##### Quais grandes cidades mais puxaram a retomada da "normalidade"?
 
 Se considerarmos como ponto de partida a semana encerrada em 19 de julho, quando houve uma virada no âmbito nacional no trânsito, Santos foi onde houve maior alta -- potencialmente por causa do porto -- e única cidade com média positiva.
 
