@@ -21,7 +21,7 @@ dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/c9fde498d827905f9a
 dados_abertos3: "Dados tabulados pelo Núcleo"
 dados_abertos_link3: "https://docs.google.com/spreadsheets/d/1Afon_4MW1xg9ploShrszEHMkNc2OMz6_RMF-M2z_MYM/edit?usp=sharing"
 background: 'covid/transito-normal/arte.png'
-atualizacao: ""
+atualizacao: "Análise atualizada às 14h21 para incluir gráfico 'Retomada do trânsito em 24 cidades'"
 nota_abertura: ""
 categories:
   - "urbe"
@@ -74,6 +74,10 @@ No entanto, é necessário notar que, apesar disso, é possível notar um afroux
 
 Se considerarmos grandes cidades, como São Paulo, Rio de Janeiro e Belo Horizonte, a movimentação foi aumentando semanalmente, e embora ainda seja menor do que no início do isolamento social, essa retomada tem peso no aumento nacional.
 
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Mude a cidade para atualizar os dados</em></small></p>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Além do cenário nacional, o BID discrimina dados de 24 regiões metropolitanas, num total de quase 80 milhões de brasileiros. Isso não permite analisar todas as minúcias da intensidade de trânsito em cada canto do território nacional, mas dá uma ideia boa.
 
 ##### Quais grandes cidades mais puxaram a retomada da "normalidade"?
@@ -82,9 +86,8 @@ Se considerarmos como ponto de partida a semana encerrada em 19 de julho, quando
 
 Manaus, Belém, Recife e Curitiba são grandes centros que também contribuíram bastante. São Paulo teve a oitava maior variação média, e o Rio de Janeiro, a décima.
 
-<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Mude a cidade para atualizar os dados</em></small></p>
+![gráfico sobre movimentação desde julho](../img/covid/transito-normal/media_pos_pico.png)
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### COMO FIZEMOS ISSO
 
