@@ -10,6 +10,7 @@ subtitle_redes: "'Quarentena', em geral, foi relaxada no auge da pandemia, segun
 excerpt: 'Análise do Núcleo do dados do BID/Waze mostra que a partir de julho movimentação de veículos voltou a ser maior do que no começo de março.'
 date: "17/11/2020 13:45"
 analise: Sérgio Spagnuolo
+graficos: Sérgio Spagnuolo
 edicao:  Alexandre Orrico
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
