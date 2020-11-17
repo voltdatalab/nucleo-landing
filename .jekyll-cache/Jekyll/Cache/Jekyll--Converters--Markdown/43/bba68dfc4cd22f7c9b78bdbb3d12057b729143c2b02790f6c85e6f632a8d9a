@@ -1,0 +1,39 @@
+I"L<p>Dados confirmam o que você talvez já suspeite: a movimentação nas ruas de todo o Brasil de fato aumentou nos últimos meses e podemos dizer que a mobilidade retomou níveis pré-pandemia já em meados de julho – um dos períodos de mais óbitos de Covid-19 no país.</p>
+
+<p>Análise do <strong>Núcleo</strong> com dados do Banco Interamericano de Desenvolvimento/IDB Invest, em parceria com o aplicativo de mapas Waze, mostra que a movimentação de veículos no Brasil como um todo começou a disparar a partir da semana encerrada em 19 de julho em comparação à primeira semana de março.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Mostra evidências do relaxamento no isolamento social</em></p>
+  </li>
+  <li>
+    <p><em>Indica essa relaxamento num dos momentos mais graves da pandemia, reflexo de falta de políticas públicas</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><img src="../img/covid/transito-normal/brasil.png" alt="gráfico sobre média geral brasileira" /></p>
+
+<p>Se considerarmos que o isolamento social no Brasil começou de fato na semana iniciada em 15 de março de 2020, isso significa uma retomada nos índices de movimentação de veículos a partir da 19a semana de quarentena.</p>
+
+<p>Foi um dos períodos com mais óbitos semanais por conta de Covid-19 que o Brasil já viu. Em 25 de julho, o Brasil registrou uma média móvel de sete dias de 1.095 mortes por dia, o maior patamar até agora de acordo com dados do projeto MonitoraCovid-19, da Fiocruz. Já o pico de casos confirmados aconteceu em 28 de julho, na mesma métrica, com 47.514 confirmações.</p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+
+<p>O Núcleo analisou os dados do BID/Waze e fez suas próprias classificações, identificado os dias da semana por nome e as semanas a partir de quando os dados começaram a ser mensurados.</p>
+
+<p>O primeiro dia da semana foi considerado como segunda-feira, padrão estabelecido pela International Organization for Standardization (ISO 8601).</p>
+
+<p>A semana de 8 a 15 de março foi considerada “semana 0” e não entra na conta das análises do Núcleo em nenhum cenário, principalmente porque as medidas de distanciamento social começaram a ser adotadas como políticas públicas a partir da semana seguinte – embora antes o tráfego de veículos de fato apresentasse um recuo, mesmo que modesto.</p>
+
+<p>A partir disso fizemos análises de médias comparáveis a partir semana por semana e também dia por dia, a fim de saber as diferenças apresentadas nos fins de semana em relação aos dias de semana.</p>
+
+<p>Foi tentada uma média móvel de semana a semana, a fim de fazer uma outra medida de tendência, mas a ideia foi descartada porque o número de semanas consideradas ainda é pequeno.</p>
+
+<p>O código da análise pode ser encontrado neste link, na linguagem R.</p>
+:ET
