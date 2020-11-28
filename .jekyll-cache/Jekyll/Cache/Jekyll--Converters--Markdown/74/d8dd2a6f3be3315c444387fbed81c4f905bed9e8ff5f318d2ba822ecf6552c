@@ -1,6 +1,6 @@
-I"�<p>Dados confirmam o que você talvez já suspeite: a movimentação nas ruas de todo o Brasil de fato aumentou nos últimos meses e podemos dizer que a mobilidade retomou níveis pré-pandemia já em meados de julho – um dos períodos de mais óbitos de Covid-19 no país.</p>
+I"�<p>A proporção de vereadores jovens saiu pela terceira eleição seguida em 2020, totalizando 7,2% dos eleitos, indicando uma resistência à renovação nos quadros dos partidos – ao menos no nível municipal.</p>
 
-<p>Análise do <strong>Núcleo</strong> com dados do Banco Interamericano de Desenvolvimento/IDB Invest, em parceria com o aplicativo de mapas Waze, mostra que a movimentação de veículos no Brasil como um todo começou a disparar a partir da semana encerrada em 19 de julho em comparação à primeira semana de março.</p>
+<p>Em 2016, o percentual de vereadores eleitos com menos de 30 anos no momento da eleição foi de 7,9% – quatro anos antes, em 2012, essa proporção era de 8,7%.</p>
 
 <hr />
 
@@ -45,6 +45,10 @@
 
 <p>Se considerarmos grandes cidades, como São Paulo, Rio de Janeiro e Belo Horizonte, a movimentação foi aumentando semanalmente, e embora ainda seja menor do que no início do isolamento social, essa retomada tem peso no aumento nacional.</p>
 
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Mude a cidade para atualizar os dados</em></small></p>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <p>Além do cenário nacional, o BID discrimina dados de 24 regiões metropolitanas, num total de quase 80 milhões de brasileiros. Isso não permite analisar todas as minúcias da intensidade de trânsito em cada canto do território nacional, mas dá uma ideia boa.</p>
 
 <h5 id="quais-grandes-cidades-mais-puxaram-a-retomada-da-normalidade">Quais grandes cidades mais puxaram a retomada da “normalidade”?</h5>
@@ -53,7 +57,7 @@
 
 <p>Manaus, Belém, Recife e Curitiba são grandes centros que também contribuíram bastante. São Paulo teve a oitava maior variação média, e o Rio de Janeiro, a décima.</p>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<p><img src="../img/covid/transito-normal/media_pos_pico.png" alt="gráfico sobre movimentação desde julho" /></p>
 
 <h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
 
