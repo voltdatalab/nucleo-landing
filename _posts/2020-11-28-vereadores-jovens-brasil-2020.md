@@ -47,7 +47,7 @@ Em 2016, o percentual de vereadores eleitos com menos de 30 anos no momento da e
 
 ![gráfico faixa etária de vereadores 2012 a 2020](../img/vereadores-jovens/vereadores_eleitos_jovens_pct.png)
 
-Nas eleições municipais, as eleições de vereador são um evento importante para observar tendências de renovação nos partidos. Isso se deve a dois fatores;
+Nas eleições municipais, as eleições de vereador são um evento importante para observar tendências de renovação nos partidos. Isso se deve a dois fatores:
 
 * o grande número de cadeiras de vereador em disputa (mais de 58 mil em todo o país) que pode facilitar a entrada de estreantes;
 
