@@ -5,9 +5,9 @@ layout: conteudo
 tipo: análise
 title: "Em desertos de notícia, vereadores buscam mais a reeleição"
 titulo_redes: "Em desertos de notícia, vereadores buscam mais a reeleição"
-subtitle: 'Análise do Núcleo dados do Atlas da Notícia mostra que vereadores em municípios com nenhuma ou pouca presença de jornalismo são mais prováveis a buscar a reeleição.'
+subtitle: 'Análise do Núcleo com dados do Atlas da Notícia mostra que vereadores em municípios com nenhuma ou pouca presença de jornalismo são mais prováveis a buscar a reeleição.'
 subtitle_redes: "Análise mostra que vereadores em municípios com nenhuma ou pouca presença de jornalismo são mais prováveis a buscar a reeleição"
-excerpt: 'Análise do Núcleo dados do Atlas da Notícia mostra que vereadores em municípios com nenhuma ou pouca presença de jornalismo são mais prováveis a buscar a reeleição'
+excerpt: 'Análise do Núcleo com dados do Atlas da Notícia mostra que vereadores em municípios com nenhuma ou pouca presença de jornalismo são mais prováveis a buscar a reeleição'
 date: "10/11/2020 11:01"
 analise: Lucas Gelape
 edicao: Sérgio Spagnuolo e Alexandre Orrico
