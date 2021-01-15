@@ -53,7 +53,7 @@ Uma funcionária da Consultoria Legislativa da Câmara dos Deputados [entrou em 
 
 ## &#8594; Justiça pede esclarecimentos ao Executivo
 
-[Análise que fizemos](https://nucleo.jor.br/pol%C3%ADticas%20p%C3%BAblicas/2020-03-12-coronavirus-capacidade-hospitalar-brasil) sobre a redução no número de leitos hospitalares foi utilizado como fonte no pedido de organizações da sociedade civil em _amicus curiae_ em ADIs que questionavam o teto de gastos.
+[Análise que fizemos](https://nucleo.jor.br/governo/2020-03-12-coronavirus-capacidade-hospitalar-brasil) sobre a redução no número de leitos hospitalares foi utilizado como fonte no pedido de organizações da sociedade civil em _amicus curiae_ em ADIs que questionavam o teto de gastos.
 
 #### Como soubemos disso?
 Soubemos [via Twitter](https://twitter.com/jnascim/status/1241406993044209672), através do Coordenador de Justiça Social e Econômica da Oxfam Brasil.

@@ -33,6 +33,8 @@ Our basic requirements for receiving any outside money are: 1. we have to be abl
 
 For now, to support ourselves, we license our unique content to partners in Brazil, like fact-checking agency [Aos Fatos](www.aosfatos.org), [Yahoo! News Brazil](https://br.noticias.yahoo.com/) and [Brazilian Report](https://brazilian.report/).
 
+In October 2020, Nucleo received a USD 20,000 funding from the Google News Initiative, in order to help us develop our business model.
+
 <br>
 
 ## OUR WORK

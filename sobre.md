@@ -6,13 +6,13 @@ direct: 'sobre'
 atualizacao: 14/04/2020
 ---
 
-O **Núcleo** é um veículo jornalístico fundado em janeiro de 2020, com a missão de produzir investigações a partir de dados públicos e trazer mais transparência ao governo, ao debate político e a políticas públicas, em diferentes esferas e localidades.
+O **Núcleo** é um veículo jornalístico fundado em janeiro de 2020, com a missão de produzir investigações a partir de dados e trazer mais transparência ao governo, ao debate político e a políticas públicas, em diferentes esferas e localidades.
 
-O trabalho é guiado, principalmente, pelo rigor analítico sobre assuntos importantes, que frequentemente são pouco abordados ou mal explorados pela imprensa em geral.
+Nosso foco atual é orientado para assuntos relacionados a tecnologia e mídia -- tanto no nível editorial (reportagens, análises e até opinião) quanto no desenvolvimento de aplicações e projetos.
 
-A iniciativa é liderada pela agência [Volt Data Lab](https://voltdata.info).
+A iniciativa é liderada pela agência [Volt Data Lab](https://voltdata.info), e foi lançada em 6 de janeiro de 2020 pelos jornalistas Sérgio Spagnuolo e Alexandre Orrico.
 
-#### [Leia nossas publicações institucionais e anúncios aqui.](../institucional)
+<code><a href="{{"/institucional" | relative_url }}">Publicações institucionais aqui <i class="far fa-list-alt"></i> &rarr;</a></code>
 
 <br>
 
