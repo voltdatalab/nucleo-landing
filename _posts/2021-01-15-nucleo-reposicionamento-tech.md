@@ -12,7 +12,7 @@ date: "15/01/2021 14:22"
 edicao:  Sérgio Spagnuolo e Alexandre Orrico
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-background: 'nucleo-geral.png'
+background: 'nucleo-geral-fit.png'
 atualizacao: ""
 nota_abertura: ""
 categories:
