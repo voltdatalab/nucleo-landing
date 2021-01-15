@@ -28,7 +28,7 @@ O **Núcleo** é uma iniciativa nova de jornalismo, e, como tal, passamos a maio
 
 Quem nos acompanha sabe que trabalhamos muito com dados abertos como orçamentos, gastos do governo e utilização de recursos públicos. Ainda vai haver espaço para isso no **Núcleo**, mas nossa energia vai se voltar principalmente para tecnologia e mídia e seus efeitos nas vidas das pessoas.
 
-Em 2020, sem financiamento, fizemos 36 reportagens ou análises. Publicamos apenas aquilo que julgamos valer a pena. Não queremos publicar apenas fazer volume. Em 2021 queremos fazer mais, sem perder de vista nossa missão de fazer um jornalismo diferente e inovador.
+Em 2020, sem financiamento, fizemos 36 reportagens ou análises. Publicamos apenas aquilo que julgamos valer a pena. Não queremos publicar apenas para fazer volume. Em 2021 queremos fazer mais, sem perder de vista nossa missão de fazer um jornalismo diferente e inovador.
 
 Estes são alguns dos pontos da nossa nova cobertura:
 
