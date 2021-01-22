@@ -5,7 +5,7 @@ layout: ideias
 tipo: ideias
 title: "Jornalista e há dez meses sem Twitter, Instagram ou Facebook"
 titulo_redes: "Jornalista sem Twitter, Instagram ou Facebook"
-subtitle: 'Estridência acima do comum deixou claro que muitos malefícios em usar as redes sociais; antes algoritmos ditavam o que eu consumia, agora busco ter consciência do que leio.'
+subtitle: 'Estridência acima do comum deixou claro que há muitos malefícios em usar as redes sociais; antes algoritmos ditavam o que eu consumia, agora busco ter consciência do que leio.'
 subtitle_redes: 'Antes algoritmos ditavam o que eu consumia, agora busco ter consciência do que leio'
 excerpt: 'Estridência acima do comum deixou claro que há mais malefícios do que benefícios em usar as redes sociais; antes algoritmos ditavam o que eu consumia, agora busco ter consciência do que leio'
 date: "22/01/2021 09:45"
