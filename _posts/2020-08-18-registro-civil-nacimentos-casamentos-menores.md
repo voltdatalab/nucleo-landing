@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: reportagem
 title: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos desde 2014"
-titulo_redes: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos desde 2014"
+titulo_redes: "Lei permitiu 1.284 casamentos de meninas menores de 15 anos"
 subtitle: "Análise do Núcleo em parceria com Revista AzMina mostra que, entre 2014 e 2018, registrou-se no Brasil que pelo menos 1.284 meninas e 73 meninos menores de 15 anos se casaram."
 subtitle_redes: "Prática foi proibida expressamente apenas em março de 2019"
 excerpt: "O engajamento das publicações de Jair Bolsonaro no Twitter tem minguado nas últimas semanas para o menor patamar em mais de um ano."

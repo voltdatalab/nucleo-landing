@@ -590,6 +590,14 @@ sup::after {
   color: #f33872
 }
 
+.note {
+  counter-increment: 0;
+  content: 0;
+  vertical-align: super;
+  font-size: 0.8em;
+  color: #f33872
+}
+
 /* This initially hides the footnote (i.e. span)  */
 input[type=checkbox] ~ span {
     display:none;
@@ -617,7 +625,7 @@ input[type=checkbox] ~ label {
     display:inline;
     cursor:pointer;
     color:$link-color;
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 /* This styles the footnote label when the mouse
