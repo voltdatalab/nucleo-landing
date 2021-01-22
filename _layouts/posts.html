@@ -16,6 +16,14 @@
 								<div class="post-heading">
 									<br />
 									<h1 style="text-transform:uppercase">{{ page.title }}</h1>
+
+									{% if page.desc %}
+									<p>
+
+										{{ page.desc }}
+									</p>
+									{% endif %}
+									
 									{% if page.subtitle %}
 									<h3 style="color:#777">{{ page.subtitle }}</h3>
 									{% endif %}
