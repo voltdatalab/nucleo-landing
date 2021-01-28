@@ -12,8 +12,9 @@ date: "22/01/2021 09:45"
 por:  Alexandre Aragão
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
-bio: "Alexandre Aragão é <a href='https://www.jota.info/autor/alexandre-aragao' target='_blank'>gerente de customer success</a> do JOTA em São Paulo. Edita a newsletter Impacto nas Instituições, enviada para os assinantes JOTA Pro Poder. Foi repórter do jornal Folha de S.Paulo, da revista Veja e do BuzzFeed News no Brasil. Colaborou com Aos Fatos, Época, The Intercept Brasil, piauí, entre outras publicações."
-contato: alexandre.aragao@jota.info
+bio: "é gerente de customer success <a href='https://www.jota.info/autor/alexandre-aragao' target='_blank'>do JOTA</a> em São Paulo. Edita a newsletter Impacto nas Instituições, enviada para os assinantes JOTA Pro Poder. Foi repórter do jornal Folha de S.Paulo, da revista Veja e do BuzzFeed News no Brasil. Colaborou com Aos Fatos, Época, The Intercept Brasil, piauí, entre outras publicações."
+contato: 'alexandre.aragao@jota.info'
+contato_link: 'mailto:alexandre.aragao@jota.info'
 credito_img: "Rodolfo Almeida"
 background: 'redes-02.png'
 atualizacao: ""

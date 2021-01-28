@@ -42,7 +42,9 @@
     <div class="row">
 			<div class="sidebar col-sm-4">
 				<p style="font-size:0.9em">
-					{% if page.bio %}*<em>{{ page.bio }}</em> {% endif %}
+					{% if page.bio %}* <em>{{ page.por }}
+					{% if page.contato %}<span><a href="{{ page.contato_link }}" target="_blank">({{ page.contato }})</a></em> {% endif %}</em></span>
+					<em>{{ page.bio }}</em> {% endif %}
 				</p>
 
 		 <br />
