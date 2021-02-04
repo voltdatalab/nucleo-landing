@@ -144,10 +144,11 @@ small{
 }
 .texto_post blockquote{
   font-style: italic;
-  font-size: 1.3em !important;
+  font-size: 1em !important;
   border-left: 4px solid #2eefa0;
   padding-left: 10px;
   max-width: 100% !important;
+  margin-left: -12px
 }
 
 .texto_post blockquote ul{

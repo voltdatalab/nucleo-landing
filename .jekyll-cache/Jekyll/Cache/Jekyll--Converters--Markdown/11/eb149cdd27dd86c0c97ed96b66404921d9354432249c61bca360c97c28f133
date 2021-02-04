@@ -1,0 +1,105 @@
+I"�<p>Blogs, veículos nativos de redes sociais e iniciativas com até cinco colaboradores têm ajudado a preencher os chamados “desertos de notícia” no Brasil, regiões nas quais carência de organizações jornalísticas mais estruturadas criou vácuos de jornalismo local, especialmente no Norte, no Nordeste e no Centro-Oeste.</p>
+
+<p>Análise do <strong>Núcleo</strong> com dados do Atlas da Notícia mostra que essas pequenas iniciativas representam 18,5% dos veículos nacionais considerados jornalísticos mapeados pela iniciativa.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Desertos de notícia são locais sem iniciativas de jornalismo, as quais ajudam a informar o voto dos cidadãos, o que tem efeitos sobre prestação de contas públicas locais e transparência</em></p>
+  </li>
+  <li>
+    <p><em>Iniciativas digitais ajudam o noticiário local em lugares sem cobertura dos grandes veículos</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><img src="/img/atlas_blogs.png" alt="percentual de blogs por região" /></p>
+
+<p>Houve um aumento no número de veículos digitais catalogados (+1.170 em todas as regiões combinadas), e isso teve um impacto notável na redução de 5,9% no número de desertos de notícias no Brasil em relação ao último levantamento do Atlas.</p>
+
+<p>Esse peso dos blogs e iniciativas de redes sociais é particularmente visível no Nordeste. Nos levantamentos anteriores, o Nordeste era a região com o maior número proporcional de desertos, levando em conta proporção sobre o total de municípios. No último levantamento, de 2019, 73,5% das cidades da região não tinham veículos catalogados na pesquisa. Agora, em 2021, esse percentual caiu para 66,3%, fazendo o Nordeste superar o Norte, onde 69,8% dos municípios são considerados desertos de notícia na classificação do Atlas da Notícia.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>região</th>
+      <th>veículos</th>
+      <th>pequenas iniciativas</th>
+      <th>proporção</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Centro-Oeste</td>
+      <td>1898</td>
+      <td>425</td>
+      <td>22.4</td>
+    </tr>
+    <tr>
+      <td>Nordeste</td>
+      <td>2402</td>
+      <td>770</td>
+      <td>32.1</td>
+    </tr>
+    <tr>
+      <td>Norte</td>
+      <td>960</td>
+      <td>192</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Sudeste</td>
+      <td>4524</td>
+      <td>389</td>
+      <td>8.6</td>
+    </tr>
+    <tr>
+      <td>Sul</td>
+      <td>3314</td>
+      <td>653</td>
+      <td>19.7</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>O dado, à primeira vista, parece positivo – e é mesmo em certa escala. Afinal, não ter um deserto de notícias é melhor do que ter um.</p>
+
+<p>Mas é preciso notar também que muitos desses veículos não seguem protocolos e convenções aplicados nos sites e jornais de grandes centros, o que pode afetar a qualidade e a independência do noticiário.</p>
+
+<p>A jornalista Mariama Correia, pesquisadora do Atlas para o Nordeste, <a href="http://www.observatoriodaimprensa.com.br/atlas-da-noticia-4-0/digital-reduz-desertos-de-noticias-no-nordeste/">explica</a> um pouco isso:</p>
+
+<blockquote>
+  <p>“A redução proporcional de desertos de notícias no Nordeste do país não significa, necessariamente, uma melhor qualidade da cobertura local. Embora critérios como produção original e periodicidade sejam observados para a classificação dos veículos noticiosos, pela equipe do Atlas da Notícia, a qualidade do conteúdo não é objeto central da pesquisa.”</p>
+</blockquote>
+
+<h3 id="nas-profundezas-do-brasil">NAS PROFUNDEZAS DO BRASIL</h3>
+<p>Uma coisa que é importante notar é a importância desses veículos nos rincões brasileiros. Enquanto grandes cidades, aquelas com mais de 300 mil habitantes, todas possuem algum tipo de imprensa, nas pequenas a maioria não tem nenhum tipo de noticiário local.</p>
+
+<p>Para se ter uma ideia, dos 2.450 municípios com menos de 10.000 habitantes, 2.110 (86%) são desertos de notícia, ou seja, não tiveram nenhum veículo cadastrado no Atlas da Notícia. São localidades nas quais é difícil manter um veículo, seja financeiramente ou também estruturalmente, com segurança.</p>
+
+<p>Muitos desses municípios pequenos estão no Sul e no Sudeste – mesmas regiões que gozam dos maiores números de veículos.</p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+<p>O autor é coordenador de dados do Atlas da Notícia. Veja a metodologia do levantamento aqui.</p>
+
+<p>Para a análise (<a href="https://gist.github.com/sergiospagnuolo/bb04821154646e78ccb097ea4fc3bb4a">código aqui</a>), foi utilizado o pacote de R ``</p>
+
+<p>Alguns pontos a serem considerados:</p>
+
+<ul>
+  <li>
+    <p>Além de sites de notícia, a partir de 2019 passaram a ser considerados na categoria digital também iniciativas nativas de redes sociais e blogs individuais de notícias – considerados veículos não tradicionais, mas que ajudam a informar comunidades com um baixo custo de operação e manutenção. Essa categoria representa um terço de todos os veículos digitais cadastrados no levantamento. No Nordeste, o percentual é bem maior: 66%.</p>
+  </li>
+  <li>
+    <p>Há certamente muito mais blogs por aí, especialmente no Sudeste e Sul, que não foram mapeados pelo Atlas. Mas é preciso notar que essas localidades já possuem muitos veículos. O Atlas busca por veículos que se configuram como jornalismo, e em regiões cuja cobertura noticiosa já é mais completa, minha teoria é que os blogs nesses locais tendem a ser mais opinativos e pessoais, em vez de jornalísticos.</p>
+  </li>
+</ul>
+
+<p>O Atlas da Notícia é a maior pesquisa nacional de dados abertos sobre o jornalismo brasileiro e chega, em 2021, à sua quarta edição. O levantamento, que conta com uma equipe de cinco pesquisadores regionais e cerca de 330 voluntários, ampliou em 10,6% o número de veículos jornalísticos registrados na base, chegando a um  total de 13.092 iniciativas. A última edição foi publicada em dezembro de 2019.</p>
+
+<p>Vale notar que, por possuir um acervo tão grande atualizado anualmente, mudanças nas composições de desertos de notícias podem demorar algum tempo para serem refletidas em nossas análises. Por conta da ausência de documentação, ainda é muito difícil identificar a data de criação e também de fechamento de muitos veículos, especialmente fora das grandes cidades. Dessa forma, mesmo com veículos criados e fechados há mais de um ano, só depois de validação é possível identificar reflexos desse cenário digital.</p>
+:ET
