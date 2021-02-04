@@ -4,7 +4,7 @@ visible: 1
 tipo: Análise
 layout: conteudo
 title: "Nos rincões do Brasil, blogs irrigam desertos de notícia"
-titulo_redes: "Usar redes de forma crítica pode ser melhor do que deixá-las"
+titulo_redes: "Nos rincões do Brasil, blogs irrigam desertos de notícia"
 subtitle: 'Análise do Núcleo com dados do Atlas da Notícia mostra que pequenas iniciativas representam 18,5% dos veículos jornalísticos mapeados pela iniciativa.'
 subtitle_redes: 'Dados do Atlas da Notícia mostram que pequenas iniciativas representam 18,5% do jornalísticos mapeados pela iniciativa'
 excerpt: 'Análise do Núcleo com dados do Atlas da Notícia mostra que pequenas iniciativas representam 18,5% dos veículos jornalísticos mapeados pela iniciativa.'
