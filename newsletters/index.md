@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: 'Newsletter Núcleo Jornalismo'
-desc: 'O essencial sobre o que publicamos'
+title: 'Newsletters'
+desc: 'Conheça as newsletters do do Núcleo Jornalismo'
 subtitle: ''
 link: ''
 subTitle: ''
@@ -37,7 +37,7 @@ Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os 
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
   </div>
 
 </form>
@@ -59,7 +59,7 @@ O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, qu
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
   </div>
 
 </form>
@@ -84,7 +84,7 @@ Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jorna
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="oDGc71s8Hf0efDXWJPOJtw"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
   </div>
 
 </form>

@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: 'Newsletter Núcleo Jornalismo'
-desc: 'O essencial sobre o que publicamos'
-subtitle: ''
+title: 'Newsletter Garimpo'
+desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
+subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 link: ''
 subTitle: ''
 ---
@@ -20,12 +20,14 @@ img{
   margin: 0 auto;
   text-align: center;
   display: block;
+  max-width: 100%;
 }
 </style>
 
-### GARIMPO
+![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
-O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse.
+
+**Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
 
 É enviada de segunda a quinta-feira, por volta das 10h30.
 
@@ -41,7 +43,7 @@ A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphae
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
   </div>
 
 </form>
