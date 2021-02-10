@@ -47,7 +47,7 @@ Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os 
 
 ### GARIMPO
 
-O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletter/garimpo)
+O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo)
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
