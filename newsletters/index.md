@@ -25,7 +25,7 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 ### DESPACHO NUCLEAR
 
-Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os principais destaques da nossa mais recentemente matéria.
+Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os principais destaques da nossa mais recente publicação.
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
