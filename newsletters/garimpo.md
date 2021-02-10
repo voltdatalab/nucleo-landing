@@ -26,6 +26,7 @@ img{
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
+## EM BREVE
 
 **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
 
