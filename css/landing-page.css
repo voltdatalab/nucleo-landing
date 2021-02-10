@@ -513,3 +513,13 @@ hr {
   font-size: 0.7em;
   padding-bottom: 12px;
 }
+
+#search-box{
+  border: 2px solid #4b31dd;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+#search-box textarea{
+  font-family: 'Roboto Mono', monospace !important;
+}

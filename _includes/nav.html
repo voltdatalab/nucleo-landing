@@ -14,31 +14,41 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-            	<li>
+              <li style="padding-top:12px">
+                  <form action="/busca.html" method="get">
+                  <i class="fas fa-search"></i>
+                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                  <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                <!--
+            	  <li>
                     <a href="{{ site.baseurl }}/sobre">SOBRE</a>
                 </li>
                 <li>
                     <a href="{{ site.baseurl }}/impacto">IMPACTO</a>
                 </li>
+                -->
                 <li>
-                    <a href="{{ site.baseurl }}/newsletter">NEWSLETTER</a>
+                    <a href="{{ site.baseurl }}/newsletter">NEWSLETTERS</a>
                 </li>
                 <li>
                     <a href="{{ site.baseurl }}/ideias">IDEIAS</a>
                 </li>
+                <!--
                 <li>
                     <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
                 </li>
-                <!--
+
                 {% for social in site.social %}
                 <li>
                   <a href="{{ social.url }}" style="border:0px"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name"></span></a>
                 </li>
                 {% endfor %}
-                -->
+
                 <li>
                     <a href="{{ site.baseurl }}/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <!-- /.navbar-collapse -->

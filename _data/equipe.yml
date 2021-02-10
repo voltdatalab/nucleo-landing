@@ -1,10 +1,10 @@
 - nome: Sérgio Spagnuolo
-  posicao: Editor
+  posicao: Editor e fundador
   twitter: sergiospagnuolo
   email: sergio@voltdata.info
 
 - nome: Alexandre Orrico
-  posicao: Editor
+  posicao: Editor e fundador
   twitter: alexorrico
   email: orrico@voltdata.info
 
@@ -13,10 +13,23 @@
   twitter: jade_dru
   email: jade@voltdata.info
 
+- nome: Laís Martins
+  posicao: Repórter
+  twitter: lais_fmartins
+  email: lais@voltdata.info
+
+- nome: Lucas Lago
+  posicao: Analista de dados e aplicações
+  twitter: lucaslago
+
 - nome: Lucas Gelape
   posicao: Analista de dados
   twitter: lgelape
   email: lucas@voltdata.info
+
+- nome: Rafael Evangelista
+  posicao: Editor do Garimpo
+  twitter: raphaevanges
 
 - nome: Renata Hirota
   posicao: Analista de dados
@@ -26,4 +39,3 @@
 - nome: Rodolfo Almeida
   posicao: Designer
   twitter: rodolfoalmd
-  email: info@voltdata.info

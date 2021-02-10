@@ -28,7 +28,7 @@
     <meta name="keywords" content="jornalismo, jornalismo de dados, análise de dados, transparêcia pública, políticas públicas, gastos públicos"/>
     <meta property="og:site_name" content="Núcleo Jornalismo">
     <meta property="og:title" content="Núcleo Jornalismo" />
-    <meta property="og:description" content=" Análises sobre debates, gastos públicos e políticas públicas " />
+    <meta property="og:description" content=" Explicando a tecnologia com jornalismo " />
 
     <!-- FACEBOOK -->
     <meta property="og:image" content="https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png" />
@@ -79,22 +79,32 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-            	<li>
+              <li style="padding-top:12px">
+                  <form action="/busca.html" method="get">
+                  <i class="fas fa-search"></i>
+                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                  <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                <!--
+            	  <li>
                     <a href="/sobre">SOBRE</a>
                 </li>
                 <li>
                     <a href="/impacto">IMPACTO</a>
                 </li>
+                -->
                 <li>
-                    <a href="/newsletter">NEWSLETTER</a>
+                    <a href="/newsletter">NEWSLETTERS</a>
                 </li>
                 <li>
                     <a href="/ideias">IDEIAS</a>
                 </li>
+                <!--
                 <li>
                     <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
                 </li>
-                <!--
+
                 
                 <li>
                   <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
@@ -116,10 +126,10 @@
                   <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
                 </li>
                 
-                -->
+
                 <li>
                     <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -220,8 +230,9 @@
 		<div class="container">
 				<div class="col-lg-auto">
 					<div class="intro-message">
-						<h2>Análises sobre debates, gastos públicos e políticas públicas</h2>
-						<h3><div id="revue-embed"> <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8"> <div class="revue-form-group"> <label for="email">receba novidades por email</label> <br /> <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="preencha seu email..." /> </div> <div class="revue-form-actions"> <input type="hidden" name="list" value="jsGC7RY0MjqoqvAOuwl8zA"/> <input type="hidden" name="subform" value="yes"/> <input type="submit" name="submit" id="submit" value="clique aqui para receber" style="max-width:100%"/> </div> </form> </div></h3>
+						<h2>Explicando a tecnologia com jornalismo</h2>
+						<h3><div id="revue-embed"> <div id="newsletter_page"> <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8"> <div class="revue-form-group"> <label for="email">Receba nossas matérias por email.</label> <br /> <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/> <br/> <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/> </div> <div class="revue-form-actions"> <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/> <input type="hidden" name="subform" value="yes"/> <input type="submit" name="submit" id="submit"/> </div>
+</form> </div></h3>
 						<ul class="list-inline intro-social-buttons"> <br />
 							
 							<li>
@@ -245,7 +256,7 @@
 							</li>
 							
 						</ul><br />
-						<a class="btn" href="impacto">Conheça nosso impacto</a> <br />
+						<a class="btn" href="newsletters">Conheça nossas newsletters</a> <br />
 					</div>
 				</div>
 		</div>
@@ -437,319 +448,8 @@
           </div>
 
                 
-        <div class="col-sm-6 col-lg-6">
-                <a href="/transpar%C3%AAncia/2020-07-03-transparencia-30-dias-dados-registro-civil">
-                  <h3 class="page-tttt">Pandemia expõe limitações de dados do registro civil</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 03/07/2020 &middot; Arquivado em <a href="transparência"><span class="spancateg"> transparência</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/urbe/2020-05-13-qualidade-internet-conexao-quarentena">
-                  <h3 class="page-tttt">Na verdade, conexão à internet parece ter melhorado na quarentena</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 13/05/2020 &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-05-01-bolsa-familia-dispara-em-abril-resposta-coronavirus">
-                  <h3 class="page-tttt">Resposta à pandemia faz Bolsa Família disparar após sucessivas quedas</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 01/05/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-04-24-sergio-moro-saida-justica-bolsonaro">
-                  <h3 class="page-tttt">No Twitter, barulho com saída de Moro supera demissão de Mandetta e discursos de Bolsonaro</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 24/04/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-04-20-ministerio-saude-contratos-sem-licitacao">
-                  <h3 class="page-tttt">Contratos sem licitação do Ministério da Saúde superam R$2,7 bi</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 20/04/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-04-20-ai5-twitter-termo-popularidade-criticas">
-                  <h3 class="page-tttt">'AI-5' dispara no Twitter com críticas à manifestação pró-Bolsonaro</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 20/04/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-04-18-demissao-mandetta-reacoes-negativas-twitter">
-                  <h3 class="page-tttt">Reações negativas dominam Twitter após demissão de Mandetta</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 18/04/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/urbe/2020-04-15-fins-de-semana-isolamento-social-bid-waze-analise">
-                  <h3 class="page-tttt">Fins de semana colocam isolamento social à prova no Brasil</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 15/04/2020 &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-04-13-repatriacao-brasileiros-exterior-covid">
-                  <h3 class="page-tttt">Coronavírus: repatriação de brasileiros custa mais de R$25 mi</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 13/04/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-04-07-bolsonaro-coronavirus-engajamento-twitter">
-                  <h3 class="page-tttt">Antes seu domínio, Bolsonaro tem perdido a briga no Twitter</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 07/04/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/urbe/2020-04-06-transito-brasil-coronavirus-atualizacao">
-                  <h3 class="page-tttt">Apesar de quarentena, Brasil tem aumento de trânsito no fim de semana</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 06/04/2020 &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/urbe/2020-04-02-mapa-densidade-saopaulo-coronavirus">
-                  <h3 class="page-tttt">Mapa mostra limitações do isolamento vertical nas periferias</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 02/04/2020 &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus">
-                  <h3 class="page-tttt">Avaliação de Bolsonaro fica estagnada durante pandemia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 01/04/2020 &middot; Arquivado em <a href="pesquisas"><span class="spancateg"> pesquisas</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-03-31-bolsa-familia-cai-em-marco">
-                  <h3 class="page-tttt">Governo corta 158 mil beneficiários do Bolsa Família em março</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 31/03/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-03-30-aplicativos-noticias-sobem-sob-coronavirus">
-                  <h3 class="page-tttt">Apps de notícias crescem no Brasil em meio à pandemia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 30/03/2020 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/urbe/2020-03-29-transito-brasil-coronavirus">
-                  <h3 class="page-tttt">Coronavírus: trânsito cai 42% nas maiores cidades brasileiras</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 29/03/2020 &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/recursos/2020-03-27-medicos-intensivistas-UTI-falta-coronavirus">
-                  <h3 class="page-tttt">Brasil pode ter falta de médicos de UTI para combate ao coronavírus</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 27/03/2020 &middot; Arquivado em <a href="recursos"><span class="spancateg"> recursos</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-03-23-cloroquina-bolsonaro-video-coronavirus">
-                  <h3 class="page-tttt">Interesse sobre cloroquina disparou após vídeo de Bolsonaro</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 23/03/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/redes/2020-03-21-coronavirus-analise-twitter-inicio">
-                  <h3 class="page-tttt">No Twitter, coronavírus só ganhou força após contaminação de autoridades</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 21/03/2020 &middot; Arquivado em <a href="redes"><span class="spancateg"> redes</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-03-12-coronavirus-capacidade-hospitalar-brasil">
-                  <h3 class="page-tttt">Coronavírus: SUS perdeu 49 mil leitos hospitalares desde 2007</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 12/03/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/direitos/2020-03-05-mariadapenha-mulheres-indigenas-dados">
-                  <h3 class="page-tttt">Mulheres indígenas enfrentam dificuldades para denunciar violência doméstica</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 05/03/2020 &middot; Arquivado em <a href="direitos"><span class="spancateg"> direitos</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-03-03-bolsa-familia-dados-2019">
-                  <h3 class="page-tttt">O que sabemos sobre o enxugamento do Bolsa Família</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 03/03/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-01-28-partidos-desertos-noticias">
-                  <h3 class="page-tttt">Os partidos que comandam os desertos de notícia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 28/01/2020 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/governo/2020-01-23-divida-ativa-politicos-pessoa-juridica">
-                  <h3 class="page-tttt">Empresas ligadas a políticos devem R$2,8 bi ao governo</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 23/01/2020 &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
                 </div>
+                <h5 class="arquivado"><a href="/posts">Acesse todo o arquivo >></a></h5>
               </div>
             </div>
 
@@ -789,11 +489,14 @@
                 <div id="revue-embed">
                   <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
                   <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Assine a newsletter</label><br />
+                    <label style="font-size:1.3em; text-transform: uppercase">Assine os Despachos do Núcleo <br />
+                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+
+                    <br />
                     <input class="revue-form-field" type="email" name="email" placeholder="preencha seu email..." id="email" style="font-size:1.1em; max-width: 100%"/>
                   </div>
                   <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="jsGC7RY0MjqoqvAOuwl8zA"/>
+                    <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
                     <input type="hidden" name="subform" value="yes"/>
                     <input type="submit" name="submit" id="submit" value="Receba novidades por email" style="font-size:1.1em;max-width: 100%"/>
                   </div>
@@ -872,6 +575,10 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="/js/landing-page.js"></script>
+
+<!-- Busca -->
+<script src="/js/searchjs/lunr.min.js"></script>
+<script src="/js/searchjs/search.js"></script>
 
 	</body>
 </html>

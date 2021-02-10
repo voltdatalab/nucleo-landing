@@ -71,22 +71,32 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-            	<li>
+              <li style="padding-top:12px">
+                  <form action="/busca.html" method="get">
+                  <i class="fas fa-search"></i>
+                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                  <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                <!--
+            	  <li>
                     <a href="/sobre">SOBRE</a>
                 </li>
                 <li>
                     <a href="/impacto">IMPACTO</a>
                 </li>
+                -->
                 <li>
-                    <a href="/newsletter">NEWSLETTER</a>
+                    <a href="/newsletter">NEWSLETTERS</a>
                 </li>
                 <li>
                     <a href="/ideias">IDEIAS</a>
                 </li>
+                <!--
                 <li>
                     <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
                 </li>
-                <!--
+
                 
                 <li>
                   <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
@@ -108,10 +118,10 @@
                   <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
                 </li>
                 
-                -->
+
                 <li>
                     <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -387,11 +397,14 @@
                 <div id="revue-embed">
                   <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
                   <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Assine a newsletter</label><br />
+                    <label style="font-size:1.3em; text-transform: uppercase">Assine os Despachos do Núcleo <br />
+                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+
+                    <br />
                     <input class="revue-form-field" type="email" name="email" placeholder="preencha seu email..." id="email" style="font-size:1.1em; max-width: 100%"/>
                   </div>
                   <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="jsGC7RY0MjqoqvAOuwl8zA"/>
+                    <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
                     <input type="hidden" name="subform" value="yes"/>
                     <input type="submit" name="submit" id="submit" value="Receba novidades por email" style="font-size:1.1em;max-width: 100%"/>
                   </div>
@@ -470,6 +483,10 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="/js/landing-page.js"></script>
+
+<!-- Busca -->
+<script src="/js/searchjs/lunr.min.js"></script>
+<script src="/js/searchjs/search.js"></script>
 
 </body>
 </html>

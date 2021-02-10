@@ -15,29 +15,41 @@ subTitle: ''
 #newsletter_page label{
   font-size: 1em;
 }
+
+img{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
 </style>
 
-O **Núcleo** quer chegar a seus leitores e leitoras onde quer que eles estejam, seja pelo nosso canal no [Telegram](https://t.me/nucleojor), seja pelas redes sociais ou por outras mídias.
+### GARIMPO
 
-Mas o email é uma das formas que queremos investir mais, levando apenas o que é essencial (novidades que publicamos ou anúncios), sem _spam_, sem forçar a barra com um monte de emails. Não temos uma periodicidade definida.
+O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse.
 
-Entre na nossa lista e fique por dentro sempre que publicarmos algo ou que tivermos algo importante a dizer.
+É enviada de segunda a quinta-feira, por volta das 10h30.
 
-<br>
+A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphaevanges), com edição de [Alexandre Orrico](https://twitter.com/alexorrico).
 
 <div id="newsletter_page">
-  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
-    <!--<label for="email">receba novidades por email</label> <br />-->
-    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="preencha seu email..." />
-  </div>
-  <div class="revue-form-actions">
-    <input type="hidden" name="list" value="jsGC7RY0MjqoqvAOuwl8zA"/>
-    <input type="hidden" name="subform" value="yes"/>
-    <input type="submit" name="submit" id="submit" value="clique aqui para receber" style="max-width:100%"/>
-  </div>
-  </form>
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+<br/>
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
 </div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input type="submit" name="submit" id="submit"/>
+  </div>
+
+</form>
+</div>
+
+<br> <br>
+
+![garimpo gif]({{ site.baseurl }}/img/garimpo_cut.gif)
 
 <hr>
 
