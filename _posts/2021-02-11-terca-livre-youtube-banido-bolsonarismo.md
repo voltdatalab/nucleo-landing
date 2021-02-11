@@ -34,7 +34,7 @@ Afinal, a partir do momento em que o maior site de vídeos do mundo tirou do ar 
 
 Para o bolsonarismo, o YouTube funciona como um repositório onde canais favoráveis ao governo publicam vídeos que serão compartilhados em outras plataformas, como grupos do WhatsApp, Telegram e Facebook.
 
-Ao se analisar os dados sobre a evolução de seguidores do *Terça Livre* contextualizados com seu histórico recente, porém, fica claro Bolsonaro sai do episódio ainda fortalecido no YouTube graças a uma estratégia, adotada no começo de 2020, de “criar” youtubers bolsonaristas 100% alinhados e não depender mais daqueles já consolidados que possam romper com o bolsonarismo caso discordem de alguma ação.
+Ao se analisar os dados sobre a evolução de seguidores do *Terça Livre* contextualizados com seu histórico recente, porém, fica claro que Bolsonaro sai do episódio ainda fortalecido no YouTube graças a uma estratégia, adotada no começo de 2020, de “criar” youtubers bolsonaristas 100% alinhados e não depender mais daqueles já consolidados que possam romper com o bolsonarismo caso discordem de alguma ação.
 
 ![MAIORES CANAIS EM NÚMEROS DE SEGUIDORES]({{ site.baseurl }}/img/tercalivre/seguidores_dispersao.png)
 
@@ -88,7 +88,7 @@ Com a Justiça em seu encalço, o *Terça Livre* promoveu uma limpeza dos vídeo
 
 Não foi a única limpeza motivada pela PF: o canal *O Giro de Notícias*, também alvo da operação, escondeu [148 vídeos da sua base](https://twitter.com/gfelitti/status/1279480449853767681/photo/1), a maioria atacando o STF.
 
-![GRÁFICO - CANAIS INVESTIGADOS]({{ site.baseurl }}/img//evolucao_canais.png)
+![GRÁFICO - CANAIS INVESTIGADOS]({{ site.baseurl }}/img/tercalivre/evolucao_canais.png)
 
 A proximidade da Justiça impacta diretamente a capacidade desses canais de continuarem a crescer suas bases. Após a operação, o *Terça Livre* passa por uma rápida expansão de novos assinantes, para depois empacar a partir de julho. O mesmo acontece com *O Giro de Notícias* e outro canal na mira da Justiça, *O Jacaré de Tanga*, alvo da CPMI das fake news instalada no Congresso Nacional em setembro de 2019.
 
