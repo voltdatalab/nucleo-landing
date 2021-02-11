@@ -52,7 +52,7 @@ A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphae
 
 <br> <br>
 
-![garimpo gif]({{ site.baseurl }}/img/garimpo_cut.gif)
+![garimpo gif]({{ site.baseurl }}/img/garimpo_destaque.png)
 
 <hr>
 
