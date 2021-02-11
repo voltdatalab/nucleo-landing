@@ -79,7 +79,7 @@ Na ascensão de centenas de produtores de conteúdo conservador surfando a onda 
 
 Ali, no começo do governo Bolsonaro, não parecia haver preocupações para o *Terça Livre*. O que Allan dos Santos não sabia é que dois eventos independentes que só iriam atingi-lo em 2020 já estavam em curso.
 
-O primeiro movimento envolve a Justiça. Em março de 2019, o Supremo Tribunal Federal (STF) [abriu um inquérito](https://www1.folha.uol.com.br/poder/2019/03/entenda-o-inquerito-do-supremo-contra-fake-news-e-conheca-os-pontos-polemicos.shtml) para [investigar](https://www1.folha.uol.com.br/poder/2019/03/entenda-o-inquerito-do-supremo-contra-fake-news-e-conheca-os-pontos-polemicos.shtml)a publicação de notícias falsas contra a corte. É o chamado inquérito de fake news do STF, conduzido pelo ministro Alexandre de Moraes.
+O primeiro movimento envolve a Justiça. Em março de 2019, o Supremo Tribunal Federal (STF) [abriu um inquérito](https://www1.folha.uol.com.br/poder/2019/03/entenda-o-inquerito-do-supremo-contra-fake-news-e-conheca-os-pontos-polemicos.shtml) para [investigar](https://www1.folha.uol.com.br/poder/2019/03/entenda-o-inquerito-do-supremo-contra-fake-news-e-conheca-os-pontos-polemicos.shtml) a publicação de notícias falsas contra a corte. É o chamado inquérito de fake news do STF, conduzido pelo ministro Alexandre de Moraes.
 
 Um ano depois, em maio de 2020, a Polícia Federal (PF) [cumpriu os primeiros mandados](https://www.bbc.com/portuguese/brasil-52824346) de [busca e apreensão](https://www.bbc.com/portuguese/brasil-52824346) relacionados ao inquérito. Entre os alvos está Allan dos Santos, junto com o empresário Luciano Hang, a militante Sara Winter, o deputado estadual Douglas Garcia (PSL-SP), o presidente nacional do PTB, Roberto Jefferson, e o empresário Edgard Corona.
 
@@ -132,7 +132,7 @@ Paira sobre o *Terça Livre* a sombra de [Alex Jones](https://tecnoblog.net/meio
 
 Na época, Jones argumentou que sua desplataformização o tornaria mais conhecido. Dois anos depois já sabemos que isso não aconteceu. Restou-lhe atuar no próprio site, o InfoWars, e em plataformas de extrema-direita, como o Gab e, principalmente, o Parler.
 
-Apresentado como o  "Twitter da alt-right", o Parler ganhou projeção por oferecer uma plataforma sem qualquer moderação e ganhou projeção a partir do segundo semestre de 2020 quando Facebook, Google e Twitter baniram conteúdo da milícia digital QAnon. Usado para organizar o ataque insurrecionista ao Capitólio, o Congresso norte-americano, em 6 de janeiro, o Parler foi banido da Apple Store e da Google Play Store e a Amazon Web Services rescindiu seu contrato de hospedagem.
+Apresentado como o “Twitter da alt-right”, o Parler propunha uma plataforma sem qualquer moderação e ganhou projeção a partir do segundo semestre de 2020 quando Facebook, Google e Twitter baniram conteúdo da milícia digital QAnon.
 
 ##### Até agora, a desplataformização do *Terça Livre* não foi tão ampla como a de Jones.
 
