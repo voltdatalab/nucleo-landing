@@ -19,7 +19,9 @@ subTitle: ''
 
 - Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab; você será avisado disso;
 
-- Fazemos um compromisso de tratar sua informação com zelo, dentro dos nossos poderes.
+- Fazemos um compromisso de tratar sua informação com zelo, dentro dos nossos poderes;
+
+- Este site utiliza cookies a partir do serviço de entrega de conteúdo (CDN).
 
 #### SOBRE NOSSA TECNOLOGIA
 
@@ -28,6 +30,8 @@ subTitle: ''
 - Utilizamos Sendy/AWS para newsletters;
 
 - Utilizamos GitHub Pages para publicar nosso site;
+
+- Utilizamos CloudFlare para gerenciamento de domínio, cachê e criptografia (origem dos cookies);
 
 - Utilizamos Shinyapps para armazenar nossas aplicações.
 
@@ -57,6 +61,7 @@ Este site **utiliza** alguns serviços de terceiros que podem coletar informaç�
 
 Veja os termos de privacidade dos serviços que utilizamos:
 
+*   [Política de cookies do CloudFlare](https://support.cloudflare.com/hc/pt-br/articles/200170156-Como-funcionam-os-cookies-da-Cloudflare)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Rstudio/Shinyapp](https://rstudio.com/about/privacy-policy/)
 *   [Google Analytics](https://policies.google.com/privacy?hl=en-US)
@@ -111,7 +116,7 @@ Embora não seja um site que publique conteúdo sensível (como pornografia ou v
 
 Podemos atualizar nossa Política de Privacidade periodicamente. Assim, aconselhamos que você revise esta página de tempos em tempos para quaisquer mudanças.
 
-Esta Política de Privacidade foi atualizada pela última vez em 06/11/2020.
+Esta Política de Privacidade foi atualizada pela última vez em 15/02/2022.
 
 **Contato**
 

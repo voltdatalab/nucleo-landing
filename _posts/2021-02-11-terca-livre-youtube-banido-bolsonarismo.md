@@ -34,6 +34,8 @@ Afinal, a partir do momento em que o maior site de vídeos do mundo tirou do ar 
 
 Para o bolsonarismo, o YouTube funciona como um repositório onde canais favoráveis ao governo publicam vídeos que serão compartilhados em outras plataformas, como grupos do WhatsApp, Telegram e Facebook.
 
+> _[Nota do Editor]: Em 12 de fevereiro o TJ-SP [concedeu liminar](https://noticias.uol.com.br/politica/ultimas-noticias/2021/02/12/justica-concede-liminar-e-manda-youtube-reativar-canais-do-terca-livre.htm) ordenando que o Google reativasse os canais do Terça Livre no YouTube. É uma novela ainda se desenrolando._
+
 Ao se analisar os dados sobre a evolução de seguidores do *Terça Livre* contextualizados com seu histórico recente, porém, fica claro que Bolsonaro sai do episódio ainda fortalecido no YouTube graças a uma estratégia, adotada no começo de 2020, de “criar” youtubers bolsonaristas 100% alinhados e não depender mais daqueles já consolidados que possam romper com o bolsonarismo caso discordem de alguma ação.
 
 ![MAIORES CANAIS EM NÚMEROS DE SEGUIDORES]({{ site.baseurl }}/img/tercalivre/seguidores_dispersao.png)

@@ -3,7 +3,7 @@
           <div class="row">
           <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> DESTAQUES</h5>
           <br /><br />
-{% for post in site.posts offset:1 limit:6 %}
+{% for post in site.posts offset:1 limit:3 %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
           <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">

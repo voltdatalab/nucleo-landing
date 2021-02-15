@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: investigação
 title: "Longas distâncias e idioma dificultam denúncias de violência doméstica por mulheres indígenas"
-titulo_redes: "Mulheres indígenas enfrentam dificuldades para denunciar violência doméstica"
+titulo_redes: "Mulheres indígenas enfrentam dificuldades para denunciar violência"
 subtitle: "Entre 2007 e 2017, foram registradas 8.221 notificações de casos de violência contra mulheres indígenas"
 subtitle_redes: "Entre 2007 e 2017, foram registradas 8.221 notificações de casos de violência contra mulheres indígenas"
 excerpt: "Entre 2007 e 2017, foram registradas 8.221 notificações de casos de violência contra mulheres indígenas. Em um terço deles, o agressor é uma pessoa próxima, como o ex ou atual companheiro."

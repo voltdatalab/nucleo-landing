@@ -3,7 +3,7 @@ published: TRUE
 layout: conteudo
 tipo: análise
 title: "No Twitter, coronavírus só ganhou força após contaminação de autoridades"
-titulo_redes: "No Twitter, coronavírus só ganhou força após contaminação de autoridades"
+titulo_redes: "No Twitter, coronavírus só ganhou força após infectar autoridades"
 subtitle: "Análise do <strong>Núcleo</strong> com 1,03 milhão de tuítes mostra que antes do dia 12 de março o assunto estava ausente dos trending topics nacionais, ganhando predominância após testes no presidente Jair Bolsonaro e do diagnóstico de Fabio Wajngarten."
 subtitle_redes: "Análise do Núcleo mostra que antes do dia 12/03 o assunto estava ausente dos trending topics nacionais"
 excerpt: "A pandemia do novo coronavírus no Brasil começou a ganhar predominância nas redes sociais a partir de relatos sobre a contaminação de autoridades brasileiras, no fim da semana passada, quando representantes do governo federal começaram a ser testados e diagnosticados com COVID-19."
