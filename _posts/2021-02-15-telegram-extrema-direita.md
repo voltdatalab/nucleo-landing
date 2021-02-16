@@ -218,7 +218,7 @@ O presidente Jair Bolsonaro lançou seu canal oficial dia 12 de janeiro e em 15 
 
 Claro, não chega nem perto dos 13,8 milhões de seguidores do Facebook, dos 18,3 milhões do Instagram ou dos 6,6 milhões no Twitter.
 
-O ponto principal do Telegram agora tem sido mais a organização do debate do que puramente o volume -- que é impressionante para um mês de existência do canal. É ali que os apoiadores podem se reunir para consumir conteúdo (inclusive desinformação) de outras redes e se organizar com pouco medo de retaliação da plataforma, [como foi o caso](https://www.metropoles.com/brasil/politica-brasil/grupos-de-extrema-direita-usam-telegram-para-atacar-stf-e-congresso) de ataques contra o Supremo Tribunal Federal em 2019.
+O ponto principal do Telegram agora tem sido mais a organização do debate do que puramente o volume -- que é impressionante para um mês de existência do canal. É ali que os apoiadores podem se reunir para consumir conteúdo (inclusive desinformação) de outras redes e se organizar com pouco medo de retaliação da plataforma, [como foi o caso](https://www.metropoles.com/brasil/politica-brasil/grupos-de-extrema-direita-usam-telegram-para-atacar-stf-e-congresso) de ataques contra o Supremo Tribunal Federal em 2019. Nos EUA, esse tipo de organização [também foi registrado](https://www.insider.com/telegram-far-right-is-searching-for-its-new-home-online-2021-1).
 
 Não é à toa que a maioria dos 200 mil links compartilhados nesses 15 grupos direcionavam para o YouTube (44% do total de links analisados), para o Twitter (12%) e para o Facebook (5%), segundo análise do **Núcleo** -- ou seja, levavam os inscritos as bases já consolidadas em outras redes.
 
