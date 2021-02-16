@@ -33,7 +33,7 @@ img{
 
 É enviada de segunda a quinta-feira, por volta das 10h30.
 
-A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphaevanges), com edição de [Alexandre Orrico](https://twitter.com/alexorrico).
+A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphaevanges), com edição de [Alexandre Orrico](https://twitter.com/alexorrico), desenvolvimento de [Renata Hirota](https://twitter.com/renata_mh) e arte de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
