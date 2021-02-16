@@ -34,6 +34,11 @@ tags:
 ---
 
 <style>
+
+h3{
+  margin-top: 35px;
+}
+
 .botao {
   border-radius: 5px;
   background-color: #eeeeee;
@@ -182,7 +187,25 @@ Um aplicativo em especial tem conquistado adeptos rapidamente no Brasil e no ext
 
 Recentemente, o Telegram ultrapassou a marca de meio bilhão de usuários mensais.
 
-<div class="wrap-collabsible">
+Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Por exemplo, em dezembro de 2016 um fanático de extrema direita abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br><br></span>, canais e grupos da teoria da conspiração QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span> afloram nesses lugares.
+
+O **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de WhatsApp da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
+
+<img src="{{ site.baseurl }}/img/line_break.png" width="100%">
+
+### ANÁLISE DO NÚCLEO
+
+#### Dados consolidados da observação de 15 grupos e canais de WhatsApp
+
+<div style="color: #fff">
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 15 grupos <i class="fas fa-users"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 199.022 links totais <i class="fas fa-link"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
+</div>
+
+<div class="wrap-collabsible" style="margin-top: 35px">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba Mais - Os números do Telegram</label>
   <div class="collapsible-content">
@@ -198,21 +221,9 @@ Recentemente, o Telegram ultrapassou a marca de meio bilhão de usuários mensai
   </div>
 </div>
 
-<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer"></i> <small><em>Clique para expandir ou recolher</em></small></p>
+<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
 
-Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Por exemplo, em dezembro de 2016 um fanático de extrema direita abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br><br></span>, canais e grupos da teoria da conspiração QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span> afloram nesses lugares.
-
-O **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de WhatsApp da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
-
-### ANÁLISE DO NÚCLEO
-
-<div style="color: #fff">
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 15 grupos <i class="fas fa-users"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 199.022 links totais <i class="fas fa-link"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
-</div>
+<img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
 O presidente Jair Bolsonaro lançou seu canal oficial dia 12 de janeiro e em 15 de fevereiro já possuía 420 mil inscritos (em 18 de janeiro eram 355 mil) -- o segundo maior número entre líderes mundiais verificados pela ferramenta.
 
@@ -254,13 +265,25 @@ Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) 
 <span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.jpg" alt="print qanon" width="85%"/>
 </span>
 
-Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso total da rede social por várias semanas<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com estabilidade. Não se sabe ainda onde está sendo hospedada, mas suspeita-se que, talvez, na Rússia. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
+Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso total da rede social por várias semanas<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com instabilidade. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
 
-O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhado 600 mil novos usuários [logo após](https://saidapeladireita.blogfolha.uol.com.br/2021/01/12/conheca-o-gab-o-twitter-de-direita-que-acolhe-trumpistas-desabrigados/#:~:text=O%20Gab%2C%20por%20enquanto%2C%20parece,usu%C3%A1rios%2C%20calculado%20em%20900%20mil.) os problemas do Parler, também teve, já há [alguns anos](https://techcrunch.com/2017/08/17/alt-social-network-gab-booted-from-google-play-store-for-hate-speech/) seus aplicativos removidos das lojas da Apple e do Google -- os dois maiores ecossistemas de smartphones do mundo -- o que limitou bastante sua usabilidade em dispositivos móveis.
+O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhado 600 mil novos usuários [logo após](https://saidapeladireita.blogfolha.uol.com.br/2021/01/12/conheca-o-gab-o-twitter-de-direita-que-acolhe-trumpistas-desabrigados/#:~:text=O%20Gab%2C%20por%20enquanto%2C%20parece,usu%C3%A1rios%2C%20calculado%20em%20900%20mil.) os problemas do Parler, também teve, já há [alguns anos](https://techcrunch.com/2017/08/17/alt-social-network-gab-booted-from-google-play-store-for-hate-speech/) seus aplicativos removidos das lojas da Apple e do Google, os dois maiores ecossistemas de smartphones do mundo -- o que limitou bastante sua usabilidade em dispositivos móveis e, consequentemente, seu crescimento.
 
-É aí que a semelhança de aplicativos de mensagens instantâneas com redes sociais acaba. Esses aplicativos são um local de debate e convivência online, mas sua finalidade é ser uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas e fiscalizadas de moderação.
+Uma coisa importante de notar é que o Telegram **não é um aplicativo que se identifica como abrigo para a extrema direita**, tal como o Parler e o Gab se propuseram a ser, mesmo que sob o manto da liberdade de expressão. O aplicativo foi lançado em 2013, muito coisa acontece lá.
 
-<div class="wrap-collabsible">
+Por exemplo, a iniciativa de dados abertos Brasil.io [possui um canal](https://t.me/brasil_io) lá para informar sobre os dados mais recentes da pandemia de coronavírus no Brasil. Por permitir automação, [tem até bot](https://t.me/CoronavirusBRBot) com dados da pandemia. A iniciativa Direitos na Rede, que fala sobre direito digital no Brasil, [também está](https://t.me/direitosnarede) lá, assim como muitas outras organizações.
+
+### REDE DE MENSAGEM OU APP SOCIAL?
+
+A semelhança entre redes sociais e aplicativos de mensagem que viraram comunidades é que ambos são pontos de encontro, convivência online e debate para qualquer tipo de coisa. Um [canal sobre](https://link.estadao.com.br/noticias/cultura-digital,telegram-vira-local-para-seguir-o-bbb-e-app-muda-de-status,70003614872) o reality show Big Brother Brasil 21 [tem](https://t.me/canalespiadinha) 250 mil inscritos.
+
+Mas aplicativos de mensagem possuem regras um pouco diferentes. Embora, é claro, as empresas digam que não toleram discurso de violência e ódio, elas só podem mesmo monitorar esse tipo de coisa em canais abertos, não em grupos fechados e chats secretos, sob a proteção da criptografia. Nas redes sociais, as regras de comunidade e a própria natureza desses espaços virtuais não permitem nada totalmente secreto.
+
+Grosso modo, pense numa rede social como um parque público onde todos se encontram para discutir, compartilhar coisas e até brigar, ao passo que aplicativos de mensagem são casas particulares com festas grandes, mas apenas para quem for convidado ou achar o caminho.
+
+Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e casas particular em redes sociais), mas a ideia geral é essa. Um aplicativo de mensagem é uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas e fiscalização.
+
+<div class="wrap-collabsible" style="margin-top: 35px">
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle" tabindex="0">Saiba Mais - Atrativos do Telegram</label>
   <div class="collapsible-content">
@@ -283,14 +306,15 @@ O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhad
   </div>
 </div>
 
-<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer"></i> <small><em>Clique para expandir ou recolher</em></small></p>
-
-O Telegram possui uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram [baniu 15](https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215).
+<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
 
 <span class="texto-destak">"No começo de janeiro, a equipe de moderação do Telegram começou a receber um número alto de relatos sobre atividade pública relacionada aos EUA. A equipe agiu de forma decisiva ao tomar ações contra canais norte-americanos que promoviam violência." <br>
 <small class="arquivado" style="color:#222222">- Pavel Durov, CEO do Telegram, no seu [canal](https://t.me/s/durov)</small>
 </span>
 
+O Telegram possui, de fato, uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram [baniu 15](https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215).
+
+### ESCUDO CRIPTOGRÁFICO
 
 Importante ferramenta de privacidade e comunicação segura, a criptografia que pode ser aplicada às mensagens dá uma camada extra de molho para esse argumento, considerando que o Telegram possui recursos de grupos privados (não listados em busca, acessíveis somente via link ou convite) e chats secretos entre dois usuários (com criptografia de ponta a ponta e [outros recursos](https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/)).
 
@@ -309,6 +333,8 @@ O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparent
 O Partido dos Trabalhadores entrou em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL tem 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e não publica nada desde dezembro.
 
 Algo semelhante acontece com veículos de jornalismo. Apesar de ter ferramentas e recursos mais amigáveis para publicação, algumas redações só começaram a entrar agora na plataforma, como a [Folha de S.Paulo](https://t.me/FolhadeSPaulo) e o [Poder360](https://t.me/Poder360), que entraram em 2021. A [BBC Brasil](https://t.me/bbcbrasil) é um caso à parte: possui mais de 18 mil inscritos e publica no Telegram desde 2015.
+
+Este **Núcleo Jornalismo** [também tem um canal](https://t.me/nucleojor) por lá.
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
