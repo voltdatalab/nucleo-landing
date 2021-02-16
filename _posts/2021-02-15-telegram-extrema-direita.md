@@ -12,8 +12,7 @@ date: "15/02/2020 10:06"
 autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 dados:  'Sérgio Spagnuolo, Renata Hirota, <br>Felippe Mercurio e Lucas Gelape'
-arte: Rodolfo Almeida
-graficos: Rodolfo Almeida e Sérgio Spagnuolo
+graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 dados_abertos: "Dados de inscritos tabulados pelo Núcleo"
 dados_abertos_link: ""
