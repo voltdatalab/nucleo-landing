@@ -3,7 +3,7 @@ layout: pages
 title: 'Newsletter Garimpo'
 desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
-background: '{{ site.baseurl }}/img/header-garimpo.png'
+background: 'header-garimpo.png'
 link: ''
 subTitle: ''
 ---
