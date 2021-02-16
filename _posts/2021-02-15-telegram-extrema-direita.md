@@ -261,7 +261,7 @@ A eleição norte-americana de 2020 e o ataque de militantes de extrema direita 
 
 Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais grotescas, como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.
 
-<span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.jpg" alt="print qanon" width="85%"/>
+<span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.png" alt="print qanon" width="90%"/>
 </span>
 
 Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso total da rede social por várias semanas<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com instabilidade. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
@@ -271,16 +271,6 @@ O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhad
 Uma coisa importante de notar é que o Telegram **não é um aplicativo que se identifica como abrigo para a extrema direita**, tal como o Parler e o Gab se propuseram a ser, mesmo que sob o manto da liberdade de expressão. O aplicativo foi lançado em 2013, muito coisa acontece lá.
 
 Por exemplo, a iniciativa de dados abertos Brasil.io [possui um canal](https://t.me/brasil_io) lá para informar sobre os dados mais recentes da pandemia de coronavírus no Brasil. Por permitir automação, [tem até bot](https://t.me/CoronavirusBRBot) com dados da pandemia. A iniciativa Direitos na Rede, que fala sobre direito digital no Brasil, [também está](https://t.me/direitosnarede) lá, assim como muitas outras organizações.
-
-### REDE DE MENSAGEM OU APP SOCIAL?
-
-A semelhança entre redes sociais e aplicativos de mensagem que viraram comunidades é que ambos são pontos de encontro, convivência online e debate para qualquer tipo de coisa. Um [canal sobre](https://link.estadao.com.br/noticias/cultura-digital,telegram-vira-local-para-seguir-o-bbb-e-app-muda-de-status,70003614872) o reality show Big Brother Brasil 21 [tem](https://t.me/canalespiadinha) 250 mil inscritos.
-
-Mas aplicativos de mensagem possuem regras um pouco diferentes. Embora, é claro, as empresas digam que não toleram discurso de violência e ódio, elas só podem mesmo monitorar esse tipo de coisa em canais abertos, não em grupos fechados e chats secretos, sob a proteção da criptografia. Nas redes sociais, as regras de comunidade e a própria natureza desses espaços virtuais não permitem nada totalmente secreto.
-
-Grosso modo, pense numa rede social como um parque público onde todos se encontram para discutir, compartilhar coisas e até brigar, ao passo que aplicativos de mensagem são casas particulares com festas grandes, mas apenas para quem for convidado ou achar o caminho.
-
-Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e casas particular em redes sociais), mas a ideia geral é essa. Um aplicativo de mensagem é uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas e fiscalização.
 
 <div class="wrap-collabsible" style="margin-top: 35px">
   <input id="collapsible2" class="toggle" type="checkbox">
@@ -306,6 +296,16 @@ Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e ca
 </div>
 
 <p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
+
+### REDE DE MENSAGEM OU APP SOCIAL?
+
+A semelhança entre redes sociais e aplicativos de mensagem que viraram comunidades é que ambos são pontos de encontro, convivência online e debate para qualquer tipo de coisa. Um [canal sobre](https://link.estadao.com.br/noticias/cultura-digital,telegram-vira-local-para-seguir-o-bbb-e-app-muda-de-status,70003614872) o reality show Big Brother Brasil 21 [tem](https://t.me/canalespiadinha) 250 mil inscritos.
+
+Mas aplicativos de mensagem possuem regras um pouco diferentes. Embora, é claro, as empresas digam que não toleram discurso de violência e ódio, elas só podem mesmo monitorar esse tipo de coisa em canais abertos, não em grupos fechados e chats secretos, sob a proteção da criptografia. Nas redes sociais, as regras de comunidade e a própria natureza desses espaços virtuais não permitem nada totalmente secreto.
+
+Grosso modo, pense numa rede social como um parque público onde todos se encontram para discutir, compartilhar coisas e até brigar, ao passo que aplicativos de mensagem são casas particulares com festas grandes, mas apenas para quem for convidado ou achar o caminho.
+
+Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e casas particular em redes sociais), mas a ideia geral é essa. Um aplicativo de mensagem é uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas e fiscalização.
 
 <span class="texto-destak">"No começo de janeiro, a equipe de moderação do Telegram começou a receber um número alto de relatos sobre atividade pública relacionada aos EUA. A equipe agiu de forma decisiva ao tomar ações contra canais norte-americanos que promoviam violência." <br>
 <small class="arquivado" style="color:#222222">- Pavel Durov, CEO do Telegram, no seu [canal](https://t.me/s/durov)</small>
