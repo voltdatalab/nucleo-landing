@@ -311,7 +311,14 @@ Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e ca
 <small class="arquivado" style="color:#222222">- Pavel Durov, CEO do Telegram, no seu [canal](https://t.me/s/durov)</small>
 </span>
 
-O Telegram possui, de fato, uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram [baniu 15](https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215).
+O Telegram possui, de fato, uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram [baniu 15](https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215). Pavel narrou em seu canal que, durante os ataques ao Congresso dos EUA, os moderadores do Telegram removeram centenas de conteúdos nocivos.
+
+Essas medidas podem ter algum efeito para aplacar os ânimos tanto daqueles que pedem por mais ação direta de empresas do tipo contra discursos perigosos, como também reafirmar aos defensores de segurança da informação que é possível tomar algum tipo de ação sem mexer em políticas de privacidade.
+
+De toda forma, o Telegram não gosta muito de interferências externas. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz [seu próprio site](https://telegram.org/faq#p-onde-fica-a-sede-do-telegram).
+
+
+
 
 ### ESCUDO CRIPTOGRÁFICO
 
