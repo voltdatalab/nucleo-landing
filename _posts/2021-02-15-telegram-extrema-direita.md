@@ -261,7 +261,7 @@ A eleição norte-americana de 2020 e o ataque de militantes de extrema direita 
 
 Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais grotescas, como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.
 
-<span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.png" alt="print qanon" width="90%"/>
+<span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.gif" alt="print qanon" width="90%"/>
 </span>
 
 Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso total da rede social por várias semanas<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com instabilidade. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
@@ -318,8 +318,6 @@ Essas medidas podem ter algum efeito para aplacar os ânimos tanto daqueles que 
 De toda forma, o Telegram não gosta muito de interferências externas. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz [seu próprio site](https://telegram.org/faq#p-onde-fica-a-sede-do-telegram).
 
 
-
-
 ### ESCUDO CRIPTOGRÁFICO
 
 Importante ferramenta de privacidade e comunicação segura, a criptografia que pode ser aplicada às mensagens dá uma camada extra de molho para esse argumento, considerando que o Telegram possui recursos de grupos privados (não listados em busca, acessíveis somente via link ou convite) e chats secretos entre dois usuários (com criptografia de ponta a ponta e [outros recursos](https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/)).
@@ -350,21 +348,21 @@ O Núcleo tem acompanhado 15 grupos e canais de direita no Telegram e baixou as 
 
 | Nome                              | link                                |
 |-----------------------------------|-------------------------------------|
-| Carla Zambelli                    | [https://t.me/carlazambellioficial](https://t.me/carlazambellioficial)   |
-| Bia Kicis                         | [https://t.me/biakicisoficial](https://t.me/biakicisoficial)        |
-| BOLSONARO PRESIDENTE              | [https://t.me/BOLSONARO_APB](https://t.me/BOLSONARO_APB)          |
-| Dep Luiz Philippe Oficial         | [https://t.me/luizphilippe](https://t.me/luizphilippe)           |
-| Eu Sou de Direita                 | [https://t.me/eusoudedireita](https://t.me/eusoudedireita)         |
-| Jair Bolsonaro, eu Apoio!         | [https://t.me/Bolsonaro2Me22](https://t.me/Bolsonaro2Me22)         |
-| Deputado Helio Lopes              | [https://t.me/depheliolopes](https://t.me/depheliolopes)          |
-| Jair M. Bolsonaro 1               | [https://t.me/jairbolsonarobrasil](https://t.me/jairbolsonarobrasil)    |
-| FLÁVIO BOLSONARO                  | [https://t.me/senadorflaviobolsonaro](https://t.me/senadorflaviobolsonaro) |
-| Filipe G. Martins                 | [https://t.me/filgmartin](https://t.me/filgmartin)             |
-| CARLOS BOLSONARO                  | [https://t.me/bolsonarocarlos](https://t.me/bolsonarocarlos)       |
-| Eduardo Bolsonaro - Canal oficial | [https://t.me/depeduardobolsonaro](https://t.me/depeduardobolsonaro)    |
-| Carlos Jordy                      | [https://t.me/carlosjordy](https://t.me/carlosjordy)            |
-| Allan Dos Santos                  | [https://t.me/allandossantos](https://t.me/allandossantos)         |
-| Bernardo P Küster                 | [https://t.me/bkuster](https://t.me/bkuster)               |
+| Carla Zambelli                    | [carlazambellioficial](https://t.me/carlazambellioficial)   |
+| Bia Kicis                         | [biakicisoficial](https://t.me/biakicisoficial)        |
+| BOLSONARO PRESIDENTE              | [BOLSONARO_APB](https://t.me/BOLSONARO_APB)          |
+| Dep Luiz Philippe Oficial         | [luizphilippe](https://t.me/luizphilippe)           |
+| Eu Sou de Direita                 | [eusoudedireita](https://t.me/eusoudedireita)         |
+| Jair Bolsonaro, eu Apoio!         | [Bolsonaro2Me22](https://t.me/Bolsonaro2Me22)         |
+| Deputado Helio Lopes              | [depheliolopes](https://t.me/depheliolopes)          |
+| Jair M. Bolsonaro 1               | [jairbolsonarobrasil](https://t.me/jairbolsonarobrasil)    |
+| FLÁVIO BOLSONARO                  | [senadorflaviobolsonaro](https://t.me/senadorflaviobolsonaro) |
+| Filipe G. Martins                 | [filgmartin](https://t.me/filgmartin)             |
+| CARLOS BOLSONARO                  | [bolsonarocarlos](https://t.me/bolsonarocarlos)       |
+| Eduardo Bolsonaro - Canal oficial | [depeduardobolsonaro](https://t.me/depeduardobolsonaro)    |
+| Carlos Jordy                      | [carlosjordy](https://t.me/carlosjordy)            |
+| Allan Dos Santos                  | [allandossantos](https://t.me/allandossantos)         |
+| Bernardo P Küster                 | [bkuster](https://t.me/bkuster)               |
 
 
 <!-- faz aparecer os gráficos -->
