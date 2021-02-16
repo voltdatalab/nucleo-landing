@@ -1,227 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="robots" content="index, follow" />
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-    <title>Núcleo Jornalismo</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="/css/landing-page.css" rel="stylesheet">
-    <link href="/css/post.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/font-awesome-5.12.0/css/all.css" rel="stylesheet" type="text/css">
-
-    <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,700|Days+One|Roboto+Mono|Source+Serif+Pro:400,700&display=swap" rel="stylesheet">
-
-    <meta name="keywords" content="Telegram, Política Digital, Desinformação, Extrema direita, Desplataformização"/>
-    <meta property="og:site_name" content="Núcleo Jornalismo">
-    <meta property="og:locale" content="pt_BR">
-    <meta property="og:title" content="O novo refúgio digital da extrema direita" />
-    <meta property="og:description" content="Extrema direita entra no Telegram com canais oficiais do presidente, seus filhos e de apoiadores fervorosos" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://nucleo.jor.br/draft/2020-02-15-telegram-extrema-direita" />
-    <meta property="article:published_time" content="2020-02-15 10:06:00 -0300">
-
-    <!-- FACEBOOK -->
-    <meta property="og:image" content="https://nucleo.jor.br/img/telegram/telegram-direita-02.png" />
-    <meta property="og:image:type" content="image/jpeg" />
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@nucleojor" />
-    <meta name="twitter:creator" content="@nucleojor" />
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-104963816-3');
-    </script>
-
-</head>
-
-
-	<body>
-		<!-- Navigation -->
-<nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Navegação mobile</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="220px"/> </a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-              <li style="padding-top:12px">
-                  <form action="/busca.html" method="get">
-                  <i class="fas fa-search"></i>
-                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
-                  <!-- <input type="submit" value="search"> -->
-                </form>
-                </li>
-                <!--
-            	  <li>
-                    <a href="/sobre">SOBRE</a>
-                </li>
-                <li>
-                    <a href="/impacto">IMPACTO</a>
-                </li>
-                -->
-                <li>
-                    <a href="/newsletters">NEWSLETTERS</a>
-                </li>
-                <li>
-                    <a href="/ideias">IDEIAS</a>
-                </li>
-                <!--
-                <li>
-                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
-                </li>
-
-                
-                <li>
-                  <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-
-                <li>
-                    <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li> -->
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
-
-
-		<section id="publicacoes">
-			<style>
-				.special_banner{
-					margin: 80px auto 20px;
-					max-width: 980px;
-					text-align: center;
-				}
-				.mid_especial{
-					margin: 50px 0 30px;
-					overflow: hidden;
-					width: 100vw;
-				  position: relative;
-				  left: calc(-50vw + 50%);
-
-				}
-				.text_banner_special{
-					max-width: 600px;
-					margin: 0 auto;
-					text-align: center;
-				}
-			</style>
-
-			<div class="special_banner">
-				<div class="text_banner_special">
-				<h1 class="tt-special">O novo refúgio digital da extrema direita: Telegram</h1>
-				<div class="creditos">
-					<h4>
-								<span class="arquivado">
-
-									  <br /> Arquivado em <a href="/draft"><strong> draft</strong></a>
-
-								</span> &middot;
-										<span class="arquivado">Publicado em 15/02/2020 10:06</span>
-									</h4>
-								</div>
-				</div>
-
-				<!-- IMAGEM DE DESTAQUE NA DIV -->
-				<style>
-				
-
-				.destak-special{
-					margin: 50px 0 30px;
-					height: 450px;
-					background: url('../img/telegram/telegram-direita.gif') rgba(0, 0, 0, 0.4);
-					background-position: center;
-					background-size: cover;
-				}
-				
-				</style>
-
-				<div class="destak-special"></div>
-
-
-				 <br /><br />
-
-				<h2 class="subheading-special">Aplicativo de mensagens Telegram vira porto-seguro para a extrema direita, com canais oficiais do presidente, seus filhos e de apoiadores fervorosos</h2>
-			</div>
-
-
-
-								<div class="container" style="padding: 0 5% 0px;max-width:650px">
-									<hr />
-									<h4 style="text-align:center; line-height: 1.6em">
-										<span class="creditos_special">
-
-										Por <span>Sérgio Spagnuolo</span> <br />
-										 
-										
-										
-										
-										 dados <span>Sérgio Spagnuolo, Renata Hirota, <br>Felippe Mercurio e Lucas Gelape</span><br /> 
-										 Gráficos <span>Rodolfo Almeida</span><br /> 
-										
-										 Edição <span>Alexandre Orrico</span>
-
-									</span>
-								</h4>
-										<hr />
-
-								<div class="texto_post_special">
-									<ul class="share-buttons" style="text-align:center">
-									<li><a href="whatsapp://send?text=O novo refúgio digital da extrema direita - http://localhost:4000/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
-									<li><a href="https://www.facebook.com/sharer/sharer.php?u=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
-								  <li><a href="https://twitter.com/intent/tweet?source=/draft/2020-02-15-telegram-extrema-direita%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
-								  <li><a href="http://www.reddit.com/submit?url=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
-								  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-								  <li><a href="mailto:?subject=&body=:%20/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
-								</ul>
-								<br /><br />
-										<style>
+I"Bp<style>
 
 h3{
   margin-top: 35px;
@@ -366,11 +143,11 @@ input[type=checkbox]:checked ~ label {
 
 <p><strong>É COMUM ENCONTRAR</strong> comparações de aplicativos de mensagem com redes sociais.</p>
 
-<p>Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associações até faz sentido – mas com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis nesse momento, seja por limitações técnicas (como criptografia) seja por inação das empresas. E a extrema direita floresce nesses cantos.</p>
+<p>Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associações até faz sentido – mas com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis nesse momento, seja por limitações técnicas (como criptografia) seja por inação das empresas.</p>
 
-<h5 id="um-aplicativo-em-especial-tem-conquistado-adeptos-rapidamente-no-brasil-e-no-exterior-o-telegram">Um aplicativo em especial tem conquistado adeptos rapidamente no Brasil e no exterior: o <strong>Telegram</strong>.</h5>
+<p><span class="texto-destak">E a extrema direita floresce nesses cantos.</span></p>
 
-<p>Com o endurecimento das grandes empresas de tecnologia contra desinformação e discurso de ódio, o Telegram tem se tornado um refúgio seguro (mesmo que ainda pequeno se comparado às outras redes ou ao WhatsApp) para a comunicação em massa e para discussões da direita radical que foram praticamente banidas em outros lugares.</p>
+<p>Um aplicativo em especial tem conquistado adeptos rapidamente no Brasil e no exterior: o Telegram. Com o endurecimento das grandes empresas de tecnologia contra desinformação e discurso de ódio, o Telegram tem se tornado um refúgio seguro (mesmo que ainda pequeno se comparado às outras redes ou ao WhatsApp) para a comunicação em massa e para discussões da direita radical que foram praticamente banidas em outros lugares.</p>
 
 <p>Recentemente, o Telegram <a href="https://canaltech.com.br/apps/telegram-alcanca-500-milhoes-de-usuarios-ativos-apos-novas-regras-do-whatsapp-177293/">ultrapassou</a> a marca de <strong>meio bilhão</strong> de usuários mensais.</p>
 
@@ -392,7 +169,7 @@ input[type=checkbox]:checked ~ label {
 
 <p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
 
-<p>Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br /><br />Por exemplo, em dezembro de 2016 um fanático de extrema direita abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br /><br /></span>, canais e grupos da teoria da conspiração QAnon afloram nesses lugares<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br /><br />Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br /><br /></span>, a ponto de virarem um abrigo para apoiadores do ex-presidente dos EUA Donald Trump, expulso do Twitter e suspendo do Facebook (mais abaixo).</p>
+<p>Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br /><br />Por exemplo, em dezembro de 2016 um fanático de extrema direita abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br /><br /></span>, canais e grupos da teoria da conspiração QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br /><br />Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br /><br /></span> afloram nesses lugares, a ponto de virarem um abrigo para o ex-presidente dos EUA Donald Trump, expulso do Twitter e suspendo do Facebook (mais abaixo).</p>
 
 <p>O <strong>Núcleo</strong> analisou cerca de 640 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.</p>
 
@@ -418,7 +195,7 @@ input[type=checkbox]:checked ~ label {
 
 <p>O ponto principal do Telegram agora tem sido mais a organização do debate do que puramente o volume. É ali que os apoiadores podem se reunir para consumir conteúdo (inclusive desinformação) de outras redes e se organizar com pouco medo de retaliação da plataforma, <a href="https://www.metropoles.com/brasil/politica-brasil/grupos-de-extrema-direita-usam-telegram-para-atacar-stf-e-congresso">como foi o caso</a> de ataques contra o Supremo Tribunal Federal em 2019. Nos EUA, esse tipo de organização <a href="https://www.insider.com/telegram-far-right-is-searching-for-its-new-home-online-2021-1">também foi registrado</a>.</p>
 
-<p>Não é à toa que a maioria dos 200 mil links compartilhados nesses 15 grupos direcionavam para o YouTube (44% do total de links analisados), para o Twitter (12%) e para o Facebook (5%), segundo análise do <strong>Núcleo</strong> – ou seja, levavam os inscritos à s bases já consolidadas em outras redes.</p>
+<p>Não é à toa que a maioria dos 200 mil links compartilhados nesses 15 grupos direcionavam para o YouTube (44% do total de links analisados), para o Twitter (12%) e para o Facebook (5%), segundo análise do <strong>Núcleo</strong> – ou seja, levavam os inscritos as bases já consolidadas em outras redes.</p>
 
 <p><img id="img" src="/img/telegram/seguidores-telegram-01.png" class="img-destak" /></p>
 
@@ -438,27 +215,23 @@ input[type=checkbox]:checked ~ label {
   </li>
 </ul>
 
-<p>“É difícil falar ainda que o Telegram é uma alternativa consolidada, porque ainda se está construindo. A direta estava em massa no WhatsApp, e teve [a política de] limitação de encaminhamentos<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />No começo de 2019 o WhatsApp <a href="https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml" target="_blank">limitou para cinco</a> o limite de encaminhamento de mensagens, sob a justificativa de que a política “vai ajudar a manter o aplicativo focado em mensagens privadas com contatos próximos”.<br /><br /></span>, e um pessoal bem grande para o Telegram”, disse Nemer.</p>
-
-<p>https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml</p>
+<p>“É difícil falar ainda que o Telegram é uma alternativa consolidada, porque ainda se está construindo. A direta estava em massa no WhatsApp, e teve [a política de] limitação de encaminhamentos, e um pessoal bem grande para o Telegram”, disse Nemer.</p>
 
 <p><img id="img" src="/img/telegram/seguidores-telegram-02.png" class="img-destak" /></p>
 
-<p>Se as barreiras para uma mudança maior estão visíveis, as soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a <a href="https://www.engadget.com/telegram-channel-ads-192249765.html">aceitar anúncios</a> em grandes canais de transmissão (mas não nos chats nem com a utilização de dados pessoais como a maioria das empresas de tecnologia, como esclareceu Pavel Durov, CEO do Telegram).</p>
+<p>Se as barreiras para uma mudança maior estão visíveis, as soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a <a href="https://www.engadget.com/telegram-channel-ads-192249765.html">aceitar anúncios</a> em grandes canais de transmissão (mas não nos chats nem a partir de dados pessoais, como esclareceu Pavel Durov, CEO do Telegram).</p>
 
 <p><span class="texto-destak">Esse é um assunto antigo entre quem acompanha o tema de desinformação.</span></p>
 
-<p>Por muito tempo, canais de YouTube com conteúdo extremista e sites reconhecidamente difusores de mentiras conseguiram monetizar seu conteúdo utilizando ferramentas de remuneração do Google, por exemplo. A empresa norte-americana, pressionada por inquéritos judiciais, anunciantes e projetos como o <a href="https://twitter.com/slpng_giants_pt">Sleeping Giants</a>, tem apertado o cerco contra esses canais.</p>
-
-<p>O YouTube <a href="https://congressoemfoco.uol.com.br/midia/youtube-retira-terca-livre-do-ar/">retirou</a>, por exemplo, o canal Terça Livre do ar, iniciando uma <a href="https://noticias.uol.com.br/politica/ultimas-noticias/2021/02/12/justica-concede-liminar-e-manda-youtube-reativar-canais-do-terca-livre.htm">disputa</a> judicial. De acordo com <a href="https://nucleo.jor.br/media/2021-02-11-terca-livre-youtube-banido-bolsonarismo">análise</a> do <strong>Núcleo</strong>, isso afetou pouco o bolsonarismo, mas foi um golpe forte contra um canal conhecido por discurso violento.</p>
+<p>Por muito tempo, canais de YouTube com conteúdo extremista e sites reconhecidamente difusores de mentiras conseguiram monetizar seu conteúdo utilizando ferramentas de remuneração do Google, por exemplo. A empresa norte-americana, pressionada por inquéritos judiciais, anunciantes e projetos como o <a href="https://twitter.com/slpng_giants_pt">Sleeping Giants</a>, tem <a href="https://congressoemfoco.uol.com.br/midia/youtube-retira-terca-livre-do-ar/">apertado o cerco</a> contra esses canais.</p>
 
 <h3 id="por-que-o-telegram">POR QUE O TELEGRAM</h3>
 
 <p>O Telegram é uma ferramenta perfeita para evitar a “desplataformização” – palavra que abalou as políticas de liberdade de expressão nas redes sociais e deixou o radicalismo de cabelo em pé, sob ameaça de perder suas bases.</p>
 
-<p>A eleição norte-americana de 2020 e o ataque de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para algumas plataformas – por bem ou por mal – os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio, além de ter incendiado debates sobre necessidade de moderação ativa por redes sociais.</p>
+<p>A eleição norte-americana de 2020 e o ataque de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para algumas plataformas – por bem ou por mal – os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio e debates sobre necessidade de moderação ativa por redes sociais.</p>
 
-<p>Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais <a href="https://www.youtube.com/watch?v=kgUDbvKYbWk">grotescas</a>, como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br /><br /></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.</p>
+<p>Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais grotescas, como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br /><br /></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.</p>
 
 <div class="wrap-collabsible" style="margin-top: 35px">
   <input id="collapsible2" class="toggle" type="checkbox" />
@@ -489,7 +262,7 @@ input[type=checkbox]:checked ~ label {
 
 <p>O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhado 600 mil novos usuários <a href="https://saidapeladireita.blogfolha.uol.com.br/2021/01/12/conheca-o-gab-o-twitter-de-direita-que-acolhe-trumpistas-desabrigados/#:~:text=O%20Gab%2C%20por%20enquanto%2C%20parece,usu%C3%A1rios%2C%20calculado%20em%20900%20mil.">logo após</a> os problemas do Parler, também teve, já há <a href="https://techcrunch.com/2017/08/17/alt-social-network-gab-booted-from-google-play-store-for-hate-speech/">alguns anos</a> seus aplicativos removidos das lojas da Apple e do Google, os dois maiores ecossistemas de smartphones do mundo – o que limitou bastante sua usabilidade em dispositivos móveis e, consequentemente, seu crescimento.</p>
 
-<p>Uma coisa importante de notar é que o Telegram <strong>não é um aplicativo que se identifica como abrigo para a extrema direita</strong>, tal como o Parler e o Gab se propuseram a ser, mesmo que sob o manto da liberdade de expressão. O aplicativo foi lançado em 2013, muito coisa aconteceu por lá desde essa migração da direita.</p>
+<p>Uma coisa importante de notar é que o Telegram <strong>não é um aplicativo que se identifica como abrigo para a extrema direita</strong>, tal como o Parler e o Gab se propuseram a ser, mesmo que sob o manto da liberdade de expressão. O aplicativo foi lançado em 2013, muito coisa acontece lá.</p>
 
 <p>Por exemplo, a iniciativa de dados abertos Brasil.io <a href="https://t.me/brasil_io">possui um canal</a> lá para informar sobre os dados mais recentes da pandemia de coronavírus no Brasil. Por permitir automação, <a href="https://t.me/CoronavirusBRBot">tem até bot</a> com dados da pandemia. A iniciativa Direitos na Rede, que fala sobre direito digital no Brasil, <a href="https://t.me/direitosnarede">também está</a> lá, assim como muitas outras organizações.</p>
 
@@ -534,14 +307,14 @@ input[type=checkbox]:checked ~ label {
 
 <p>Sobre os termos de uso, <a href="https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml">segundo reportagem</a> da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br /><br />“Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp”, disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br /><br /></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, a mas alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook.</p>
 
-<h3 id="ausências-notáveis">AUSÊNCIAS NOTÁVEIS</h3>
-
-<p>O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparentemente está a um caminho inteiro de ser adotado pela esquerda: não há grandes canais ou grupos, pelo menos não se comparado com a direita – mobilização online nunca foi lá um ponto forte da esquerda política.</p>
-
-<p>O Partido dos Trabalhadores entrou em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL tem 2,6 mil – bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e não publica nada desde dezembro.</p>
-
 <p><span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="/img/telegram/qprint.gif" alt="print qanon" width="90%" />
 </span></p>
+
+<h3 id="ausências-notáveis">AUSÊNCIAS NOTÁVEIS</h3>
+
+<p>O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparentemente está a um caminho todo de ao menos ter sido notado pela esquerda. Não há grandes canais ou grupos – mobilização política online nunca foi um ponto forte da esquerda.</p>
+
+<p>O Partido dos Trabalhadores entrou em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL tem 2,6 mil – bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e não publica nada desde dezembro.</p>
 
 <p>Algo semelhante acontece com veículos de jornalismo. Apesar de ter ferramentas e recursos mais amigáveis para publicação, algumas redações só começaram a entrar agora na plataforma, como a <a href="https://t.me/FolhadeSPaulo">Folha de S.Paulo</a> e o <a href="https://t.me/Poder360">Poder360</a>, que entraram em 2021. A <a href="https://t.me/bbcbrasil">BBC Brasil</a> é um caso à parte: possui mais de 18 mil inscritos e publica no Telegram desde 2015.</p>
 
@@ -624,8 +397,6 @@ input[type=checkbox]:checked ~ label {
   </tbody>
 </table>
 
-<p><img src="/img/telegram/loop_telegram.gif" width="100%" /></p>
-
 <!-- faz aparecer os gráficos -->
 <script>
 $(document).ready(function() {
@@ -653,116 +424,4 @@ $(document).ready(function() {
 });
 </script>
 
-
-
-										<hr>
-										<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Telegram, Política Digital, Desinformação, Extrema direita, Desplataformização</h4>
-								</div>
-
-
-								      </div>
-
-
-	</section>
-
-		<!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div id="revue-embed">
-                  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-                  <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Assine os Despachos do Núcleo <br />
-                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
-
-                    <br />
-                    <input class="revue-form-field" type="email" name="email" placeholder="preencha seu email..." id="email" style="font-size:1.1em; max-width: 100%"/>
-                  </div>
-                  <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
-                    <input type="hidden" name="subform" value="yes"/>
-                    <input type="submit" name="submit" id="submit" value="Receba novidades por email" style="font-size:1.1em;max-width: 100%"/>
-                  </div>
-                  </form>
-                  <br />
-                </div>
-                <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
-                    <!--<li>
-                        <a href="/">Início</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>-->
-                    <li>
-                        <a href="/sobre">Sobre</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/impacto">Impacto</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/privacidade">Privacidade</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/en">English</a>
-                    </li>
-                </ul>
-
-            </div>
-            <div class="col-md-4" style="font-weight: 300; max-width: 390px">
-                <small style="font-size:0.75em">Copyright © 2020 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza apenas Google Analytics.</small>
-
-                <ul class="list-inline " >
-                  <br />
-                  
-                  <li>
-                    <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="nucleo@voltdata.info" style="border:0px"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> <span class="network-name"></span></a>
-                  </li>
-                </ul>
-                <p class="copyright text-muted small"><img src="/img/landing-nucleo_logo-header.png" width="130px" /></p>
-                <!-- /.banner -->
-
-            </div>
-        </div>
-    </div>
-</footer>
-
-		<!-- jQuery Version 1.11.0 -->
-<script src="/js/jquery-1.11.0.js"></script>
-
-<!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="/js/bootstrap.min.js"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="/js/landing-page.js"></script>
-
-<!-- Busca -->
-<script src="/js/searchjs/lunr.min.js"></script>
-<script src="/js/searchjs/search.js"></script>
-
-	</body>
-</html>
+:ET
