@@ -3,21 +3,17 @@ published: TRUE
 visible: 0
 layout: especial
 tipo: especial
-title: "O novo refúgio digital da extrema direita: Telegram"
-titulo_redes: "O novo refúgio digital da extrema direita"
-subtitle: 'Aplicativo de mensagens Telegram vira porto-seguro para a extrema direita, com canais oficiais do presidente, seus filhos e de apoiadores fervorosos'
-subtitle_redes: "Extrema direita entra no Telegram com canais oficiais do presidente, seus filhos e de apoiadores fervorosos"
-excerpt: 'Aplicativo de mensagens Telegram vira porto-seguro para a extrema direita, com canais oficiais do presidente, seus filhos e de apoiadores fervorosos'
+title: "Um novo destino da extrema direita: Telegram"
+titulo_redes: "O novo destino digital da extrema direita"
+subtitle: 'Aplicativo de mensagens vira refúgio digital para políticos radicais e seus apoiadores que sofreram sanções em outras redes'
+subtitle_redes: "Telegram vira refúgio digital para radicais que sofreram sanções em outras redes"
+excerpt: 'Aplicativo de mensagens vira refúgio digital para políticos radicais e seus apoiadores que sofreram sanções em outras redes'
 date: "15/02/2020 10:06"
 autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 dados:  'Sérgio Spagnuolo, Renata Hirota, <br>Felippe Mercurio e Lucas Gelape'
 graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-dados_abertos: "Dados de inscritos tabulados pelo Núcleo"
-dados_abertos_link: ""
-dados_abertos2: "Panorama de dados das conversas"
-dados_abertos_link2: "http://voltdata.info/telegram_bolso/"
 gif: 'telegram/telegram-direita.gif'
 background: 'telegram/telegram-direita-02.png'
 atualizacao: ""
@@ -33,6 +29,11 @@ tags:
 ---
 
 <style>
+body{
+  background-image: url("{{ site.baseurl }}/img/telegram/loop_telegram1.gif");
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 h3{
   margin-top: 35px;
@@ -180,13 +181,21 @@ input[type=checkbox]:checked ~ label {
 
 **É COMUM ENCONTRAR** comparações de aplicativos de mensagem com redes sociais.
 
-Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associações até faz sentido -- mas com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis nesse momento, seja por limitações técnicas (como criptografia) seja por inação das empresas. E a extrema direita floresce nesses cantos.
+Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associações até faz sentido -- mas com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis atualmente, seja por questões técnicas (como a criptografia) ou por falta de ação das empresas. E a extrema direita floresce nesses cantos.
 
 ##### Um aplicativo em especial tem conquistado adeptos rapidamente no Brasil e no exterior: o **Telegram**.
 
-Com o endurecimento das grandes empresas de tecnologia contra desinformação e discurso de ódio, o Telegram tem se tornado um refúgio seguro (mesmo que ainda pequeno se comparado às outras redes ou ao WhatsApp) para a comunicação em massa e para discussões da direita radical que foram praticamente banidas em outros lugares.
+Com o endurecimento das grandes empresas de tecnologia contra desinformação e discurso de ódio, o Telegram tem se tornado um refúgio viável (mesmo que ainda pequeno se comparado às outras redes ou ao WhatsApp) para a comunicação em massa e para discussões da direita radical que foram praticamente banidas em outros lugares.
 
-Recentemente, o Telegram [ultrapassou](https://canaltech.com.br/apps/telegram-alcanca-500-milhoes-de-usuarios-ativos-apos-novas-regras-do-whatsapp-177293/) a marca de **meio bilhão** de usuários mensais.
+Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano no mundo real<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Por exemplo, em dezembro de 2016 um fanático de extrema direita seguidor de QAnon abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br><br></span>, canais e grupos da teoria da conspiração são facilmente encontrados com uma busca por palavra-chave no aplicativo.
+
+Nos EUA, por exemplo, o grupo supremacista branco [Proud Boys](https://www.rollingstone.com/culture/culture-news/proud-boys-telegram-far-right-extremists-1114201/) e extremistas que exploram a teoria conspiratória QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span> possuem canais com dezenas de milhares de seguidores. No Brasil, por sua vez, canais alinhados com o governo expulsos de outras redes continuam tocando seus negócios normalmente.
+
+Recentemente a plataforma [ultrapassou](https://canaltech.com.br/apps/telegram-alcanca-500-milhoes-de-usuarios-ativos-apos-novas-regras-do-whatsapp-177293/) a marca de **meio bilhão** de usuários ativos mensais, em parte atraídos por políticos e personalidades sancionados _por_ -- ou insatisfeitos _com_ -- as políticas adotadas por outras redes sociais. Num período de 72 horas na segunda semana de janeiro, o Telegram [ganhou](https://www.tecmundo.com.br/software/209368-telegram-conquista-25-milhoes-usuarios-72-horas.htm) 25 milhões de novos usuários, pouco após o ex-presidente dos EUA Donald Trump ter sido expulso do Twitter e suspenso do Facebook por incitar atos anti-democráticos contra o Congresso norte-americano.
+
+Veio a favor do Telegram também o mal estar causado por uma [atualização nos termos de privacidade](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=pt_br) do WhatsApp, que escancarou a política já existente de compartilhamento de dados de usuários com outras empresas pertencentes ao Facebook, o que desagradou muita gente.
+
+##### Não à toa que o Telegram foi o **aplicativo mais baixado** do mundo em janeiro, [de acordo](https://t.me/s/durov) seu fundador e CEO, o russo Pavel Durov.
 
 <div class="wrap-collabsible" style="margin-top: 35px">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -206,7 +215,6 @@ Recentemente, o Telegram [ultrapassou](https://canaltech.com.br/apps/telegram-al
 
 <p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
 
-Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Por exemplo, em dezembro de 2016 um fanático de extrema direita abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br><br></span>, canais e grupos da teoria da conspiração QAnon afloram nesses lugares<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span>, a ponto de virarem um abrigo para apoiadores do ex-presidente dos EUA Donald Trump, expulso do Twitter e suspendo do Facebook (mais abaixo).
 
 O **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
 
@@ -247,8 +255,6 @@ Trata-se, então, de uma movimentação em massa, mas ainda não consolidada. Em
 - Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procurados e autoridades, incluindo o ex-juiz Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br><br></span>.
 
 "É difícil falar ainda que o Telegram é uma alternativa consolidada, porque ainda se está construindo. A direta estava em massa no WhatsApp, e teve [a política de] limitação de encaminhamentos<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>No começo de 2019 o WhatsApp <a href="https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml" target="_blank">limitou para cinco</a> o limite de encaminhamento de mensagens, sob a justificativa de que a política "vai ajudar a manter o aplicativo focado em mensagens privadas com contatos próximos".<br><br></span>, e um pessoal bem grande para o Telegram", disse Nemer.
-
-https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml
 
 <img id="img" src="{{ site.baseurl }}/img/telegram/seguidores-telegram-02.png" class="img-destak">
 
@@ -378,7 +384,7 @@ Dados tabuladores sobre seguidores estão [nesta tabela](https://docs.google.com
 | Allan Dos Santos                  | [allandossantos](https://t.me/allandossantos)         |
 | Bernardo P Küster                 | [bkuster](https://t.me/bkuster)               |
 
-<img src="{{ site.baseurl }}/img/telegram/loop_telegram.gif" width="100%">
+<img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
 <!-- faz aparecer os gráficos -->
 <script>
