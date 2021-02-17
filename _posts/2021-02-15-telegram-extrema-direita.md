@@ -223,11 +223,11 @@ Para entender essa migração da direita para o Telegram, o **Núcleo** analisou
 #### Dados consolidados da observação e análise de 15 grupos e canais do Telegram
 
 <div style="color: #fff">
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 15 grupos e canais <i class="fas fa-users"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 199.022 links totais <i class="fas fa-link"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 15 grupos e canais <i class="fas fa-users"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199.022 links totais <i class="fas fa-link"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
 </div>
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
