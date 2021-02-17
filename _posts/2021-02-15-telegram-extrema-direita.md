@@ -5,7 +5,7 @@ layout: especial
 tipo: especial
 title: "Telegram, o novo refúgio digital da extrema direita"
 titulo_redes: "Telegram, o novo refúgio da extrema direita"
-subtitle: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais'
+subtitle: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e apoiadores que sofreram sanções em outras plataformas digitais'
 subtitle_redes: "Telegram vira rota de fuga para radicais que sofreram sanções em outras redes"
 excerpt: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais'
 date: "15/02/2020 10:06"

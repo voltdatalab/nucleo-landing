@@ -476,13 +476,13 @@ td{
 }
 
 h2.subheading-special {
-  font-weight: 400;
+  font-weight: 300;
   color: #555555;
   font-size: 1.4em;
   line-height: 2.3em;
   text-transform: uppercase;
   padding: 7px;
-  background-color: #fff;
+  background-color: none;
   display: inline;
 }
 
