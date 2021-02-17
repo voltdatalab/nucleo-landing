@@ -1,227 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="robots" content="index, follow" />
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-    <title>Núcleo Jornalismo</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="/css/landing-page.css" rel="stylesheet">
-    <link href="/css/post.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/font-awesome-5.12.0/css/all.css" rel="stylesheet" type="text/css">
-
-    <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,700|Days+One|Roboto+Mono|Source+Serif+Pro:400,700&display=swap" rel="stylesheet">
-
-    <meta name="keywords" content="Telegram, Política Digital, Desinformação, Extrema direita, Desplataformização"/>
-    <meta property="og:site_name" content="Núcleo Jornalismo">
-    <meta property="og:locale" content="pt_BR">
-    <meta property="og:title" content="Telegram, o novo refúgio da extrema direita" />
-    <meta property="og:description" content="Telegram vira rota de fuga para radicais que sofreram sanções em outras redes" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://nucleo.jor.br/draft/2020-02-15-telegram-extrema-direita" />
-    <meta property="article:published_time" content="2020-02-15 10:06:00 -0300">
-
-    <!-- FACEBOOK -->
-    <meta property="og:image" content="https://nucleo.jor.br/img/telegram/telegram-direita-02.png" />
-    <meta property="og:image:type" content="image/jpeg" />
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@nucleojor" />
-    <meta name="twitter:creator" content="@nucleojor" />
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-104963816-3');
-    </script>
-
-</head>
-
-
-	<body>
-		<!-- Navigation -->
-<nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Navegação mobile</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="220px"/> </a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-              <li style="padding-top:12px">
-                  <form action="/busca.html" method="get">
-                  <i class="fas fa-search"></i>
-                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
-                  <!-- <input type="submit" value="search"> -->
-                </form>
-                </li>
-                <!--
-            	  <li>
-                    <a href="/sobre">SOBRE</a>
-                </li>
-                <li>
-                    <a href="/impacto">IMPACTO</a>
-                </li>
-                -->
-                <li>
-                    <a href="/newsletters">NEWSLETTERS</a>
-                </li>
-                <li>
-                    <a href="/ideias">IDEIAS</a>
-                </li>
-                <!--
-                <li>
-                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
-                </li>
-
-                
-                <li>
-                  <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-
-                <li>
-                    <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li> -->
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
-
-
-		<section id="publicacoes">
-			<style>
-				.special_banner{
-					margin: 80px auto 20px;
-					max-width: 980px;
-					text-align: center;
-				}
-				.mid_especial{
-					margin: 50px 0 30px;
-					overflow: hidden;
-					width: 100vw;
-				  position: relative;
-				  left: calc(-50vw + 50%);
-
-				}
-				.text_banner_special{
-					max-width: 600px;
-					margin: 0 auto;
-					text-align: center;
-				}
-			</style>
-
-			<div class="special_banner">
-				<div class="text_banner_special">
-				<h1 class="tt-special">Telegram, o novo refúgio digital da extrema direita</h1>
-				<div class="creditos">
-					<h4>
-								<span class="arquivado">
-
-									  <br /> Arquivado em <a href="/draft"><strong> draft</strong></a>
-
-								</span> &middot;
-										<span class="arquivado">Publicado em 15/02/2020 10:06</span>
-									</h4>
-								</div>
-				</div>
-
-				<!-- IMAGEM DE DESTAQUE NA DIV -->
-				<style>
-				
-
-				.destak-special{
-					margin: 50px 0 30px;
-					height: 450px;
-					background: url('../img/telegram/telegram-direita.gif') rgba(0, 0, 0, 0.4);
-					background-position: center;
-					background-size: cover;
-				}
-				
-				</style>
-
-				<div class="destak-special"></div>
-
-
-				 <br /><br />
-
-				<h2 class="subheading-special">Aplicativo de mensagens vira rota de fuga para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais</h2>
-			</div>
-
-
-
-								<div class="container" style="padding: 0 5% 0px;max-width:650px">
-									<hr />
-									<h4 style="text-align:center; line-height: 1.6em">
-										<span class="creditos_special">
-
-										Por <span>Sérgio Spagnuolo</span> <br />
-										 
-										
-										
-										
-										 dados <span>Sérgio Spagnuolo, Renata Hirota, <br>Felippe Mercurio e Lucas Gelape</span><br /> 
-										 Gráficos <span>Rodolfo Almeida</span><br /> 
-										
-										 Edição <span>Alexandre Orrico</span>
-
-									</span>
-								</h4>
-										<hr />
-
-								<div class="texto_post_special">
-									<ul class="share-buttons" style="text-align:center">
-									<li><a href="whatsapp://send?text=Telegram, o novo refúgio da extrema direita - http://localhost:4000/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
-									<li><a href="https://www.facebook.com/sharer/sharer.php?u=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
-								  <li><a href="https://twitter.com/intent/tweet?source=/draft/2020-02-15-telegram-extrema-direita%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
-								  <li><a href="http://www.reddit.com/submit?url=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
-								  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-								  <li><a href="mailto:?subject=&body=:%20/draft/2020-02-15-telegram-extrema-direita" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
-								</ul>
-								<br /><br />
-										<style>
+I"b�<style>
 
 h3{
   margin-top: 35px;
@@ -547,21 +324,6 @@ input[type=checkbox]:checked ~ label {
 
 <p>O YouTube <a href="https://congressoemfoco.uol.com.br/midia/youtube-retira-terca-livre-do-ar/">retirou</a>, por exemplo, o canal Terça Livre do ar, iniciando uma <a href="https://noticias.uol.com.br/politica/ultimas-noticias/2021/02/12/justica-concede-liminar-e-manda-youtube-reativar-canais-do-terca-livre.htm">disputa</a> judicial. De acordo com <a href="https://nucleo.jor.br/media/2021-02-11-terca-livre-youtube-banido-bolsonarismo">análise</a> do <strong>Núcleo</strong>, isso afetou pouco o bolsonarismo, mas foi um golpe forte contra um canal conhecido por discurso violento.</p>
 
-<p>Além disso, há mais duas motivações para que favorecem esforços de migração da direita para o Telegram:</p>
-
-<ul>
-  <li>
-    <p>as atualizações nos termos de uso do WhatsApp;</p>
-  </li>
-  <li>
-    <p>as políticas de <em>zero rating</em> (quando operadoras de telefonia não cobram por acesso a certos apps) que passaram a incluir o aplicativo.</p>
-  </li>
-</ul>
-
-<p>“A partir do momento em que rolou acordo com operadoras era natural a direita migrar”, disse ao <strong>Núcleo</strong> a pesquisadora <a href="https://ash.harvard.edu/people/yasodara-cordova">Yasodara Córdova</a>, do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.</p>
-
-<p>Sobre os termos de uso, <a href="https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml">segundo reportagem</a> da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><br /><br />“Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp”, disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br /><br /></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, a mas alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook.</p>
-
 <p><img id="img" src="/img/telegram/seguidores-telegram-02.png" class="img-destak" /></p>
 
 <h3 id="anti-desplataformização">ANTI-DESPLATAFORMIZAÇÃO</h3>
@@ -611,27 +373,44 @@ input[type=checkbox]:checked ~ label {
 
 <h3 id="rede-de-mensagem-ou-mensageiro-social">REDE DE MENSAGEM OU MENSAGEIRO SOCIAL?</h3>
 
-<p>A semelhança entre redes sociais e aplicativos de mensagem que viraram comunidades é que ambos são pontos de encontro, convivência online e debate para qualquer tipo de coisa. Um <a href="https://link.estadao.com.br/noticias/cultura-digital,telegram-vira-local-para-seguir-o-bbb-e-app-muda-de-status,70003614872">canal sobre</a> o reality show Big Brother Brasil 21 <a href="https://t.me/canalespiadinha">tem</a> 250 mil inscritos e virou referência nas redes.</p>
+<p>A semelhança entre redes sociais e aplicativos de mensagem que viraram comunidades é que ambos são pontos de encontro, convivência online e debate para qualquer tipo de coisa. Um <a href="https://link.estadao.com.br/noticias/cultura-digital,telegram-vira-local-para-seguir-o-bbb-e-app-muda-de-status,70003614872">canal sobre</a> o reality show Big Brother Brasil 21 <a href="https://t.me/canalespiadinha">tem</a> 250 mil inscritos.</p>
 
 <p>Mas aplicativos de mensagem possuem regras um pouco diferentes. Embora, é claro, as empresas digam que não toleram discurso de violência e ódio, elas só podem mesmo monitorar esse tipo de coisa em canais abertos, não em grupos fechados e chats secretos, sob a proteção da criptografia. Nas redes sociais, as regras de comunidade e a própria natureza desses espaços virtuais não permitem nada totalmente secreto.</p>
 
 <p>Grosso modo, pense numa rede social como um parque público onde todos se encontram para discutir, compartilhar coisas e até brigar, ao passo que aplicativos de mensagem são casas particulares com festas grandes, mas apenas para quem for convidado ou achar o caminho.</p>
 
-<p>Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e casas particulares em redes sociais), mas a ideia geral é essa. Um aplicativo de mensagem é uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas de comunidade e fiscalização.</p>
+<p>Há exceções em ambos os exemplos (há parques em aplicativos de mensagem e casas particular em redes sociais), mas a ideia geral é essa. Um aplicativo de mensagem é uma ferramenta de transmissão de informação, não uma plataforma de conteúdo, sujeita a regras mais rígidas e fiscalização.</p>
 
 <p><span class="texto-destak">“No começo de janeiro, a equipe de moderação do Telegram começou a receber um número alto de relatos sobre atividade pública relacionada aos EUA. A equipe agiu de forma decisiva ao tomar ações contra canais norte-americanos que promoviam violência.” <br />
 <small class="arquivado" style="color:#222222">- Pavel Durov, CEO do Telegram, no seu <a href="https://t.me/s/durov">canal</a></small>
 </span></p>
 
-<p>O Telegram possui, de fato, uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram <a href="https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215">baniu 15 canais</a>. Pavel narrou que, durante os ataques ao Congresso dos EUA, o Telegram removeu “centenas” de conteúdos nocivos, o que não é muito.</p>
+<p>O Telegram possui, de fato, uma equipe de moderação. Mas enquanto o Twitter e o Facebook baniram dezenas de milhares de perfis e grupos extremistas em janeiro de 2021, o Telegram <a href="https://www.nbcnews.com/tech/tech-news/telegram-recent-haven-far-right-purges-extremist-content-n1254215">baniu 15</a>. Pavel narrou em seu canal que, durante os ataques ao Congresso dos EUA, os moderadores do Telegram removeram centenas de conteúdos nocivos.</p>
 
-<p>Essas medidas podem ter algum efeito para aplacar os ânimos tanto daqueles que defendem ação direta de plataformas contra discursos perigosos, como também reafirmar aos defensores de segurança da informação que é possível tomar algum tipo de ação sem mexer em políticas de privacidade ou em criptografia.</p>
+<p>Essas medidas podem ter algum efeito para aplacar os ânimos tanto daqueles que pedem por mais ação direta de empresas do tipo contra discursos perigosos, como também reafirmar aos defensores de segurança da informação que é possível tomar algum tipo de ação sem mexer em políticas de privacidade.</p>
 
-<p>Importante ferramenta de privacidade e comunicação segura, com usos inclusive muito legítimos e necessários, a criptografia dá uma camada extra de molho para o argumento de que moderação total é difícil ou quase impossível, considerando que o Telegram possui recursos de grupos privados e chats secretos entre dois usuários.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><br /><br />O primeiro, <strong>grupos privados</strong>, possuem criptografia básica e não são listados em busca, sendo acessíveis somente via link ou convite. O segundo, <strong>chats secretos</strong>, possuem sólida criptografia de ponta a conta e <a href="https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/" target="_blank">outros recursos</a>. <br /><br /></span></p>
+<p>De toda forma, o Telegram não gosta muito de interferências externas. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz <a href="https://telegram.org/faq#p-onde-fica-a-sede-do-telegram">seu próprio site</a>.</p>
+
+<h3 id="escudo-criptográfico">ESCUDO CRIPTOGRÁFICO</h3>
+
+<p>Importante ferramenta de privacidade e comunicação segura, a criptografia que pode ser aplicada às mensagens dá uma camada extra de molho para esse argumento, considerando que o Telegram possui recursos de grupos privados (não listados em busca, acessíveis somente via link ou convite) e chats secretos entre dois usuários (com criptografia de ponta a ponta e <a href="https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/">outros recursos</a>).</p>
 
 <p>“É muito improvável que isso aconteça [aumento na moderação]. O que vende hoje essas plataformas é poder ter esses grupos e essa privacidade, [moderar conteúdo] vai contra o modelo de negócio deles”, disse Nemer.</p>
 
-<p>Seja como for, o Telegram já mostrou não gosta muito de interferências externas. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz <a href="https://telegram.org/faq#p-onde-fica-a-sede-do-telegram">seu próprio site</a>.</p>
+<p>Além disso, há mais duas motivações para a migração da direta para o Telegram:</p>
+
+<ul>
+  <li>
+    <p>as atualizações nos termos de uso do WhatsApp;</p>
+  </li>
+  <li>
+    <p>as políticas de <em>zero rating</em> (quando operadoras de telefonia não cobram por acesso a certos apps) que passaram a incluir o aplicativo.</p>
+  </li>
+</ul>
+
+<p>“A partir do momento em que rolou acordo com operadoras era natural a direita migrar”, disse ao <strong>Núcleo</strong> a pesquisadora <a href="https://ash.harvard.edu/people/yasodara-cordova">Yasodara Córdova</a>, do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.</p>
+
+<p>Sobre os termos de uso, <a href="https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml">segundo reportagem</a> da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><br /><br />“Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp”, disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br /><br /></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, a mas alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook.</p>
 
 <h3 id="ausências-notáveis">AUSÊNCIAS NOTÁVEIS</h3>
 
@@ -683,118 +462,4 @@ $(document).ready(function() {
 });
 </script>
 
-
-
-										<hr>
-										<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Telegram, Política Digital, Desinformação, Extrema direita, Desplataformização</h4>
-								</div>
-
-
-								      </div>
-
-
-	</section>
-
-		<!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div id="revue-embed">
-                  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-                  <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Assine os Despachos do Núcleo <br />
-                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
-
-                    <br />
-                    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-                  <br/>
-                  <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%;"/>
-                  </div>
-                  <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
-                    <input type="hidden" name="subform" value="yes"/>
-                    <input type="submit" name="submit" id="submit" value="ASSINAR NEWSLETTER"/>
-                    </div>
-                  </form>
-                  <br />
-                </div>
-                <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
-                    <!--<li>
-                        <a href="/">Início</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>-->
-                    <li>
-                        <a href="/sobre">Sobre</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/impacto">Impacto</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/privacidade">Privacidade</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a href="/en">English</a>
-                    </li>
-                </ul>
-
-            </div>
-            <div class="col-md-4" style="font-weight: 300; max-width: 390px">
-                <small style="font-size:0.75em">Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza Google Analytics.</small>
-
-                <ul class="list-inline " >
-                  <br />
-                  
-                  <li>
-                    <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
-                  </li>
-                  
-                  <li>
-                    <a href="nucleo@voltdata.info" style="border:0px"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> <span class="network-name"></span></a>
-                  </li>
-                </ul>
-                <p class="copyright text-muted small"><img src="/img/landing-nucleo_logo-header.png" width="130px" /></p>
-                <!-- /.banner -->
-
-            </div>
-        </div>
-    </div>
-</footer>
-
-		<!-- jQuery Version 1.11.0 -->
-<script src="/js/jquery-1.11.0.js"></script>
-
-<!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="/js/bootstrap.min.js"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="/js/landing-page.js"></script>
-
-<!-- Busca -->
-<script src="/js/searchjs/lunr.min.js"></script>
-<script src="/js/searchjs/search.js"></script>
-
-	</body>
-</html>
+:ET
