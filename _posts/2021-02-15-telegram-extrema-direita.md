@@ -3,11 +3,11 @@ published: TRUE
 visible: 0
 layout: especial
 tipo: especial
-title: "Um novo destino da extrema direita: Telegram"
-titulo_redes: "O novo destino digital da extrema direita"
-subtitle: 'Aplicativo de mensagens vira refúgio digital para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais'
-subtitle_redes: "Telegram vira refúgio digital para radicais que sofreram sanções em outras redes"
-excerpt: 'Aplicativo de mensagens vira refúgio digital para políticos radicais e seus apoiadores que sofreram sanções em outras redes'
+title: "Telegram, o novo refúgio digital da extrema direita"
+titulo_redes: "Telegram, o novo refúgio da extrema direita"
+subtitle: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais'
+subtitle_redes: "Telegram vira rota de fuga para radicais que sofreram sanções em outras redes"
+excerpt: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e seus apoiadores que sofreram sanções em outras plataformas digitais'
 date: "15/02/2020 10:06"
 autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
@@ -97,6 +97,7 @@ input[type='checkbox'] {
 input[type=checkbox]:checked ~ label {
     color: #ffffff;
     text-decoration: none;
+    background-color: #f33872
 }
 
 .lbl-toggle::before {
@@ -190,14 +191,14 @@ Recentemente o Telegram [ultrapassou](https://canaltech.com.br/apps/telegram-alc
 
 Veio a favor do Telegram também o mal estar causado por uma [atualização nos termos de privacidade](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=pt_br) do WhatsApp, que escancarou a política já existente de compartilhamento de dados de usuários com outras empresas pertencentes ao Facebook, o que desagradou muita gente.
 
-##### Não à toa que o Telegram foi o **aplicativo mais baixado** do mundo em janeiro, [de acordo](https://t.me/s/durov) seu fundador e CEO, o russo Pavel Durov.</h5>
+##### Não à toa o Telegram foi o **aplicativo mais baixado** do mundo em janeiro, [de acordo](https://t.me/s/durov) seu fundador e CEO, o russo Pavel Durov.
 
-<div class="wrap-collabsible" style="margin-top: 35px;">
+<div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba Mais - Os números do Telegram</label>
+  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba Mais - Os números do Telegram <i class="far fa-hand-pointer fa"></i> </label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <h3>Migração digital</h3>
+      <p><strong>Migração digital</strong></p>
       <p>O Telegram ultrapassou em janeiro a marca de 500 milhões de usuários mensais ativos no mundo, e foi o aplicativo móvel mais baixado nesse mês no mundo, <a href="https://t.me/s/durov" target="_blank">segundo</a> o CEO Pavel Durov. </p>
 
       <p>Em 2018, <a href="https://www.midiamax.com.br/midiamais/variedades-midiamais/2020/entrou-para-o-telegram-aplicativo-cresce-no-brasil-e-se-vende-como-mais-seguro#:~:text=Conquistou%20rapidamente%20100%20mil%20usu%C3%A1rios,200%20milh%C3%B5es%20de%20usu%C3%A1rios%20ativos." target="_blank">eram</a> 200 milhões.
@@ -205,7 +206,7 @@ Veio a favor do Telegram também o mal estar causado por uma [atualização nos 
 			<p>
         Uma pesquisa online com 2.046 brasileiros da Mobile Time/Opinion Box publicada em agosto de 2020 <a href="https://panoramamobiletime.com.br/pesquisa-mensageria-no-brasil-agosto-de-2020/" target="_blank">estima</a> que o Telegram esteja em 35% dos 210 milhões de <a href="https://www.teleco.com.br/ncel.asp" target="_blank">smartphones</a> ativos (3G + 4G, cerca de 73 milhões). A pesquisa não descreve sua metodologia, apenas diz que tem validade estatística.</p>
         <p>
-        O número é plausível, mas talvez um tanto exagerado, o WhatsApp está em cerca de 150 milhões, de acordo com <a href="https://www.statista.com/forecasts/1146719/WhatsApp-user-by-country" target="_blank">a plataforma</a> de dados Statista.
+        O WhatsApp está em cerca de 150 milhões, de acordo com <a href="https://www.statista.com/forecasts/1146719/WhatsApp-user-by-country" target="_blank">a plataforma</a> de dados Statista.
       </p>
       <p>"Podemos estar presenciando a maior migração de dados na história humana", disse Pavel em seu canal na plataforma.
       </p>
@@ -213,18 +214,16 @@ Veio a favor do Telegram também o mal estar causado por uma [atualização nos 
   </div>
 </div>
 
-<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
-
 Para entender essa migração da direita para o Telegram, o **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
 ### ANÁLISE DO NÚCLEO
 
-#### Dados consolidados da observação de 15 grupos e canais de WhatsApp
+#### Dados consolidados da observação e análise de 15 grupos e canais do Telegram
 
 <div style="color: #fff">
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 15 grupos <i class="fas fa-users"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 15 grupos e canais <i class="fas fa-users"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px"> 199.022 links totais <i class="fas fa-link"></i></h3>
@@ -251,7 +250,7 @@ Não é à toa que, segundo análise do **Núcleo**, quase dois em cada três do
 
 Ou seja, levavam os inscritos às bases já consolidadas em outras redes. Como num loop, o inverso também acontece: influenciadores e políticos que usam essas mesmas redes para aumentar seus seguidores no Telegram.
 
-"Eles estão fazendo um esforço muito grande para levar essa audiência que já têm no Twitter, no Facebook e até no WhatsApp para o Telegram", disse David Nemer, [professor](https://mediastudies.as.virginia.edu/nemer) da Universidade de Virgínia que estuda consumo de desinformação em aplicativos de mensagem e tem acompanhado a migração para o Telegram. "Vejo muita propaganda de link levando para o Telegram."
+"Eles estão fazendo um esforço muito grande para levar essa audiência que já têm no Twitter, no Facebook e até no WhatsApp para o Telegram", disse ao **Núcleo** o pesquisador David Nemer, [professor](https://mediastudies.as.virginia.edu/nemer) da Universidade de Virgínia que estuda consumo de desinformação em aplicativos de mensagem e tem acompanhado a migração para o Telegram. "Vejo muita propaganda de link levando para o Telegram."
 
 Trata-se, então, de uma movimentação em massa, mas ainda não consolidada. Embora seja uma alternativa como um espaço da extrema direita, a adoção dessa tecnologia ainda enfrenta resistências:
 
@@ -261,11 +260,13 @@ Trata-se, então, de uma movimentação em massa, mas ainda não consolidada. Em
 
 - Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procurados e autoridades, incluindo o ex-juiz Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br><br></span>.
 
-"É difícil falar ainda que o Telegram é uma alternativa consolidada, porque ainda se está construindo. A direta estava em massa no WhatsApp, e teve [a política de] limitação de encaminhamentos<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>No começo de 2019 o WhatsApp <a href="https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml" target="_blank">limitou para cinco</a> o limite de encaminhamento de mensagens, sob a justificativa de que a política "vai ajudar a manter o aplicativo focado em mensagens privadas com contatos próximos".<br><br></span>, e um pessoal bem grande para o Telegram", disse Nemer.
+"É difícil falar ainda que o Telegram é uma alternativa consolidada, porque ainda se está construindo. A direita estava em massa no WhatsApp, então veio [a política de] limitação de encaminhamentos<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br><br>No começo de 2019 o WhatsApp <a href="https://www.techtudo.com.br/noticias/2019/01/whatsapp-limita-o-encaminhamento-de-mensagens-para-cinco-contatos.ghtml" target="_blank">limitou para cinco</a> o limite de encaminhamento de mensagens, sob a justificativa de que a política "vai ajudar a manter o aplicativo focado em mensagens privadas com contatos próximos".<br><br></span>, e um pessoal bem grande migrou para o Telegram", disse Nemer.
 
 <img id="img" src="{{ site.baseurl }}/img/telegram/seguidores-telegram-02.png" class="img-destak">
 
-Se as barreiras para uma mudança maior estão visíveis, as soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a [aceitar anúncios](https://www.engadget.com/telegram-channel-ads-192249765.html) em grandes canais de transmissão (mas não nos chats nem com a utilização de dados pessoais como a maioria das empresas de tecnologia, como esclareceu Pavel Durov, CEO do Telegram).
+Um dos motivos pelos quais muitas figuras da extrema direita ainda não adotaram a ferramenta foi a dificuldade de monetização do conteúdo no Telegram. Logo, sem conteúdo dedicado, a adoção por parte da direita ainda é mais lenta do que em outras plataformas.
+
+s soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a [aceitar anúncios](https://www.engadget.com/telegram-channel-ads-192249765.html) em grandes canais de transmissão (mas não nos chats nem com a utilização de dados pessoais como a maioria das empresas de tecnologia, como esclareceu Pavel Durov, CEO do Telegram).
 
 <span class="texto-destak">Esse é um assunto antigo entre quem acompanha o tema de desinformação.</span>
 
@@ -282,11 +283,13 @@ A eleição norte-americana de 2020 e o ataque de militantes de extrema direita 
 
 Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais [grotescas](https://www.youtube.com/watch?v=kgUDbvKYbWk), como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.
 
-<div class="wrap-collabsible" style="margin-top: 35px">
+<div class="wrap-collabsible" style="margin: 35px 0">
   <input id="collapsible2" class="toggle" type="checkbox">
-  <label for="collapsible2" class="lbl-toggle" tabindex="0">Saiba Mais - Atrativos do Telegram</label>
+  <label for="collapsible2" class="lbl-toggle" tabindex="0"> Saiba Mais - Atrativos do Telegram <i class="far fa-hand-pointer fa"></i>
+  </label>
   <div class="collapsible-content">
     <div class="content-inner">
+      <p><strong>Recursos que tornam o Telegram uma ferramenta mais atraente para publicadores</strong></p>
       <ul style="font-weight: 300">
           <li style="margin-bottom:15px">Menor nível de  moderação de conteúdo e menor risco de desplataformização;</li>
           <li style="margin-bottom:15px">Não há nem opção de algoritmo de filtro de conteúdo;</li>
@@ -305,9 +308,7 @@ Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) 
   </div>
 </div>
 
-<p style="text-align:left;margin-top:15px"><i class="far fa-hand-pointer fa-sm"></i> <small style="font-size:0.85em"><em>Clique para expandir ou recolher</em></small></p>
-
-Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso total da rede social por várias semanas<input type="checkbox" id="cb6" /><label for="cb6"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com instabilidade. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
+Os poucos lugares que restaram para a profusão de desinformação e discurso de ódio passaram a sofrer pressão por moderação de conteúdo, a ponto de a Amazon não permitir mais que o Parler utilizasse seus servidores e de ser expulsa das lojas de aplicativos da Apple e do Google, praticamente causando o colapso da rede social por várias semanas<input type="checkbox" id="cb6" /><label for="cb6"><sup></sup></label><span><br><br>A rede <a href="https://www.nytimes.com/2021/02/15/technology/parler-back-online.html" target="blank">voltou a funcionar</a> em 15 de fevereiro, mas ainda com instabilidade. Os novos <a href="https://legal.parler.com/documents/useragreement.pdf" target="_blank">termos de serviços </a> descrevem casos para moderação de conteúdo.<br><br></span>.
 
 O Gab, outra rede social com profusão de grupos de direita, embora tenha ganhado 600 mil novos usuários [logo após](https://saidapeladireita.blogfolha.uol.com.br/2021/01/12/conheca-o-gab-o-twitter-de-direita-que-acolhe-trumpistas-desabrigados/#:~:text=O%20Gab%2C%20por%20enquanto%2C%20parece,usu%C3%A1rios%2C%20calculado%20em%20900%20mil.) os problemas do Parler, também teve, já há [alguns anos](https://techcrunch.com/2017/08/17/alt-social-network-gab-booted-from-google-play-store-for-hate-speech/) seus aplicativos removidos das lojas da Apple e do Google, os dois maiores ecossistemas de smartphones do mundo -- o que limitou bastante sua usabilidade em dispositivos móveis e, consequentemente, seu crescimento.
 
@@ -348,7 +349,7 @@ Além disso, há mais duas motivações para a migração da direta para o Teleg
 
 - as políticas de _zero rating_ (quando operadoras de telefonia não cobram por acesso a certos apps) que passaram a incluir o aplicativo.
 
-"A partir do momento em que rolou acordo com operadoras era natural a direita migrar", disse a pesquisadora [Yasodara Córdova](https://ash.harvard.edu/people/yasodara-cordova), do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.
+"A partir do momento em que rolou acordo com operadoras era natural a direita migrar", disse ao **Núcleo** a pesquisadora [Yasodara Córdova](https://ash.harvard.edu/people/yasodara-cordova), do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.
 
 Sobre os termos de uso, [segundo reportagem](https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml) da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><br><br>"Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp", disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br><br></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, a mas alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook.
 
@@ -371,7 +372,7 @@ Este **Núcleo Jornalismo** [também tem um canal](https://t.me/nucleojor) por l
 
 O Núcleo tem acompanhado 15 grupos e canais de direita no Telegram e baixou as mensagens desses grupos a partir da versão para desktop do aplicativo, que [permite](https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-fazer-backup-do-telegram-no-pc-e-salvar-suas-conversas.ghtml) isso abertamente (o WhatsApp [também](https://faq.WhatsApp.com/android/chats/how-to-save-your-chat-history/?lang=pt_br#:~:text=Abra%20uma%20conversa%20individual%20ou,de%20m%C3%ADdia%20na%20conversa%20exportada.)). Os dados [estão aqui](http://voltdata.info/telegram_bolso/#vis%C3%A3o-geral).
 
-Dados tabuladores sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
+Dados tabulado sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
 
 | Nome                              | link                                |
 |-----------------------------------|-------------------------------------|

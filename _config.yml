@@ -10,7 +10,7 @@ author: Núcleo Jornalismo
 description: > # "Write an awesome description for your new site here.
   Análises sobre debates, gastos públicos e políticas públicas
 copyright: '<img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="200px" />'
-credits: 'Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza apenas Google Analytics.'
+credits: 'Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza Google Analytics.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
