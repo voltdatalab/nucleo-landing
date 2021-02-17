@@ -214,7 +214,7 @@ Veio a favor do Telegram também o mal estar causado por uma [atualização nos 
   </div>
 </div>
 
-Para entender essa migração da direita para o Telegram, o **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
+Para entender essa migração da direita para o Telegram, o **Núcleo** analisou cerca de 640 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período. Esse grupos foram escolhidos principalmente por serem de políticos ou comunicadores, assim como pelo volume de inscritos.
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
@@ -229,6 +229,24 @@ Para entender essa migração da direita para o Telegram, o **Núcleo** analisou
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199.022 links totais <i class="fas fa-link"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
 </div>
+
+| Nome                              | canal ou grupo                                |
+|-----------------------------------|-------------------------------------|
+| Carla Zambelli                    | [carlazambellioficial](https://t.me/carlazambellioficial)   |
+| Bia Kicis                         | [biakicisoficial](https://t.me/biakicisoficial)        |
+| BOLSONARO PRESIDENTE              | [BOLSONARO_APB](https://t.me/BOLSONARO_APB)          |
+| Dep Luiz Philippe Oficial         | [luizphilippe](https://t.me/luizphilippe)           |
+| Eu Sou de Direita                 | [eusoudedireita](https://t.me/eusoudedireita)         |
+| Jair Bolsonaro, eu Apoio!         | [Bolsonaro2Me22](https://t.me/Bolsonaro2Me22)         |
+| Deputado Helio Lopes              | [depheliolopes](https://t.me/depheliolopes)          |
+| Jair M. Bolsonaro 1               | [jairbolsonarobrasil](https://t.me/jairbolsonarobrasil)    |
+| FLÁVIO BOLSONARO                  | [senadorflaviobolsonaro](https://t.me/senadorflaviobolsonaro) |
+| Filipe G. Martins                 | [filgmartin](https://t.me/filgmartin)             |
+| CARLOS BOLSONARO                  | [bolsonarocarlos](https://t.me/bolsonarocarlos)       |
+| Eduardo Bolsonaro | [depeduardobolsonaro](https://t.me/depeduardobolsonaro)    |
+| Carlos Jordy                      | [carlosjordy](https://t.me/carlosjordy)            |
+| Allan Dos Santos                  | [allandossantos](https://t.me/allandossantos)         |
+| Bernardo P Küster                 | [bkuster](https://t.me/bkuster)               |
 
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
@@ -277,9 +295,9 @@ O YouTube [retirou](https://congressoemfoco.uol.com.br/midia/youtube-retira-terc
 
 ### ANTI-DESPLATAFORMIZAÇÃO
 
-O Telegram é uma boa ferramenta para evitar a "desplataformização" -- palavra que abalou as políticas de liberdade de expressão nas redes sociais e deixou o radicalismo de cabelo em pé, sob ameaça de perder suas bases.
+O Telegram é uma boa ferramenta para evitar a "desplataformização" -- palavra que abalou as políticas declaradas sobre liberdade de expressão nas redes sociais e deixou o radicalismo de cabelo em pé, sob ameaça de perder suas bases.
 
-A eleição norte-americana de 2020 e o ataque de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para algumas plataformas -- por bem ou por mal -- os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio, além de ter incendiado debates sobre necessidade de moderação ativa por redes sociais.
+A eleição norte-americana de 2020 e o [ataque](https://www.bbc.com/portuguese/internacional-55568031) de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para algumas plataformas -- por bem ou por mal -- os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio, além de ter incendiado debates sobre necessidade de moderação ativa por redes sociais.
 
 Se antes as plataformas estavam dispostas a banir apenas os grupos (como QAnon) e personalidades mais [grotescas](https://www.youtube.com/watch?v=kgUDbvKYbWk), como o comunicador Alex Jones (Infowars), agora passaram a punir autoridades e até presidentes<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>. Afinal, liberdade de expressão não significa difundir abertamente discurso de ódio ou planejar um golpe de estado.
 
@@ -370,27 +388,9 @@ Este **Núcleo Jornalismo** [também tem um canal](https://t.me/nucleojor) por l
 
 ### COMO FIZEMOS ISSO
 
-O Núcleo tem acompanhado 15 grupos e canais de direita no Telegram e baixou as mensagens desses grupos a partir da versão para desktop do aplicativo, que [permite](https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-fazer-backup-do-telegram-no-pc-e-salvar-suas-conversas.ghtml) isso abertamente (o WhatsApp [também](https://faq.WhatsApp.com/android/chats/how-to-save-your-chat-history/?lang=pt_br#:~:text=Abra%20uma%20conversa%20individual%20ou,de%20m%C3%ADdia%20na%20conversa%20exportada.)). Os dados [estão aqui](http://voltdata.info/telegram_bolso/#vis%C3%A3o-geral).
+O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no Telegram, principalmente de autoridades e apoiadores do governo brasileiro, e baixou as mensagens desses grupos a partir da versão para desktop do aplicativo, que [permite](https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-fazer-backup-do-telegram-no-pc-e-salvar-suas-conversas.ghtml) isso abertamente (o WhatsApp [também](https://faq.WhatsApp.com/android/chats/how-to-save-your-chat-history/?lang=pt_br#:~:text=Abra%20uma%20conversa%20individual%20ou,de%20m%C3%ADdia%20na%20conversa%20exportada.)). Os dados [estão aqui](http://voltdata.info/telegram_bolso/#vis%C3%A3o-geral).
 
 Dados tabulado sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
-
-| Nome                              | link                                |
-|-----------------------------------|-------------------------------------|
-| Carla Zambelli                    | [carlazambellioficial](https://t.me/carlazambellioficial)   |
-| Bia Kicis                         | [biakicisoficial](https://t.me/biakicisoficial)        |
-| BOLSONARO PRESIDENTE              | [BOLSONARO_APB](https://t.me/BOLSONARO_APB)          |
-| Dep Luiz Philippe Oficial         | [luizphilippe](https://t.me/luizphilippe)           |
-| Eu Sou de Direita                 | [eusoudedireita](https://t.me/eusoudedireita)         |
-| Jair Bolsonaro, eu Apoio!         | [Bolsonaro2Me22](https://t.me/Bolsonaro2Me22)         |
-| Deputado Helio Lopes              | [depheliolopes](https://t.me/depheliolopes)          |
-| Jair M. Bolsonaro 1               | [jairbolsonarobrasil](https://t.me/jairbolsonarobrasil)    |
-| FLÁVIO BOLSONARO                  | [senadorflaviobolsonaro](https://t.me/senadorflaviobolsonaro) |
-| Filipe G. Martins                 | [filgmartin](https://t.me/filgmartin)             |
-| CARLOS BOLSONARO                  | [bolsonarocarlos](https://t.me/bolsonarocarlos)       |
-| Eduardo Bolsonaro - Canal oficial | [depeduardobolsonaro](https://t.me/depeduardobolsonaro)    |
-| Carlos Jordy                      | [carlosjordy](https://t.me/carlosjordy)            |
-| Allan Dos Santos                  | [allandossantos](https://t.me/allandossantos)         |
-| Bernardo P Küster                 | [bkuster](https://t.me/bkuster)               |
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
