@@ -407,7 +407,7 @@ O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no T
 
 Dados tabulado sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
 
-<small></em>Texto atualizado em 18.fev.2021 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada.</em></small>
+<small>_Texto atualizado em 18.fev.2021 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada._</small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
