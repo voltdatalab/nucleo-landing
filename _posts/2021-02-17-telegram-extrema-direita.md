@@ -407,7 +407,11 @@ O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no T
 
 Dados tabulados sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
 
-<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora_ </small>
+O **Núcleo** tentou entrar em contato com o Telegram pelos contatos de mídia [indicados](https://telegram.org/press) na página oficial, sem sucesso.  
+
+Por não ser uma reportagem de denúncia ou acusação, e sim de observação e tendências, não entramos em contato com os canais analisados. Caso queiram responder a essa reportagem, nosso email é [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
+
+<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais_ </small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
