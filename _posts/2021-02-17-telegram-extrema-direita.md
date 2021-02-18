@@ -297,7 +297,7 @@ Por muito tempo, canais de YouTube com vídeos extremistas e sites reconhecidame
 
 O YouTube [retirou](https://congressoemfoco.uol.com.br/midia/youtube-retira-terca-livre-do-ar/), por exemplo, o canal Terça Livre do ar, iniciando uma [disputa](https://noticias.uol.com.br/politica/ultimas-noticias/2021/02/12/justica-concede-liminar-e-manda-youtube-reativar-canais-do-terca-livre.htm) judicial. De acordo com [análise](https://nucleo.jor.br/media/2021-02-11-terca-livre-youtube-banido-bolsonarismo) do **Núcleo**, isso afetou pouco o bolsonarismo, mas foi um golpe forte contra um canal conhecido por discurso violento.
 
-Medidas como essa deixam apreensivos iniciativas e personalidades que exploram o direito de liberdade de expressão para faturar com a divulgação de mentiras nocivas para a sociedade e discursos antidemocráticos. Daí a necessidade de um lugar que apresenta menos riscos.
+Medidas como essa deixam apreensivas iniciativas e personalidades que exploram o direito de liberdade de expressão para faturar com a divulgação de mentiras nocivas para a sociedade e discursos antidemocráticos. Daí a necessidade de um lugar que apresenta menos riscos.
 
 Isso joga a favor do Telegram agora, assim como outras duas motivações:
 
