@@ -180,7 +180,7 @@ input[type=checkbox]:checked ~ label {
 
 Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associação até faz sentido, embora com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis no formato atual -- seja por questões técnicas (como a criptografia), seja por falta de ação das empresas.
 
-Isso mostra o difícil equilíbrio entre a necessidade de privacidade e a exigência no combate a excessos, uma constante ambivalência que resulta tanto em ferramentas de comunicação segura quanto em ambientes para que o extremismo floresça com poucas preocupações.
+Isso mostra o difícil equilíbrio entre a necessidade de privacidade e a exigência no combate a excessos, uma constante ambivalência que resulta tanto em ferramentas de comunicação segura quanto em ambientes propícios para que o extremismo floresça com poucas preocupações.
 
 ##### Um aplicativo em especial tem conquistado adeptos da extrema direita no Brasil: o **Telegram**.
 
@@ -188,7 +188,7 @@ Com o endurecimento das medidas de grandes empresas de tecnologia contra desinfo
 
 Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano no mundo real<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Por exemplo, em dezembro de 2016 um fanático de extrema direita seguidor de QAnon abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br><br></span>, canais e grupos que abraçam teorias conspiratórias ou discurso de violência podem ser facilmente encontrados com uma simples busca por palavra-chave no aplicativo.
 
-Nos EUA, por exemplo, o grupo supremacista branco [Proud Boys](https://www.rollingstone.com/culture/culture-news/proud-boys-telegram-far-right-extremists-1114201/) e extremistas que exploram a teoria conspiratória QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span> possuem canais com dezenas de milhares de seguidores. No Brasil, canais alinhados com a direita radical, do tipo que espalha mentiras sobre a pandemia de COVID-19 ou pede prisão de juízes do Supremo Tribunal Federal, continuam tocando seus negócios normalmente.
+Nos EUA, por exemplo, o grupo supremacista branco [Proud Boys](https://www.rollingstone.com/culture/culture-news/proud-boys-telegram-far-right-extremists-1114201/) e extremistas que exploram a teoria conspiratória QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br><br></span> possuem canais com dezenas de milhares de seguidores. No Brasil, canais alinhados com a direita radical -- do tipo que espalha mentiras sobre a pandemia de Covid-19, clama por intervenção militar ou pede prisão de juízes do Supremo Tribunal Federal -- continuam tocando seus negócios normalmente.
 
 Recentemente o Telegram [ultrapassou](https://canaltech.com.br/apps/telegram-alcanca-500-milhoes-de-usuarios-ativos-apos-novas-regras-do-whatsapp-177293/) a marca de **meio bilhão** de usuários ativos mensais, em parte atraídos por políticos e personalidades sancionados _por_ -- ou insatisfeitos _com_ -- ações e políticas adotadas em outras redes sociais. Num período de 72 horas na segunda semana de janeiro, a plataforma [ganhou](https://www.tecmundo.com.br/software/209368-telegram-conquista-25-milhoes-usuarios-72-horas.htm) 25 milhões de novos usuários, pouco após o ex-presidente dos EUA Donald Trump ter sido expulso do Twitter e suspenso do Facebook por incitar atos anti-democráticos contra o Congresso norte-americano.
 
@@ -229,9 +229,9 @@ Esse grupos, apenas uma pequena amostra da presença da direita por lá, foram e
 
 <div style="color: #fff">
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 15 grupos e canais <i class="fas fa-users"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199.022 links totais <i class="fas fa-link"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12,3k usuários com posts <i class="fas fa-user"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643k mensagens <i class="far fa-comment-dots"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199k links totais <i class="fas fa-link"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
 </div>
 
