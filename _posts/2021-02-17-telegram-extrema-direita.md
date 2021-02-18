@@ -382,13 +382,13 @@ Essas medidas podem ter algum efeito para aplacar os ânimos tanto daqueles que 
 
 Importante ferramenta de privacidade e comunicação segura, com usos inclusive muito legítimos e necessários, a criptografia dá uma camada extra de molho para o argumento de que moderação total é difícil ou quase impossível, considerando que o Telegram possui recursos de grupos privados e chats secretos entre dois usuários.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><br><br>O primeiro, <strong>grupos privados</strong>, possuem criptografia básica e não são listados em busca, sendo acessíveis somente via link ou convite. O segundo, <strong>chats secretos</strong>, possuem sólida criptografia de ponta a conta e <a href="https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/" target="_blank">outros recursos</a>. <br><br></span>  
 
-"É muito improvável que isso aconteça [aumento na moderação]. O que vende hoje essas plataformas é poder ter esses grupos e essa privacidade, [moderar conteúdo] vai contra o modelo de negócio deles", disse Nemer.
+"É muito improvável que isso aconteça [aumento na moderação]. O que vendem hoje essas plataformas é poder ter esses grupos e essa privacidade, [moderar conteúdo] vai contra o modelo de negócio deles", disse Nemer.
 
 Seja como for, o **Telegram já mostrou não gosta muito de interferências externas**. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz [seu próprio site](https://telegram.org/faq#p-onde-fica-a-sede-do-telegram).
 
 ### AUSÊNCIAS NOTÁVEIS
 
-O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita -- mobilização online nunca foi um ponto forte da esquerda.
+O Telegram pode estar a meio caminho de se consolidar para a direita, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita -- mobilização online nunca foi um ponto forte da esquerda.
 
 O Partido dos Trabalhadores [entrou](https://t.me/ptoficial) em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL [tem](https://t.me/psol50) 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e [não publica](https://t.me/CanalTelegramBoulosErundina) nada desde dezembro.
 
@@ -406,6 +406,8 @@ Este **Núcleo Jornalismo** [também tem um canal](https://t.me/nucleojor) por l
 O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no Telegram, principalmente de autoridades e apoiadores do governo brasileiro, e baixou as mensagens desses grupos a partir da versão para desktop do aplicativo, que [permite](https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-fazer-backup-do-telegram-no-pc-e-salvar-suas-conversas.ghtml) isso abertamente (o WhatsApp [também](https://faq.WhatsApp.com/android/chats/how-to-save-your-chat-history/?lang=pt_br#:~:text=Abra%20uma%20conversa%20individual%20ou,de%20m%C3%ADdia%20na%20conversa%20exportada.)). Os dados [estão aqui](http://voltdata.info/telegram_bolso/#vis%C3%A3o-geral) e foram atualizados após o fechamento desta reportagem.
 
 Dados tabulado sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
+
+<small></em>Texto atualizado em 18.fev.2021 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada.</em></small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
