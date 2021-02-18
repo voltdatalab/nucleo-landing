@@ -305,7 +305,7 @@ Isso joga a favor do Telegram agora, assim como outras duas motivações:
 
 - As políticas de _zero rating_ (quando operadoras de telefonia não cobram por acesso a certos apps) que passaram a incluir o aplicativo.
 
-"A partir do momento em que rolou acordo com operadoras era natural a direita migrar", disse ao **Núcleo** a pesquisadora [Yasodara Córdova](https://ash.harvard.edu/people/yasodara-cordova), do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.
+"A partir do momento em que rolou acordo com operadoras era natural a direita migrar", disse ao **Núcleo** a pesquisadora [Yasodara Córdova](https://ash.harvard.edu/people/yasodara-cordova), do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos, dependendo da operadora e do plano de dados adquirido.
 
 Sobre os termos de uso, [segundo reportagem](https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml) da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><br><br>"Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp", disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br><br></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, mas as alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook, uma empresa já vista com desconfiança por todos os lados do espectro político.
 
@@ -407,7 +407,7 @@ O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no T
 
 Dados tabulado sobre seguidores estão [nesta tabela](https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing).
 
-<small>_Texto atualizado em 18.fev.2021 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada._</small>
+<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora_ </small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
