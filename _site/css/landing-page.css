@@ -52,7 +52,7 @@ h6 {
 }
 
 .lead a:hover{
-  color: #2eefa0
+  color: #0fb872
 }
 
 p{
@@ -62,7 +62,7 @@ p{
 }
 
 p a{
-  border-bottom: 3px solid #2eefa0;
+  border-bottom: 3px solid #0fb872;
   text-decoration: none;
   color: inherit;
   border-collapse: separate;
@@ -70,14 +70,13 @@ p a{
 }
 
 p a:hover{
-  border-bottom: 5px solid #2eefa0;
+  border-bottom: 5px solid #4b31dd;
   text-decoration: none;
-  font-weight: 500;
   color: #231f20;
 }
 
 .social{
-  border-bottom: 0px solid #2eefa0 !important;
+  border-bottom: 0px solid #0fb872 !important;
 }
 
 li a{
@@ -98,7 +97,7 @@ li a{
 }
 
 .btn:hover{
-  background-color: #2eefa0;
+  background-color: #0fb872;
 }
 
 .page-tt{
@@ -164,10 +163,10 @@ li{
   font-size: 0.7em;
   padding: 10px 5px;
   width: 330px;
-  background-color: white;
+  background-color: #ffffff;
   border: 0px;
   text-align: center;
-  border: 1px solid #4b31dd;
+  border-bottom: 1px solid #4b31dd;
   font-family: 'Barlow';
   font-weight: 700;
 }
@@ -188,7 +187,7 @@ label{
 }
 
 .revue-form-actions input:hover{
-  background-color: #2eefa0;
+  background-color: #0fb872;
   color: #231f20;
 }
 
@@ -221,7 +220,7 @@ label{
 }
 
 .navbar-right li a:hover{
-  color: #4b31dd !important;
+  color: #0fb872 !important;
 }
 
 #logotipo{
