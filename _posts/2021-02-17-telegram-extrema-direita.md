@@ -198,7 +198,7 @@ Veio a favor do Telegram também o mal estar causado por uma [atualização nos 
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba Mais - Os números do Telegram <i class="far fa-hand-pointer fa"></i> </label>
+  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba mais - Números do Telegram <i class="far fa-hand-pointer fa"></i> </label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p><strong>Migração digital</strong></p>
@@ -217,7 +217,7 @@ Veio a favor do Telegram também o mal estar causado por uma [atualização nos 
   </div>
 </div>
 
-Para entender essa migração da direita para o Telegram, o **Núcleo** analisou cerca de 600 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
+Para entender essa migração da direita para o Telegram, o **Núcleo** analisou cerca de 600 mil mensagens de 15 grupos e canais de direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.
 
 Esse grupos, apenas uma pequena amostra da presença da direita por lá, foram escolhidos por serem de políticos ou comunicadores conhecidos, assim como pelo volume de inscritos.
 
@@ -279,7 +279,7 @@ Trata-se, então, de uma movimentação em massa, mas ainda não consolidada. Em
 
 - Da dificuldade na mudança de cultura na adoção de novos aplicativos, considerando a onipresença do WhatsApp;
 
-- Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procurados e autoridades, incluindo o ex-juiz Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br><br></span>;
+- Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procuradores e autoridades, incluindo o ex-juiz federal Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br><br></span>;
 
 - E na falta de meios de monetização desses canais para produtores de conteúdo;
 
@@ -287,7 +287,7 @@ Trata-se, então, de uma movimentação em massa, mas ainda não consolidada. Em
 <small class="arquivado" style="color:#222222">- David Nemer, professor da Universidade de Virgínia</small>
 </span>
 
-Um dos motivos pelos quais muitas figuras da extrema direita ainda não adotaram a ferramenta foi a dificuldade de fazer dinheiro com conteúdo no Telegram. Logo, sem conteúdo dedicado, parte da direita ainda é menor nessa migração do que foi em outras plataformas.
+Um dos motivos pelos quais muitas figuras da extrema direita ainda não adotaram firmemente a ferramenta foi a dificuldade de fazer dinheiro com conteúdo no Telegram.
 
 Soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a [aceitar anúncios](https://www.engadget.com/telegram-channel-ads-192249765.html) em grandes canais de transmissão, embora não nos chats nem com a utilização de dados pessoais, como é praxe na maioria das empresas de tecnologia.
 
@@ -299,7 +299,7 @@ O YouTube [retirou](https://congressoemfoco.uol.com.br/midia/youtube-retira-terc
 
 Medidas como essa deixam apreensivos iniciativas e personalidades que exploram o direito de liberdade de expressão para faturar com a divulgação de mentiras nocivas para a sociedade e discursos antidemocráticos. Daí a necessidade de um lugar que apresenta menos riscos.
 
-Além disso, há mais duas motivações para que favorecem esforços de migração da direita para o Telegram:
+Isso joga a favor do Telegram agora, assim como outras duas motivações:
 
 - As atualizações nos termos de uso do WhatsApp;
 
@@ -313,13 +313,19 @@ Sobre os termos de uso, [segundo reportagem](https://www1.folha.uol.com.br/tec/2
 
 ### ANTI-DESPLATAFORMIZAÇÃO
 
+Não é que não exista desinformação e discurso de ódio em outras redes. Antes de ser preso, o deputado federal bolsonarista Daniel Silveira, o sujeito que quebrou a placa da vereadora assassinada Marielle Franco e vibrou com isso, publicou no YouTube um vídeo no qual [defendeu](https://www.uol.com.br/tilt/noticias/redacao/2021/02/17/video-ataques-stf-daniel-silveira-youtube-removido.htm) o mecanismo de repressão democrática AI-5, usado na ditadura, assim como o fechamento do STF.
+
+A plataforma de vídeos removeu o conteúdo, mas ele continua a viver em aplicativos de mensagem, como no canal de Silveira no Telegram, onde tem mais de 8 mil inscritos.
+
+<img id="img" src="{{ site.baseurl }}/img/telegram/print_silveira.png" alt="print do canal do telegram de Silveira" width="90%">
+
 O Telegram é uma boa ferramenta para evitar a "desplataformização" -- palavra que abalou as políticas declaradas sobre liberdade de expressão nas redes sociais e deixou o radicalismo de cabelo em pé, sob ameaça de perder suas bases da noite para o dia.
 
 A eleição norte-americana de 2020 e o [ataque](https://www.bbc.com/portuguese/internacional-55568031) de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para as maiores plataformas os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio.
 
 Além disso, reacendeu com força o debate sobre a necessidade de moderação ativa por parte das plataformas, sob o argumento de que alguns discursos são perigosos demais para a democracia. Afinal, liberdade de expressão não significa pregar abertamente pela violência ou o planejar um golpe de estado.
 
-Se antes as plataformas estavam dispostas a banir apenas os grupos e personalidades mais [grotescas](https://www.youtube.com/watch?v=kgUDbvKYbWk), como o comunicador Alex Jones (Infowars), nos últimos poucos anos passaram a punir autoridades e até presidentes.<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>
+Se antes as plataformas estavam dispostas a banir apenas os grupos e personalidades mais [grotescas](https://www.youtube.com/watch?v=kgUDbvKYbWk), como o comunicador Alex Jones (Infowars), nos últimos poucos anos passaram a punir autoridades e até presidentes. incluindo Bolsonaro.<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br><br>Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br><br></span>
 
 <div class="wrap-collabsible" style="margin: 35px 0">
   <input id="collapsible2" class="toggle" type="checkbox">
@@ -384,7 +390,7 @@ Seja como for, o **Telegram já mostrou não gosta muito de interferências exte
 
 O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita -- mobilização online nunca foi um ponto forte da esquerda.
 
-O Partido dos Trabalhadores entrou em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL tem 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e não publica nada desde dezembro.
+O Partido dos Trabalhadores [entrou](https://t.me/ptoficial) em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL [tem](https://t.me/psol50) 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e [não publica](https://t.me/CanalTelegramBoulosErundina) nada desde dezembro.
 
 <span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.gif" alt="print qanon" width="90%"/>
 </span>
