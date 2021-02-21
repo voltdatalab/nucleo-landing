@@ -27,11 +27,9 @@ img{
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
-### Lançamento em 22.fev.2021
-
 **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
 
-É enviada de segunda a quinta-feira, por volta das 10h30.
+É enviada de segunda a sexta-feira, por volta das 10h30.
 
 A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphaevanges), com edição de [Alexandre Orrico](https://twitter.com/alexorrico), desenvolvimento de [Renata Hirota](https://twitter.com/renata_mh) e arte de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
 
