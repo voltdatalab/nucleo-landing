@@ -1,4 +1,4 @@
-I"�<style>
+I"W�<style>
 
 h3{
   margin-top: 35px;
@@ -146,7 +146,7 @@ input[type=checkbox]:checked ~ label {
 
 <p>Serviços como o WhatsApp ficaram tão grandes e onipresentes na sociedade que a associação até faz sentido, embora com uma grande diferença: nesses rincões digitais a fiscalização e a moderação de conteúdo são praticamente inviáveis no formato atual – seja por questões técnicas (como a criptografia), seja por falta de ação das empresas.</p>
 
-<p>Isso mostra o difícil equilíbrio entre a necessidade de privacidade e a exigência no combate a excessos, uma constante ambivalência que resulta tanto em ferramentas de comunicação segura quanto em ambientes para que o extremismo floresça com poucas preocupações.</p>
+<p>Isso mostra o difícil equilíbrio entre a necessidade de privacidade e a exigência no combate a excessos, uma constante ambivalência que resulta tanto em ferramentas de comunicação segura quanto em ambientes propícios para que o extremismo floresça com poucas preocupações.</p>
 
 <h5 id="um-aplicativo-em-especial-tem-conquistado-adeptos-da-extrema-direita-no-brasil-o-telegram">Um aplicativo em especial tem conquistado adeptos da extrema direita no Brasil: o <strong>Telegram</strong>.</h5>
 
@@ -154,7 +154,7 @@ input[type=checkbox]:checked ~ label {
 
 <p>Proibidos no Facebook, no Twitter e nas maiores redes por seu potencial de dano no mundo real<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br /><br />Por exemplo, em dezembro de 2016 um fanático de extrema direita seguidor de QAnon abriu fogo contra uma pizzaria na capital dos EUA, Washington, por causa de alegações conspiratórias falsas de que ali acontecia exploração e abuso infantil.<br /><br /></span>, canais e grupos que abraçam teorias conspiratórias ou discurso de violência podem ser facilmente encontrados com uma simples busca por palavra-chave no aplicativo.</p>
 
-<p>Nos EUA, por exemplo, o grupo supremacista branco <a href="https://www.rollingstone.com/culture/culture-news/proud-boys-telegram-far-right-extremists-1114201/">Proud Boys</a> e extremistas que exploram a teoria conspiratória QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br /><br />Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br /><br /></span> possuem canais com dezenas de milhares de seguidores. No Brasil, canais alinhados com a direita radical, do tipo que espalha mentiras sobre a pandemia de COVID-19 ou pede prisão de juízes do Supremo Tribunal Federal, continuam tocando seus negócios normalmente.</p>
+<p>Nos EUA, por exemplo, o grupo supremacista branco <a href="https://www.rollingstone.com/culture/culture-news/proud-boys-telegram-far-right-extremists-1114201/">Proud Boys</a> e extremistas que exploram a teoria conspiratória QAnon<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br /><br />Cuja principal mensagem é que políticos e personalidades de esquerda fazem parte de uma seita global de pedofilia e tráfico de crianças.<br /><br /></span> possuem canais com dezenas de milhares de seguidores. No Brasil, canais alinhados com a direita radical – do tipo que espalha mentiras sobre a pandemia de Covid-19, clama por intervenção militar ou pede prisão de juízes do Supremo Tribunal Federal – continuam tocando seus negócios normalmente.</p>
 
 <p>Recentemente o Telegram <a href="https://canaltech.com.br/apps/telegram-alcanca-500-milhoes-de-usuarios-ativos-apos-novas-regras-do-whatsapp-177293/">ultrapassou</a> a marca de <strong>meio bilhão</strong> de usuários ativos mensais, em parte atraídos por políticos e personalidades sancionados <em>por</em> – ou insatisfeitos <em>com</em> – ações e políticas adotadas em outras redes sociais. Num período de 72 horas na segunda semana de janeiro, a plataforma <a href="https://www.tecmundo.com.br/software/209368-telegram-conquista-25-milhoes-usuarios-72-horas.htm">ganhou</a> 25 milhões de novos usuários, pouco após o ex-presidente dos EUA Donald Trump ter sido expulso do Twitter e suspenso do Facebook por incitar atos anti-democráticos contra o Congresso norte-americano.</p>
 
@@ -164,7 +164,7 @@ input[type=checkbox]:checked ~ label {
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox" />
-  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba Mais - Os números do Telegram <i class="far fa-hand-pointer fa"></i> </label>
+  <label for="collapsible" class="lbl-toggle" tabindex="0">Saiba mais - Números do Telegram <i class="far fa-hand-pointer fa"></i> </label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p><strong>Migração digital</strong></p>
@@ -183,7 +183,7 @@ input[type=checkbox]:checked ~ label {
   </div>
 </div>
 
-<p>Para entender essa migração da direita para o Telegram, o <strong>Núcleo</strong> analisou cerca de 600 mil mensagens de 15 grupos e canais de Telegram da direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.</p>
+<p>Para entender essa migração da direita para o Telegram, o <strong>Núcleo</strong> analisou cerca de 600 mil mensagens de 15 grupos e canais de direita por cerca de um mês, e observou os padrões de uso e compartilhamento, assim como o aumento no número de inscritos no período.</p>
 
 <p>Esse grupos, apenas uma pequena amostra da presença da direita por lá, foram escolhidos por serem de políticos ou comunicadores conhecidos, assim como pelo volume de inscritos.</p>
 
@@ -195,9 +195,9 @@ input[type=checkbox]:checked ~ label {
 
 <div style="color: #fff">
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 15 grupos e canais <i class="fas fa-users"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12.322 usuários com posts <i class="fas fa-user"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643.182 mensagens <i class="far fa-comment-dots"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199.022 links totais <i class="fas fa-link"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12,3k usuários com posts <i class="fas fa-user"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643k mensagens <i class="far fa-comment-dots"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199k links totais <i class="fas fa-link"></i></h3>
 <h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
 </div>
 
@@ -307,7 +307,7 @@ input[type=checkbox]:checked ~ label {
     <p>Da dificuldade na mudança de cultura na adoção de novos aplicativos, considerando a onipresença do WhatsApp;</p>
   </li>
   <li>
-    <p>Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procurados e autoridades, incluindo o ex-juiz Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br /><br /></span>;</p>
+    <p>Com a desconfiança de parte dos usuários após o hack escancarado de procuradores no caso da Vaza Jato<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />Em 2019, <a href="https://pt.wikipedia.org/wiki/Vaza_Jato" target="_blank">hackers vazaram</a> conversas entre procuradores e autoridades, incluindo o ex-juiz federal Sergio Moro, obtidas por interceptações dessas comunicações no Telegram.<br /><br /></span>;</p>
   </li>
   <li>
     <p>E na falta de meios de monetização desses canais para produtores de conteúdo;</p>
@@ -318,7 +318,7 @@ input[type=checkbox]:checked ~ label {
 <small class="arquivado" style="color:#222222">- David Nemer, professor da Universidade de Virgínia</small>
 </span></p>
 
-<p>Um dos motivos pelos quais muitas figuras da extrema direita ainda não adotaram a ferramenta foi a dificuldade de fazer dinheiro com conteúdo no Telegram. Logo, sem conteúdo dedicado, parte da direita ainda é menor nessa migração do que foi em outras plataformas.</p>
+<p>Um dos motivos pelos quais muitas figuras da extrema direita ainda não adotaram firmemente a ferramenta foi a dificuldade de fazer dinheiro com conteúdo no Telegram.</p>
 
 <p>Soluções para isso estão se esboçando. O Telegram anunciou em dezembro que vai começar a <a href="https://www.engadget.com/telegram-channel-ads-192249765.html">aceitar anúncios</a> em grandes canais de transmissão, embora não nos chats nem com a utilização de dados pessoais, como é praxe na maioria das empresas de tecnologia.</p>
 
@@ -328,9 +328,9 @@ input[type=checkbox]:checked ~ label {
 
 <p>O YouTube <a href="https://congressoemfoco.uol.com.br/midia/youtube-retira-terca-livre-do-ar/">retirou</a>, por exemplo, o canal Terça Livre do ar, iniciando uma <a href="https://noticias.uol.com.br/politica/ultimas-noticias/2021/02/12/justica-concede-liminar-e-manda-youtube-reativar-canais-do-terca-livre.htm">disputa</a> judicial. De acordo com <a href="https://nucleo.jor.br/media/2021-02-11-terca-livre-youtube-banido-bolsonarismo">análise</a> do <strong>Núcleo</strong>, isso afetou pouco o bolsonarismo, mas foi um golpe forte contra um canal conhecido por discurso violento.</p>
 
-<p>Medidas como essa deixam apreensivos iniciativas e personalidades que exploram o direito de liberdade de expressão para faturar com a divulgação de mentiras nocivas para a sociedade e discursos antidemocráticos. Daí a necessidade de um lugar que apresenta menos riscos.</p>
+<p>Medidas como essa deixam apreensivas iniciativas e personalidades que exploram o direito de liberdade de expressão para faturar com a divulgação de mentiras nocivas para a sociedade e discursos antidemocráticos. Daí a necessidade de um lugar que apresenta menos riscos.</p>
 
-<p>Além disso, há mais duas motivações para que favorecem esforços de migração da direita para o Telegram:</p>
+<p>Isso joga a favor do Telegram agora, assim como outras duas motivações:</p>
 
 <ul>
   <li>
@@ -341,7 +341,7 @@ input[type=checkbox]:checked ~ label {
   </li>
 </ul>
 
-<p>“A partir do momento em que rolou acordo com operadoras era natural a direita migrar”, disse ao <strong>Núcleo</strong> a pesquisadora <a href="https://ash.harvard.edu/people/yasodara-cordova">Yasodara Córdova</a>, do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos.</p>
+<p>“A partir do momento em que rolou acordo com operadoras era natural a direita migrar”, disse ao <strong>Núcleo</strong> a pesquisadora <a href="https://ash.harvard.edu/people/yasodara-cordova">Yasodara Córdova</a>, do Harvard Ash Center. Essa prática já era comum com o WhatsApp e outros produtos do Facebook, mas passou a incluir o Telegram há poucos anos, dependendo da operadora e do plano de dados adquirido.</p>
 
 <p>Sobre os termos de uso, <a href="https://www1.folha.uol.com.br/tec/2021/01/novas-regras-para-o-WhatsApp-4-perguntas-sobre-as-mudancas-no-aplicativo.shtml">segundo reportagem</a> da BBC Brasil pouca coisa de fato mudou<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><br /><br />“Essa atualização da política de privacidade não chega a ser uma mudança de fato [nas regras de compartilhamento de dados]. O que muda, na verdade, agora é que as pessoas perceberam que elas não tinham o direito de se opor ao compartilhamento dos seus dados enquanto elas estavam usando os serviços de WhatsApp”, disse à BBC Brasil a especialista em segurança de dados Mariana Rielli, líder de projeto do Data Privacy Brasil.<br /><br /></span>, e as atualizações refletem o lançamento de um novo serviço para gerenciamento de conversas entre empresas e consumidores, mas as alterações recentes do WhatsApp escancaram as práticas de compartilhamento de dados de produtos do Facebook, uma empresa já vista com desconfiança por todos os lados do espectro político.</p>
 
@@ -349,13 +349,19 @@ input[type=checkbox]:checked ~ label {
 
 <h3 id="anti-desplataformização">ANTI-DESPLATAFORMIZAÇÃO</h3>
 
+<p>Não é que não exista desinformação e discurso de ódio em outras redes. Antes de ser preso, o deputado federal bolsonarista Daniel Silveira, o sujeito que quebrou a placa da vereadora assassinada Marielle Franco e vibrou com isso, publicou no YouTube um vídeo no qual <a href="https://www.uol.com.br/tilt/noticias/redacao/2021/02/17/video-ataques-stf-daniel-silveira-youtube-removido.htm">defendeu</a> o mecanismo de repressão democrática AI-5, usado na ditadura, assim como o fechamento do STF.</p>
+
+<p>A plataforma de vídeos removeu o conteúdo, mas ele continua a viver em aplicativos de mensagem, como no canal de Silveira no Telegram, onde tem mais de 8 mil inscritos.</p>
+
+<p><img id="img" src="/img/telegram/print_silveira.png" alt="print do canal do telegram de Silveira" width="90%" /></p>
+
 <p>O Telegram é uma boa ferramenta para evitar a “desplataformização” – palavra que abalou as políticas declaradas sobre liberdade de expressão nas redes sociais e deixou o radicalismo de cabelo em pé, sob ameaça de perder suas bases da noite para o dia.</p>
 
 <p>A eleição norte-americana de 2020 e o <a href="https://www.bbc.com/portuguese/internacional-55568031">ataque</a> de militantes de extrema direita ao Congresso dos EUA em 6 de janeiro de 2021 foi um marco que definiu para as maiores plataformas os limites aceitáveis da liberdade de expressão, assim como sua separação da desinformação e do discurso de ódio.</p>
 
 <p>Além disso, reacendeu com força o debate sobre a necessidade de moderação ativa por parte das plataformas, sob o argumento de que alguns discursos são perigosos demais para a democracia. Afinal, liberdade de expressão não significa pregar abertamente pela violência ou o planejar um golpe de estado.</p>
 
-<p>Se antes as plataformas estavam dispostas a banir apenas os grupos e personalidades mais <a href="https://www.youtube.com/watch?v=kgUDbvKYbWk">grotescas</a>, como o comunicador Alex Jones (Infowars), nos últimos poucos anos passaram a punir autoridades e até presidentes.<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br /><br />Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br /><br /></span></p>
+<p>Se antes as plataformas estavam dispostas a banir apenas os grupos e personalidades mais <a href="https://www.youtube.com/watch?v=kgUDbvKYbWk">grotescas</a>, como o comunicador Alex Jones (Infowars), nos últimos poucos anos passaram a punir autoridades e até presidentes, incluindo Bolsonaro.<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br /><br />Jair Bolsonaro teve um tweet sobre a cloroquina como tratamento para Covid-19 alertado pelo Twitter, ao passo que o ex-presidente dos EUA Donald Trump foi banido da rede social e suspenso do Facebook por incitar violência política após ataque de seus apoiadores ao Congresso norte-americano. Antes disso, vários posts de Trump receberam alertas de inveracidade ou foram deletados pelas redes sociais.<br /><br /></span></p>
 
 <div class="wrap-collabsible" style="margin: 35px 0">
   <input id="collapsible2" class="toggle" type="checkbox" />
@@ -412,15 +418,15 @@ input[type=checkbox]:checked ~ label {
 
 <p>Importante ferramenta de privacidade e comunicação segura, com usos inclusive muito legítimos e necessários, a criptografia dá uma camada extra de molho para o argumento de que moderação total é difícil ou quase impossível, considerando que o Telegram possui recursos de grupos privados e chats secretos entre dois usuários.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><br /><br />O primeiro, <strong>grupos privados</strong>, possuem criptografia básica e não são listados em busca, sendo acessíveis somente via link ou convite. O segundo, <strong>chats secretos</strong>, possuem sólida criptografia de ponta a conta e <a href="https://tecnoblog.net/294208/como-funcionam-os-chats-secretos-do-telegram/" target="_blank">outros recursos</a>. <br /><br /></span></p>
 
-<p>“É muito improvável que isso aconteça [aumento na moderação]. O que vende hoje essas plataformas é poder ter esses grupos e essa privacidade, [moderar conteúdo] vai contra o modelo de negócio deles”, disse Nemer.</p>
+<p>“É muito improvável que isso aconteça [aumento na moderação]. O que vendem hoje essas plataformas é poder ter esses grupos e essa privacidade, [moderar conteúdo] vai contra o modelo de negócio deles”, disse Nemer.</p>
 
 <p>Seja como for, o <strong>Telegram já mostrou não gosta muito de interferências externas</strong>. A empresa atualmente tem sede em Dubai, nos Emirados Árabes Unidos, onde as regulamentações do setor de TI são bastante opacas, após ter sido fundado na Rússia e ter passado pela Alemanha, Reino Unido e Cingapura, os quais deixou por não se adaptar às regras locais, como o diz <a href="https://telegram.org/faq#p-onde-fica-a-sede-do-telegram">seu próprio site</a>.</p>
 
 <h3 id="ausências-notáveis">AUSÊNCIAS NOTÁVEIS</h3>
 
-<p>O Telegram pode estar a meio caminho de se consolidar para a direta, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita – mobilização online nunca foi um ponto forte da esquerda.</p>
+<p>O Telegram pode estar a meio caminho de se consolidar para a direita, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita – mobilização online nunca foi um ponto forte da esquerda.</p>
 
-<p>O Partido dos Trabalhadores entrou em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL tem 2,6 mil – bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e não publica nada desde dezembro.</p>
+<p>O Partido dos Trabalhadores <a href="https://t.me/ptoficial">entrou</a> em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL <a href="https://t.me/psol50">tem</a> 2,6 mil – bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e <a href="https://t.me/CanalTelegramBoulosErundina">não publica</a> nada desde dezembro.</p>
 
 <p><span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="/img/telegram/qprint.gif" alt="print qanon" width="90%" />
 </span></p>
@@ -435,7 +441,13 @@ input[type=checkbox]:checked ~ label {
 
 <p>O Núcleo tem acompanhado 15 grupos (há muitos outros) e canais de direita no Telegram, principalmente de autoridades e apoiadores do governo brasileiro, e baixou as mensagens desses grupos a partir da versão para desktop do aplicativo, que <a href="https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-fazer-backup-do-telegram-no-pc-e-salvar-suas-conversas.ghtml">permite</a> isso abertamente (o WhatsApp <a href="https://faq.WhatsApp.com/android/chats/how-to-save-your-chat-history/?lang=pt_br#:~:text=Abra%20uma%20conversa%20individual%20ou,de%20m%C3%ADdia%20na%20conversa%20exportada.">também</a>). Os dados <a href="http://voltdata.info/telegram_bolso/#vis%C3%A3o-geral">estão aqui</a> e foram atualizados após o fechamento desta reportagem.</p>
 
-<p>Dados tabulado sobre seguidores estão <a href="https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing">nesta tabela</a>.</p>
+<p>Dados tabulados sobre seguidores estão <a href="https://docs.google.com/spreadsheets/d/1lzxku6z_CA8xsoBLFYDMFqbmk2mqySTkTGNVnMVA6Ec/edit?usp=sharing">nesta tabela</a>.</p>
+
+<p>O <strong>Núcleo</strong> tentou entrar em contato com o Telegram pelos contatos de mídia <a href="https://telegram.org/press">indicados</a> na página oficial, sem sucesso.</p>
+
+<p>Por não ser uma reportagem de denúncia ou acusação, e sim de observação e tendências, não entramos em contato com os canais analisados. Caso queiram responder a essa reportagem, nosso email é <a href="mailto:nucleo@voltdata.info">nucleo@voltdata.info</a>.</p>
+
+<p><small><em>Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais</em> </small></p>
 
 <p><img src="/img/telegram/loop_telegram1.gif" width="100%" /></p>
 
