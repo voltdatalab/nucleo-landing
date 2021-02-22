@@ -11,7 +11,7 @@ subTitle: ''
 <style>
 #newsletter_page{
   margin: 0 auto;
-  width: 70%;
+  width: 65%;
 }
 #newsletter_page label{
   font-size: 1em;
@@ -27,13 +27,9 @@ img{
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
-**Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
+<br>
 
-É enviada de segunda a sexta-feira, por volta das 10h30.
-
-A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphaevanges), com edição de [Alexandre Orrico](https://twitter.com/alexorrico), desenvolvimento de [Renata Hirota](https://twitter.com/renata_mh) e arte de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
-
-<div id="newsletter_page">
+<div id="newsletter_page" style="border: 1px solid black">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
@@ -49,7 +45,24 @@ A curadoria da newsletter é de [Raphael Evangelista](https://twitter.com/raphae
 </form>
 </div>
 
-<br> <br>
+<br>
+
+
+
+**Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
+
+É enviada de segunda a sexta-feira, por volta das 10h30.
+
+- **Curadoria**: [Raphael Evangelista](https://twitter.com/raphaevanges)
+
+- **Desenvolvimento**: [Renata Hirota](https://twitter.com/renata_mh)
+
+- **Arte**: [Rodolfo Almeida](https://twitter.com/rodolfoalmd)
+
+- **Edição**: [Alexandre Orrico](https://twitter.com/alexorrico)
+
+
+<br>
 
 ![garimpo gif]({{ site.baseurl }}/img/garimpo_destaque.png)
 
