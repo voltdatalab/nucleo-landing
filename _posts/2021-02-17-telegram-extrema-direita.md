@@ -390,7 +390,7 @@ Seja como for, o **Telegram já mostrou não gosta muito de interferências exte
 
 O Telegram pode estar a meio caminho de se consolidar para a direita, mas aparentemente está a um caminho inteiro de virar destino para a esquerda: não há grandes canais ou grupos, pelo menos não se comparados com a direita -- mobilização online nunca foi um ponto forte da esquerda.
 
-O Partido dos Trabalhadores [entrou](https://t.me/ptoficial) em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL [tem](https://t.me/psol50) 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e [não publica](https://t.me/CanalTelegramBoulosErundina) nada desde dezembro.
+O Partido dos Trabalhadores [entrou](https://t.me/ptoficial) em julho de 2020 e possui um canal com cerca de 4,5 mil inscritos, enquanto o PSOL [tem](https://t.me/psol50) 2,6 mil -- bem abaixo dos influenciadores de direita. O canal oficial da campanha de Guilherme Boulos e Luiza Erundina à prefeitura de São Paulo tem 669 inscritos e [não publica](https://t.me/CanalTelegramBoulosErundina) nada desde dezembro. Já Ciro Gomes é verificado pelo Telegram e possui [quase 10 mil](https://t.me/cirogomes) inscritos no canal.
 
 <span class="texto-destak-right">Com uma simples busca, é possível achar grupos e canais de conteúdo radical, como da teoria conspiratória QAnon, que foi banida das maiores redes sociais. <img src="{{ site.baseurl }}/img/telegram/qprint.gif" alt="print qanon" width="90%"/>
 </span>
@@ -411,7 +411,7 @@ O **Núcleo** tentou entrar em contato com o Telegram pelos contatos de mídia [
 
 Por não ser uma reportagem de denúncia ou acusação, e sim de observação e tendências, não entramos em contato com os canais analisados. Caso queiram responder a essa reportagem, nosso email é [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
 
-<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais_ </small>
+<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais. Texto atualizado em 22.fev.2021 às 13h23 para acrescentar detalhes sobre o canal de Telegram de Ciro Gomes, a pedido de um leitor._ </small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
