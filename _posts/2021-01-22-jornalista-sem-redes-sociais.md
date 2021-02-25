@@ -16,7 +16,7 @@ bio: "é gerente de customer success <a href='https://www.jota.info/autor/alexan
 contato: 'alexandre.aragao@jota.info'
 contato_link: 'mailto:alexandre.aragao@jota.info'
 credito_img: "Rodolfo Almeida"
-background: 'redes-02.png'
+background: 'ideias/redes-02.png'
 atualizacao: ""
 nota_abertura: ""
 categories:
