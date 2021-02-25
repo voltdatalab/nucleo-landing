@@ -62,9 +62,7 @@ Acredito que temos que argumentar em favor de APIs no setor público para dados 
 
 De acordo com a [Open Government Partnership](https://www.opengovpartnership.org/stories/que-tal-definirmos-principios-de-governo-aberto/), um dos princípios do governo aberto é a participação cidadã. Se estamos pensando em políticas de dados abertos visando maior participação, não deveríamos limitar esse acesso a programadores e cientistas de dados.
 
-Organizações como o [Observatório Social do Brasil](https://osbrasil.org.br/) possuem voluntários para avaliar as compras públicas e realizam um grande trabalho de fiscalização. Eles conhecem bem as
-
-regras de compras públicas, mas não necessariamente são experts em dados. Apesar de ser desejável que os conhecimentos em ciência de dados sejam de domínio público, essa ainda não é a realidade no Brasil.
+Organizações como o [Observatório Social do Brasil](https://osbrasil.org.br/) possuem voluntários para avaliar as compras públicas e realizam um grande trabalho de fiscalização. Eles conhecem bem as regras de compras públicas, mas não necessariamente são experts em dados. Apesar de ser desejável que os conhecimentos em ciência de dados sejam de domínio público, essa ainda não é a realidade no Brasil.
 
 Portanto, não há como exigir que cada uma dessas organizações conte com especialistas capazes de fazer requisições a APIs para acompanhar as compras locais. Isso seria inviabilizar a fiscalização do terceiro setor e remar na contramão de um Estado mais transparente e que presta contas devidamente.
 
