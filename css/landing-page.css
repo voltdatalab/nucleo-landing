@@ -522,3 +522,26 @@ hr {
 #search-box textarea{
   font-family: 'Roboto Mono', monospace !important;
 }
+
+/* TABELAS */
+
+table {
+  border-collapse: collapse;
+  width: 95%
+}
+
+table, th, td {
+  border: 1px solid #333333;
+  padding: 10px;
+  text-align: left;
+  margin-bottom: 30px
+}
+
+th{
+  background-color: #4b31dd;
+  color: #fff
+}
+
+td{
+  font-weight: 400;
+}

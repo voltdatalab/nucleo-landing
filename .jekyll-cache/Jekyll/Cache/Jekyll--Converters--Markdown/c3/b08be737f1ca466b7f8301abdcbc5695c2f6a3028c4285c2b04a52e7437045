@@ -1,0 +1,36 @@
+I"V<style>
+h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
+h4{margin-top:20px;}
+.highlight{max-width:300px;text-transform:uppercase}
+hr{margin: 50px 15%;border-bottom:1px dotted #212529}
+</style>
+
+<p>O <strong>Núcleo</strong> tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações.</p>
+
+<p>Se nosso jornalismo foi útil para você de alguma forma, fale pra gente! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.</p>
+
+<p><br /></p>
+
+<div class="tabset">
+  <!-- Tab 1 -->
+  <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked="" />
+  <label for="tab1">Relatórios em português</label>
+  <!-- Tab 2 -->
+  <input type="radio" name="tabset" id="tab2" aria-controls="en" />
+  <label for="tab2">Relatórios em Inglês</label>
+
+  <div class="tab-panels">
+    <section id="marzen" class="tab-panel">
+
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFqy_EUQ48MQ2O_6-UMCqAZk9MDzDUHMTutRrrr1B8bUWk-g/viewform?embedded=true" width="640" height="2118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+  </section>
+
+
+    <section id="rauchbier" class="tab-panel">
+
+    </section>
+  </div>
+
+</div>
+:ET

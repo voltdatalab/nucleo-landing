@@ -79,16 +79,22 @@
 				</ul>
 
 				<h4><small>Se nosso jornalismo foi útil para você de alguma forma, queremos saber! Conte para a gente como, mande uma mensagem no Whatsapp do Núcleo. Se tiver sugestões e correções, também queremos saber. <a href="https://wa.me/5511934441844" target="_blank"><i class="fab fa-whatsapp fa-lg"></i></a></small></h4>
-				<br />
 
+				{% if page.atualizacao %}
 				<p>
-					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
+					<em>{{ page.atualizacao }}</em>
 				</p>
+				{% endif %}
+
+				{% if page.nota_abertura %}
 				<p>
 					<span class="arquivado creditos_alt">
-						<small>{% if page.nota_abertura %} {{ page.nota_abertura }}</span><br /> <hr /> {% else %} {% endif %}</small>
+						<small>{{ page.nota_abertura }}</span><br /> </small>
 					</span>
 				</p>
+				{% endif %}
+
+				<hr />
 
 			</div>
 		</div>
@@ -100,11 +106,47 @@
         </div>
         <hr>
 				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
-	      	</div>
+
+				<!--
+
+				SUGESTÕES DE ARTIGOS
+
+				-->
+				<hr>
+				<div class="container" style="padding: 0 5% 0px;max-width:850px">
+
+				<div style="padding: 0 5% 0px;max-width:550px">
+					<h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i>LEIA MAIS</h5>
+					<br /><br />
+									<div class="row">
+
+				{% for post in site.posts offset:0 limit : 6 %}
+								<div class="col-sm-6 col-lg-6" style="min-height:120px">
+												<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+													<h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
+													<br />
+													<span class="arquivado" style="color:#000">
+
+														<i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}</a>
+
+													</span>
+													<br /><br />
+									</div>
+
+												{% endfor %}
+												</div>
+												<h5 class="arquivado"><a href="{{ site.baseurl }}/posts">Acesse todo o arquivo >></a></h5>
+											</div>
+										</div>
+
+	      </div>
 
   	</div>
 	</div>
 </div>
+
+<br /><br /><br />
+
 
   {% include footer.html %}
   {% include js.html %}
