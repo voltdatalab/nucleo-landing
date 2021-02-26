@@ -1,22 +1,11 @@
----
-layout: pages
-title: 'Colabore com o Núcleo'
-desc: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
-tagline: Pautas
-subtitle: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
-link: impacto
-atualizacao: 24/02/2021
----
-
-<style>
+I"c<style>
 h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
 h4{margin-top:20px;}
 .highlight{max-width:300px;text-transform:uppercase}
 hr{margin: 50px 15%;border-bottom:1px dotted #212529}
 </style>
 
-
-O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas sobre o impacto da tecnologia na vida das pessoas, assim como debates e discussões de redes sociais.
+<p>O <strong>Núcleo</strong> está em busca de colaboradores freelancers para trazerem pautas sobre o impacto da tecnologia na vida das pessoas, assim como debates e discussões de redes sociais.</p>
 
 <div style="padding: 4%;border: 3px solid #f33872;margin-bottom:30px;">
 
@@ -26,7 +15,7 @@ O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas s
 
 <p><strong>Prazo</strong>: 3 meses, passível de renovação dependendo de desempenho e orçamento.</p>
 
-<p><strong>Atribuições</strong>: ajudar o Núcleo na execução de sua estratégia, incluindo (mas não limitado a) realização de reportagens, atualizações de bancos de dados, publicações em redes sociais.</p>
+<p><strong>Atribuições</strong>: ajudar o Núcleo na execução de sua estratégia, na produção de reportagens, atualizações de bancos de dados, publicações em redes sociais.</p>
 
 <p>O Núcleo quer ampliar sua diversidade, priorizaremos principalmente mulheres negras e indígenas que se candidatarem. Inscrições até 10/03/2021.</p>
 
@@ -34,32 +23,50 @@ O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas s
 
 </div>
 
-Veja abaixo a tabela de valores que costumamos pagar para frilas e os elementos que as compõem. Vale notar que nenhum valor é fechado, e que negociação pode ser feita dependendo da pauta e dos recursos apresentados.
+<p>Veja abaixo a tabela de valores que costumamos pagar para frilas e os elementos que as compõem. Vale notar que nenhum valor é fechado, e que negociação pode ser feita dependendo da pauta e dos recursos apresentados.</p>
 
-Os textos da seção [IDEIAS]({{ site.baseurl }}/ideias) possuem valor fixo, considerando que são mais simples de escrever e se baseiam em visões e experiências pessoais.
+<p>Os textos da seção <a href="/ideias">IDEIAS</a> possuem valor fixo, considerando que são mais simples de escrever e se baseiam em visões e experiências pessoais.</p>
 
+<table>
+  <thead>
+    <tr>
+      <th>Valor</th>
+      <th>Elementos de peso na avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mínimo R$800</td>
+      <td>Podem interessar, mas: não tenham tanto apelo imediato no ciclo noticioso; não tragam conhecimento novo ou muito relevante; venham ainda no início da apuração (o que nos dá mais trabalho interno); não tenham dados ou ideias de recursos além do texto.</td>
+    </tr>
+    <tr>
+      <td>Média R$1.500</td>
+      <td>Em geral, essas pautas:  têm dados ou ideias de recursos além do texto; vêm quase prontas, pendentes apenas de edição e alguns detalhes; trazem assuntos relevantes e atuais no ciclo noticioso.</td>
+    </tr>
+    <tr>
+      <td>Acima de R$2000 (negociação)</td>
+      <td>Essas pautas:  apresentam novos conhecimentos ou informações muito quentes e relevantes (furos, investigações, análises aprofundadas); vêm preferencialmente avançadas na apuração e no desenvolvimento; trazem ideas e dados para recursos além do texto</td>
+    </tr>
+    <tr>
+      <td>Texto Ideias R$300</td>
+      <td>Valor fixo, o texto precisa:  trazer um ponto interessante sobre tecnologia; colaborar com o debate do assunto; ser bem escrito e apurado; não se basear somente em opinião, mas também em observação (exceto quanto solicitado)</td>
+    </tr>
+  </tbody>
+</table>
 
-| Valor              | Elementos de peso na avaliação                                                                                                                                                                                                                                      |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mínimo R$800                 | Podem interessar, mas: não tenham tanto apelo imediato no ciclo noticioso; não tragam conhecimento novo ou muito relevante; venham ainda no início da apuração (o que nos dá mais trabalho interno); não tenham dados ou ideias de recursos além do texto. |
-| Média R$1.500                | Em geral, essas pautas:  têm dados ou ideias de recursos além do texto; vêm quase prontas, pendentes apenas de edição e alguns detalhes; trazem assuntos relevantes e atuais no ciclo noticioso.                                                              |
-| Acima de R$2000 (negociação) | Essas pautas:  apresentam novos conhecimentos ou informações muito quentes e relevantes (furos, investigações, análises aprofundadas); vêm preferencialmente avançadas na apuração e no desenvolvimento; trazem ideas e dados para recursos além do texto     |
-| Texto Ideias R$300           | Valor fixo, o texto precisa:  trazer um ponto interessante sobre tecnologia; colaborar com o debate do assunto; ser bem escrito e apurado; não se basear somente em opinião, mas também em observação (exceto quanto solicitado)                            |
-
-
----
+<hr />
 
 <div id="formulario_frilas"></div>
-### FORMULÁRIO
+<h3 id="formulário">FORMULÁRIO</h3>
 
-Preencha o formulário abaixo que mais se encaixe no seu interesse em colaborar com o **Núcleo**.
+<p>Preencha o formulário abaixo que mais se encaixe no seu interesse em colaborar com o <strong>Núcleo</strong>.</p>
 
 <div class="tabset">
   <!-- Tab 1 -->
-  <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked>
+  <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked="" />
   <label for="tab1"><h2>Pautas como freelancer</h2></label>
   <!-- Tab 2 -->
-  <input type="radio" name="tabset" id="tab2" aria-controls="en">
+  <input type="radio" name="tabset" id="tab2" aria-controls="en" />
   <label for="tab2"><h2>Cadastro de CVs</h2></label>
 
   <div class="tab-panels">
@@ -78,7 +85,6 @@ Preencha o formulário abaixo que mais se encaixe no seu interesse em colaborar 
   </div>
 
 </div>
-
 
 <style>
   form{
@@ -154,3 +160,5 @@ Preencha o formulário abaixo que mais se encaixe no seu interesse em colaborar 
   border-top: 1px solid #d91c5c;
 }
 </style>
+
+:ET
