@@ -2,7 +2,7 @@
 layout: pages
 title: 'Colabore com o Núcleo'
 desc: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
-tagline: Pautas
+tagline: PAUTAS E CVS
 subtitle: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
 link: impacto
 atualizacao: 24/02/2021
