@@ -7,21 +7,13 @@ link: posts
 atualizacao: 05/04/2020
 ---
 
-
-
-<!-- índice simples de matérias  -->
 <div class="container" style="padding: 0 5% 0px;max-width:850px">
           <div class="row">
-
-<div class="container" style="padding: 0 5% 0px;max-width:850px">
-          <div class="row">
-          <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> DESTAQUES</h5>
-          <br /><br />
 {% for post in site.posts offset:0 limit:20 %}
 {% if post.tipo contains 'especial' %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
-          <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
+          <div class="indexpost" style="margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
                   <br />
