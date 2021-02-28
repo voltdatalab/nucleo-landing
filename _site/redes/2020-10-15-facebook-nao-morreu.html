@@ -61,43 +61,52 @@
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Navegação mobile</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="220px"/> </a>
+            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="210px"/> </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">Navegação mobile</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-          </button>
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-              <li style="padding-top:12px">
-                  <form action="/busca.html" method="get">
-                  <i class="fas fa-search"></i>
-                  <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
-                  <!-- <input type="submit" value="search"> -->
-                </form>
-                </li>
-                <!--
-            	  <li>
-                    <a href="/sobre">SOBRE</a>
-                </li>
-                <li>
-                    <a href="/impacto">IMPACTO</a>
-                </li>
-                -->
                 <li>
                     <a href="/newsletters">NEWSLETTERS</a>
                 </li>
                 <li>
                     <a href="/ideias">IDEIAS</a>
+                </li>
+                <li>
+                    <a href="/especiais">ESPECIAIS</a>
+                </li>
+                <li class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                  style="background:none;padding:0;"
+                  ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
+                      <ul class="dropdown-menu">
+                        <li><a href="/sobre">SOBRE O NÚCLEO</a></li>
+                        <li><a href="/pautas">COLABORE CONOSCO</a></li>
+                        <li><a href="/monitor">MONITOR NUCLEAR</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="/privacidade">PRIVACIDADE</a></li>
+                        <li><a href="/impacto">NOSSO IMPACTO</a></li>
+                        </ul>
+              </li>
+              <li class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                style="background:none;padding:0;"
+                ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
+                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px">
+                  <li>
+                <form action="/busca.html" method="get">
+                <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                </ul>
+
                 </li>
                 <!--
                 <li>
@@ -135,6 +144,26 @@
     </div>
     <!-- /.container -->
 </nav>
+
+<script>
+  $(function(){
+  	$(".dropdown-menu > li > a.trigger").on("click",function(e){
+  		var current=$(this).next();
+  		var grandparent=$(this).parent().parent();
+  		if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+  			$(this).toggleClass('right-caret left-caret');
+  		grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+  		grandparent.find(".sub-menu:visible").not(current).hide();
+  		current.toggle();
+  		e.stopPropagation();
+  	});
+  	$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+  		var root=$(this).closest('.dropdown');
+  		root.find('.left-caret').toggleClass('right-caret left-caret');
+  		root.find('.sub-menu:visible').hide();
+  	});
+  });
+</script>
 
 
 		<section id="publicacoes">
