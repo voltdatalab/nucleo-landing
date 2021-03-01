@@ -234,7 +234,7 @@ label{
 }
 
 .intro-header {
-    padding-top: 20px;  If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content!
+    padding-top: 20px;  /*If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content!*/
     padding-bottom: 10px;
     text-align: center;
     color: #333;
