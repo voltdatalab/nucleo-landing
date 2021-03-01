@@ -17,7 +17,7 @@ hr{margin: 50px 15%;border-bottom:1px dotted #212529}
 
 We are **Nucleo Journalism**, a data-driven website based in Brazil that publishes investigations and analysis about the impact of technology in society.
 
-Our journalism is for everyone, but our main target audience are civil servants, third sector workers, journalists and people with keen interest in transparency, government and nig tech accountibility and social media analysis.
+Our journalism is for everyone, but our main target audience are civil servants, third sector workers, journalists and people with keen interest in transparency, government and Big tech accountability and social media analysis.
 
 **Nucleo** (which in Portuguese means _core_) was founded in January 2020 by journalists [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo) (ex. Reuters, UN, ICFJ) and [Alexandre Orrico](https://twitter.com/alexorrico) (ex. Buzzfeed, Folha de S.Paulo), with a small funding from them.
 
