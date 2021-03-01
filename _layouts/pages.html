@@ -22,20 +22,9 @@
 									{% endif %}
 									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
 
-									<code>
-										Publicamos
-										{% assign counter = 0 %}
-										{% for post in site.posts %}
-										  {% assign thisyear = post.date | date: "%Y" %}
-										  {% assign prevyear = post.previous.date | date: "%Y" %}
-										  {% assign counter = counter | plus: 1 %}
-										  {% if thisyear != prevyear %}
-										    <u>{{ counter }} matérias</u> em {{ thisyear }} |
-										    {% assign counter = 0 %}
-										  {% endif %}
-										{% endfor %}
+										{% include counter.html %}
+										
 										<a href="{{"/posts" | relative_url }}"><i class="far fa-list-alt"></i> &rarr;</a>
-									</code>
 
 								</div>
 							</div>

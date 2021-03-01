@@ -234,14 +234,14 @@ label{
 }
 
 .intro-header {
-    padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 20px;  If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content!
     padding-bottom: 10px;
     text-align: center;
     color: #333;
-    background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
+    /*background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
     background-size: 50%;
     background-position: bottom;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
 }
 
 .intro-message {

@@ -4,12 +4,12 @@
 		<div class="container">
 				<div class="col-lg-auto">
 					<div class="intro-message">
-						<h2>{{ page.desc }}</h2>
+						<h2 style="max-width:475px;margin: 0 auto;">{{ page.desc }}</h2>
 						<h3>{{ page.subTitle }}</h3>
 						<ul class="list-inline intro-social-buttons"> <br />
 							{% for social in site.social %}
 							<li>
-								<a href="{{ social.url }}" target="_blank"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name">{{ social.title }}</span></a>
+								<a href="{{ social.url }}" target="_blank"><i class="fab fa-{{ social.title }} fa-lg"></i> </a>
 							</li>
 							{% endfor %}
 						</ul><br />
