@@ -31,13 +31,13 @@ A plataforma, que ganhou território junto à direita alternativa por causa do s
 
 Em seu retorno, o Parler trouxe diretrizes de comunidade [atualizadas](https://legal.parler.com/documents/guidelines.pdf), nas quais se compromete a remover conteúdos que incitem crimes, delitos civis ou outros atos ilegais -- algo tacitamente tolerado antes de ser punido pelas Big Techs. Ou seja, aceitou moderar conteúdo.
 
-Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõe a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência (no jargão de tecnologia, a _desplataformização_) para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes.
+Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõe a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência sobrevivência à _desplataformização_<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Jargão do meio tecnológico que dá conta do processo de tirar de pessoas, grupos ou empresas o acesso a plataformas ou recursos para se criar e manter plataformas.<br><br></span> para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes.
 
 ---
 
 ###### É importante porque...
 
-- *Redes sociais possuem efeitos reais na vida das pessoas, e a desplataformização faz parte disso.*
+- *A desplataformização vem crescendo como assunto nos últimos meses e pode impactar a forma como produzimos e consumimos conteúdo nas redes sociais.*
 
 - *Há um consenso entre grandes empresas de tecnologia de que liberdade de expressão não é a mesma coisa do que promover violência e discurso de ódio.*
 
@@ -58,7 +58,7 @@ Mas o crescimento já era notável antes: na segunda semana de novembro, enquant
 
 A Amazon [possui](https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/) um terço do mercado de serviços 'nuvem' do mundo -- como servidores e bancos de dados, fundamentais para aplicativos e redes sociais.
 
-Empresas do grupo das Big Tech (incluindo Microsoft, Google, Oracle, entre outras),, combinadas, possuem 80% desse mercado. Ou seja, sem elas as opções ficam limitadas a serviços menores, que não possuem a mesma robustez necessária. Após o colapso do Parler, a imensa migração para o Gab fez com que a rede social ficasse inutilizável por mais de um dia devido ao limite de seus servidores.
+Combinadas, empresas do clube das Big Tech (incluindo Microsoft, Google, Oracle, entre outras) possuem 80% desse mercado. Ou seja, sem elas as opções ficam limitadas a serviços menores, que não possuem a mesma robustez necessária. Após o colapso do Parler, a imensa migração para o Gab fez com que a rede social ficasse inutilizável por mais de um dia devido ao limite de seus servidores.
 
 ![percentual de blogs por região]({{ baseurl }}/img/moderacao/print_torba.png)
 
@@ -101,7 +101,7 @@ Uma delas  é o [Clapper](https://apps.apple.com/us/app/id1522122685), que vem 
 
 Mas como forte evidência de que não é viável manter uma rede sem qualquer filtro de moderação num jogo que é ditado, em grande parte, pelas Big Techs, o Clapper anunciou há duas [semanas](https://www.theverge.com/2021/2/11/22278480/clapper-tiktok-clone-bans-qanon-content-parler-deplatforming-capitol-riot) que banirá permanentemente contas que estejam disseminando teorias QAnon de desinformação e anti-vacinas.
 
-Para Edison Chen, CEO do Clapper, tais conteúdos vão contra a missão da rede social e também contra as exigências da Google Play e Apple Store. "Temos mais de 20 funcionários internos no time de Segurança para moderar conteúdo todos os dias", explicou Chen ao Núcleo por email.
+Para Edison Chen, CEO do Clapper, tais conteúdos vão contra a missão da rede social e também contra as exigências da Google Play e Apple Store. "Temos mais de 20 funcionários internos no time de Segurança para moderar conteúdo todos os dias", explicou Chen ao **Núcleo** por email.
 
 <span class="texto-destak-right">"Nós percebemos que há alguns criadores de conteúdo conservadores buscando o Clapper devido ao fechamento do Parler ou por terem sido banidos de redes sociais mainstream". Mas todos que chegam ao Clapper são iguais, todos precisam seguir nossas diretrizes de comunidade. Se o vídeo for contra essas diretrizes, tomaremos ações".<br>
 <small class="arquivado" style="color:#222222">- Edison Chen, CEO do Clapper, ao <strong>Núcleo</strong></small>
@@ -115,13 +115,15 @@ Chen rejeitou o título de plataforma de 'livre expressão' e também o rótulo 
 
 Outro aplicativo que precisou aderir melhor à moderação foi o Discord. Até 2017, era um dos apps de mensagens e grupos preferidos da extrema direita, mas após os protestos violentos de nacionalistas brancos em Charlottesville, a empresa [passou a atuar mais](https://www.nytimes.com/2017/08/15/technology/discord-chat-app-alt-right.html) ativamente para frear o discurso de violência, e hoje conseguiu se desvencilhar desses grupos. À época, um jornalista do New York Times ouviu de usuários banidos pela moderação do Discord que era hora de deixar aquela rede e buscar outra plataforma mais 'amigável'.  Em dezembro de 2020, o Discord lançou inclusive um [tutorial](https://twitter.com/discord/status/1340343665651281923) de moderação.
 
-A plataforma de vídeos Rumble, fundada em 2013 mas que recentemente vem sendo adotada como o YouTube da direta, já deixou bem claro que "possui políticas estritas de moderação quando se trata de incitação de violência, conteúdo ilegal, racismo, antisemitismo e promoção de grupos terroristas", segundo apurou o site Mashable. 
+A plataforma de vídeos Rumble, fundada em 2013 mas que recentemente vem sendo adotada como o YouTube da direta, já deixou bem claro que "possui políticas estritas de moderação quando se trata de incitação de violência, conteúdo ilegal, racismo, antisemitismo e promoção de grupos terroristas", segundo [apurou](https://mashable.com/article/what-is-rumble-video/) o site Mashable. 
 
 Em novembro, Chris Pavlovski, CEO da Rumble, disse ao New York Times que apesar das proibições da plataforma a certos conteúdos,  separar informação de desinformação ou limitar determinados discursos não fazia parte do negócio. Ao [Washington Post,](https://www.washingtonpost.com/politics/2020/11/16/technology-202-youtube-alternative-rumble-highlights-conservatives-move-more-hands-off-social-networks/) ele reiterou que a Rumble é uma plataforma aberta que não se envolverá em debates políticos ou de opiniões.
 
 [Nas diretrizes de comunidade](https://rumble.com/s/terms), a Rumble diz que não permitirá em seu site conteúdo que promova ou forneça instruções sobre atividades ilegais, incitem danos ou injúrias a qualquer grupo, indivíduo ou animal. A plataforma também diz que não permitirá conteúdos que ensinam como montar ou utilizar bombas, granadas ou armamento de qualquer tipo. Não há nenhuma menção explícita a conteúdos sobre vacinação ou sobre o coronavírus.
 
 O **Núcleo** descobriu que, em algum momento entre agosto e setembro de 2020, a Rumble atualizou suas políticas de comunidade e retirou da lista de conteúdos a seguinte frase: "conteúdos ou materiais que acreditamos que sejam grosseiramente ofensivos à comunidade online, incluindo mas não limitado a, expressões flagrantes de intolerância, preconceito, racismo, ódio e profanidade".
+
+Na versão atualizada, que vigora até hoje, a plataforma também retirou um trecho em que dizia "ativamente auditar e aprovar conteúdo que seja exibido no Rumble.com", mas que caso usuários se deparassem com conteúdos ofensivos ou inapropriados, poderiam imediatamente entrar em contato com a rede por email para que o conteúdo fosse removido.
 
 Após o fluxo de 4 milhões de novos usuários em janeiro de 2021, o site MeWe -- que se vende como sem anúncios ou rastreamento e patrono da liberdade de expressão -- [reafirmou](https://www.npr.org/2021/01/22/958877682/fast-growing-alternative-to-facebook-twitter-finds-right-wing-surge-messy) à rádio norte-americana NPR que vai "colocar limites" no que as pessoas podem falar na plataforma.
 
@@ -135,7 +137,5 @@ Foram entrevistados especialistas para entender as repercussões de políticas d
 Os dados do gráficos sobre downloads foram obtidos nesta [reportagem](https://www.axios.com/the-online-far-right-is-moving-underground-e429d45d-1b30-46e0-82a3-6e240bf44fef.html) do Axios, que recebeu as informações diretamente do Apptopia. Solicitamos esses dados ao Axios, mas não recebemos retorno.
 
 Sobre a apuração da política do Rumble, com o Wayback Machine encontramos versões anteriores das políticas de comunidade do Rumble que foram arquivadas. Em seguida, cruzamos as versões usando a ferramenta DiffChecker. Para determinar que a alteração aconteceu entre agosto e setembro, cruzamos as versões a partir de maio de 2020 até a atual, reduzindo o intervalo até ver que a alteração aconteceu entre as versões arquivadas dos dias 17/08/2020 e 23/09/20.
-
-Na versão atualizada, que vigora até hoje, a plataforma também retirou um trecho em que dizia "ativamente auditar e aprovar conteúdo que seja exibido no Rumble.com", mas que caso usuários se deparassem com conteúdos ofensivos ou inapropriados, poderiam imediatamente entrar em contato com a rede por email para que o conteúdo fosse removido.
 
 Por se tratar de um tema amplamente documentado na imprensa, especialmente a norte-americana, e por não trazer acusações nem fatos novos, o **Núcleo** não foi atrás de todas as redes sociais aqui citadas.
