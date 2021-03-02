@@ -206,13 +206,13 @@
 </script>
 
 		  <div id="popUp">
-    <div id="close" class="close"><i class="fa fa-times"></i></div>
-    <div id="new"><span>NOVIDADE!</span></div>
-    <h2>O <strong>Garimpo</strong> é uma newsletter curta com os debates mais populares de várias redes sociais.</h2>
+    <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
+    <div id="new"><span>AVISO</span></div>
+    <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/newsletters/garimpo" target="_blank">Política de Privacidade.</a></h2>
     <br>
-    <a href="/newsletters/garimpo" target="_blank" class="button">Receba de graça</a>
+    <a target="_blank" class="button" id="close" style="cursor: pointer;">Aceitar</a>
   </div>
-  <div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>
+  <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
 
 
 <style>
@@ -228,6 +228,7 @@
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
+    z-index: 1000000
   }
 
   #new span {
@@ -282,7 +283,6 @@
   }
 
   #plus {
-    display: none;
     position: fixed;
     color: #fff;
     bottom: 15%;
@@ -314,7 +314,8 @@
 
   @media all and (max-width: 900px) {
     #popUp {
-      margin-left: -425px;
+      /*margin-left: -425px;*/
+      margin-left: 0;
     }
     #plus {
       margin-left: 0px;
@@ -600,11 +601,24 @@
 							<div class="container" style="max-width: 540px">
 									<h3 id="pontos-rápidos-sobre-a-política-de-privacidade">PONTOS RÁPIDOS SOBRE A POLÍTICA DE PRIVACIDADE</h3>
 
+<p>Um resumo sobre como usamos suas informações. Leia a política de privacidade completa mais abaixo.</p>
+
+<h4 id="sobre-cookies">SOBRE COOKIES</h4>
+
+<ul>
+  <li>
+    <p>Este site utiliza cookies a partir do serviço de entrega de conteúdo (CDN) CloudFlare e por serviços terceiros, como Google Analytics (para medir audiência);</p>
+  </li>
+  <li>
+    <p>O <strong>Núcleo</strong> não coleta voluntariamente seus dados de navegação, mas leve em conta que serviços terceiros utilizados podem fazer isso.</p>
+  </li>
+</ul>
+
 <h4 id="sobre-email">SOBRE EMAIL</h4>
 
 <ul>
   <li>
-    <p>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo <strong>Núcleo Jornalismo</strong> pelo <a href="www.voltdata.info">Volt Data Lab</a> - empresa por trás do <strong>Núcleo</strong>;</p>
+    <p>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo <strong>Núcleo Jornalismo</strong> ou pelo <a href="www.voltdata.info">Volt Data Lab</a> - empresa por trás do <strong>Núcleo</strong>;</p>
   </li>
   <li>
     <p>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</p>
@@ -613,13 +627,10 @@
     <p>Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;</p>
   </li>
   <li>
-    <p>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab; você será avisado disso;</p>
+    <p>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab – você será avisado disso e poderá optar sair;</p>
   </li>
   <li>
     <p>Fazemos um compromisso de tratar sua informação com zelo, dentro dos nossos poderes;</p>
-  </li>
-  <li>
-    <p>Este site utiliza cookies a partir do serviço de entrega de conteúdo (CDN).</p>
   </li>
 </ul>
 

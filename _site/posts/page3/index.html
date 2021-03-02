@@ -96,13 +96,13 @@
 </head>
 
 	  <div id="popUp">
-    <div id="close" class="close"><i class="fa fa-times"></i></div>
-    <div id="new"><span>NOVIDADE!</span></div>
-    <h2>O <strong>Garimpo</strong> é uma newsletter curta com os debates mais populares de várias redes sociais.</h2>
+    <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
+    <div id="new"><span>AVISO</span></div>
+    <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/newsletters/garimpo" target="_blank">Política de Privacidade.</a></h2>
     <br>
-    <a href="/newsletters/garimpo" target="_blank" class="button">Receba de graça</a>
+    <a target="_blank" class="button" id="close" style="cursor: pointer;">Aceitar</a>
   </div>
-  <div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>
+  <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
 
 
 <style>
@@ -118,6 +118,7 @@
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
+    z-index: 1000000
   }
 
   #new span {
@@ -172,7 +173,6 @@
   }
 
   #plus {
-    display: none;
     position: fixed;
     color: #fff;
     bottom: 15%;
@@ -204,7 +204,8 @@
 
   @media all and (max-width: 900px) {
     #popUp {
-      margin-left: -425px;
+      /*margin-left: -425px;*/
+      margin-left: 0;
     }
     #plus {
       margin-left: 0px;

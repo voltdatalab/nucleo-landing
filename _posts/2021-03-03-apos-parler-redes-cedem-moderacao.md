@@ -9,13 +9,11 @@ subtitle: "Para permanecer online, plataformas que ignoravam discurso violento e
 subtitle_redes: "Para permanecer online, redes populares entre grupos da extrema direita passam a regular conteúdo mais ativamente"
 excerpt: ''
 date: "02/03/2021 10:30"
-reportagem:  Laís Martins
+reportagem: Laís Martins
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
 background: 'moderacao/parler-01.png'
-atualizacao: ""
-nota_abertura: ""
 categories:
   - "draft"
 tags:

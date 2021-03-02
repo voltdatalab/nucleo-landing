@@ -9,19 +9,25 @@ subTitle: ''
 
 ### PONTOS RÁPIDOS SOBRE A POLÍTICA DE PRIVACIDADE
 
+Um resumo sobre como usamos suas informações. Leia a política de privacidade completa mais abaixo.
+
+#### SOBRE COOKIES
+
+- Este site utiliza cookies a partir do serviço de entrega de conteúdo (CDN) CloudFlare e por serviços terceiros, como Google Analytics (para medir audiência); 
+
+- O **Núcleo** não coleta voluntariamente seus dados de navegação, mas leve em conta que serviços terceiros utilizados podem fazer isso.
+
 #### SOBRE EMAIL  
 
-- Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo **Núcleo Jornalismo** pelo [Volt Data Lab](www.voltdata.info) - empresa por trás do **Núcleo**;
+- Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo **Núcleo Jornalismo** ou pelo [Volt Data Lab](www.voltdata.info) - empresa por trás do **Núcleo**;
 
 - Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;
 
 - Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;
 
-- Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab; você será avisado disso;
+- Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab -- você será avisado disso e poderá optar sair;
 
 - Fazemos um compromisso de tratar sua informação com zelo, dentro dos nossos poderes;
-
-- Este site utiliza cookies a partir do serviço de entrega de conteúdo (CDN).
 
 #### SOBRE NOSSA TECNOLOGIA
 
