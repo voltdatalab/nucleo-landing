@@ -10,25 +10,29 @@
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
       <div class="post-heading">
+
         <h1>{{ page.title }}</h1>
         {% if page.subtitle %}
         <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
         <span class="arquivado">
-          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} &middot; Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u> &middot;
-					<div class="popover__wrapper">
-									<span class="popover__title"><u>{{ page.tipo }}</u></span>
-											<div class="popover__content">
-												<p class="popover__message">
-													- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
-													- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
-													- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
-													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
-													- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
-													- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
-												</p>
-											</div>
-										</div> <br />
+          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} &middot; Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
+
+					<br /><br />
+										{% assign currentYear = site.time | date: '%Y' %}
+										{% assign postYear = page.date | date: '%Y' %}
+										{% assign postAge = currentYear | minus: postYear | minus: 0 %}
+
+										{% if postAge >= 1 and postAge < 2 %}
+										<div class="maybe-obsolete">
+											<i class="fas fa-history fa-2x"></i> Este artigo foi publicado <strong>há mais de {{ postAge }} ano</strong>, parte de seu conteúdo pode estar desatulizada ou obsoleta.
+										</div>
+										{% endif %}
+										{% if postAge >= 2 %}
+										<div class="maybe-obsolete">
+											<i class="fas fa-history"></i> Este artigo foi publicado há mais de <strong>{{ postAge }} anos</strong>, parte de seu conteúdo pode estar desatulizada ou obsoleta.
+										</div>
+										{% endif %}
         </span>
       </div>
     </div>
@@ -66,6 +70,7 @@
 					{% if page.dados_abertos %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h5> {% endif %}
 					{% if page.dados_abertos2 %} <h5 class="links_dados"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h5> {% endif %}
 					{% if page.dados_abertos3 %} <h5 class="links_dados"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h5> {% endif %}
+
 
 					<br />
 					<p>
@@ -113,6 +118,22 @@
 				SUGESTÕES DE ARTIGOS
 
 				-->
+				<h4 class="tags" style="text-align:center">
+				<div class="popover__wrapper" style="margin:0 auto">
+								<i class="fas fa-list-alt"></i> <span class="popover__title"><u>{{ page.tipo }}</u></span>
+										<div class="popover__content">
+											<p class="popover__message">
+												- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
+												- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
+												- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
+												- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
+												- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
+												- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
+											</p>
+										</div>
+									</div>
+								</h4>
+
 				<hr>
 				<div class="container" style="padding: 0 5% 0px;max-width:850px">
 
@@ -122,20 +143,27 @@
 									<div class="row">
 
 				{% assign posts = site.posts | where_exp:"post","post.title != page.title" %}
-				{% for post in posts offset:0 limit: 6 %}
+				{% for post in posts offset:0 limit: 4 %}
+
+				{% unless post.categories contains 'draft' %}
+				{% unless post.categories contains 'institucional' %}
+
 								<div class="col-sm-6 col-lg-6" style="min-height:120px">
+									<span class="arquivado" style="color:#000">
+
+										<i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}</a>
+
+									</span>
 												<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-													<h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
+													<img src="{{ site.baseurl }}/img/{{ post.background }}" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+													<h3 class="page-tttt" >{{ post.titulo_redes }}</h3></a>
 													<br />
-													<span class="arquivado" style="color:#000">
-
-														<i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}</a>
-
-													</span>
 													<br /><br />
 									</div>
-
+												{% endunless %}
+												{% endunless %}
 												{% endfor %}
+
 												</div>
 												<h5 class="arquivado"><a href="{{ site.baseurl }}/posts">Acesse todo o arquivo >></a></h5>
 											</div>

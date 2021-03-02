@@ -8,7 +8,7 @@ titulo_redes: "Após colapso do Parler, redes sociais alternativas cedem à mode
 subtitle: "Para permanecer online, plataformas que ignoravam discurso violento e de ódio sob mantra da liberdade de expressão, populares entre grupos da extrema direita, passam a regular conteúdo mais ativamente"
 subtitle_redes: "Para permanecer online, redes populares entre grupos da extrema direita passam a regular conteúdo mais ativamente"
 excerpt: ''
-date: "02/03/2021 10:30"
+date: "02/03/2021 09:00"
 reportagem: Laís Martins
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
@@ -98,6 +98,27 @@ Não foi só o Parler que voltou e baixou o tom visando a própria sobrevivênci
 Uma delas  é o [Clapper](https://apps.apple.com/us/app/id1522122685), que vem sendo classificado por veículos de tecnologia como ['clone conservador do Tik Tok'](https://olhardigital.com.br/2021/01/29/noticias/clapper-clone-do-tiktok-vira-refugio-para-conteudo-do-qanon/). A plataforma de vídeos curtos foi lançada em julho de 2020 com a promessa de zelar pela livre expressão -- as mesmas possibilidades que o TikTok, mas com menos interferência. Com essa premissa, a plataforma atraiu justamente quem se incomodava com o excesso de moderação que vinha sendo alardeado pelas plataformas mais mainstream.
 
 Mas como forte evidência de que não é viável manter uma rede sem qualquer filtro de moderação num jogo que é ditado, em grande parte, pelas Big Techs, o Clapper anunciou há duas [semanas](https://www.theverge.com/2021/2/11/22278480/clapper-tiktok-clone-bans-qanon-content-parler-deplatforming-capitol-riot) que banirá permanentemente contas que estejam disseminando teorias QAnon de desinformação e anti-vacinas.
+
+<hr>
+<div id="revue-embed" style="margin: 0 auto; max-width:100%">
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+    <label for="email">RECEBA NOSSAS REPORTAGENS POR EMAIL</label> <br />
+   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL..."/>
+<br/>
+<!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input type="submit" name="submit" id="submit" value="Assinar newsletter"/>
+  </div>
+
+</form>
+</div>
+</div>
+<hr>
 
 Para Edison Chen, CEO do Clapper, tais conteúdos vão contra a missão da rede social e também contra as exigências da Google Play e Apple Store. "Temos mais de 20 funcionários internos no time de Segurança para moderar conteúdo todos os dias", explicou Chen ao **Núcleo** por email.
 

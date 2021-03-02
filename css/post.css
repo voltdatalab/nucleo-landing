@@ -38,6 +38,9 @@ h2.subheading {
   width: 90%
 }
 
+/* METAS
+------------------------------------------*/
+
 .arquivado{
   font-family: 'Roboto Mono', monospace;
   text-transform: uppercase;
@@ -50,6 +53,16 @@ h2.subheading {
 
 .meta{
   font-weight: 400;
+}
+
+.maybe-obsolete{
+  background-color: #f33872;
+  color: #fff;
+  font-family: 'Roboto Mono', monospace;
+  max-width: 450px;
+  padding: 25px 15px;
+  font-size: 1em;
+  font-weight: 300
 }
 
 .creditos{
@@ -278,6 +291,7 @@ hr {
   margin: 35px 0;
   font-size: 1em;
   text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
 
 /* Responsivo */

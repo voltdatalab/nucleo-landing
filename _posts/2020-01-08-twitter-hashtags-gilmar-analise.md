@@ -7,7 +7,7 @@ titulo_redes: "Como ações coordenadas da direita nascem no Twitter"
 subtitle: "O <strong>Núcleo</strong> analisou 3,6 milhões publicações no Twitter, a partir de buscas por 18 hashtags e três termos diferentes, e identificou indícios de coordenação em campanhas da direita política na rede social."
 subtitle_redes: "Análise de 3,6 milhões de publicações identificou indícios de coordenação em campanhas na rede social."
 excerpt: "Em novembro de 2019, um curioso e raro evento nas redes sociais envolveu o ministro do STF Gilmar Mendes: ele foi alvo de uma campanha no Twitter tão coordenada que conseguiu ficar no topo dos trending topics uma semana inteira. O esforço online pedia pelo impeachment do magistrado e foi amplamente difundido entre aqueles que declaradamente se identificam com a direita política. "
-date: 08/01/2020
+date: 08/01/2018
 analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
