@@ -69,6 +69,21 @@
 
 					<br />
 					<br />
+					{% assign currentYear = site.time | date: '%Y' %}
+					{% assign postYear = page.date | date: '%Y' %}
+					{% assign postAge = currentYear | minus: postYear | minus: 0 %}
+
+					{% if postAge >= 1 and postAge < 2 %}
+					<div class="maybe-obsolete">
+						<i class="fas fa-history fa-lg"></i> Este artigo foi publicado <strong style="color:black">em {{ postYear }}</strong>, parte de seu conteúdo pode estar desatualizada ou obsoleta.
+					</div>
+					{% endif %}
+					{% if postAge >= 2 %}
+					<div class="maybe-obsolete">
+						<i class="fas fa-history"></i> Este artigo foi publicado há mais de <strong style="color:black">{{ postAge }} anos</strong>, parte de seu conteúdo pode estar desatualizada ou obsoleta.
+					</div>
+					{% endif %}
+
 					</span>
         <div class="texto_post">
 
