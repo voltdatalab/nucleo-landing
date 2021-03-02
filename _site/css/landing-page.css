@@ -599,3 +599,7 @@ td{
 .left-caret:after
 {	border-right: 5px solid #ffaf46;
 }
+
+.dropdown-header{
+  color: #0fb872
+}
