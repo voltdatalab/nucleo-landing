@@ -69,74 +69,6 @@ h3{
 	 margin: 3rem auto;
 	 text-align: center;
 }
-/* boxes
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-input[type='checkbox'] {
-  display: none;
-}
-.lbl-toggle {
-  display: block;
-  width: 100%;
-  font-weight: bold;
-  font-family: 'Roboto Mono';
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 1rem;
-  color: #ffffff;
-  background: #4b31dd;
-  cursor: pointer;
-  border-radius: 7px;
-  transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover, .lbl-toggle:active, .lbl-toggle:visited {
-  color: #fff !important;
-}
-
-input[type=checkbox]:checked ~ label {
-    color: #ffffff;
-    text-decoration: none;
-    background-color: #f33872
-}
-
-.lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
-  transition: transform .2s ease-out;
-}
-.collapsible-content .content-inner {
-  background: #ffffff;
-  margin-top: 20px;
-  border: 1px solid #4b31dd;
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: 2.5rem;
-}
-.collapsible-content {
-  max-height: 0px;
-  overflow: hidden;
-
-  transition: max-height .25s ease-in-out;
-}
-.toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 800px;
-}
-.toggle:checked + .lbl-toggle::before {
-  transform: rotate(90deg) translateX(-3px);
-}
-.toggle:checked + .lbl-toggle {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -152,20 +84,7 @@ input[type=checkbox]:checked ~ label {
 }
 
 @media screen and (max-width: 600px) {
-  .timeline ul li {
-    margin-left: 20px;
-  }
-  .timeline ul li div {
-    width: calc(100vw - 91px);
-  }
-  .timeline ul li:nth-child(even) div {
-    left: 45px;
-  }
-  .timeline ul li:nth-child(even) div::before {
-    left: -15px;
-    border-width: 8px 16px 8px 0;
-    border-color: transparent #F45B69 transparent transparent;
-  }
+
 }
 
 </style>
