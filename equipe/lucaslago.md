@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Lucas Lago'
 desc: ''
 tagline: Analista de aplicações

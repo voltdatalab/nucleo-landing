@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Rodolfo Almeida'
 desc: ''
 tagline: Designer

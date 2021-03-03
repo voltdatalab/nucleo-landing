@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Laís Martins'
 desc: ''
 tagline: Repórter

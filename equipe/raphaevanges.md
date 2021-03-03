@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Raphael Evangelista'
 desc: ''
 tagline: Redator - Garimpo

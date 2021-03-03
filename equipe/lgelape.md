@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Lucas Gelape'
 desc: ''
 tagline: Analista de dados

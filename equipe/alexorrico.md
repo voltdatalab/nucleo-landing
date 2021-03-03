@@ -1,5 +1,5 @@
 ---
-layout: equipe
+layout: pages
 title: 'Alexandre Orrico'
 desc: ''
 tagline: Editor e fundador
