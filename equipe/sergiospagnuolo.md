@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: equipe
 title: 'Sérgio Spagnuolo'
 desc: ''
 tagline: Editor e fundador

@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: equipe
 title: 'Renata Hirota'
 desc: ''
 tagline: Analista de dados
