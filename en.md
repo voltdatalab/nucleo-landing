@@ -8,13 +8,6 @@ link: impacto
 atualizacao:
 ---
 
-<style>
-h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
-h4{margin-top:20px;}
-.highlight{max-width:300px;text-transform:uppercase}
-hr{margin: 50px 15%;border-bottom:1px dotted #212529}
-</style>
-
 We are **Nucleo Journalism**, a data-driven website based in Brazil that publishes investigations and analysis about the impact of technology in society.
 
 Our journalism is for everyone, but our main target audience are civil servants, third sector workers, journalists and people with keen interest in transparency, government and Big tech accountability and social media analysis.

@@ -23,7 +23,7 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 <hr>
 
-### DESPACHO NUCLEAR
+## DESPACHO NUCLEAR
 
 Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os principais destaques da nossa mais recente publicação.
 
@@ -45,7 +45,7 @@ Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os 
 
 <hr>
 
-### GARIMPO
+## GARIMPO
 
 O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo)
 
@@ -67,7 +67,7 @@ O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, qu
 
 <hr>
 
-### NEWS INSTITUCIONAL
+## NEWS INSTITUCIONAL
 
 Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jornalismo. Mandaremos um email (curto!) sempre que tivermos algo importante a dizer sobre nossa iniciativa nuclear.
 

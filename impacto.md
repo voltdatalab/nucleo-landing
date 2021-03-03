@@ -8,14 +8,6 @@ link: impacto
 atualizacao: 06/05/2020
 ---
 
-<style>
-h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
-h4{margin-top:20px;}
-.highlight{max-width:300px;text-transform:uppercase}
-hr{margin: 50px 15%;border-bottom:1px dotted #212529}
-</style>
-
-
 O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações.
 
 Se nosso jornalismo foi útil para você de alguma forma, fale pra gente! Conte para a gente como, e se tiver sugestões e correções, também queremos saber.

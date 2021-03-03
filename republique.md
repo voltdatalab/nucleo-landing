@@ -7,14 +7,6 @@ subtitle: ''
 atualizacao: 03/03/2021
 ---
 
-<style>
-h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
-h4{margin-top:20px;}
-.highlight{max-width:300px;text-transform:uppercase}
-hr{margin: 50px 15%;border-bottom:1px dotted #212529}
-</style>
-
-
 O **Núcleo** permite que outras publicações republiquem nosso conteúdo, a fim de aumentar a abrangência do nosso jornalismo e de nossos projetos. Saiba mais sobre nosso impacto [nesta página]({{ site.baseurl }}/impacto).
 
 Essas permissões são discutidas caso a caso com editores de outros veículos. Caso sua iniciativa jornalística tenha interesse em republicar nosso conteúdo, entre em contato.
@@ -59,6 +51,8 @@ Caso sejamos utilizados como referência para seu trabalho, favor nos creditar c
 * __Storybench__ (inglês): [How Núcleo Jornalismo is tracking Brazilian politicians on Twitter](https://www.storybench.org/how-nucleo-jornalismo-is-tracking-brazilian-politicians-on-twitter/)
 
 * __Folha de S.Paulo__ (artigo de opinião): [Bolsonaro é burro mesmo](https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/04/bolsonaro-e-burro-mesmo.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa)
+
+* __Newsletter Investigadora__: [Para onde vai o "tio do zap"](https://investigadora.substack.com/p/6-malha-fina-para-compras-publicas)
 
 * __IJNet__: [Como o jornalismo de dados está cobrindo a pandemia na América Latina](https://ijnet.org/pt-br/story/como-o-jornalismo-de-dados-est%C3%A1-cobrindo-pandemia-na-am%C3%A9rica-latina)
 

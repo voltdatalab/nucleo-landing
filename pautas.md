@@ -8,14 +8,6 @@ link: impacto
 atualizacao: 24/02/2021
 ---
 
-<style>
-h2{text-transform:uppercase;font-size:1.2em;margin-bottom:15px;color:#4b31dd}
-h4{margin-top:20px;}
-.highlight{max-width:300px;text-transform:uppercase}
-hr{margin: 50px 15%;border-bottom:1px dotted #212529}
-</style>
-
-
 O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas sobre o impacto da tecnologia na vida das pessoas, assim como debates e discussões de redes sociais.
 
 <div style="padding: 4%;border: 3px solid #f33872;margin-bottom:30px;">

@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: 'Equipe do Núcleo Jornalismo'
-desc: 'Quem somos'
+desc: 'Conheça nossos profissionais'
 tagline: EQUIPE
 subtitle: 'Conheça nossos profissionais'
 atualizacao: 24/02/2021
