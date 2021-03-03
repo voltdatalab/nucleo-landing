@@ -43,7 +43,7 @@ h6 {
   display:inline;
   padding: 7px 5px;
   border-radius:5px;
-
+  text-transform: uppercase;
 }
 
 .lead a{
@@ -602,4 +602,15 @@ td{
 
 .dropdown-header{
   color: #0fb872
+}
+
+.arquivado{
+  font-family: 'Roboto Mono', monospace;
+  text-transform: uppercase;
+  font-size: 0.7em !important;
+  font-weight: 300
+}
+
+.arquivado span{
+  color: #4b31dd;
 }

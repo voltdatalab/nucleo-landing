@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body style="">
+		{% include nav.html %}
+		{% include popup.html %}
+
+</div>
+
+		<!-- índice simples de matérias  -->
+		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
+
+			<br /><br />
+		  <h5 class="chapeu">
+				<i class="far fa-id-card fa-lg"></i> {{ page.tagline }}
+			</h5>
+								<div class="post-heading">
+									<br />
+									<h1 style="text-transform:uppercase">{{ page.title }}</h1>
+									{% if page.subtitle %}
+									<p>{{ page.subtitle }}</p>
+									{% endif %}
+
+									{% if page.twitter %}
+									<i class="fab fa-twitter "></i> <a class="social" href="https://twitter.com/{{ page.twitter }}" target="_blank"> {{ page.twitter }}</a> <br />
+									{% endif %}
+
+									{% if page.email %}
+									<i class="far fa-envelope"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a>
+									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+									{% endif %}
+
+										{% include counter.html %}
+
+								</div>
+							</div>
+
+							<div class="container" style="max-width: 540px">
+									{{ content }}
+
+									<div class="container" style="padding: 0 5% 0px;max-width:500px">
+
+									<div style="padding: 0 5% 0px;max-width:850px">
+									  <br /><br />
+									          <div class="row">
+
+									{% assign posts = site.posts %}
+
+									{% for post in posts %}
+										{% unless post.categories contains 'draft' %}
+
+										{% if post.analise contains page.title
+											or post.edicao contains page.title
+											or post.reportagem contains page.title
+											or post.texto contains page.title
+											or post.colaboracao contains page.title
+											or post.graficos contains page.title
+											or post.arte contains page.title
+											or post.por contains page.title
+											%}
+									        <div class="col-sm-6 col-lg-6" style="min-height:160px">
+									                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									                  <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
+									                  <br />
+									                  <span class="arquivado" style="color:#000">
+
+									                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot;
+
+									                  </span>
+									                  <br /><br />
+									          </div>
+														{% endif %}
+														{% endunless %}
+									          {% endfor %}
+									                </div>
+									              </div>
+									            </div>
+
+
+									<hr />
+										<p>
+										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
+										{% if page.atualizacao %}	Última atualização desta página em {{ page.atualizacao | date: '%d/%m/%Y' }} {% endif %}
+										</span>
+										</p>
+									</div>
+
+
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>
