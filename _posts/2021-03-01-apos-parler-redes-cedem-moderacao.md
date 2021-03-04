@@ -3,19 +3,19 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Após colapso do Parler, redes sociais alternativas cedem à moderação"
-titulo_redes: "Após colapso do Parler, redes sociais alternativas cedem à moderação"
+title: "Big Tech força redes sociais alternativas a adotarem moderação"
+titulo_redes: "Big Tech força redes sociais alternativas a adotarem moderação"
 subtitle: "Para permanecer online, plataformas que ignoravam discurso violento e de ódio sob mantra da liberdade de expressão, populares entre grupos da extrema direita, passam a regular conteúdo mais ativamente"
 subtitle_redes: "Para permanecer online, redes populares entre grupos da extrema direita passam a regular conteúdo mais ativamente"
 excerpt: ''
-date: "02/03/2021 09:00"
+date: "04/03/2021 09:01"
 reportagem: Laís Martins
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
 background: 'moderacao/parler-01.png'
 categories:
-  - "draft"
+  - "redes"
 tags:
   - "Parler, "
   - "Redes sociais alternativas, "
