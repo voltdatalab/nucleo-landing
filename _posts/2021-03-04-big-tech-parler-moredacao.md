@@ -30,7 +30,7 @@ A plataforma, que ganhou território junto à direita alternativa por causa do s
 
 Em seu retorno, o Parler trouxe diretrizes de comunidade [atualizadas](https://legal.parler.com/documents/guidelines.pdf), nas quais se compromete a remover conteúdos que incitem crimes, delitos civis ou outros atos ilegais -- algo tacitamente tolerado antes de ser punido pelas Big Techs. Ou seja, aceitou moderar conteúdo.
 
-Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõe a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência à _desplataformização_<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Jargão do meio tecnológico que dá conta do processo de tirar de pessoas, grupos ou empresas o acesso a plataformas ou recursos para se criar e manter plataformas.<br><br></span> para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes.
+Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõe a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência à _desplataformização_<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Jargão do meio tecnológico que dá conta do processo de tirar de pessoas, grupos ou empresas o acesso a plataformas ou recursos para se criar e manter plataformas.<br><br></span> para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes, especialmente na sequência dos ataques de militantes de extrema direita ao Congresso norte-americano, em 6 de janeiro deste ano -- mas antes disso também.
 
 ---
 
@@ -38,7 +38,7 @@ Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes
 
 - *A desplataformização vem crescendo como assunto nos últimos meses e pode impactar a forma como produzimos e consumimos conteúdo nas redes sociais.*
 
-- *Há um consenso entre grandes empresas de tecnologia de que liberdade de expressão não é a mesma coisa do que promover violência e discurso de ódio.*
+- *Há um consenso entre grandes empresas de tecnologia de que liberdade de expressão não é a mesma coisa do que promover violência e discurso de ódio, especialmente após ataque ao Congresso dos EUA em 6 de janeiro de 2021.*
 
 - *Mostra o poder das Big Tech na sobrevivência de iniciativas menores.*
 
