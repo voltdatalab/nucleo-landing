@@ -25,7 +25,7 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 ## DESPACHO NUCLEAR
 
-Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os principais destaques da nossa mais recente publicação.
+Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
@@ -37,7 +37,7 @@ Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os 
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
 
 </form>
@@ -47,7 +47,7 @@ Toda sexta-feira, receba na sua caixa de entrada uma newsletter curtinha com os 
 
 ## GARIMPO
 
-O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo)
+O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo).
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
@@ -59,7 +59,7 @@ O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, qu
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
 
 </form>
@@ -84,7 +84,7 @@ Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jorna
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="oDGc71s8Hf0efDXWJPOJtw"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
 
 </form>
@@ -93,11 +93,11 @@ Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jorna
 
 <hr>
 
-<small>O uso de seus dados é regido pelo nossa [política de privacidade](privacidade).</small>
+<small>O uso de seus dados é regido pelo nossa [política de privacidade]({{ site.baseurl }}/privacidade).</small>
 
 <small>Veja abaixo os principais pontos cobertos por essa política:</small>
 
-* <small>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small>
+* <small>Caso você escolha receber nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small>
 
 * <small>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</small>
 

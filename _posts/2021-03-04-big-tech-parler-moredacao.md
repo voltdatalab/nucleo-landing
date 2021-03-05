@@ -30,7 +30,7 @@ A plataforma, que ganhou território junto à direita alternativa por causa do s
 
 Em seu retorno, o Parler trouxe diretrizes de comunidade [atualizadas](https://legal.parler.com/documents/guidelines.pdf), nas quais se compromete a remover conteúdos que incitem crimes, delitos civis ou outros atos ilegais -- algo tacitamente tolerado antes de ser punido pelas Big Techs. Ou seja, aceitou moderar conteúdo.
 
-Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõe a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência à _desplataformização_<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Jargão do meio tecnológico que dá conta do processo de tirar de pessoas, grupos ou empresas o acesso a plataformas ou recursos para se criar e manter plataformas.<br><br></span> para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes, especialmente na sequência dos ataques de militantes de extrema direita ao Congresso norte-americano, em 6 de janeiro deste ano -- mas antes disso também.
+Embora ceder à moderação de conteúdo não esteja no objetivo de muitas redes sociais menores que se propõem a defender qualquer tipo de expressão pessoal, mesmo que violento e danoso para a sociedade, o movimento passou a ser uma forma de sobrevivência à _desplataformização_<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Jargão do meio tecnológico que dá conta do processo de tirar de pessoas, grupos ou empresas o acesso a plataformas ou recursos para se criar e manter plataformas.<br><br></span> para esses 'arautos da liberdade de expressão' no mundo dominado pelo poder econômico de um punhado de empresas gigantes, especialmente na sequência dos ataques de militantes de extrema direita ao Congresso norte-americano, em 6 de janeiro deste ano -- mas antes disso também.
 
 ---
 
@@ -100,10 +100,10 @@ Uma delas  é o [Clapper](https://apps.apple.com/us/app/id1522122685), que vem 
 
 Mas como forte evidência de que não é viável manter uma rede sem qualquer filtro de moderação num jogo que é ditado, em grande parte, pelas Big Techs, o Clapper anunciou há duas [semanas](https://www.theverge.com/2021/2/11/22278480/clapper-tiktok-clone-bans-qanon-content-parler-deplatforming-capitol-riot) que banirá permanentemente contas que estejam disseminando teorias QAnon de desinformação e anti-vacinas.
 
-<div style="margin: 50px auto;max-width:320px; padding: 50px;border:1px solid #f33872;">
+<div style="margin: 30px auto;max-width:320px; padding: 25px;border:1px solid #f33872;">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
-    <h6>TODA SEXTA-FEIRA, RECEBA NOSSAS REPORTAGENS NO SEU EMAIL</h6> <br />
+    <h6>TODA QUINTA-FEIRA, RECEBA NOSSAS REPORTAGENS NO SEU EMAIL</h6> <br />
    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL..."/>
 <br/>
 <!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
@@ -113,7 +113,7 @@ Mas como forte evidência de que não é viável manter uma rede sem qualquer fi
   <input type="hidden" name="subform" value="yes"/>
   <input style="max-width:100%" type="submit" name="submit" id="submit" value="Quero receber!"/>
   </div>
-  <span style="font-size:0.2em;float:right"><a href="{{ site.baseurl }}/privacidade">Política de privacidade</a></span>
+  <span style="font-size:0.6em;float:right;"><a href="{{ site.baseurl }}/privacidade">Política de privacidade</a></span>
 
 </form>
 </div>

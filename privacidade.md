@@ -49,7 +49,7 @@ Caso queira evitar isso, você pode utilizar navegadores que bloqueiam esse tipo
 
 <hr>
 
-### Privacy Policy
+## POLÍTICA DE PRIVACIDADE
 
 A VOLTDATA AGENCIAMENTO DE NOTICIAS LTDA, nome fantasia [Volt Data Lab](www.voltdata.info), é uma agência de jornalismo orientado por dados baseada em São Paulo e a empresa por trás do **Núcleo Jornalismo**, inscrita sob o CNPJ 37.307.891/0001-33.
 
