@@ -29,11 +29,11 @@
 
 									{% if page.email %}
 									<i class="far fa-envelope"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a>
+									<br />
 									{% endif %}
 
 									{% assign total = posts | size %}
 									{% if total > 1 %}
-									<br />
 									<i class="fas fa-pen fa-sm"></i> <small class="social">{{ total }} publicações</small>
 									{% endif %}
 
