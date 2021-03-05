@@ -12,6 +12,7 @@ date: "10/11/2020 11:01"
 analise: Lucas Gelape
 edicao: Sérgio Spagnuolo e Alexandre Orrico
 graficos: Rodolfo Almeida
+creditos: Lucas Gelape, Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 dados_abertos: "Atlas da Notícia"
 dados_abertos_link: "https://www.atlas.jor.br/plataforma/dados/"

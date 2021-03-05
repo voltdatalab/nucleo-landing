@@ -12,6 +12,7 @@ texto: Sérgio Spagnuolo
 graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
+creditos: Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico
 credito_img: Rodolfo Almeida
 dados_abertos: "Acesse os dados da Ookla"
 dados_abertos_link: 'https://ookla.d.pr/hUtTwq'

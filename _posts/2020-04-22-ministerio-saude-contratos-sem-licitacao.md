@@ -11,6 +11,7 @@ date: 20/04/2020
 texto: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: 'Rodolfo Almeida'
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Acesse a tabela do Ministério da Saúde"
 dados_abertos_link: 'https://www.saude.gov.br/contratos-coronavirus'
 dados_abertos2: "Dados classificados pelo Núcleo (Google Sheets)"

@@ -12,6 +12,7 @@ analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 credito_img: Rodolfo Almeida
+creditos: Lucas Lago, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
 background: 'twitter-files/twitter_destaque.jpeg'

@@ -10,7 +10,7 @@
 		<!-- índice simples de matérias  -->
 		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
 
-			{% assign posts = site.posts | where_exp: "post", "post.analise contains page.title or post.edicao contains page.title or post.reportagem contains page.title or post.texto contains page.title or post.colaboracao contains page.title or post.graficos contains page.title or post.arte contains page.title or post.por contains page.title" %}
+			{% assign posts = site.posts | where_exp: "post", "post.creditos contains page.title" %}
 
 			<br /><br />
 		  <h5 class="chapeu">

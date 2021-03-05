@@ -11,6 +11,7 @@ excerpt: 'O Núcleo Jornalismo participará do programa Startup Lab, com início
 date: "29/10/2020 14:10"
 credito_img: "Rodolfo Almeida"
 edicao: Sérgio Spagnuolo, Alexandre Orrico e Jade Drummond
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Jade Drummond, Rodolfo Almeida
 dados_abertos: "Google Startup Lab"
 dados_abertos_link: "https://sites.google.com/view/gnistartuplab/startup-lab"
 dados_abertos2: "Anúncio no blog do Google"

@@ -13,6 +13,7 @@ analise: Sérgio Spagnuolo
 graficos: Sérgio Spagnuolo
 edicao:  Alexandre Orrico
 arte: Rodolfo Almeida
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 dados_abertos: "Coronavirus Impact Dashboard"
 dados_abertos_link: "https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard"

@@ -13,6 +13,7 @@ graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida, com imagem da Agência Brasil
+creditos: Rodolfo Almeida, Alexandre Orrico, Sérgio Spagnuolo
 dados_abertos: "Acesse o código para extração de Tweets via API"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Acesse os dados do Google Trends"

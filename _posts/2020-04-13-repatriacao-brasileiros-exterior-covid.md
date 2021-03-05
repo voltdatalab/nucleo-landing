@@ -11,6 +11,7 @@ date: 13/04/2020
 texto: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: 'Rodolfo Almeida'
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Dados tabelados pelo Núcleo (Google Sheets)"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1qy0x_D6MmtqGfJlwNK8f4A7PFwQo0oG4swi2GComKD0/edit?usp=sharing'
 dados_abertos2: "Acesse o código para extração do Portal da Transparência do governo federal"

@@ -15,6 +15,7 @@ analise: Renata Hirota e Sérgio Spagnuolo
 dados:  'Felippe Mercurio e Lucas Gelape'
 graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
+creditos: "Sérgio Spagnuolo, Alexandre Orrico, Renata Hirota, Felippe Mercurio, Rodolfo Almeida, Lucas Gelape"
 gif: 'telegram/telegram-direita.gif'
 background: 'telegram/telegram-direita-02.png'
 atualizacao: ""

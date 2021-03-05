@@ -12,6 +12,7 @@ date: "15/10/2020 10:06"
 autoria: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 arte: Rodolfo Almeida
+creditos: Alexandre Orrico, Sérgio Spagnuolo, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 dados_abertos: "Dados sobre usuários do Facebook - via Statista"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit?usp=sharing"

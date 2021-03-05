@@ -12,6 +12,7 @@ graficos: Sérgio Spagnuolo
 arte: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Acesse o código usado pelo Núcleo"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/d76f1c41fea201c926bf141afc140dc4'
 dados_abertos2: "Acesse os dados originais"

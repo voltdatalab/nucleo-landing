@@ -9,6 +9,8 @@ subtitle_redes: "Instalações de aplicativos de notícia cresceram 68% em rela�
 excerpt: "O número de downloads semanais de aplicativos de notícia saltou de pouco mais de 2.000 na semana de 24 de fevereiro a 1º de março para cerca de 3.500 na semana de 16 a 22 de março. Medidas mais drásticas de distanciamento social começaram a ser tomadas em todo o Brasil por volta dessa última semana."
 date: 30/03/2020
 credito_img: Sérgio Spagnuolo
+texto: Sérgio Spagnuolo
+creditos: Sérgio Spagnuolo
 dados_abertos: "Acesse o estudo da RankMyAPP feito a pedido do Núcleo"
 dados_abertos_link: '../img/covid/ESTUDO_RankMyAPP.pdf'
 background: 'covid/apps_noticias_cover.jpg'

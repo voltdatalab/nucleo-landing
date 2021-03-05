@@ -13,7 +13,7 @@ reportagem: Laís Martins
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "sergio, lais, rodolfo"
+creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo"
 background: 'moderacao/parler-01.png'
 categories:
   - "redes"

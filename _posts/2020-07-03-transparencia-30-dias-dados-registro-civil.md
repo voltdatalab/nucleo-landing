@@ -11,6 +11,7 @@ date: 03/07/2020
 analise: Lucas Lago
 graficos: Sérgio Spagnuolo
 edicao: Sérgio Spagnuolo e Alexandre Orrico
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Lucas Lago
 credito_img: "Curtis MacNewton/Unsplash/Intervenção do Núcleo"
 dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ha4_-Bm9hdWpZi7TPmI2XVNcXgweX3MEygZDNI4L8ts/edit?usp=sharing"

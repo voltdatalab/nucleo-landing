@@ -13,6 +13,7 @@ graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
+creditos: Renata Hirota, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: "Acesse os códigos e os dados"
 dados_abertos_link: 'https://github.com/rmhirota/politicos_devedores'
 dados_abertos2: "Acesse a base de dados organizada pelo <strong>Núcleo</strong>"

@@ -13,6 +13,7 @@ colaboracao: Amanda Ribeiro (Aos Fatos), Ana Freitas (Aos Fatos) e Tai Nalon (Ao
 graficos: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: 'Sérgio Spagnuolo, com ABr'
+creditos: Sérgio Spagnuolo, Alexandre Orrico
 dados_abertos: "Dados tabelados pelo Núcleo (Google Sheets)"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1ykAoTKuyf3P0epNjDI8lmwSwJ99k5reW_BKora2q0FA/edit?usp=sharing'
 dados_abertos2: "Acesse o código para extração de Tweets via API"

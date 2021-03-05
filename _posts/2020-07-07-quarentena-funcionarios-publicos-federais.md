@@ -12,6 +12,7 @@ reportagem: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 arte: Rodolfo Almeida
 credito_img: "Rodolfo almeida/Núcleo Jornalismo"
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1g2V6Ut3ZZEsfXVARppLhZIHWtDWIgDH9a4wgqgGb-Fc/edit#gid=2027944809"
 dados_abertos2: "Dados no Portal de Dados Abertos"

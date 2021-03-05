@@ -12,6 +12,7 @@ reportagem: Sérgio Spagnuolo (Núcleo) e Helena Bertho (AzMina)
 edicao: Alexandre Orrico (Núcleo) e Thais Folego (AzMina)
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1m4WxKCZo_zDMWTLKI3Hrg-Uj6E9BCYWqBsliI7ZzCTw/edit?usp=sharing"
 dados_abertos2: "Estatísticas do Registro Civil 2018 (IBGE)"

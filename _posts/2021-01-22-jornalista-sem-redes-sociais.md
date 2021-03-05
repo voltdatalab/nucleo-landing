@@ -12,6 +12,7 @@ date: "22/01/2021 09:45"
 por:  Alexandre Aragão
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
+creditos: Alexandre Orrico, Rodolfo Almeida
 bio: "é gerente de customer success <a href='https://www.jota.info/autor/alexandre-aragao' target='_blank'>do JOTA</a> em São Paulo. Edita a newsletter Impacto nas Instituições, enviada para os assinantes JOTA Pro Poder. Foi repórter do jornal Folha de S.Paulo, da revista Veja e do BuzzFeed News no Brasil. Colaborou com Aos Fatos, Época, The Intercept Brasil, piauí, entre outras publicações."
 contato: 'alexandre.aragao@jota.info'
 contato_link: 'mailto:alexandre.aragao@jota.info'

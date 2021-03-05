@@ -12,6 +12,7 @@ analise: Sérgio Spagnuolo
 graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
+creditos: Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico
 credito_img: Rodolfo Almeida
 dados_abertos: "Acesse o código"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/c68c1fa1e2c23e97c9ef1e69f296952a'

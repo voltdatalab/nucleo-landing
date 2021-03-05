@@ -10,7 +10,9 @@ excerpt: "No pico dessa onda, foram registrados 115,2 mil tweets únicos em uma 
 date: 24/04/2020
 analise: Sérgio Spagnuolo e Renata Hirota
 graficos: Sérgio Spagnuolo
+edicao: Alexandre Orrico
 credito_img: 'Rodolfo Almeida'
+creditos: Sérgio Spagnuolo, Renata Hirota, Rodolfo Almeida, Alexandre Orrico
 dados_abertos: "Acesse o código da análise temporal"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Acesse o código da análise de sentimentos"

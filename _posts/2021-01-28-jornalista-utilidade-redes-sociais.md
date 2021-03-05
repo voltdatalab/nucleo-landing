@@ -12,6 +12,7 @@ date: "28/01/2021 12:36"
 por:  Luiza Bodenmüller
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
+creditos: Alexandre Orrico, Rodolfo Almeida
 bio: "é jornalista, mestre em ciências da comunicação na USP e especialista em política e relações internacionais pela FESPSP. Trabalhou no terceiro setor, foi editora online da <a href='https://apublica.org/' target='_blank'>Agência Pública</a> e também desenvolveu estratégias para campanhas de financiamento coletivo. Venceu dois prêmios nacionais de jornalismo em 2013 e 2014. Atualmente é gerente de estratégia do <a href='https://aosfatos.org' target='_blank'>Aos Fatos</a> e em breve iniciará seu doutorado na Universidade Federal dE Minas Gerais (UFMG). Publica de forma independente a newsletter <a href='https://periodica.substack.com/' target='_blank'>Periódica</a>."
 contato: '@lubodenmuller'
 contato_link: https://twitter.com/lubodenmuller

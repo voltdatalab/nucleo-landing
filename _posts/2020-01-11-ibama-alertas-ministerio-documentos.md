@@ -12,6 +12,7 @@ reportagem: Gabriela Sá Pessoa
 graficos: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
+creditos: Gabriela Sá Pessoa, Rodolfo Almeida, Sérgio Spagnuolo
 dados_abertos: "Baixe aqui os documentos do Ibama obtidos via LAI"
 dados_abertos_link: 'https://www.dropbox.com/sh/fpc38eitgvnvmnf/AADSd6AcBawT_vYMB2_LmDkGa?dl=0'
 background: 'ibama-files/oleo_-teaser.jpeg'

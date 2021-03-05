@@ -13,6 +13,7 @@ graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida, com imagem da TV/Globo
+creditos: Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico
 dados_abertos: "Acesse os dados do Ministério da Saúde (Datasus - Tabnet)"
 dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"

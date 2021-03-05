@@ -13,6 +13,7 @@ graficos: Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: Rodolfo Almeida
+creditos: Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico
 dados_abertos: "Acesse o código"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/96c3f537e14eb50d241eaedca13dee6c'
 background: 'atlas-partidos/atlas_header.jpeg'

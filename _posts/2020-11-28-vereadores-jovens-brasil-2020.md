@@ -13,6 +13,7 @@ analise: Lucas Gelape
 edicao:  Sérgio Spagnuolo
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
+creditos: Lucas Gelape, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: "Repositório de dados eleitorais - TSE"
 dados_abertos_link: "https://www.tse.jus.br/hotsites/pesquisas-eleitorais/resultados.html"
 dados_abertos2: "Código da análise"

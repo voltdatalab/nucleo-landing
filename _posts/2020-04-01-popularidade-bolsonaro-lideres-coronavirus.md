@@ -13,6 +13,7 @@ graficos: Lucas Gelape
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: Rodolfo Almeida
+creditos: Lucas Gelape, Rodolfo Almeida, Sérgio Spagnuolo
 dados_abertos: "Acesse o código da análise"
 dados_abertos_link: 'https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo (Google Sheets)"

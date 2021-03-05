@@ -12,6 +12,7 @@ analise: Renata Hirota
 graficos: Sérgio Spagnuolo
 edicao: Sérgio Spagnuolo
 credito_img: 'Rodolfo Almeida'
+creditos: Renata Hirota, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: "Acesse o código da análise"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Agregações tabuladas pelo Núcleo (Google Sheets)"

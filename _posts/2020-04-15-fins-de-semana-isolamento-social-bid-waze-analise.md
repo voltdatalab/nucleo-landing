@@ -12,6 +12,7 @@ analise: Sérgio Spagnuolo
 graficos: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: 'Rodolfo Almeida'
+creditos: Sérgio Spagnuolo, Alexandre Orrico, Rodolfo Almeida
 dados_abertos: "Acesse o código para extração e análise dos dados"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/d76f1c41fea201c926bf141afc140dc4'
 dados_abertos2: "Dados originais do BID/Waze"

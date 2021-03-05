@@ -13,6 +13,7 @@ analise:  Sérgio Spagnuolo
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: "Rodolfo Almeida"
+creditos: "Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico"
 dados_abertos: "Atlas da Notícia"
 dados_abertos_link: "https://www.atlas.jor.br"
 dados_abertos2: "Código da análise"

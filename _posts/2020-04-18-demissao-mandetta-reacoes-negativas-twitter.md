@@ -12,6 +12,7 @@ analise: Renata Hirota
 graficos: Sérgio Spagnuolo
 edicao: Sérgio Spagnuolo
 credito_img: 'Rodolfo Almeida'
+creditos: Renata Hirota, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: "Acesse o código da análise"
 dados_abertos_link: 'https://github.com/rmhirota/tw_sent'
 dados_abertos2: "Agregações tabuladas pelo Núcleo (Google Sheets)"

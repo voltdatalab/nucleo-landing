@@ -12,6 +12,7 @@ analise: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 arte: Sérgio Spagnuolo
 credito_img: "Núcleo Jornalismo em foto de Valter Campanato/Agência Brasil"
+creditos: Sérgio Spagnuolo, Alexandre Orrico
 dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1nxpQMtSrusPWxQrRDw5RzsuWtFDljWYsPu10ykhEcSY/edit?usp=sharing"
 dados_abertos2: "Monitor Nuclear"
