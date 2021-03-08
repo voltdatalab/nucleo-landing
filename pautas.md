@@ -46,7 +46,9 @@ Os textos da seção [IDEIAS]({{ site.baseurl }}/ideias) possuem valor fixo, con
 <div id="formulario_frilas"></div>
 ### FORMULÁRIO
 
-Preencha o formulário abaixo que mais se encaixe no seu interesse em colaborar com o **Núcleo**.
+Preencha o formulário abaixo que mais se encaixa no seu interesse em colaborar com o **Núcleo**. Note que _há dois formulários_, basta selecionar na aba seu interesse. Pautas enviadas por email serão desconsideradas.
+
+**IMPORTANTE**: Devido ao grande número de envios no formulário de _freelancers_, não será possível responder a todas as sugestões de pautas que recebermos.
 
 <div class="tabset">
   <!-- Tab 1 -->
