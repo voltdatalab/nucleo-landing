@@ -71,8 +71,8 @@ h2.subheading {
 }
 
 .creditos_alt{
-  padding-bottom: 5px;
-  line-height: 2em;
+  padding-bottom: 0px;
+  line-height: 1.5em;
   font-size: 0.8em;
   font-family: 'Roboto Mono', monospace !important;
 }
@@ -719,7 +719,7 @@ input[type=checkbox]:checked ~ label {
   transition: max-height .25s ease-in-out;
 }
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 1800px;
+  max-height: 50000px;
 }
 .toggle:checked + .lbl-toggle::before {
   transform: rotate(90deg) translateX(-3px);
@@ -728,3 +728,67 @@ input[type=checkbox]:checked ~ label {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
+
+/* Floating Social Media Bar Style Starts Here */
+
+.fl-fl {
+  background: #eeeeee;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 4px;
+  width: 190px;
+  position: fixed;
+  right: -150px;
+  z-index: 1000;
+  font: normal normal 10px Arial;
+  -webkit-transition: all .25s ease;
+  -moz-transition: all .25s ease;
+  -ms-transition: all .25s ease;
+  -o-transition: all .25s ease;
+  transition: all .25s ease;
+}
+
+.fa {
+  font-size: 20px;
+  color: #fff;
+  padding: 10px 0;
+  width: 40px;
+  margin-left: 8px;
+}
+
+.fl-fl:hover {
+  right: 0;
+}
+
+.fl-fl a {
+  color: #222 !important;
+  text-decoration: none;
+  text-align: center;
+  line-height: 43px!important;
+  vertical-align: top!important;
+}
+
+.float-fb {
+  top: 160px;
+}
+
+.float-tw {
+  top: 215px;
+}
+
+.float-gp {
+  top: 270px;
+}
+
+.float-rs {
+  top: 325px;
+}
+
+.float-ig {
+  top: 380px;
+}
+
+.float-pn {
+  top: 435px;
+}
+/* Floating Social Media Bar Style Ends Here */
