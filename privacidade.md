@@ -55,7 +55,7 @@ A VOLTDATA AGENCIAMENTO DE NOTICIAS LTDA, nome fantasia [Volt Data Lab](www.volt
 
 É possível entrar em contato conosco via o email [info@voltdata.info](mailto:info@voltdata.info). O Volt Data Lab tem como único acionista o jornalista [Sérgio Spagnuolo](https://www.linkedin.com/in/sergiospagnuolo/).
 
-Esta página é utilizada para informa visitantes sobre nossas políticas de coleta e uso de informações pessoas caso qualquer pessoa decida utilizar nossos serviços ou produtos.
+Esta página é utilizada para informar visitantes sobre nossas políticas de coleta e uso de informações pessoas caso qualquer pessoa decida utilizar nossos serviços ou produtos.
 
 Caso você escolha utilizar nossos serviços, então concorda com os termos de coleta e uso de informação em relação a esta política. As informações pessoais que coletamos são utilizadas para fornecer e melhorar nossos produtos e serviços. Nós não vamos compartilhar suas informações com ninguém além das partes descritas nessa Política de Privacidade.
 
@@ -84,7 +84,7 @@ Nosso website não armazena dados pessoais sobre você, mas é monitorado via Go
 
 Dados coletados sobre newsletters via Sendy são armazenados em servidores da Amazon Webservices (AWS).
 
-Outros dados pessoas, como os coletados em formulários, podem ser armazenados em servidores da AWS ou do Google, dependendo da nossa necessidade.
+Outros dados pessoais, como os coletados em formulários, podem ser armazenados em servidores da AWS ou do Google, dependendo da nossa necessidade.
 
 **Cookies**
 
