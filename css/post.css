@@ -286,6 +286,14 @@ hr {
   margin: 50px auto;
 }
 
+.hrtop {
+  height: 1px;
+  background-color: #4b31dd;
+  width: 100%;
+  text-align: center;
+  margin: 50px auto;
+}
+
 .tags{
   color: #4b31dd;
   text-transform: uppercase;
@@ -731,21 +739,16 @@ input[type=checkbox]:checked ~ label {
 
 /* Floating Social Media Bar Style Starts Here */
 
+
 .fl-fl {
   background: #eeeeee;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 0;
   padding: 4px;
-  width: 190px;
+
   position: fixed;
-  right: -150px;
+
   z-index: 1000;
-  font: normal normal 10px Arial;
-  -webkit-transition: all .25s ease;
-  -moz-transition: all .25s ease;
-  -ms-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
 }
 
 .fa {
@@ -756,8 +759,7 @@ input[type=checkbox]:checked ~ label {
   margin-left: 8px;
 }
 
-.fl-fl:hover {
-  right: 0;
+.fl-fl:hover{
 }
 
 .fl-fl a {
@@ -768,27 +770,76 @@ input[type=checkbox]:checked ~ label {
   vertical-align: top!important;
 }
 
+.float-shareicon{
+  bottom: 0;
+  right: 440px;
+}
+
 .float-fb {
-  top: 160px;
+  bottom: -12px;
+  right: 400px;
 }
 
 .float-tw {
-  top: 215px;
+  bottom: -12px;
+  right: 360px;
 }
 
 .float-gp {
-  top: 270px;
+  bottom: -12px;
+  right: 320px;
 }
 
 .float-rs {
-  top: 325px;
+  bottom: -12px;
+  right: 280px;
 }
 
 .float-ig {
-  top: 380px;
+  bottom: -12px;
+  right: 240px;
 }
 
 .float-pn {
-  top: 435px;
+  bottom: 0px;
+  right: 210px;
 }
+
+@media(max-width:767px){
+    .float-shareicon{
+      bottom: 0;
+      right: 300px;
+    }
+
+    .float-fb {
+      bottom: -12px;
+      right: 250px;
+    }
+
+    .float-tw {
+      bottom: -12px;
+      right: 210px;
+    }
+
+    .float-gp {
+      bottom: -12px;
+      right: 170px;
+    }
+
+    .float-rs {
+      bottom: -12px;
+      right: 130px;
+    }
+
+    .float-ig {
+      bottom: -12px;
+      right: 90px;
+    }
+
+    .float-pn {
+      bottom: 0px;
+      right: 50px;
+    }
+}
+
 /* Floating Social Media Bar Style Ends Here */
