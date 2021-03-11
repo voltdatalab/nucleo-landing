@@ -20,7 +20,7 @@ dados_abertos: "Código da análise"
 dados_abertos_link: "https://gist.github.com/lgelape/d854f7f23a900531e3fd4977d574e492"
 dados_abertos2: "Dados agregados"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1SRT77C0SnPEZucaeMSWQKngE9F7Vwb4irGwDgB7CxtM/edit#gid=2075229921"
-atualizacao: "Atualização em 11.março.2021 às 10h03. Uma versão anterior do texto informava que Atila Iamarino tinha 63,5% do engajamento dos perfis analisados no agregado da primeira semana em que cada perfil foi acompanhado (ex: Atila entra na base em 08/07 e Luiza Caires em 22/07). Ao levarmos em conta a primeira semana em que eles foram simultaneamente monitorados (a de 22/07), como mostra o gráfico, este valor é de 74,7%, ou 3 a cada 4 engajamentos, valor que decidimos destacar."
+atualizacao: "Atualização em 11.março.2021 às 10h03. Uma versão anterior do texto informava que Atila Iamarino tinha 63,5% do engajamento dos perfis analisados no agregado da primeira semana em que cada perfil foi acompanhado (ex: Atila entra na base em 08/07 e Luiza Caires em 22/07). Ao levarmos em conta a primeira semana em que eles foram simultaneamente monitorados (a de 22/07), como mostra o gráfico, este valor é de 74,7%, ou 3 a cada 4 engajamentos, valor que decidimos destacar. Alteração feita em 11.março.2021 às 11h01 de '9 de março' para '4 de março' no sexto parágrafo."
 categories:
   - "redes"
 tags:
@@ -53,7 +53,7 @@ Análise do **Núcleo** a partir de tweets monitorados pela ferramenta [Science 
 
 "Acredito que a falta de uma centralização na divulgação de informações por parte do governo tenha gerado uma necessidade nas pessoas de buscarem essas informações por conta própria", diz Mariana Varella, jornalista de saúde, cientista social e divulgadora científica que  acabou de [ultrapassar](https://twitter.com/marivarella/status/1369369309907202069) os 50 mil seguidores no Twitter. Ela é chefe de redação do [Portal Drauzio Varella](https://drauziovarella.uol.com.br/).
 
-As 12 principais vozes brasileiras da ciência nas redes, que tiveram média de 411 curtidas e RTs por tweet na primeira semana em que foram monitoradas, mais do que dobraram seu engajamento nas últimas semanas, chegando a 948 até a semana encerrada em 9 de março (a última completa no período de análise).
+As 12 principais vozes brasileiras da ciência nas redes, que tiveram média de 411 curtidas e RTs por tweet na primeira semana em que foram monitoradas, mais do que dobraram seu engajamento nas últimas semanas, chegando a 948 até a semana encerrada em 4 de março (a última completa no período de análise).
 
 Além disso, as cinco semanas com maior volume de engajamento dos 12 principais perfis brasileiros de divulgação científica foram em 2021.
 
