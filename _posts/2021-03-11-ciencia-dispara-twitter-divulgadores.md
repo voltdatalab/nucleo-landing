@@ -50,7 +50,7 @@ Análise do **Núcleo** a partir de tweets monitorados pela ferramenta [Science 
 ---
 
 
-"Acredito que a falta de uma centralização na divulgação de informações por parte do governo tenha gerado uma necessidade nas pessoas de buscarem essas informações por conta própria", diz Mariana Varella, jornalista de saúde, cientista social e divulgadora científica que  acabou de [ultrapassar](https://twitter.com/marivarella/status/1369369309907202069) os 50 mil seguidores no Twitter.
+"Acredito que a falta de uma centralização na divulgação de informações por parte do governo tenha gerado uma necessidade nas pessoas de buscarem essas informações por conta própria", diz Mariana Varella, jornalista de saúde, cientista social e divulgadora científica que  acabou de [ultrapassar](https://twitter.com/marivarella/status/1369369309907202069) os 50 mil seguidores no Twitter. Ela é chefe de redação do [Portal Drauzio Varella](https://drauziovarella.uol.com.br/). 
 
 As 12 principais vozes brasileiras da ciência nas redes, que tiveram média de 411 curtidas e RTs por tweet na primeira semana em que foram monitoradas, mais do que dobraram seu engajamento nas últimas semanas, chegando a 948 até a semana encerrada em 9 de março (a última completa no período de análise).
 
