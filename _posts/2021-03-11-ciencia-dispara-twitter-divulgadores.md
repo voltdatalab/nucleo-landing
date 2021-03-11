@@ -36,7 +36,7 @@ Na falta de um plano nacional de enfrentamento à doença, cientistas, pesquisad
 
 Análise do **Núcleo** a partir de tweets monitorados pela ferramenta [Science Pulse](https://sciencepulse.org) mostra que os expressivos picos de engajamento nas contas dos principais divulgadores de ciência brasileiros coincidem com o agravamento dos números da pandemia no país.
 
-##### Entre junho de 2020 e fevereiro de 2021, o engajamento em publicações desses profissionais se pluralizou e apresentou consistente crescimento.
+##### Entre junho de 2020 e março de 2021, o engajamento em publicações desses profissionais se pluralizou e apresentou consistente crescimento.
 
 ---
 
@@ -52,7 +52,7 @@ Análise do **Núcleo** a partir de tweets monitorados pela ferramenta [Science 
 
 "Acredito que a falta de uma centralização na divulgação de informações por parte do governo tenha gerado uma necessidade nas pessoas de buscarem essas informações por conta própria", diz Mariana Varella, jornalista de saúde, cientista social e divulgadora científica que  acabou de [ultrapassar](https://twitter.com/marivarella/status/1369369309907202069) os 50 mil seguidores no Twitter.
 
-As 12 principais vozes brasileiras da ciência nas redes, que tiveram média de 411 curtidas e RTs por tweet na primeira semana em que foram monitoradas, mais do que dobraram seu engajamento nas últimas semanas, chegando a 948 na última semana de fevereiro (a última completa no período de análise).
+As 12 principais vozes brasileiras da ciência nas redes, que tiveram média de 411 curtidas e RTs por tweet na primeira semana em que foram monitoradas, mais do que dobraram seu engajamento nas últimas semanas, chegando a 948 até a semana encerrada em 9 de março (a última completa no período de análise).
 
 Além disso, as cinco semanas com maior volume de engajamento dos 12 principais perfis brasileiros de divulgação científica foram em 2021.
 
@@ -70,7 +70,7 @@ A exceção foi o perfil de Atila Iamarino, que apresentou uma tendência geral 
 
 ![crescimento de engajamento por divulgador]({{ baseurl }}/img/cientistas_engajamento/facets.png)
 
-O período de análise iniciou-se em junho de 2020, quando Átila já havia se firmado como uma voz central na disseminação de informações sobre a pandemia. Durante a primeira semana de monitoramento, o biólogo era responsável por 63,5% do total de engajamento desse grupo de 12 perfis, número que foi gradativamente passado para outras contas. Na última semana de análise, ele correspondia a 38,7,2% do total.
+O período de análise iniciou-se em junho de 2020, quando Átila já havia se firmado como uma voz central na disseminação de informações sobre a pandemia. Durante a primeira semana de monitoramento, o biólogo era responsável por 63,5% do total de engajamento desse grupo de 12 perfis, número que foi gradativamente passado para outras contas. Na última semana de análise, ele correspondia a 38,7% do total.
 
 A resposta que explica essa queda passa pela pluralização e fortalecimento de vozes. Essa distribuição é muitas vezes estimulada pelo próprio Átila, que divulga e retweeta outros divulgadores, e também organizada por eles próprios.
 
