@@ -80,6 +80,24 @@ A resposta que explica essa queda passa pela pluralização e fortalecimento de 
 
 As 4 semanas em que ele teve menor engajamento relativo neste grupo foram em 2021. Neste ano, em somente três das dez semanas Átila ultrapassou 50% do engajamento semanal dentro deste grupo. Porém ele é, indiscutivelmente, o principal divulgador do grupo, responsável por 19 dos 20 maiores engajamentos semanais.
 
+<div style="margin: 30px auto;max-width:320px; padding: 25px;border:1px solid #f33872;">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+    <h6>TODA QUINTA-FEIRA, RECEBA NOSSAS REPORTAGENS NO SEU EMAIL</h6> <br />
+   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL..."/>
+<br/>
+<!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="Quero receber!"/>
+  </div>
+  <span style="font-size:0.6em;float:right;"><a href="{{ site.baseurl }}/privacidade">Política de privacidade</a></span>
+
+</form>
+</div>
+
 ### COMO FIZEMOS ISSO
 
 O Twitter possui [16 milhões](https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/) de usuários, longe de representar a população. Mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político e também científico no Brasil, pautando autoridades, a imprensa e outras redes sociais.
