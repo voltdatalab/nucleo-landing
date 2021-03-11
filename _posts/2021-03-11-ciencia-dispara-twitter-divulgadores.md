@@ -8,7 +8,7 @@ titulo_redes: "Em meio ao caos, ciência brasileira floresce no Twitter"
 subtitle: "Análise do Núcleo mostra que picos de engajamento nas contas dos principais divulgadores de ciência no Brasil coincidem com o agravamento da pandemia."
 subtitle_redes: "Análise mostra que alta no engajamento de divulgadores de ciência coincidem com o agravamento da pandemia."
 excerpt: 'nálise do Núcleo mostra que expressivos picos de engajamento nas contas dos principais divulgadores de ciência brasileiros coincidem com o agravamento dos números da pandemia no país.'
-date: "10/03/2021 08:01"
+date: "11/03/2021 08:01"
 texto: Alexandre Orrico
 analise: Lucas Gelape
 arte: Rodolfo Almeida
