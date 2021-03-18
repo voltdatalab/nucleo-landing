@@ -30,7 +30,7 @@ tags:
 
 Para estar a par do Big Brother Brasil, você não precisa assistir ao programa. Você não precisa pagar o pay-per-view, nem mesmo acessar o [GShow](https://gshow.globo.com/). Além das redes _mainstream_, como Twitter e Instagram, onde usuários se engajam em debates, comentários e publicações sobre o programa, há também [canais](https://t.me/canalbbb) do Telegram dedicados à casa mais vigiada do Brasil.
 
-Tamanha é a popularidade desses canais do aplicativo de mensagens que eles tornaram referência nas conversas e notícias sobre o reality show, inclusive pautando outras redes.
+Tamanha é a popularidade desses canais do aplicativo de mensagens que eles viraram referência nas conversas e notícias sobre o reality show, inclusive pautando outras redes.
 
 Essa cobertura começou a mudar no fim de fevereiro, quando o Telegram começou a ir atrás desses canais, cada um com centenas de milhares de inscritos, por violações de direitos autorais. Todo conteúdo do BBB pertence à TV Globo, uma força implacável quando o assunto é proteger seu conteúdo.
 
