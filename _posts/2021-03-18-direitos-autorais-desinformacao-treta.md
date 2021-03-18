@@ -38,7 +38,7 @@ Essa cobertura começou a mudar no fim de fevereiro, quando o Telegram começou 
 
 - O [Espiadinha](https://t.me/espiadinha), que já havia sido notificado três vezes, caiu em 6 de março, o que levou o termo "Telegram" ao topo dos trending topics do Twitter Brasil. Voltou logo depois, com cerca de 140 mil inscritos;
 
-- o [Alienadinhos](https://t.me/alienadinhos) (ex-Canal BBB21), caiu em 17 de março e já voltou em outro canal (aparentemente um reserva criado em 17 de fevereiro), com mais de 60 mil inscritos.
+- O [Alienadinhos](https://t.me/alienadinhos) (ex-Canal BBB21) caiu em 17 de março e já voltou em outro canal (aparentemente um reserva criado em 17 de fevereiro), com mais de 60 mil inscritos.
 
 ---
 
