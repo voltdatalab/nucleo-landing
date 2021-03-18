@@ -14,9 +14,28 @@ Our journalism is for everyone, but our main target audience are civil servants,
 
 **Nucleo** (which in Portuguese means _core_) was founded in January 2020 by journalists [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo) (ex. Reuters, UN, ICFJ) and [Alexandre Orrico](https://twitter.com/alexorrico) (ex. Buzzfeed, Folha de S.Paulo), with a small funding from them.
 
-We have five people currently collaborating with us in reporting, analysis and design.
+{% assign staff = site.data.equipe | size %}
 
-<br>
+We have {{ staff }} people currently collaborating with us.
+
+<div style="margin-bottom: 220px;">
+
+{% for d in site.data.equipe %}
+
+
+<div class="col-md-6 col-lg-6" style="margin-bottom:5px;">
+
+<h4 style="margin-bottom:0;"><a href="{{ site.baseurl }}/equipe/{{ d.twitter }}">{{ d.nome }}</a></h4>
+
+<small>{{ d.post }}</small>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<br><br><br><br>
 
 ## FUNDING
 
@@ -28,8 +47,6 @@ For now, to support ourselves, we license our unique content to partners in Braz
 
 In October 2020, Nucleo received a USD 20,000 funding from the Google News Initiative, in order to help us develop our business model.
 
-<br>
-
 ## OUR WORK
 
 For now, our work is only published in Portuguese, but we do plan to have cross-border projects that can deliver multi-language reporting in the future.
@@ -38,7 +55,6 @@ Our reporting has been either feature in major news organizations or served as r
 
 We try our best to map the impact we have on our audience and society in [this page](impacto) (Portuguese-only).
 
-<br>
 
 ## REACH OUT
 
