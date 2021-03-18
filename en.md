@@ -8,7 +8,7 @@ link: impacto
 atualizacao:
 ---
 
-We are **Nucleo Journalism**, a data-driven website based in Brazil that publishes investigations and analysis about the impact of technology in society.
+We are **Nucleo Journalism**, a data-driven website based in Brazil that publishes investigations and analysis about the impact of social media in society.
 
 Our journalism is for everyone, but our main target audience are civil servants, third sector workers, journalists and people with keen interest in transparency, government and Big tech accountability and social media analysis.
 
