@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Para estar a par do Big Brother Brasil, você não precisa assistir ao programa. Você não precisa pagar o pay-per-view e nem mesmo acessar o [GShow](https://gshow.globo.com/). Além das redes _mainstream_, como Twitter e Instagram, onde usuários se engajam em debates, comentários e publicações sobre o programa, há também [canais](https://t.me/canalbbb) do Telegram dedicados à casa mais vigiada do Brasil.
+Para estar a par do Big Brother Brasil, você não precisa assistir ao programa. Você não precisa pagar o pay-per-view, nem mesmo acessar o [GShow](https://gshow.globo.com/). Além das redes _mainstream_, como Twitter e Instagram, onde usuários se engajam em debates, comentários e publicações sobre o programa, há também [canais](https://t.me/canalbbb) do Telegram dedicados à casa mais vigiada do Brasil.
 
 Tamanha é a popularidade desses canais do aplicativo de mensagens que eles tornaram referência nas conversas e notícias sobre o reality show, inclusive pautando outras redes.
 
