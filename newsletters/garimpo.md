@@ -53,6 +53,17 @@ img{
 
 É enviada de segunda a sexta-feira, a partir das 11h.
 
+--- 
+
+#### Últimas edições
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=3&showtitle=false&striphtml=true&forceutf8=true&type=js"></script>
+
+
+---
+
+#### Quem faz
+
 - **Curadoria**: [Raphael Evangelista](https://twitter.com/raphaevanges)
 
 - **Desenvolvimento**: [Renata Hirota](https://twitter.com/renata_mh)
@@ -60,7 +71,6 @@ img{
 - **Arte**: [Rodolfo Almeida](https://twitter.com/rodolfoalmd)
 
 - **Edição**: [Alexandre Orrico](https://twitter.com/alexorrico)
-
 
 <br>
 

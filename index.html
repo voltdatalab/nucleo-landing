@@ -23,27 +23,3 @@ subTitle: '<div id="revue-embed">
 </div>
 </div>'
 ---
-
-{% for post in site.posts limit : 5 %}
-
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | truncatewords: 15 }}</h3>
-            {% endif %}
-          </a>
-          <p class="post-meta">
-          </p>
-        </article>
-
-        <hr>
-
-        {% endfor %}
-
-        <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">Ver todos os posts &rarr;</a>
-        </div>
