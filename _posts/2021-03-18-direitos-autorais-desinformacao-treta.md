@@ -69,7 +69,7 @@ Alguns pontos principais da apuração do **Núcleo**:
 
 No primeiro semestre de 2020, o [Twitter](https://transparency.twitter.com/en/reports/copyright-notices.html#2020-jan-jun) teve uma taxa de remoção de conteúdos de 54% em relação ao total de denúncias de violação de direitos autorais, ao passo que no [Facebook](https://transparency.facebook.com/intellectual-property) essa taxa foi de 81% no mesmo período. No Instagram e na rede de vídeos [TikTok](https://www.tiktok.com/safety/resources/transparency-report-2020-1?lang=en), a taxa foi de quase 90%.
 
-A rede de contatos profissionais [LinkedIn](https://about.linkedin.com/transparency/community-report#content-violations-2020-jan-jun), a única que discrimina remoção de desinformação (a partir de janeiro de 2020), removeu mais de 125 mil conteúdos (99,99% das solicitações) de violações de direitos autorais. Posts derrubados por desinformação foram 22,8 mil.
+A rede de contatos profissionais [LinkedIn](https://about.linkedin.com/transparency/community-report#content-violations-2020-jan-jun), a única que discrimina remoção de desinformação (a partir de janeiro de 2020), removeu mais de 125 mil conteúdos (99,99% das solicitações) com violações de direitos autorais. Posts derrubados por desinformação foram 22,8 mil.
 
 ![taxa de remoção de conteúdo - Twitter, Facebook e Instagram]({{ site.baseurl }}/img/remocao-conteudo/remocao_direitos_autorais.png)
 
