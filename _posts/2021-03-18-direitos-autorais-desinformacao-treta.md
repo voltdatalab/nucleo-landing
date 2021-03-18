@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Nas redes sociais, rigor por direitos autorais não vale para fake news. Por que?"
-titulo_redes: "Nas redes sociais, rigor por direitos autorais não vale para fake news. Por que?"
+title: "Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?"
+titulo_redes: "Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?"
 subtitle: "Histórico de processos e delimitação mais clara do que configura violação favorecem atuação mais rápida de plataformas em casos de direitos autorais"
 subtitle_redes: "Histórico de processos e delimitação mais clara do que configura violação favorecem atuação mais rápida de plataformas em casos de direitos autorais"
 excerpt: 'Histórico de processos e delimitação mais clara do que configura violação favorecem atuação mais rápida de plataformas em casos de direitos autorais'
