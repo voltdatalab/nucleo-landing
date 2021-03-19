@@ -15,7 +15,7 @@
 
                   <span class="arquivado" style="color:#fff;font-size:1em !important">
 
-                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot; em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}  <!-- &middot; em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a> -->
                   </span>
                 <!--<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><p class="conteudo"><i class="fas fa-long-arrow-alt-right"></i> {{ post.excerpt }}</p></a>-->
                 </div>
@@ -37,7 +37,7 @@
                   <br />
                   <span class="arquivado" style="color:#fff">
 
-                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot; em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} <!-- &middot; em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>-->
 
                   </span><br /><br />
 
