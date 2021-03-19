@@ -33,7 +33,7 @@ Faça parte do Garimpo: acesse nosso canal do Telegram para ajudar a construir e
 
 #### Últimas edições
 
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=5&showtitle=false&striphtml=true&forceutf8=true&type=js"></script>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=10&showtitle=false&type=js"></script>
 
 
 ---

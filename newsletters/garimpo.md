@@ -23,11 +23,10 @@ img{
   display: block;
   max-width: 100%;
 }
+
 </style>
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
-
-<br>
 
 <div id="newsletter_page" style="border: 1px solid black">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
@@ -46,23 +45,30 @@ img{
 </div>
 
 <br>
-
-
-
 **Garimpo** é uma newsletter gratuita e curtinha, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.
 
-É enviada de segunda a sexta-feira, a partir das 11h.
-
---- 
-
-#### Últimas edições
-
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=3&showtitle=false&striphtml=true&forceutf8=true&type=js"></script>
-
+É enviada de segunda a sexta-feira, por volta das 11h.
 
 ---
 
-#### Quem faz
+<div style="margin-bottom: 50px">
+<div class="row">
+<div class="col-md-6">
+<img src="{{ site.baseurl }}/img/garimpo_destaque.png" alt="img garimpo" width="100%">
+</div>
+
+<div class="col-md-6">
+<br>
+<p>Veja as últimas três edições:</p>
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=3&showtitle=false&type=js"></script>
+</div>
+</div>
+</div>
+
+---
+
+## Quem faz
 
 - **Curadoria**: [Raphael Evangelista](https://twitter.com/raphaevanges)
 
@@ -72,9 +78,6 @@ img{
 
 - **Edição**: [Alexandre Orrico](https://twitter.com/alexorrico)
 
-<br>
-
-![garimpo gif]({{ site.baseurl }}/img/garimpo_destaque.png)
 
 <hr>
 

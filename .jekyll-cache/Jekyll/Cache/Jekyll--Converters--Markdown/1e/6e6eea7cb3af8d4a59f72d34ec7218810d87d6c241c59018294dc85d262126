@@ -1,0 +1,108 @@
+I"<style>
+#newsletter_page{
+  margin: 0 auto;
+  width: 65%;
+}
+#newsletter_page label{
+  font-size: 1em;
+}
+
+img{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  max-width: 100%;
+}
+
+.garimpoimg{
+  float: left;
+  margin-left:-50px
+}
+
+/* Responsividade */
+@media(max-width:767px) {
+  float: left;
+  margin-left: 0
+}
+</style>
+
+<p><img src="/img/garimpo.png" alt="garimpo logo" /></p>
+
+<p><br /></p>
+
+<div id="newsletter_page" style="border: 1px solid black">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+<br />
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg" />
+  <input type="hidden" name="subform" value="yes" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA" />
+  </div>
+
+</form>
+</div>
+
+<p><br />
+<strong>Garimpo</strong> é uma newsletter gratuita e curtinha, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais – do Twitter ao Facebook, do Instagram ao TikTok, do ClubHouse ao que vier depois.</p>
+
+<p>É enviada de segunda a sexta-feira, a partir das 11h.</p>
+
+<p><img class="garimpoimg" src="/img/garimpo_destaque.png" alt="img garimpo" width="50%" /></p>
+
+<hr />
+
+<h4 id="últimas-edições">Últimas edições</h4>
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&amp;detail=-1&amp;limit=3&amp;showtitle=false&amp;type=js"></script>
+
+<hr />
+
+<p><br /><br /><br /><br /><br /></p>
+
+<h4 id="quem-faz">Quem faz</h4>
+
+<ul>
+  <li>
+    <p><strong>Curadoria</strong>: <a href="https://twitter.com/raphaevanges">Raphael Evangelista</a></p>
+  </li>
+  <li>
+    <p><strong>Desenvolvimento</strong>: <a href="https://twitter.com/renata_mh">Renata Hirota</a></p>
+  </li>
+  <li>
+    <p><strong>Arte</strong>: <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a></p>
+  </li>
+  <li>
+    <p><strong>Edição</strong>: <a href="https://twitter.com/alexorrico">Alexandre Orrico</a></p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<p><small>O uso de seus dados é regido pelo nossa <a href="/privacidade">política de privacidade</a>.</small></p>
+
+<p><small>Veja abaixo os principais pontos cobertos por essa política:</small></p>
+
+<ul>
+  <li>
+    <p><small>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small></p>
+  </li>
+  <li>
+    <p><small>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</small></p>
+  </li>
+  <li>
+    <p><small>Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;</small></p>
+  </li>
+  <li>
+    <p><small>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab. Você será avisado disso;</small></p>
+  </li>
+  <li>
+    <p><small>Fazemos um compromisso de tratar sua informação com zelo.</small></p>
+  </li>
+</ul>
+:ET
