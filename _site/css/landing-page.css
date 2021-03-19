@@ -114,7 +114,7 @@ li a{
 }
 
 .page-tt{
-  font-size: 2.5em;
+  font-size: 2.2em;
   color: #fff;
   text-transform: uppercase;
   /*background-color: rgba(75, 49, 221, 0.4);*/
@@ -128,7 +128,7 @@ li a{
 }
 
 .page-ttt{
-  font-size: 1.4em;
+  font-size: 1.1em;
   text-transform: uppercase;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.5);
@@ -259,7 +259,7 @@ label{
 
 .intro-message {
     position: relative;
-    padding: 5% 0
+    padding: 0 0 5%
 }
 
 .intro-message > h2 {
@@ -291,9 +291,10 @@ label{
     }
 
     ul.intro-social-buttons > li {
-        display: block;
+        /*display: block;*/
         margin-bottom: 20px;
         padding: 0;
+        margin-right: 6px;
     }
 
     ul.intro-social-buttons > li:last-child {
@@ -376,6 +377,9 @@ label{
 
     .col-lg-5{
       float: none !important;
+    }
+    .page-ttt{
+      font-size: 1em;
     }
 
 }
@@ -476,20 +480,24 @@ hr {
 .bannerpost{
   max-width:100%;
   padding: 15% 2% 3%;
-  margin-top: -17px;
+  /* margin-top: -17px;*/
   background-size: cover !important;
   background-position: center center;
   display: block;
   background-blend-mode: multiply;
 }
 
+.bannerpost:hover{
+  background-blend-mode: lighten;
+}
+
 .indexpost{
   max-width:100%;
-  padding: 15% 2% 3%;
+  padding: 15% 3% 10%;
   background-size: cover !important;
   background-position: top;
   display: block;
-  min-height: 250px;
+  height: 172px;
   background-blend-mode: multiply;
   border-bottom: 2px solid #fff
 }

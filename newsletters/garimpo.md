@@ -69,7 +69,7 @@ img{
 <div style="margin-bottom: 50px">
 <div class="row">
 <div class="col-md-6">
-<img src="{{ site.baseurl }}/img/garimpo_destaque.png" alt="img garimpo" width="100%">
+<img src="{{ site.baseurl }}/img/garimpo.gif" alt="img garimpo" width="100%">
 </div>
 
 <div class="col-md-6">
