@@ -1,0 +1,42 @@
+I"<style>
+.garimpo{
+  padding:10px 12px;
+  background-color:#4b31dd;
+  color:#fff;
+  border-radius:5px;
+  font-size: 0.95em
+}
+
+.garimpo:hover{
+  background-color:#0fb872;
+}
+</style>
+
+<p>Nos ajude a furar a bolha: traga seus amigos e familiares para o Garimpo e compartilhe nas redes sociais.</p>
+
+<ul class="share-buttons">
+  <li>
+    <i class="fas fa-share-alt"></i>
+  </li>
+<li><a href="https://twitter.com/intent/tweet?source=/newsletters/garimpo_ok%2F&amp;via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=/newsletters/garimpo_ok" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&amp;quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+<li><a href="whatsapp://send?text= - https://nucleo.jor.br/newsletters/garimpo_ok" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+<li><a href="http://www.reddit.com/submit?url=/newsletters/garimpo_ok" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&amp;title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/newsletters/garimpo_ok" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=' + encodeURIComponent(document.URL) + '&amp;title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+<li><a href="mailto:?subject=&amp;body=:%20/newsletters/garimpo_ok" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&amp;body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+</ul>
+
+<p>Estamos criando um grupo que vai ajudar a construir a newsletter e ajudar a furar bolhas criadas pelos algoritmos das Big Techs.</p>
+
+<p>Faça parte do Garimpo: acesse nosso canal do Telegram para ajudar a construir essa comunidade.</p>
+
+<p><a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank"><span class="garimpo">Faça parte</span></a></p>
+
+<hr />
+
+<h4 id="últimas-edições">Últimas edições</h4>
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&amp;detail=-1&amp;limit=10&amp;showtitle=false&amp;type=js"></script>
+
+<hr />
+:ET
