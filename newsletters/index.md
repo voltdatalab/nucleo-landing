@@ -23,6 +23,28 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 <hr>
 
+## GARIMPO
+
+O **Garimpo** é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo).
+
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+<br/>
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
+  </div>
+
+</form>
+</div>
+
+<hr>
+
 ## DESPACHO NUCLEAR
 
 Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
@@ -35,29 +57,7 @@ Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a 
 <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
 </div>
 <div class="revue-form-actions">
-  <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
-
-</form>
-</div>
-
-<hr>
-
-## GARIMPO
-
-O **Garimpo** é uma newsletter curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo).
-
-<div id="newsletter_page">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
+  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
   <input type="hidden" name="subform" value="yes"/>
   <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
@@ -82,7 +82,7 @@ Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jorna
 <br/><div style="display:none;">
 </div>
 <div class="revue-form-actions">
-  <input type="hidden" name="list" value="oDGc71s8Hf0efDXWJPOJtw"/>
+  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
   <input type="hidden" name="subform" value="yes"/>
   <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
