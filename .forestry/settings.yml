@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: _posts
+  label: reportagem
+  match: "**/*"
 - type: heading
   label: headers
 - type: jekyll-pages
