@@ -11,12 +11,19 @@
 		{% include post_index_alter.html %}
 		{% include post_mid_index.html %}
 
-		
+
 		{% include post_bottom_index.html %}
 
 	</section>
 
 		{% include footer.html %}
 		{% include js.html %}
+
+		<script>
+				var JEKYLLPLUS_REPO = 'voltdatalab/nucleo-landing/gh-pages';
+				var JEKYLLPLUS_PATH = '{{ page.path }}';
+				</script>
+				<script src='//cms.jekyllplus.com/assets/widget.js'/></script>
+				<link rel='stylesheet' href='//cms.jekyllplus.com/assets/widget.css'/>
 	</body>
 </html>
