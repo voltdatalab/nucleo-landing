@@ -7,7 +7,7 @@ titulo_redes: 'Clã Bolsonaro mirou Felipe Neto, mas acertou em "genocida" no Tw
 subtitle: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
 subtitle_redes: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
 excerpt: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
-date: 22/03/2021
+date: 22/03/2021 14:33
 analise: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
