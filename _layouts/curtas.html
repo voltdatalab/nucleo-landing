@@ -62,7 +62,11 @@
 													{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
 													{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
 													<br />
-
+													{% if page.atualizacao %}
+													<h4 class="arquivado creditos_alt" style="max-width:300px">
+														<i class="fas fa-exclamation-circle"></i> {{ page.atualizacao }}
+													</h4>
+													{% endif %}
 								</div>
 							</div>
 

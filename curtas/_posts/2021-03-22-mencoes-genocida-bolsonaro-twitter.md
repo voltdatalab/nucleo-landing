@@ -18,6 +18,7 @@ dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/1c63e752ee8bdac1cd
 background: 'bases-nucleo-01.png'
 atualizacao: ""
 como_fizemos: "O Núcleo utilizou dados da API do Twitter contendo o termo 'genocida' em tweets e retweets em português, de 11 a 21 de março."
+atualizacao: "Atualizado às 15h42 de 23.mar.2021 com explicação sobre 'Efeito Streisand', no segundo parágrafo (obrigado comunidade do Núcleo do Twitter)."
 categories:
   - "curtas"
 tags:
@@ -29,6 +30,8 @@ tags:
 ---
 
 Intimar Felipe Neto por ele ter [chamado](https://twitter.com/felipeneto/status/1371635310526746625) Jair Bolsonaro de "genocida" parece não ter sido boa estratégia. Além de a Justiça ter [suspendido](https://www.dw.com/pt-br/justi%C3%A7a-suspende-investiga%C3%A7%C3%A3o-de-felipe-neto-por-fala-contra-bolsonaro/a-56920359) a investigação e o youtuber ter criado uma coalizão para defender [de graça](https://www1.folha.uol.com.br/colunas/monicabergamo/2021/03/felipe-neto-ja-tem-apoio-de-80-advogados-para-frente-cala-a-boca-ja-morreu.shtml) quem for processado por criticar o presidente, o número de menções atrelando Bolsonaro a "genocida" disparou consideravelmente nos dias seguintes.
+
+Esse tipo de resultado é conhecido como [Efeito Streisand](https://www.uol.com.br/tilt/videos/2020/01/28/fake-em-nois-elvis-e-efeito-streisand-04024C993860D4B96326.htm): quanto mais se tenta suprimir um assunto, maior proporção ele toma.
 
 Considerando retweets, no dia em que Felipe Neto publicou o caso em seu Twitter, o uso do termo "genocida" chegou a quase 25 mil menções por hora, e parece ter "colado" nos dias seguintes.
 
