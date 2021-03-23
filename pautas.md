@@ -10,8 +10,6 @@ atualizacao: 24/02/2021
 
 O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas sobre o impacto da tecnologia na vida das pessoas, assim como debates e discussões de redes sociais.
 
-<div style="padding: 4%;border: 3px solid #f33872;margin-bottom:30px;">
-
 Veja abaixo a tabela de valores que costumamos pagar para frilas e os elementos que as compõem. Vale notar que nenhum valor é fechado, e que negociação pode ser feita dependendo da pauta e dos recursos apresentados.
 
 Os textos da seção [IDEIAS]({{ site.baseurl }}/ideias) possuem valor fixo, considerando que são mais simples de escrever e se baseiam em visões e experiências pessoais.
