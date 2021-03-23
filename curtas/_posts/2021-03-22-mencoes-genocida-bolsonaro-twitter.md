@@ -2,8 +2,8 @@
 published: TRUE
 layout: curtas
 tipo: curtas
-title: 'Clã Bolsonaro mirou Felipe Neto, mas acertou em "genocida" no Twitter'
-titulo_redes: 'Clã Bolsonaro mirou Felipe Neto, mas acertou em "genocida" no Twitter'
+title: "Clã Bolsonaro mirou Felipe Neto, mas acertou em 'genocida' no Twitter"
+titulo_redes: "Clã Bolsonaro mirou Felipe Neto, mas acertou em 'genocida' no Twitter"
 subtitle: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
 subtitle_redes: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
 excerpt: "Média de menções ao termo dispararam em 6x em relação aos dias anteriores"
