@@ -17,6 +17,7 @@ creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo"
 background: 'remocao-conteudo/direitosautorais-fakenews-01.png'
 dados_abertos: "Dados de remoções tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1v9JT8W28gLemUMCWU6o4_d1ejM74Ba6bIi_3rvss0Xo/edit?usp=sharing"
+atualizacao: "Gráfico atualizado em 20.mar.2021 para incluir nota sobre dados do LinkedIn, que apenas começaram a ser divulgados em 2018 - nenhuma informação foi alterada."
 categories:
   - "direitos"
 tags:

@@ -1,17 +1,19 @@
 <!-- Índice intermediário de destaque -->
-<div class="container" style="max-width:850px">
+<div style="padding: 40px 20px;margin: 0 0 50px 0;">
           <div class="row">
-          <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> REPORTAGENS ESPECIAIS</h5>
+          <h5 class="chapeu" style="margin-left: 15px;"><i class="fas fa-layer-group fa-lg"></i> REPORTAGENS ESPECIAIS</h5>
           <br /><br />
 {% for post in site.posts offset:0 limit:20 %}
 {% if post.tipo contains 'especial' %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
-          <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */
+      <div class="col-sm-6 col-lg-6">
+          <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover;">
+  background-size: cover;
+  height: 300px;">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                  <h3 class="page-ttt" style="font-size: 1.4em">{{ post.titulo_redes }}</h3></a>
+                  <h3 class="page-ttt" style="font-size: 1.6em">{{ post.titulo_redes }}</h3></a>
                   <br />
                   <span class="arquivado" style="color:#fff">
 
@@ -20,13 +22,13 @@
                   </span><br /><br />
 
                 </div>
+                </div>
                 {% endunless %}
                 {% endunless %}
                 {% endif %}
                 {% endfor %}
               </div>
-
-              <hr />
+              <h5 class="arquivado"><a href="{{ site.baseurl }}/especiais">Acesse todos os especiais >></a></h5>
       </div>
 
 <br />

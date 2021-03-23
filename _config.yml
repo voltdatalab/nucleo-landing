@@ -8,7 +8,7 @@ title: Núcleo Jornalismo
 email: nucleo@voltdata.info
 author: Núcleo Jornalismo
 description: > # "Write an awesome description for your new site here.
-  Análises e investigações sobre a tecnologia na sociedade
+  Análises e investigações sobre o impacto das redes sociais na sociedade
 copyright: '<img src="{{site.baseurl}}/img/landing-nucleo_logo+tagline.png" width="200px" />'
 credits: 'Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza Google Analytics.'
 
@@ -19,10 +19,11 @@ credits: 'Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Repro
 # Build settings
 markdown: kramdown
 permalink: /:categories/:year-:month-:day-:title
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
-paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate:           20
+paginate_path:      "/arquivo/p:num/"
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -39,6 +40,8 @@ social:
     url: https://wa.me/5511934441844
   - title: telegram
     url: https://t.me/nucleojor
+  - title: linkedin
+    url: https://www.linkedin.com/company/71866321
 
 collections:
   category:

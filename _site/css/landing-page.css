@@ -498,7 +498,7 @@ hr {
   display: block;
   height: 172px;
   background-blend-mode: multiply;
-  border-bottom: 2px solid #fff
+  border-bottom: 0px solid #fff
 }
 
 .indexpost:hover{

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+	{% include head_post.html %}
+	<body style="">
+		{% include nav.html %}
+		{% include popup.html %}
+
+
+		<!-- índice simples de matérias  -->
+		<div class="container">
+			<div class="row">
+			<div class="col-lg-5 col-md-4 col-sm-4">
+								<div class="post-heading-curta pull-left">
+									<h5 class="chapeu">
+										<i class="fas fa-compress-alt"></i> JOGO RÁPIDO <span style="font-weight:300"></span>
+									</h5>
+									<h1>{{ page.title }}</h1>
+									{% if page.subtitle %}
+									<h2 class="subheading">{{ page.subtitle }}</h3>
+									{% endif %}
+									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+									<span class="arquivado">
+					          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} &middot; Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
+
+										<br /><br />
+															{% assign currentYear = site.time | date: '%Y' %}
+															{% assign postYear = page.date | date: '%Y' %}
+															{% assign postAge = currentYear | minus: postYear | minus: 0 %}
+
+															{% if postAge >= 1 and postAge < 2 %}
+															<div class="maybe-obsolete">
+																<i class="fas fa-history fa-lg"></i> Este artigo foi publicado <strong> em {{ postYear }}</strong>, parte de seu conteúdo pode estar desatualizada ou obsoleta.
+															</div>
+															{% endif %}
+															{% if postAge >= 2 %}
+															<div class="maybe-obsolete">
+																<i class="fas fa-history"></i> Este artigo foi publicado há mais de <strong>{{ postAge }} anos</strong>, parte de seu conteúdo pode estar desatualizada ou obsoleta.
+															</div>
+															{% endif %}
+					        </span>
+									<span class="arquivado creditos_alt">
+
+									{% if page.reportagem %} Reportagem <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.reportagem }}</a></span><br /> {% else %} {% endif %}
+										{% if page.analise %} Análise <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_analise }}">{{ page.analise }}</a></span><br /> {% endif %}
+										{% if page.texto %} Texto <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_texto }}">{{ page.texto }}</a></span><br /> {% endif %}
+										{% if page.colaboracao %} Colaboração <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_colaboracao }}">{{ page.colaboracao }}</a></span><br /> {% endif %}
+										{% if page.graficos %} Gráficos <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_grafico }}">{{ page.graficos }}</a></span><br /> {% endif %}
+										{% if page.arte %} Arte <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_arte }}">{{ page.arte }}</a></span><br /> {% endif %}
+										{% if page.edicao %} Edição <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_edicao }}">{{ page.edicao }}</a></span>{% else %} Publicado por Equipe Núcleo {% endif %}
+									</span>
+									<br />
+									<br />
+									{% assign wordCount = page.content | number_of_words %}
+									<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }}</h4>
+									<h4 class="arquivado creditos_alt"><i class="fas fa-i-cursor"></i>&nbsp; Caracteres: {{ page.content | size }}</h4>
+									<h4 class="arquivado creditos_alt" style="max-width:300px"><i class="fas fa-tags"></i> Tags: {{ page.tags }}</h4>
+
+
+									<h4 class="arquivado creditos_alt" style="max-width:300px"><strong><i class="far fa-lightbulb"></i></strong> {{ page.como_fizemos }}</h4>
+									<br />
+													{% if page.dados_abertos %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h4> {% endif %}
+													{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
+													{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
+													<br />
+
+								</div>
+							</div>
+
+							<div class="col-lg-7 col-md-8 col-sm-8 conteudo-curtas" style="margin-top: 140px">
+
+								<ul class="share-buttons">
+									<li>
+										<i class="fas fa-share-alt"></i>
+									</li>
+								<li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+								<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+								<li><a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+							  <li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+							  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+							  <li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+							</ul>
+							<br />
+									{{ content }}
+
+									<!-- SUGESTÃO DE POSTS -->
+									<div style="padding: 0 5% 0px;max-width:550px">
+										<h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> LEIA MAIS</h5>
+										<br /><br />
+														<div class="row">
+
+									{% assign posts = site.posts | where_exp:"post","post.title != page.title" %}
+									{% for post in posts offset:0 limit: 4 %}
+
+									{% unless post.categories contains 'draft' %}
+									{% unless post.categories contains 'institucional' %}
+
+													<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+														<span class="arquivado" style="color:#000">
+
+															<i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}</a>
+
+														</span>
+																	<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+																		<img src="{{ site.baseurl }}/img/{{ post.background }}" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+																		<h3 class="page-tttt" >{{ post.titulo_redes }}</h3></a>
+																		<br />
+																		<br /><br />
+														</div>
+																	{% endunless %}
+																	{% endunless %}
+																	{% endfor %}
+
+																	</div>
+																	<h5 class="arquivado"><a href="{{ site.baseurl }}/posts">
+																		Acesse todo o arquivo >>
+																	</a></h5>
+																</div>
+									</div>
+
+							</div>
+						</div>
+
+
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

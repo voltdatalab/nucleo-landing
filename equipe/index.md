@@ -4,7 +4,7 @@ title: 'Equipe do Núcleo Jornalismo'
 desc: 'Conheça nossos profissionais'
 tagline: EQUIPE
 subtitle: 'Conheça nossos profissionais'
-atualizacao: 18/03/2021
+atualizacao: 22/03/2021
 ---
 
 O **Núcleo** é composto por pessoas comprometidas com o jornalismo e que possuem experiência em reportagem, análise de dados, investigações de documentos, estratégia digital e produtos editoriais.

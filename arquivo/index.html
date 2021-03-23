@@ -1,0 +1,78 @@
+---
+layout: posts
+title: 'Todas as nossas matérias'
+desc: 'Veja o índice de tudo o que já publicamos'
+tagline: 'ÍNDICE'
+link: posts
+atualizacao: 05/04/2020
+---
+
+
+
+<!-- índice simples de matérias  -->
+<div class="container" style="padding: 0 5% 0px;max-width:850px">
+          <div class="row">
+
+{% for post in paginator.posts %}
+{% unless post.categories contains 'draft' %}
+
+        <div class="col-sm-6 col-lg-6">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                  <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#000;font-weight:300">
+
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }} &middot; Arquivado em <a href="{{ site.baseurl }}/{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>
+
+                  </span>
+                  <br /><br />
+          </div>
+
+          {% endunless %}
+                {% endfor %}
+
+                <!-- Pagination links -->
+                </div>
+
+                  {% if paginator.previous_page %}
+                    <a href="{{ paginator.previous_page_path }}" class="previous arquivado">
+                      << Anterior
+                    </a>
+                  {% else %}
+                  <span class="previous arquivado" style="color:#333"><< Anterior</span></h5>
+                  {% endif %}
+                  <span class="page_number arquivado">
+                    Página: {{ paginator.page }} de {{ paginator.total_pages }}
+                  </span>
+                  {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path }}" class="next arquivado">Próxima >></a>
+                  {% else %}
+                    <span class="next arquivado" style="color:#333">Próxima >></span>
+                  {% endif %}
+
+            </div>
+
+
+<br /><br /><br />
+
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>

@@ -1,6 +1,8 @@
 <div class="container">
 <div class="row">
-{% for post in site.posts limit:1 offset:0 %}
+
+{% assign posts = site.posts | where_exp: "post", "post.tipo != 'curtas'"  %}
+{% for post in posts limit:1 offset:0 %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
 <br />
@@ -9,7 +11,7 @@
         <div class="container" style="min-height: 400px;">
                 <div class="col-sm-6"><br />
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                  <h5 class="chapeu"><i class="fas fa-fire-alt"></i> MAIS RECENTE</h5><br /><br />
+                  <h5 class="chapeu"><i class="fas fa-fire-alt"></i> DO FORNO</h5><br /><br />
                   <h2 class="page-tt" style="max-width: 30px;">{{ post.title | append: ''}}</h2></a>
                   <br /> <br />
 
@@ -27,7 +29,8 @@
 {% endunless %}
 {% endfor %}
 
-{% for post in site.posts offset:1 limit:3 %}
+{% for post in posts offset:1 limit:3 %}
+{% unless post.tipo contains 'curtas' %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
 <div class="col-sm-4 col-lg-4">
@@ -45,8 +48,10 @@
                 </div>
                 {% endunless %}
                 {% endunless %}
+                {% endunless %}
                 {% endfor %}
 </div>
+		{% include curtas_index.html %}
 <hr />
 </div>
 

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	{% include popup.html %}
+
+	<body>
+		{% include nav.html %}
+
+		<style>
+
+		.wrapper {
+		  width:860px;
+		  margin:0 auto;
+		}
+
+		header {
+		  width:270px;
+		  float:left;
+		  position:fixed;
+		}
+
+		section {
+		  width:500px;
+		  float:right;
+		  padding-bottom:50px;
+		}
+
+
+		@media print, screen and (max-width: 960px) {
+
+		  div.wrapper {
+		    width:auto;
+		    margin:0;
+		  }
+
+		  header, section {
+		    float:none;
+		    position:static;
+		    width:auto;
+		  }
+
+			header {
+		    padding-right:320px;
+		  }
+
+		  section {
+		    border:1px solid #eee;
+		    border-width:1px 0;
+		    padding:20px 0;
+		    margin:0 0 20px;
+		  }
+		}
+
+		@media print, screen and (max-width: 720px) {
+		  header {
+		    padding:0;
+		  }
+		}
+		</style>
+
+		{% for post in paginator.posts %}
+		<article class="post">
+		  {% if post.img %}
+		    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+		  {% else %}
+		  {% endif %}
+		  <div class="post-content">
+		    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+		    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+		    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+		    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+		  </div>
+		</article>
+		{% endfor %}
+
+
+		{% include footer.html %}
+		{% include js.html %}
+
+	</body>
+</html>

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Análises e investigações sobre a tecnologia na sociedade
+    <meta name="description" content="Análises e investigações sobre o impacto das redes sociais na sociedade
 ">
     <meta name="author" content="Núcleo Jornalismo">
     
@@ -97,21 +97,21 @@
 
 </head>
 
-	  <div id="popUp">
+	  <div id="popup">
     <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
     <div id="new"><span>AVISO</span></div>
     <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/privacidade" target="_blank">Política de Privacidade.</a></h2>
     <br>
-    <a target="_blank" class="button" id="close" style="cursor: pointer;">Aceitar</a>
+    <a target="_blank" class="button" id="close" style="cursor: pointer;">Ok</a>
   </div>
   <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
 
 
 <style>
-  #popUp {
+  #popup {
     position: fixed;
-    max-width: 250px;
-    height: 150px;
+    max-width: 260px;
+    height: 120px;
     background: #eeeeee;
     border: 7px solid #fff;
     bottom: 0;
@@ -128,13 +128,13 @@
     position: absolute;
     color: #4b31dd;
     padding: 4px 10px;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 600;
     letter-spacing: 1px;
     margin-top: -5px;
   }
 
-  #popUp .close {
+  #popup .close {
     color: #464646;
     right: 8px;
     top: 0px;
@@ -143,8 +143,8 @@
     cursor: pointer;
   }
 
-  #popUp h2 {
-    font-size: 12px;
+  #popup h2 {
+    font-size: 10px;
     color: #464646;
     line-height: 1.3em;
     font-weight: 400;
@@ -165,13 +165,13 @@
     left: 0;
     bottom: 8px;
     position: absolute;
-    width: 120px;
-    font-size: 12px;
+    width: 80px;
+    font-size: 11px;
     color: #fff;
     border-bottom: 2px solid #18729f;
     background: #4b31dd;
     border-radius: 4px;
-    padding: 4px 0;
+    padding: 2px 0;
   }
 
   #plus {
@@ -205,7 +205,7 @@
   }
 
   @media all and (max-width: 900px) {
-    #popUp {
+    #popup {
       /*margin-left: -425px;*/
       margin-left: 0;
     }
@@ -217,23 +217,25 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
 <script>
+
   $(document).scroll(function() {
     var scroll = $(this).scrollTop();
     if (scroll >= 150) {
-      $("#popUp").css("margin-left", "-425px");
+      $("#popup").css("margin-left", "-425px");
       $("#plus").css("margin-left", "0px");
     }
   });
 
   $("#plus").click(function() {
-    $("#popUp").css("margin-left", "0px");
+    $("#popup").css("margin-left", "0px");
     $("#plus").css("margin-left", "-425px");
   });
 
   $("#close").click(function() {
-    $("#popUp").css("margin-left", "-425px");
+    $("#popup").css("margin-left", "-425px");
     $("#plus").css("margin-left", "0px");
   });
+
 </script>
 
 
@@ -323,6 +325,10 @@
                   <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
                 </li>
                 
+                <li>
+                  <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
 
                 <li>
                     <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
@@ -362,13 +368,15 @@
 
 
 
+
+
 <br />
 <div class="col-sm-8 col-lg-8">
   <div class="bannerpost" style="background: url('../img/remocao-conteudo/direitosautorais-fakenews-01.png') rgba(0, 0, 0, 0.4);">
         <div class="container" style="min-height: 400px;">
                 <div class="col-sm-6"><br />
                 <a href="/direitos/2021-03-18-direitos-autorais-desinformacao-treta">
-                  <h5 class="chapeu"><i class="fas fa-fire-alt"></i> MAIS RECENTE</h5><br /><br />
+                  <h5 class="chapeu"><i class="fas fa-fire-alt"></i> DO FORNO</h5><br /><br />
                   <h2 class="page-tt" style="max-width: 30px;">Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?</h2></a>
                   <br /> <br />
 
@@ -382,6 +390,7 @@
               </div>
             </div>
             </div>
+
 
 
 
@@ -405,6 +414,8 @@
                 
                 
                 
+                
+
 
 
 <div class="col-sm-4 col-lg-4">
@@ -423,6 +434,8 @@
                 
                 
                 
+                
+
 
 
 <div class="col-sm-4 col-lg-4">
@@ -441,7 +454,65 @@
                 
                 
                 
+                
 </div>
+		
+<!-- índice simples de matérias  -->
+<div style="margin-top:20px">
+
+
+  <h5 class="chapeu"><i class="fas fa-compress-alt"></i> JOGO RÁPIDO</h5>
+  <br /><br />
+          <div class="row">
+
+            
+            
+
+        <div class="col-sm-3 col-lg-3" style="min-height:50px">
+                <a href="/curtas/2021-03-22-mencoes-genocida-bolsonaro-twitter">
+                  <h3 class="page-tttt">Clã Bolsonaro mirou Felipe Neto, mas acertou em "genocida" no Twitter</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#000">
+
+                    <i class="far fa-calendar-alt"></i> 22/03/2021  <!-- &middot; Arquivado em <a href="curtas"><span class="spancateg"> curtas</span></a> -->
+
+                  </span>
+          </div>
+                
+                
+            
+                
+            
+                
+            
+                
+                </div>
+                <h5 class="arquivado"><a href="/curtas">Acesse todos os curtas >></a></h5>
+
+  </div>
+
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>
+
 <hr />
 </div>
 
@@ -475,6 +546,10 @@
 								<a href="https://t.me/nucleojor" target="_blank"><i class="fab fa-telegram fa-lg"></i> </a>
 							</li>
 							
+							<li>
+								<a href="https://www.linkedin.com/company/71866321" target="_blank"><i class="fab fa-linkedin fa-lg"></i> </a>
+							</li>
+							
 						</ul><br />
 						<a class="btn" href="">Conheça nossas newsletters</a> <br />
 					</div>
@@ -486,9 +561,9 @@
 
 
 		<!-- Índice intermediário de destaque -->
-<div class="container" style="max-width:850px">
+<div style="padding: 40px 20px;margin: 0 0 50px 0;">
           <div class="row">
-          <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> REPORTAGENS ESPECIAIS</h5>
+          <h5 class="chapeu" style="margin-left: 15px;"><i class="fas fa-layer-group fa-lg"></i> REPORTAGENS ESPECIAIS</h5>
           <br /><br />
 
 
@@ -500,13 +575,17 @@
 
                 
 
+                
 
 
-          <div class="indexpost" style="background: url('../img/telegram/telegram-direita-02.png') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */
+
+      <div class="col-sm-6 col-lg-6">
+          <div class="indexpost" style="background: url('../img/telegram/telegram-direita-02.png') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover;">
+  background-size: cover;
+  height: 300px;">
                 <a href="/redes/2021-02-18-telegram-extrema-direita">
-                  <h3 class="page-ttt" style="font-size: 1.4em">Telegram, o novo refúgio da extrema direita</h3></a>
+                  <h3 class="page-ttt" style="font-size: 1.6em">Telegram, o novo refúgio da extrema direita</h3></a>
                   <br />
                   <span class="arquivado" style="color:#fff">
 
@@ -515,6 +594,7 @@
                   </span><br /><br />
 
                 </div>
+                </div>
                 
                 
                 
@@ -540,11 +620,13 @@
 
 
 
-          <div class="indexpost" style="background: url('../img/social-fb/facebook_imagem_2.jpeg') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */
+      <div class="col-sm-6 col-lg-6">
+          <div class="indexpost" style="background: url('../img/social-fb/facebook_imagem_2.jpeg') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover;">
+  background-size: cover;
+  height: 300px;">
                 <a href="/redes/2020-10-15-facebook-nao-morreu">
-                  <h3 class="page-ttt" style="font-size: 1.4em">O Facebook não morreu</h3></a>
+                  <h3 class="page-ttt" style="font-size: 1.6em">O Facebook não morreu</h3></a>
                   <br />
                   <span class="arquivado" style="color:#fff">
 
@@ -553,11 +635,10 @@
                   </span><br /><br />
 
                 </div>
+                </div>
                 
                 
                 
-                
-
                 
 
                 
@@ -568,8 +649,7 @@
 
                 
               </div>
-
-              <hr />
+              <h5 class="arquivado"><a href="/especiais">Acesse todos os especiais >></a></h5>
       </div>
 
 <br />
@@ -578,95 +658,99 @@
 
 		
 <!-- índice simples de matérias  -->
-<div class="container" style="padding: 0 5% 0px;max-width:850px">
+<div class="container" style="padding: 0 5% 0px;max-width:650px">
 
-<div style="padding: 0 5% 0px;max-width:850px">
   <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> DO ARQUIVO</h5>
   <br /><br />
           <div class="row">
 
 
-        <div class="col-sm-6 col-lg-6">
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
+                <a href="/media/2021-02-04-veiculos-digitais-desertos-atlas">
+                  <h3 class="page-tttt">Nos rincões do Brasil, blogs irrigam desertos de notícia</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#000">
+
+                    <i class="far fa-calendar-alt"></i> 04/02/2021  <!-- &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a> -->
+
+                  </span>
+                  <br /><br />
+          </div>
+                
+                
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
                 <a href="/ideias/2021-01-28-jornalista-utilidade-redes-sociais">
                   <h3 class="page-tttt">Usar redes de forma crítica pode ser melhor do que deixá-las</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> 28/01/2021  <!-- &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a> --> 
+                    <i class="far fa-calendar-alt"></i> 28/01/2021  <!-- &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a> -->
 
                   </span>
                   <br /><br />
           </div>
-
                 
-        <div class="col-sm-6 col-lg-6">
+                
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
                 <a href="/ideias/2021-01-22-jornalista-sem-redes-sociais">
                   <h3 class="page-tttt">Jornalista sem Twitter, Instagram ou Facebook</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> 22/01/2021  <!-- &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a> --> 
+                    <i class="far fa-calendar-alt"></i> 22/01/2021  <!-- &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a> -->
 
                   </span>
                   <br /><br />
           </div>
-
                 
-        <div class="col-sm-6 col-lg-6">
+                
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
                 <a href="/institucional/2021-01-15-nucleo-reposicionamento-tech">
                   <h3 class="page-tttt">Nova fase do Núcleo: jornalismo + dados + tecnologia</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> 15/01/2021  <!-- &middot; Arquivado em <a href="institucional"><span class="spancateg"> institucional</span></a> --> 
+                    <i class="far fa-calendar-alt"></i> 15/01/2021  <!-- &middot; Arquivado em <a href="institucional"><span class="spancateg"> institucional</span></a> -->
 
                   </span>
                   <br /><br />
           </div>
-
                 
-        <div class="col-sm-6 col-lg-6">
+                
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
                 <a href="/governo/2020-11-28-vereadores-jovens-brasil-2020">
                   <h3 class="page-tttt">Proporção de vereadores jovens continua em queda</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> 28/11/2020  <!-- &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a> --> 
+                    <i class="far fa-calendar-alt"></i> 28/11/2020  <!-- &middot; Arquivado em <a href="governo"><span class="spancateg"> governo</span></a> -->
 
                   </span>
                   <br /><br />
           </div>
-
                 
-        <div class="col-sm-6 col-lg-6">
+                
+
+        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
                 <a href="/urbe/2020-11-17-isolamento-social-relaxamento-brasil">
                   <h3 class="page-tttt">Mobilidade no Brasil está normal desde julho</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> 17/11/2020  <!-- &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a> --> 
+                    <i class="far fa-calendar-alt"></i> 17/11/2020  <!-- &middot; Arquivado em <a href="urbe"><span class="spancateg"> urbe</span></a> -->
 
                   </span>
                   <br /><br />
           </div>
-
                 
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-11-10-vereadores-reeleicao-desertos-noticia">
-                  <h3 class="page-tttt">Em desertos de notícia, vereadores buscam mais a reeleição</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000">
-
-                    <i class="far fa-calendar-alt"></i> 10/11/2020  <!-- &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a> --> 
-
-                  </span>
-                  <br /><br />
-          </div>
-
                 
                 </div>
                 <h5 class="arquivado"><a href="/posts">Acesse todo o arquivo >></a></h5>
-              </div>
             </div>
 
 
@@ -768,6 +852,10 @@
                   
                   <li>
                     <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
                   </li>
                   
                   <li>

@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="{{ site.author }}">
-    {% if page.noindex == 'ativo' %}
+    {% if page.noindex contains 'ativo' %}
     <meta name="robots" content="noindex" />
     <meta name="googlebot" content="noindex">
     {% else %}
