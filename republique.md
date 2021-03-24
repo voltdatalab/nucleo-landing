@@ -4,16 +4,20 @@ title: 'Jornalismo do Núcleo em outros veículos'
 desc: 'O Núcleo permite, caso a caso, que outras publicações republiquem nosso conteúdo, a fim de aumentar a abrangência do nosso jornalismo.'
 tagline: Republicação
 subtitle: ''
-atualizacao: 04/03/2021
+atualizacao: 24/03/2021
 ---
 
-O **Núcleo** permite que outras publicações republiquem nosso conteúdo, a fim de aumentar a abrangência do nosso jornalismo e de nossos projetos. Saiba mais sobre nosso impacto [nesta página]({{ site.baseurl }}/impacto).
+O **Núcleo** permite que outros sites de jornalismo republiquem nosso conteúdo, a fim de aumentar a abrangência do nosso jornalismo e de nossos projetos. Saiba mais sobre nosso impacto [nesta página]({{ site.baseurl }}/impacto).
+
+Caso sua iniciativa jornalística tenha interesse em republicar nosso conteúdo, entre em contato: [nucleo@votdata.info](mailto:nucleo@voltdata.info)
 
 ## COMO FUNCIONA?
 
 - **AUTORIZAÇÃO**: Permissões para republicações de nossas matérias são discutidas caso a caso com editores de outros veículos. Nosso conteúdo **não** é _Creative Commons_ nem possui nenhum outro tipo de licença aberta, é necessário nossa autorização para republicar.  
 
 - **VALORES**: Fazer jornalismo de qualidade custa caro. A cobrança por licenciamento varia de acordo com as conversas, e uma reportagem pode até mesmo ser cedida gratuitamente caso isso faça parte da estratégia de impacto digital do **Núcleo**.
+
+- **TIMING**: Reportagens cedidas gratuitamente não podem ser reproduzidas antes de 24h da publicação original no site do **Núcleo**.
 
 - **ALTERAÇÕES**: Caso uma matéria seja cedida ao seu veículo, quaisquer alterações de conteúdo precisam ser combinadas de antemão com os editores do **Núcleo**, inclusive título.
 
@@ -23,20 +27,8 @@ O **Núcleo** permite que outras publicações republiquem nosso conteúdo, a fi
 
 - **COMO CREDITAR O NÚCLEO**: Crédito de republicações deverá ser dado a `Núcleo Jornalismo`, obrigatoriamente com o link para a análise de referência ou para o site `www.nucleo.jor.br`.
 
-Caso sua iniciativa jornalística tenha interesse em republicar nosso conteúdo, entre em contato.
 
-##### Estamos nesses canais:
-
-<i class="fab fa-whatsapp"></i> [Whatsapp](https://wa.me/5511934441844)
-
-<i class="fab fa-telegram"></i> [Telegram](https://t.me/nucleojor )
-
-<i class="far fa-envelope"></i> [nucleo@voltdata.info](mailto:nucleo@voltdata.info)
-
-<i class="fab fa-twitter"></i> [@nucleojor](https://twitter.com/nucleojor)
-
-
-## &#8594; Matérias republicadas em parceria
+## Matérias republicadas em parceria
 
 {% for rep in site.data.republicacao %}
 
