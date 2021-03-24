@@ -12,7 +12,6 @@ reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
 background: 'nucleo-geral-fit.png'
-atualizacao: ""
 como_fizemos: "A partir do anúncio de Mark Zuckerberg sobre a iniciativa do Facebook, o Núcleo procurou a assessoria de imprensa do Facebook para saber sobre planos para o Brasil."
 categories:
   - "curtas"
