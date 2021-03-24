@@ -11,7 +11,7 @@ date: 24/03/2021 10:57
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
-background: 'bases-nucleo-01.png'
+background: 'nucleo-geral-fit.png'
 atualizacao: ""
 como_fizemos: "A partir do anúncio de Mark Zuckerberg sobre a iniciativa do Facebook, o Núcleo procurou a assessoria de imprensa do Facebook para saber sobre planos para o Brasil."
 categories:
