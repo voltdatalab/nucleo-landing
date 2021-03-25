@@ -20,7 +20,7 @@ dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1dbt-Nez3u1EUaPy9cC27ENCXl-oBEmIcM9MHD1QEcqo/edit?usp=sharing"
 dados_abertos2: "Código de análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"
-atualizacao: "Alteração feita em 25.mar.2021 para retificar 'dezembro de 2021' para 'dezembro de 2020', no segundo parágrafo. Acrescenta tweet com exemplo de resposta do instituto a usuário do Twitter."
+atualizacao: "Alteração feita em 25.mar.2021 para retirar os nomes mencionados na sociedade da empresa Brazilian Brands Company, a fim de evitar exposição indevida dessa informação. Os dados continuam abertos no site da Receita ou no Google. Alteração feita em 25.mar.2021 para retificar 'dezembro de 2021' para 'dezembro de 2020', no segundo parágrafo. Acrescenta tweet com exemplo de resposta do instituto a usuário do Twitter."
 categories:
   - "reportagem"
 tags:
@@ -62,9 +62,9 @@ Com a covid-19, dois desafios mais imediatos chegaram ao departamento de Comunic
 
 Para isso, o instituto contratou, por [R$ 598 mil reais](https://fundacaobutantan.org.br/despachos-da-superintendencia/extratos/processo-001-0708-002.396-2020) por quatro meses, a Brazilian Brands Company para realizar o monitoramento das redes. O contrato venceu em 6 de março de 2021, mas o Butantan informou ao **Núcleo** que pretende renová-lo.
 
-A agência, aberta em 2011 e com sede na Vila Olímpia, em São Paulo, não possui site próprio e tem sócio único de acordo com o [site](https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=15598245000130) da Receita Federal. Parece ter havido uma troca na sociedade -- na mesma família. A empresa consta como fundada por Jessica Hollaender Noccioli Monteiro Alves, mas no site da receita atualmente o sócio é Orlando Monjardim Noccioli Monteiro Alves.
+A agência, aberta em 2011 e com sede na Vila Olímpia, em São Paulo, não possui site próprio e tem sócio único de acordo com o [site](https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=15598245000130) da Receita Federal. Parece ter havido uma troca na sociedade -- na mesma família. A empresa consta como fundada por uma pessoa, mas no site da receita atualmente o sócio é outro.
 
-O **Núcleo** tentou contato com Jessica no email indicado no site da Receita para entender mais sobre a empresa, mas não obteve retorno.
+O **Núcleo** tentou contato com o email indicado no site da Receita para entender mais sobre a empresa, mas não obteve retorno.
 
 Uma consulta na ferramenta [Cruzagrafos](http://cruzagrafos.abraji.org.br/), da Abraji, que permite visualizar relações entre empresas e pessoas físicas, mostra que nem o proprietário atual nem a fundadora possuem ligação conhecida com outras empresas ou organizações.
 
