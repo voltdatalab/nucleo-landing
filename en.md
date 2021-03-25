@@ -18,7 +18,7 @@ Our journalism is for everyone, but our main target audience are civil servants,
 
 We have {{ staff }} people currently collaborating with us.
 
-<div style="margin-bottom: 220px;">
+<div class="row">
 
 {% for d in site.data.equipe %}
 
@@ -34,8 +34,6 @@ We have {{ staff }} people currently collaborating with us.
 {% endfor %}
 
 </div>
-
-<br><br><br><br>
 
 ## FUNDING
 
