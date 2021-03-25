@@ -42,7 +42,7 @@ A estratégia da instituição, ligada ao governo do Estado de São Paulo, deu c
 
 ###### É importante porque...
 
-- *Butantan tem sido uma das principais organizações do Brasil quanto se trata de vacinas*
+- *Butantan tem sido uma das principais organizações do Brasil quando se trata de vacinas*
 
 - *Mostra o peso das redes sociais na estratégia de comunicação até de entidades centenárias*   
 
