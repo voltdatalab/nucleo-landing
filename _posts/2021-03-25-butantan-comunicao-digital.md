@@ -93,6 +93,8 @@ Antes de dezembro, a palavra mais frequente em tweets do instituto era "coletiva
 
 E não são só os tweets elogiosos e engraçados que rendem respostas. "Quem está do nosso lado não é a pessoa com quem temos que dialogar no momento, e sim esclarecer quem tem dúvidas, está com uma informação errada ou tem uma ideia pré-concebida de vacinas", explicou Retz, a gerente de comunicação do Butantan.
 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Bom dia, Marcia. Vale lembrar que não é &#39;vachina&#39;, é a vacina do Brasil, ok?! A vacina produzida pelo Butantan é segura, eficaz e vai salvar vidas. Segundo análise da Lancet, a revista científica de maior prestígio no mundo, o imunizante é seguro e tem capacidade de (+)</p>&mdash; Instituto Butantan (@butantanoficial) <a href="https://twitter.com/butantanoficial/status/1371443647724544002?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br>
+
 No Facebook, o auge da comunicação do instituto [ocorreu](https://www.facebook.com/165443043496125/posts/5031650953541952) em 7 de janeiro, quando a conta postou o vídeo do momento em que os diretores do Butantan recebiam os resultados de eficácia da vacina. O clipe foi reproduzido mais de 750 mil vezes, segundo o CrowdTangle, ferramenta de dados da rede.
 
 ![grafico Facebook Butantan]({{ site.baseurl }}/img/butantan/butantan_-acumulado_facebook.png)
