@@ -20,6 +20,7 @@ dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1dbt-Nez3u1EUaPy9cC27ENCXl-oBEmIcM9MHD1QEcqo/edit?usp=sharing"
 dados_abertos2: "Código de análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"
+atualizacao: "Alteração feita em 25.mar.2021 para retificar 'dezembro de 2021' para 'dezembro de 2020', no segundo parágrafo. Acrescenta tweet com exemplo de resposta do instituto a usuário do Twitter."
 categories:
   - "reportagem"
 tags:
@@ -35,7 +36,7 @@ tags:
 
 Um feed antes dominado por cobras, serpentes e escorpiões foi cedendo espaço a imagens de ampolas, seringas, infográficos e até mesmo um videoclipe de funk no [canal](https://www.youtube.com/watch?v=yQ8xJHuW7TY) do KondZilla com mais de 12 milhões de views. A linha do tempo dos perfis do Instituto Butantan nas redes sociais conta a história de uma guinada na estratégia digital de comunicação da instituição centenária, que ganhou protagonismo no desenrolar da pandemia principalmente por causa da busca de vacinas contra o coronavírus no Brasil.
 
-A estratégia da instituição, ligada ao governo do Estado de São Paulo, deu certo: hoje o Butantan pauta as redes brasileiras quando o assunto é vacina.  Uma análise do **Núcleo** a partir de publicações do Butantan no Facebook e no Twitter mostra uma virada de chave no posicionamento das redes sociais do instituto a partir de dezembro de 2021, mês que antecedeu o início da campanha de vacinação com o imunizante ali produzido.
+A estratégia da instituição, ligada ao governo do Estado de São Paulo, deu certo: hoje o Butantan pauta as redes brasileiras quando o assunto é vacina.  Uma análise do **Núcleo** a partir de publicações do Butantan no Facebook e no Twitter mostra uma virada de chave no posicionamento das redes sociais do instituto a partir de dezembro de 2020, mês que antecedeu o início da campanha de vacinação com o imunizante ali produzido.
 
 ---
 
