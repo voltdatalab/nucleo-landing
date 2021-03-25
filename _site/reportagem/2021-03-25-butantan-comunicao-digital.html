@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    
+    <meta name="robots" content="index, follow" />
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <title>Núcleo Jornalismo</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/css/landing-page.css" rel="stylesheet">
+    <link href="/css/post.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/font-awesome-5.12.0/css/all.css" rel="stylesheet" type="text/css">
+
+    <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,700|Days+One|Roboto+Mono|Source+Serif+Pro:400,700&display=swap" rel="stylesheet">
+
+    <meta name="keywords" content="Vacina, Instituto Butantan, Covid Pandemia, Twitter, Facebook, Estratégia digital"/>
+    <meta property="og:site_name" content="Núcleo Jornalismo">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:title" content="De cobras a funk: a guinada digital do Butantan" />
+    <meta property="og:description" content="Maior presença nas redes, interação com os usuários e engajamento -- na esteira da Coronovac" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital" />
+    <meta property="article:published_time" content="2021-03-25 09:48:00 -0300">
+
+    <!-- FACEBOOK -->
+    <meta property="og:image" content="https://nucleo.jor.br/img/butantan/cover.png" />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@nucleojor" />
+    <meta name="twitter:creator" content="@nucleojor" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-104963816-3');
+    </script>
+
+</head>
+
+	<body>
+		<!-- Navigation -->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Navegação mobile</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="210px"/> </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/newsletters">NEWSLETTERS</a>
+                </li>
+                <li class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                  style="background:none;padding:0;"
+                  ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
+                      <ul class="dropdown-menu">
+                        <li class="dropdown-header">SEÇÕES</li>
+                        <li><a href="/ideias">IDEIAS</a></li>
+                        <li>  <a href="/especiais">ESPECIAIS</a></li>
+                        <li>  <a href="/arquivo">ARQUIVO</a></li>
+                        <li><a href="/monitor">MONITOR NUCLEAR</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">INSTITUCIONAL</li>
+                        <li><a href="/sobre">SOBRE O NÚCLEO</a></li>
+                        <li><a href="/equipe">NOSSA EQUIPE</a></li>
+                        <li><a href="/pautas">COLABORE CONOSCO</a></li>
+                        <li><a href="/republique">REPUBLICAÇÕES</a></li>
+                        <li><a href="/impacto">NOSSO IMPACTO</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">POLÍTICAS</li>
+                        <li><a href="/privacidade">PRIVACIDADE</a></li>
+                        <li><a href="/transparencia">TRANSPARÊNCIA</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">SAIBA MAIS</li>
+                        <li><a href="/cobertura">COBERTURA DE TECH</a></li>
+                        </ul>
+              </li>
+              <li class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                style="background:none;padding:0;"
+                ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
+                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px">
+                  <li>
+                <form action="/busca.html" method="get">
+                <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                </ul>
+
+                </li>
+                <!--
+                <li>
+                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
+                </li>
+
+                
+                <li>
+                  <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+
+                <li>
+                    <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
+                </li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<script>
+  $(function(){
+  	$(".dropdown-menu > li > a.trigger").on("click",function(e){
+  		var current=$(this).next();
+  		var grandparent=$(this).parent().parent();
+  		if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+  			$(this).toggleClass('right-caret left-caret');
+  		grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+  		grandparent.find(".sub-menu:visible").not(current).hide();
+  		current.toggle();
+  		e.stopPropagation();
+  	});
+  	$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+  		var root=$(this).closest('.dropdown');
+  		root.find('.left-caret').toggleClass('right-caret left-caret');
+  		root.find('.sub-menu:visible').hide();
+  	});
+  });
+</script>
+
+		  <div id="popup">
+    <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
+    <div id="new"><span>AVISO</span></div>
+    <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/privacidade" target="_blank">Política de Privacidade.</a></h2>
+    <br>
+    <a target="_blank" class="button" id="close" style="cursor: pointer;">Ok</a>
+  </div>
+  <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
+
+
+<style>
+  #popup {
+    position: fixed;
+    max-width: 260px;
+    height: 120px;
+    background: #eeeeee;
+    border: 7px solid #fff;
+    bottom: 0;
+    margin-left: 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 1000000
+  }
+
+  #new span {
+    background: #fff;
+    position: absolute;
+    color: #4b31dd;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: -5px;
+  }
+
+  #popup .close {
+    color: #464646;
+    right: 8px;
+    top: 0px;
+    position: absolute;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  #popup h2 {
+    font-size: 10px;
+    color: #464646;
+    line-height: 1.3em;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 40px;
+    padding: 0 20px;
+  }
+
+  #body {
+    height: 1200px;
+    background: #eee;
+  }
+
+  a.button {
+    margin: 0 auto;
+    text-align: center;
+    right: 0;
+    left: 0;
+    bottom: 8px;
+    position: absolute;
+    width: 80px;
+    font-size: 11px;
+    color: #fff;
+    border-bottom: 2px solid #18729f;
+    background: #4b31dd;
+    border-radius: 4px;
+    padding: 2px 0;
+  }
+
+  #plus {
+    position: fixed;
+    color: #fff;
+    bottom: 15%;
+    font-size: 15px;
+    margin-left: -425px;
+    -webkit-transition: all 1.25s ease;
+    -moz-transition: all 1.25s ease;
+    -o-transition: all 1.25s ease;
+    transition: all 1.25s ease;
+    cursor: pointer;
+    text-align: left;
+    letter-spacing: 1px;
+  }
+
+  #plus span {
+    position: absolute;
+    margin-top: 38px;
+    left: 4px;
+  }
+
+  #plus::after {
+    content: '';
+    display: block;
+    display: relative;
+    border-top: 55px solid transparent;
+    border-bottom: 55px solid transparent;
+    border-left: 55px solid #f33872;
+  }
+
+  @media all and (max-width: 900px) {
+    #popup {
+      /*margin-left: -425px;*/
+      margin-left: 0;
+    }
+    #plus {
+      margin-left: 0px;
+    }
+  }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
+<script>
+
+  $(document).scroll(function() {
+    var scroll = $(this).scrollTop();
+    if (scroll >= 150) {
+      $("#popup").css("margin-left", "-425px");
+      $("#plus").css("margin-left", "0px");
+    }
+  });
+
+  $("#plus").click(function() {
+    $("#popup").css("margin-left", "0px");
+    $("#plus").css("margin-left", "-425px");
+  });
+
+  $("#close").click(function() {
+    $("#popup").css("margin-left", "-425px");
+    $("#plus").css("margin-left", "0px");
+  });
+
+</script>
+
+<!-- Page Header -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-heading">
+
+        <h1>De cobras a funk: a guinada na comunicação do Butantan</h1>
+        
+        <h2 class="subheading">Instituto intensifica presença nas redes, interação com os usuários e aumenta engajamento na esteira do desenvolvimento da Coronovac no Brasil</h2>
+        
+        <span class="arquivado">
+          Publicado em 25/03/2021 09:48 &middot; Arquivado em <u><a href="/reportagem"><span> reportagem</span></a></u>
+
+					<br /><br />
+										
+										
+										
+
+										
+										
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h6 class="feature_credito"> Rodolfo Almeida </h6>
+
+
+<header class="masthead" style="background-image: url('../img/butantan/cover.png')">
+  
+    <div class="overlay"></div>
+  </header>
+
+
+
+<div class="container wrap sidebar-right box_conteudo">
+  <div class="container">
+    <div class="row">
+			<div class="creditos">
+				<div class="sidebar col-sm-4">
+					<span class="arquivado creditos_alt">
+
+					 Reportagem <span><a href="/equipe/">Laís Martins</a></span><br /> 
+						 Análise <span><a href="/equipe/">Lucas Gelape</a></span><br /> 
+						
+						
+						
+						 Arte <span><a href="/equipe/">Rodolfo Almeida</a></span><br /> 
+						 Edição <span><a href="/equipe/">Sérgio Spagnuolo</a></span>
+					</span>
+					<br />
+					<br />
+					
+					<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: 1565</h4>
+					<h4 class="arquivado creditos_alt"><i class="fas fa-i-cursor"></i>&nbsp; Caracteres: 12328</h4>
+
+					<h4 class="arquivado creditos_alt"><i class="far fa-clock"></i> Leitura estimada: 8 minutos</h4>
+
+
+
+					<h4 class="arquivado creditos_alt">
+					<div class="popover__wrapper" style="margin:0 auto">
+									<i class="fas fa-list-alt"></i> Formato: <span class="popover__title"><u>reportagem</u></span>
+											<div class="popover__content">
+												<p class="popover__message">
+													- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
+													- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
+													- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
+													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
+													- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
+													- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
+												</p>
+											</div>
+										</div>
+										<br /><br />
+									</h4>
+
+					<!--
+					<ul class="share-buttons">
+						<li>
+							<i class="fas fa-share-alt"></i>
+						</li>
+					<li><a href="https://twitter.com/intent/tweet?source=/reportagem/2021-03-25-butantan-comunicao-digital%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+					<li><a href="whatsapp://send?text=De cobras a funk: a guinada digital do Butantan - https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+				  <li><a href="http://www.reddit.com/submit?url=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+				  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+				  <li><a href="mailto:?subject=&body=:%20/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+				</ul>
+			-->
+
+				
+
+				
+
+
+
+				<hr class="hrtop"/>
+
+				<!-- Floating Social Media bar Starts -->
+<div class="float-sm" style="background: #000 !important; width:100%">
+	<div class="fl-fl float-shareicon" style="background-color: transparent">
+		<i class="fas fa-share-alt fa-lg"></i>
+  </div>
+  <div class="fl-fl float-fb">
+		<a href="https://twitter.com/intent/tweet?source=/reportagem/2021-03-25-butantan-comunicao-digital%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-tw">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-gp">
+    <a href="whatsapp://send?text=De cobras a funk: a guinada digital do Butantan - https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-rs">
+    <a href="http://www.reddit.com/submit?url=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-ig">
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url=/reportagem/2021-03-25-butantan-comunicao-digital" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+</div>
+<!-- Floating Social Media bar Ends -->
+
+			</div>
+		</div>
+			<div class="main col-sm-7">
+        <div class="texto_post">
+
+        <p>Um feed antes dominado por cobras, serpentes e escorpiões foi cedendo espaço a imagens de ampolas, seringas, infográficos e até mesmo um videoclipe de funk no <a href="https://www.youtube.com/watch?v=yQ8xJHuW7TY">canal</a> do KondZilla com mais de 12 milhões de views. A linha do tempo dos perfis do Instituto Butantan nas redes sociais conta a história de uma guinada na estratégia digital de comunicação da instituição centenária, que ganhou protagonismo no desenrolar da pandemia principalmente por causa da busca de vacinas contra o coronavírus no Brasil.</p>
+
+<p>A estratégia da instituição, ligada ao governo do Estado de São Paulo, deu certo: hoje o Butantan pauta as redes brasileiras quando o assunto é vacina.  Uma análise do <strong>Núcleo</strong> a partir de publicações do Butantan no Facebook e no Twitter mostra uma virada de chave no posicionamento das redes sociais do instituto a partir de dezembro de 2021, mês que antecedeu o início da campanha de vacinação com o imunizante ali produzido.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Butantan tem sido uma das principais organizações do Brasil quanto se trata de vacinas</em></p>
+  </li>
+  <li>
+    <p><em>Mostra o peso das redes sociais na estratégia de comunicação até de entidades centenárias</em></p>
+  </li>
+  <li>
+    <p><em>Estratégia do Butantan pode ditar o tom da ‘guerra de versões’ com o governo federal</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p>Quando assumiu a gerência de comunicação do instituto, em janeiro de 2020, a jornalista Vivian Retz tinha a missão de mudar a imagem que o público tinha do Butantan, ainda muito ligado a cobras e répteis – a instituição é referência no país no estudo desses animais, inclusive com um serpentário aberto a visitação pública.</p>
+
+<p>“Até hoje, acho que tem uma pequena confusão. Quando as pessoas vêm pra cá, elas se surpreendem com o parque de fábricas que a gente tem”, disse Retz ao <strong>Núcleo</strong>. O que ela não esperava era que poucas semanas depois seria declarada uma pandemia, que, dentro do Brasil, jogou o Butantan num lugar de protagonismo.</p>
+
+<p>Com a covid-19, dois desafios mais imediatos chegaram ao departamento de Comunicação:</p>
+
+<ul>
+  <li>
+    <p>fazer divulgação sobre o processo de desenvolvimento, testes e produção da vacina (Coronavac), estabelecendo um posicionamento de autoridade científica nas redes;</p>
+  </li>
+  <li>
+    <p>e alcançar um público ainda fora do escopo do Butantan.</p>
+  </li>
+</ul>
+
+<p>Para isso, o instituto contratou, por <a href="https://fundacaobutantan.org.br/despachos-da-superintendencia/extratos/processo-001-0708-002.396-2020">R$ 598 mil reais</a> por quatro meses, a Brazilian Brands Company para realizar o monitoramento das redes. O contrato venceu em 6 de março de 2021, mas o Butantan informou ao <strong>Núcleo</strong> que pretende renová-lo.</p>
+
+<p>A agência, aberta em 2011 e com sede na Vila Olímpia, em São Paulo, não possui site próprio e tem sócio único de acordo com o <a href="https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=15598245000130">site</a> da Receita Federal. Parece ter havido uma troca na sociedade – na mesma família. A empresa consta como fundada por Jessica Hollaender Noccioli Monteiro Alves, mas no site da receita atualmente o sócio é Orlando Monjardim Noccioli Monteiro Alves.</p>
+
+<p>O <strong>Núcleo</strong> tentou contato com Jessica no email indicado no site da Receita para entender mais sobre a empresa, mas não obteve retorno.</p>
+
+<p>Uma consulta na ferramenta <a href="http://cruzagrafos.abraji.org.br/">Cruzagrafos</a>, da Abraji, que permite visualizar relações entre empresas e pessoas físicas, mostra que nem o proprietário atual nem a fundadora possuem ligação conhecida com outras empresas ou organizações.</p>
+
+<div style="margin: 30px auto;max-width:320px; padding: 25px;border:1px solid #f33872;">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+    <h6>TODA QUINTA, RECEBA NOSSAS REPORTAGENS NO SEU EMAIL</h6> <br />
+		<h6><small style="font-size:0.85em"><a href="/newsletters" target="_blank" style="color:#0fb872">Conheça nossas newsletters</a></small></h6>
+		<br />
+   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL..." />
+<br />
+<!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="p3ny3ldu9NKbwxDmsUDC1g" />
+  <input type="hidden" name="subform" value="yes" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="Quero receber!" />
+  </div>
+  <span style="font-size:0.6em;float:right;"><a href="/privacidade">Política de privacidade</a></span>
+
+</form> <br />
+</div>
+
+<h3 id="risco-da-desinformação">RISCO DA DESINFORMAÇÃO</h3>
+
+<p>Esses desafios levaram o Butantan a adotar essa leitura das redes, motivando a virada de chave da comunicação do instituto em dezembro, segundo Carol Goes, coordenadora do projeto que atende ao Butantan no tema vacina e combate a fake news na agência digital contratada para o serviço, a <a href="https://www.socialqi.com.br">Social QI</a>, ligada à Brazilian Brands Company. Segundo <a href="https://www.linkedin.com/company/socialqi/">página</a> no LinkedIn, a SQI tem 38 funcionários.</p>
+
+<p>“Foi o entendimento do risco das fake news, do que estava acontecendo e com base nas leituras destes dados que sugerimos uma ação de mudança de posicionamento e ação mais proativa nas redes”, disse Goes ao <strong>Núcleo</strong>.</p>
+
+<p>Análise do <strong>Núcleo</strong> nos tweets da conta <a href="https://twitter.com/butantanoficial">@butantanoficial</a> mostrou que o número de publicações por dia cresceu significativamente a partir de dezembro. Se antes, em novembro, a conta tuitava em média 3,4 vezes por dia, este volume cresceu para 69,7 em dezembro e atingiu um pico de 178 em fevereiro.</p>
+
+<p><img src="/img/butantan/butantan_-acumulado_twitter.png" alt="grafico Twitter Butantan" /></p>
+
+<p>Um dos pilares da nova estratégia de comunicação do Butantan foi a interação com usuários. Em dezembro, quase 62% do total de tweets da conta do instituto foram respostas a outros perfis.</p>
+
+<p>Além de respostas que mencionam a <em>@</em> do Butantan, também é feito um trabalho de interação proativa. Essa busca é feita por palavras-chaves. Além dos termos mais óbvios, como “Coronavac” e  “vacina do Butantan”, a conta do instituto interage em tweets que não contenham menções diretas ao imunizante. Alguns dos posts que receberam replies do Butantan contêm termos como “vachina” e “vacina chinesa de João Doria”, termos que <a href="https://twitter.com/jairbolsonaro/status/1318909799505985537">o próprio</a> presidente Jair Bolsonaro e aliados já utilizaram para se referir ao imunizante produzido pelo Butantan.</p>
+
+<p>Isso também se traduziu em maior engajamento. O volume total de interações nesses meses aumentou consideravelmente, com destaque para janeiro, quando foi aplicada a primeira vacina no Brasil, parte de um lote comprado pronto da fabricante chinesa SinoVac. A empresa fornece os insumos para o imunizante que começou a ser produzido nas instalações do Butantan em <a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/12/10/instituto-butantan-comeca-envase-da-coronavac-a-partir-de-materia-prima-importada-da-china.ghtml">10 de dezembro</a>.</p>
+
+<p>Em janeiro, os tweets do Butantan tiveram um total de 417.791 curtidas + retweets. O tweet com <a href="https://twitter.com/butantanoficial/status/1347318783728300037">mais engajamento</a> foi publicado em 8 de janeiro para comunicar a eficácia do imunizante, anúncio que foi <a href="https://www.bbc.com/portuguese/brasil-55596694">criticado</a> por cientistas por não trazer o dado principal.</p>
+
+<p><img src="/img/butantan/butantan_engajamento.png" alt="grafico Facebook Butantan" /></p>
+
+<p>Antes de dezembro, a palavra mais frequente em tweets do instituto era “coletiva”, uma referência às coletivas de imprensa que envolviam o Butantan. Num segundo período analisado pelo <strong>Núcleo</strong>, de 1º de dezembro a 17 de março, o termo mais utilizado passou a ser “vacina”.</p>
+
+<p>E não são só os tweets elogiosos e engraçados que rendem respostas. “Quem está do nosso lado não é a pessoa com quem temos que dialogar no momento, e sim esclarecer quem tem dúvidas, está com uma informação errada ou tem uma ideia pré-concebida de vacinas”, explicou Retz, a gerente de comunicação do Butantan.</p>
+
+<p>No Facebook, o auge da comunicação do instituto <a href="https://www.facebook.com/165443043496125/posts/5031650953541952">ocorreu</a> em 7 de janeiro, quando a conta postou o vídeo do momento em que os diretores do Butantan recebiam os resultados de eficácia da vacina. O clipe foi reproduzido mais de 750 mil vezes, segundo o CrowdTangle, ferramenta de dados da rede.</p>
+
+<p><img src="/img/butantan/butantan_-acumulado_facebook.png" alt="grafico Facebook Butantan" /></p>
+
+<p>Um outro momento importante foi o videoclipe do funk do Bum Bum Tan Tan, um remix que Mc Fioti fez de uma canção própria lançada em 2017. O vídeo foi um dos mais vistos dentre os postados pelo instituto, com 86,7 mil reproduções. Mas o número é peixe pequeno perto do alcance que o vídeo <a href="https://www.youtube.com/watch?v=yQ8xJHuW7TY">original</a>, publicado no Canal Kondzilla, teve: 12 milhões de visualizações. Pelo Twitter, o próprio Butantan <a href="https://twitter.com/butantanoficial/status/1352964726481891335">direcionou</a> os seguidores ao canal do Kondzilla.</p>
+
+<p>No clip, o funkeiro visita o instituto e interage com funcionários reais, que dançam ao som do beat envolvente. A ação foi espontânea e não envolveu pagamento para Fioti e Kondzilla, segundo Vivian. “Enquanto a gente tinha um presidente falando mal da vacina, tinha um garoto do funk não cobrando cachê, fazendo música, gastando dinheiro pra produzir um clipe para defender a vacina”, complementou von Mann.</p>
+
+<h5 id="a-estratégia-de-comunicação-digital-do-butantan-até-agora-foi-completamente-orgânica-isto-é-sem-impulsionamento-pago-de-conteúdo-e-manual-segundo-retz-e-von-mann">A estratégia de comunicação digital do Butantan até agora foi completamente orgânica, isto é, sem impulsionamento pago de conteúdo, e manual, segundo Retz e von Mann.</h5>
+
+<p>Enquanto a coleta e monitoramento dos dados ocorre através de diversas ferramentas, as respostas e postagens são feitas por uma equipe de 10 jornalistas que passaram por um treinamento.</p>
+
+<p>Além disso, a equipe mantém um arquivo de perguntas frequentes que é atualizado quase diariamente com os pesquisadores e cientistas do Butantan. O lema desta estratégia, segundo von Mann, é “monitorar, entender e agir”, criando conteúdos a partir das dúvidas do público.</p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+
+<p>Por meio do monitoramento da conta no <a href="https://sciencepulse.org">Science Pulse</a>, identificamos um uso considerável da hashtag <a href="https://twitter.com/search?q=%23equipebutantan&amp;src=typed_query">#equipebutantan</a> a partir de dezembro, o que motivou a consulta ao Butantan para entender como eles planejavam e conduziam sua atuação nas redes sociais.</p>
+
+<p>Os dados do Twitter utilizados na matéria foram coletados pelo Science Pulse e compreendem o período de 11/06/2020 a 17/03/2021. Neles, consideramos engajamento como a soma de curtidas e compartilhamentos (retuítes).</p>
+
+<p>Para identificar as palavras mais frequentes, dividimos os tweets em dois períodos (antes de 01/12/2020 e desta data até 17/03/2021), desconsideramos palavras comuns na língua portuguesa (também conhecidas como stopwords) que não trazem significado substantivo para o objetivo desta contagem. Tais palavras foram obtidas em <a href="https://gist.github.com/lgelape/edcc0250f21bcc5710c0a9fd0488d1ea">dicionários</a> online e identificadas na <a href="https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b">análise</a>.</p>
+
+<p>Os dados de Facebook reportados foram coletados por meio da API do Crowd Tangle e estão no intervalo de 01/06/2020 a 17/03/2020.</p>
+
+
+        </div>
+        <hr>
+				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Vacina, Instituto Butantan, Covid Pandemia, Twitter, Facebook, Estratégia digital</h4>
+
+				<div style="margin: 0 auto;max-width:250px">
+
+
+								 <h4 class="links_dados arquivado"><i class="fas fa-database"></i> Dados de remoções tabulados pelo Núcleo &middot; <a href="https://docs.google.com/spreadsheets/d/1dbt-Nez3u1EUaPy9cC27ENCXl-oBEmIcM9MHD1QEcqo/edit?usp=sharing"  target="_blank">Link</a></h4> 
+								 <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> Código de análise (2) &middot; <a href="https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"  target="_blank">Link</a></h4> 
+								
+								</div>
+				<hr>
+
+
+				<!-- SUGESTÃO DE POSTS -->
+				<div class="container" style="padding: 0 5% 0px;max-width:850px">
+
+				<div style="padding: 0 5% 0px;max-width:550px">
+					<h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> LEIA MAIS</h5>
+					<br /><br />
+									<div class="row">
+
+				
+				
+
+				
+				
+
+								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+									<span class="arquivado" style="color:#000">
+
+										<i class="far fa-calendar-alt"></i> 24/03/2021</a>
+
+									</span>
+												<a href="/curtas/2021-03-24-butantan-facebook-estrategia-vacinas">
+													<img src="/img/nucleo-geral-fit.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+													<h3 class="page-tttt" >Butantan e Fiocruz falam com Facebook sobre projeto global de vacinação</h3></a>
+													<br />
+													<br /><br />
+									</div>
+												
+												
+												
+
+				
+				
+
+								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+									<span class="arquivado" style="color:#000">
+
+										<i class="far fa-calendar-alt"></i> 22/03/2021</a>
+
+									</span>
+												<a href="/curtas/2021-03-22-mencoes-genocida-bolsonaro-twitter">
+													<img src="/img/nucleo-geral-fit.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+													<h3 class="page-tttt" >Clã Bolsonaro mirou Felipe Neto, mas acertou em 'genocida' no Twitter</h3></a>
+													<br />
+													<br /><br />
+									</div>
+												
+												
+												
+
+				
+				
+
+								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+									<span class="arquivado" style="color:#000">
+
+										<i class="far fa-calendar-alt"></i> 18/03/2021</a>
+
+									</span>
+												<a href="/direitos/2021-03-18-direitos-autorais-desinformacao-treta">
+													<img src="/img/remocao-conteudo/direitosautorais-fakenews-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+													<h3 class="page-tttt" >Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?</h3></a>
+													<br />
+													<br /><br />
+									</div>
+												
+												
+												
+
+				
+				
+
+								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+									<span class="arquivado" style="color:#000">
+
+										<i class="far fa-calendar-alt"></i> 11/03/2021</a>
+
+									</span>
+												<a href="/redes/2021-03-11-ciencia-dispara-twitter-divulgadores">
+													<img src="/img/cientistas_engajamento/destaque.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+													<h3 class="page-tttt" >Em meio ao caos, ciência brasileira floresce no Twitter</h3></a>
+													<br />
+													<br /><br />
+									</div>
+												
+												
+												
+
+												</div>
+												<h5 class="arquivado"><a href="/arquivo">
+													Acesse todo o arquivo >>
+												</a></h5>
+											</div>
+										</div>
+	      </div>
+
+  	</div>
+	</div>
+</div>
+
+<br /><br /><br />
+
+
+  <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div id="revue-embed">
+                  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+                  <div class="revue-form-group">
+                    <label style="font-size:1.3em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
+                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+
+                    <br />
+                    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+                  <br/>
+                  <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%;"/>
+                  </div>
+                  <div class="revue-form-actions">
+                    <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
+                    <input type="hidden" name="subform" value="yes"/>
+                    <input type="submit" name="submit" id="submit" value="RECEBER NEWSLETTER"/>
+                    </div>
+                  </form>
+                  <br />
+                </div>
+                <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
+                    <!--<li>
+                        <a href="/">Início</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>-->
+                    <li>
+                        <a href="/sobre">Sobre</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/impacto">Impacto</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/privacidade">Privacidade</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/en">English</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-md-4" style="font-weight: 300; max-width: 390px">
+                <small style="font-size:0.75em">Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza Google Analytics.</small>
+
+                <ul class="list-inline " >
+                  <br />
+                  
+                  <li>
+                    <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="nucleo@voltdata.info" style="border:0px"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> <span class="network-name"></span></a>
+                  </li>
+                </ul>
+                <p class="copyright text-muted small"><img src="/img/landing-nucleo_logo-header.png" width="130px" style="margin:0" /></p>
+                <!-- /.banner -->
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <!-- jQuery Version 1.11.0 -->
+<script src="/js/jquery-1.11.0.js"></script>
+
+<!-- Plugin JavaScript -->
+    <script src="/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/landing-page.js"></script>
+
+<!-- Busca -->
+<script src="/js/searchjs/lunr.min.js"></script>
+<script src="/js/searchjs/search.js"></script>
+
+</body>
+</html>
