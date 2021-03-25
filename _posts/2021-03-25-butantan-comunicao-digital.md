@@ -16,7 +16,7 @@ edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
 creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Lucas Gelape"
 background: 'butantan/cover.png'
-dados_abertos: "Dados de remoções tabulados pelo Núcleo"
+dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1dbt-Nez3u1EUaPy9cC27ENCXl-oBEmIcM9MHD1QEcqo/edit?usp=sharing"
 dados_abertos2: "Código de análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"
