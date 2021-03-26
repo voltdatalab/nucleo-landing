@@ -1,14 +1,14 @@
 
 <!-- índice simples de matérias  -->
-<div class="container" style="padding: 0 5% 0px;max-width:650px">
+<div class="container" style="padding: 0 5% 0px;">
 
   <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> DO ARQUIVO</h5>
   <br /><br />
           <div class="row">
 
-{% for post in site.posts offset:7 limit: 6 %}
+{% for post in site.posts offset:7 limit: 8 %}
 {% unless post.tipo contains 'curtas' %}
-        <div class="col-sm-6 col-lg-6" style="min-height: 110px;">
+        <div class="col-sm-3 col-lg-3" style="max-height:110px" >
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
                   <br />
@@ -31,7 +31,6 @@
 <style>
   .row [class*='col-'] {
   background-clip: content-box;
-  min-height: 120px;
   margin-bottom: 10px;
 }
 
@@ -46,6 +45,6 @@
 
 <script type="text/javascript">
   $('.row').masonry({
-  itemSelector : '.col-xs-6'
+  itemSelector : '.col-lg-3'
 });
 </script>

@@ -172,16 +172,21 @@ li{
   list-style-type: square;
 }
 
+#newsletter_page{
+  margin-top: 30px;
+}
+
 .revue-form-field{
   font-size: 0.7em;
   padding: 10px 5px;
-  width: 330px;
-  background-color: #ffffff;
+  width: 60%;
+  background-color: #eeeeee;
   border: 0px;
   text-align: center;
-  border-bottom: 1px solid #4b31dd;
+  border: 1px solid #4b31dd;
   font-family: 'Barlow';
   font-weight: 700;
+  float: left;
 }
 
 label{
@@ -189,12 +194,13 @@ label{
 }
 
 .revue-form-actions input{
-  padding: 10px;
+  padding: 11.5px 5px;
   font-size: 0.7em;
+  float: right;
   background-color: #4b31dd;
   color: #fff;
-  border: 0px;
-  width: 330px;
+  border: 1px solid #4b31dd;
+  width: 40%;
   font-family: 'Barlow', sans-serif;
   font-weight: 400;
 }
@@ -248,8 +254,6 @@ label{
 
 .intro-header {
     padding-top: 20px;  /*If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content!*/
-    padding-bottom: 10px;
-    text-align: center;
     color: #333;
     /*background: url(../img/landing-nucleo_symbol-background.png) no-repeat center center;
     background-size: 50%;
@@ -259,13 +263,16 @@ label{
 
 .intro-message {
     position: relative;
-    padding: 0 0 5%
 }
 
 .intro-message > h2 {
-    margin: 0;
     font-size: 1.5em;
     color: #231f20;
+}
+
+.intro-message > h3{
+    max-width:370px;
+    font-weight: 300
 }
 
 .intro-divider {
@@ -282,9 +289,6 @@ label{
 }
 
 @media(max-width:767px) {
-    .intro-message {
-        padding-bottom: 15%;
-    }
 
     .intro-message > h1 {
         font-size: 3em;
@@ -401,8 +405,7 @@ label{
     }
 
     .intro-header {
-        padding-top: 20px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-        padding-bottom: 50px;
+        padding-top: 60px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
         background-size: cover;
         background-position: center;
         background-attachment: scroll;

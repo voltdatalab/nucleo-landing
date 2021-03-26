@@ -1,0 +1,29 @@
+
+	<div class="intro-header" >
+
+		<div class="container" style="margin" >
+
+						<div class="row">
+								<div class="col-sm-4 col-lg-4">
+												<div class="intro-message">
+													<h3>{{ page.desc }}</h3>
+													<br />
+													<ul class="list-inline intro-social-buttons">
+														{% for social in site.social %}
+														<li>
+															&nbsp;<a href="{{ social.url }}" target="_blank"><i class="fab fa-{{ social.title }} fa-lg"></i> </a>
+														</li>
+														{% endfor %}
+													</ul>
+												</div>
+									</div>
+								<div class="col-sm-4 col-lg-4">
+									<h4>{{ page.subTitle }}</h4>
+								</div>
+
+					</div>
+
+		</div>
+		<!-- /.container -->
+
+	</div>

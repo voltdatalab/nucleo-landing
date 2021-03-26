@@ -1,7 +1,11 @@
 <div class="container">
 <div class="row">
 
-{% assign posts = site.posts | where_exp: "post", "post.tipo != 'curtas'"  %}
+{% include newsletter_social2.html %}
+
+<hr style="margin: 20px"/>
+
+{% assign posts = site.posts | where_exp: "post", "post.tipo != 'curtas' and post.tipo != 'ideias'"  %}
 {% for post in posts limit:1 offset:0 %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
@@ -51,8 +55,6 @@
                 {% endunless %}
                 {% endfor %}
 </div>
-		{% include curtas_index.html %}
+		{% include post_curtas_index.html %}
 <hr />
 </div>
-
-{% include newsletter_social.html %}
