@@ -5,8 +5,9 @@
 
 <hr style="margin: 20px"/>
 
-{% assign posts = site.posts | where_exp: "post", "post.tipo != 'curtas' and post.tipo != 'ideias'"  %}
-{% for post in posts limit:1 offset:0 %}
+{% assign top = site.posts | where_exp: "post", "post.tipo != 'curtas'"  %}
+{% assign top = top | where_exp: "post", "post.tipo != 'ideias'"  %}
+{% for post in top limit:1 offset:0 %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
 <br />
@@ -33,7 +34,7 @@
 {% endunless %}
 {% endfor %}
 
-{% for post in posts offset:1 limit:3 %}
+{% for post in top offset:1 limit:3 %}
 {% unless post.tipo contains 'curtas' %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
