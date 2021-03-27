@@ -424,31 +424,35 @@
 				</p>
 				
 
+				<h4>APOIE O NÚCLEO</h4>
 				<h4 class="arquivado creditos_alt" style="max-width:90%">
-					Nosso jornalismo é aberto e gratuito, sem assinatura ou paywall, mas funciona com o seu apoio. Qualquer valor que você contribuir será usado para financiar nossas operações e reportagens. Use o PIX abaixo e envie a quantia que quiser: basta scanear o QR code ou usar a chave de nossa conta com o aplicativo do seu banco. O dinheiro será creditado na conta do VoltData Agenciamento de Notícias LTDA, a empresa por trás do Núcleo.
+					Oferecemos nosso jornalismo sem assinatura ou paywall, mas ele precisa de recursos para continuar. Seu apoio será usado para financiar nossas operações.
+				</h4>
+				<h4>COMO FUNCIONA?</h4>
+				<h4 class="arquivado creditos_alt" style="max-width:90%">
+					- Use seu PIX, é rápido e fácil <br />
+					- Envie a <u>quantia que quiser</u> <br />
+					- Scaneie o QR Code ou copie a chave<br />
 				</h4>
 
 				<img class="pix-img" src="/img/pix/pix_materias.png" alt="pix para doação"/>
 				<br />
 				<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
 				<br />
-				<button class="btn pix-btn" onclick="myFunction()">Copiar chave Pix</button>
+				<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave Pix</button>
+
+				<h4 class="arquivado creditos_alt" style="max-width:90%">Se quiser, mande um email para nós falando da sua colaboração: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4>
+
 
 				<script>
-										function myFunction() {
-						  /* Get the text field */
-						  var copyText = document.getElementById("myPix");
+					document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
 
-						  /* Select the text field */
-						  copyText.select();
-						  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+	alert("Chave copiada");
+}
 
-						  /* Copy the text inside the text field */
-						  document.execCommand("copy");
-
-						  /* Alert the copied text */
-						  alert("Chave copiada: " + copyText.value);
-						}
 
 				</script>
 
