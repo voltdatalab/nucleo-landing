@@ -34,11 +34,16 @@
 										</div>
 										{% endif %}
         </span>
-				{% assign wordCount = page.content | number_of_words %}
-				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }}  &middot; <i class="fas fa-i-cursor"></i>&nbsp; Caracteres: {{ page.content | size }}</h4>
-				<h4 class="arquivado creditos_alt"></h4>
 
-				<h4 class="arquivado creditos_alt"><i class="far fa-clock"></i> Leitura estimada: {{ wordCount | divided_by:180 }} minutos</h4>
+				{% if page.atualizacao %}
+				<h4 class="arquivado creditos_alt">
+					<i class="fas fa-exclamation-circle fa-sm"></i> Conteúdo modificado após publicação (detalhes no fim da página)
+				</h4>
+				{% endif %}
+
+
+				{% assign wordCount = page.content | number_of_words %}
+				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }}  &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }} &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:180 }} minutos</h4>
 
 				<h4 class="arquivado creditos_alt">
 				<div class="popover__wrapper" style="margin:0 auto">
@@ -57,11 +62,6 @@
 									<br />
 								</h4>
 
-								{% if page.atualizacao %}
-								<h4 class="arquivado creditos_alt">
-									<i class="fas fa-exclamation-circle fa-sm"></i> Conteúdo modificado após publicação (detalhes no fim da página)
-								</h4>
-								{% endif %}
 
       </div>
     </div>
