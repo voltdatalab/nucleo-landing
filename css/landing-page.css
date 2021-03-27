@@ -194,9 +194,8 @@ label{
 }
 
 .revue-form-actions input{
-  padding: 11.5px 5px;
-  font-size: 0.7em;
-  float: right;
+  padding: 10px 5px;
+  font-size: 0.85em;
   background-color: #4b31dd;
   color: #fff;
   border: 1px solid #4b31dd;
@@ -206,6 +205,21 @@ label{
 }
 
 .revue-form-actions input:hover{
+  background-color: #0fb872;
+  color: #231f20;
+}
+
+.footer-form-actions input{
+  padding: 8.5px 5px;
+  font-size: 0.8em;
+  background-color: #4b31dd;
+  color: #fff;
+  border: 1px solid #4b31dd;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 400;
+}
+
+.footer-form-actions input:hover{
   background-color: #0fb872;
   color: #231f20;
 }

@@ -68,7 +68,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="210px"/> </a>
+            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="/img/landing-nucleo_logo-header.png" width="240px"/> </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
@@ -344,6 +344,35 @@
 										
 										
         </span>
+				
+				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: 1576  &middot; <i class="fas fa-i-cursor"></i>&nbsp; Caracteres: 12895</h4>
+				<h4 class="arquivado creditos_alt"></h4>
+
+				<h4 class="arquivado creditos_alt"><i class="far fa-clock"></i> Leitura estimada: 8 minutos</h4>
+
+				<h4 class="arquivado creditos_alt">
+				<div class="popover__wrapper" style="margin:0 auto">
+								<i class="fas fa-list-alt"></i> Formato: <span class="popover__title"><u>análise</u></span>
+										<div class="popover__content">
+											<p class="popover__message">
+												- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
+												- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
+												- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
+												- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
+												- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
+												- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
+											</p>
+										</div>
+									</div>
+									<br />
+								</h4>
+
+								
+								<h4 class="arquivado creditos_alt">
+									<i class="fas fa-exclamation-circle fa-sm"></i> Conteúdo modificação após publicação (detalhes no fim da página)
+								</h4>
+								
+
       </div>
     </div>
   </div>
@@ -376,30 +405,6 @@
 					</span>
 					<br />
 					<br />
-					
-					<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: 1576</h4>
-					<h4 class="arquivado creditos_alt"><i class="fas fa-i-cursor"></i>&nbsp; Caracteres: 12895</h4>
-
-					<h4 class="arquivado creditos_alt"><i class="far fa-clock"></i> Leitura estimada: 8 minutos</h4>
-
-
-
-					<h4 class="arquivado creditos_alt">
-					<div class="popover__wrapper" style="margin:0 auto">
-									<i class="fas fa-list-alt"></i> Formato: <span class="popover__title"><u>análise</u></span>
-											<div class="popover__content">
-												<p class="popover__message">
-													- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
-													- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
-													- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
-													- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
-													- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
-													- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
-												</p>
-											</div>
-										</div>
-										<br /><br />
-									</h4>
 
 					<!--
 					<ul class="share-buttons">
@@ -416,14 +421,34 @@
 			-->
 
 				
-				<h4>
-					<small><em></em></small>
+
+				<h4 class="arquivado creditos_alt" style="max-width:90%">
+					Nosso jornalismo é aberto e gratuito, sem assinatura ou paywall, mas funciona com o seu apoio. Qualquer valor que você contribuir será usado para financiar nossas operações e reportagens. Use o PIX abaixo e envie a quantia que quiser: basta scanear o QR code ou usar a chave de nossa conta com o aplicativo do seu banco. O dinheiro será creditado na conta do VoltData Agenciamento de Notícias LTDA, a empresa por trás do Núcleo.
 				</h4>
-				
 
-				
+				<img class="pix-img" src="/img/pix/pix_materias.png" alt="pix para doação"/>
+				<br />
+				<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
+				<br />
+				<button class="btn pix-btn" onclick="myFunction()">Copiar chave Pix</button>
 
+				<script>
+										function myFunction() {
+						  /* Get the text field */
+						  var copyText = document.getElementById("myPix");
 
+						  /* Select the text field */
+						  copyText.select();
+						  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+						  /* Copy the text inside the text field */
+						  document.execCommand("copy");
+
+						  /* Alert the copied text */
+						  alert("Chave copiada: " + copyText.value);
+						}
+
+				</script>
 
 				<hr class="hrtop"/>
 
@@ -675,13 +700,22 @@
         <hr>
 				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Portal da transparência do registro civil, Dados abertos, Coronavírus, Covid-19</h4>
 
-				<div style="margin: 0 auto;max-width:250px">
+				<div style="margin: 0 auto;max-width:300px">
 
 
 								 <h4 class="links_dados arquivado"><i class="fas fa-database"></i> Dados tabulados pelo Núcleo (Google Sheets) &middot; <a href="https://docs.google.com/spreadsheets/d/1ha4_-Bm9hdWpZi7TPmI2XVNcXgweX3MEygZDNI4L8ts/edit?usp=sharing"  target="_blank">Link</a></h4> 
 								 <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> Portal de Transparência do Registro Civil (2) &middot; <a href="https://transparencia.registrocivil.org.br/inicio"  target="_blank">Link</a></h4> 
 								
-								</div>
+
+								
+								<br />
+								<h4>
+									<i class="fas fa-exclamation-circle fa-sm"></i> <small><em></em></small>
+								</h4>
+								
+
+					</div>
+
 				<hr>
 
 
@@ -792,25 +826,22 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div id="revue-embed">
+                  <label style="font-size:1em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
+                  <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+                  <div id="newsletter_page" style="margin-top:10px">
                   <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-                  <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
-                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+                    <input style="width:30%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+                     <div class="footer-form-actions">
+                       <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
+                       <input type="hidden" name="subform" value="yes"/>
+                       <input type="submit" name="submit" id="submit" value="Receber de graça"/>
+                       </div>
+                  <!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
 
-                    <br />
-                    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-                  <br/>
-                  <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%;"/>
-                  </div>
-                  <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
-                    <input type="hidden" name="subform" value="yes"/>
-                    <input type="submit" name="submit" id="submit" value="RECEBER NEWSLETTER"/>
-                    </div>
                   </form>
+                  </div>
+
                   <br />
-                </div>
                 <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
                     <!--<li>
                         <a href="/">Início</a>

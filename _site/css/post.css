@@ -80,7 +80,7 @@ h2.subheading {
 .arquivado{
   font-family: 'Roboto Mono', monospace;
   text-transform: uppercase;
-  font-size: 0.7em !important;
+  font-size: 0.8em !important;
 }
 
 .arquivado span{
@@ -415,7 +415,7 @@ hr {
     }
 
     .sidebar-right .sidebar{
-      margin: 30px 0 30px 0;
+      margin: 30px 0 0;
       float:right;
       border-radius: 5px;
       padding: 0 20px 20px;
@@ -877,4 +877,23 @@ input[type=checkbox]:checked ~ label {
     }
 }
 
-/* Floating Social Media Bar Style Ends Here */
+/* Floating Social Media Bar Style Ends Here
+
+PIX
+
+*/
+
+.pix-img{
+  max-width: 120px;
+  margin-top: 20px
+}
+
+.pix-btn{
+
+}
+
+.pix-input{
+  padding: 5px;
+  margin-bottom: 10px;
+  display: none
+}

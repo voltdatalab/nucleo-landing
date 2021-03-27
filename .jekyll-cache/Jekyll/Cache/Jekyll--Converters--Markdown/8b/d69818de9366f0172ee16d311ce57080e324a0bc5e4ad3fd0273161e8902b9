@@ -2,19 +2,19 @@
           <div class="row">
 
 
+                
 
+                
 
+                
 
+                
 
+                
 
+                
 
-
-
-
-
-
-
-
+                
 
 
 
@@ -29,28 +29,28 @@
                   </span><br /><br />
 
                 </div>
+                
+                
+                
+                
 
+                
 
+                
 
+                
 
+                
 
+                
 
+                
 
+                
 
+                
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+                
 
 
 
@@ -65,18 +65,39 @@
                   </span><br /><br />
 
                 </div>
+                
+                
+                
+                
 
+                
 
-
-
-
-
-
-
+                
               </div>
       </div>
 
 <p><br /><br /><br /></p>
 
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>
 
 :ET

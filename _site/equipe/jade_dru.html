@@ -109,7 +109,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="../img/landing-nucleo_logo+tagline.png" width="210px"/> </a>
+            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="/img/landing-nucleo_logo-header.png" width="240px"/> </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
@@ -718,25 +718,22 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div id="revue-embed">
+                  <label style="font-size:1em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
+                  <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+                  <div id="newsletter_page" style="margin-top:10px">
                   <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-                  <div class="revue-form-group">
-                    <label style="font-size:1.3em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
-                    <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+                    <input style="width:30%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+                     <div class="footer-form-actions">
+                       <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
+                       <input type="hidden" name="subform" value="yes"/>
+                       <input type="submit" name="submit" id="submit" value="Receber de graça"/>
+                       </div>
+                  <!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
 
-                    <br />
-                    <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-                  <br/>
-                  <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%;"/>
-                  </div>
-                  <div class="revue-form-actions">
-                    <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
-                    <input type="hidden" name="subform" value="yes"/>
-                    <input type="submit" name="submit" id="submit" value="RECEBER NEWSLETTER"/>
-                    </div>
                   </form>
+                  </div>
+
                   <br />
-                </div>
                 <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
                     <!--<li>
                         <a href="/">Início</a>
