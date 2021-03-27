@@ -430,7 +430,7 @@
 
 				<h4>APOIE O NÚCLEO</h4>
 				<h4 class="arquivado creditos_alt" style="max-width:90%">
-					Oferecemos nosso jornalismo sem assinatura ou paywall, mas ele precisa de recursos para continuar. Seu apoio será usado para financiar nossas operações.
+					Oferecemos nosso jornalismo sem paywall, mas ele precisa de recursos para continuar. Seu apoio será usado para financiar nossas operações.
 				</h4>
 				<h4>COMO FUNCIONA?</h4>
 				<h4 class="arquivado creditos_alt" style="max-width:90%">
@@ -443,7 +443,7 @@
 				<br />
 				<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
 				<br />
-				<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave Pix</button>
+				<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave aleatória</button>
 
 				<h4 class="arquivado creditos_alt" style="max-width:90%">Se quiser, mande um email para nós falando da sua colaboração: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4>
 
@@ -454,7 +454,7 @@ async function clipboardCopy() {
 let text = document.querySelector("#myPix").value;
 await navigator.clipboard.writeText(text);
 
-	alert("Chave copiada");
+	alert("Chave Pix ALEATÓRIA copiada");
 }
 
 
