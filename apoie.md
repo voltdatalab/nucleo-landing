@@ -67,10 +67,23 @@ Os recursos serão creditados na conta do Volt Data Lab, empresa por trás do **
 - Envie a quantia que quiser <br>
 - Ou copie a chave <u>ALEATÓRIA</u>
 
-<br><br><br>
+<br><br>
+
+<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
+<br />
+<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave PIX</button>
+<br>
+<script>
+  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
+
+alert("Chave Pix ALEATÓRIA copiada");
+}
 
 
-<a class="btn" href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank"><span>COPIAR CHAVE PIX</span></a>
+</script>
 
 </div>
 
