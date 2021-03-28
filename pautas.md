@@ -5,6 +5,7 @@ desc: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar
 tagline: PAUTAS E CVS
 subtitle: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
 link: impacto
+icone: '<i class="fas fa-laptop-house fa-lg"></i>'
 atualizacao: 24/02/2021
 ---
 

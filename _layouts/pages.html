@@ -10,7 +10,11 @@
 
 			<br /><br />
 		  <h5 class="chapeu">
-				<i class="fas fa-layer-group fa-lg"></i> {{ page.tagline }}
+				{% if page.icone %} {{ page.icone }}
+				{% else %} <i class="fas fa-layer-group fa-lg"></i>
+				{% endif %}
+
+				{{ page.tagline }}
 			</h5>
 								<div class="post-heading">
 									<br />

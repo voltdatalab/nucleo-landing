@@ -700,37 +700,37 @@ input[type=checkbox]:checked ~ label {
 
 .float-shareicon{
   bottom: 0;
-  right: 440px;
+  right: 400px;
 }
 
 .float-fb {
   bottom: -12px;
-  right: 400px;
+  right: 360px;
 }
 
 .float-tw {
   bottom: -12px;
-  right: 360px;
+  right: 320px;
 }
 
 .float-gp {
   bottom: -12px;
-  right: 320px;
+  right: 280px;
 }
 
 .float-rs {
   bottom: -12px;
-  right: 280px;
+  right: 240px;
 }
 
 .float-ig {
   bottom: -12px;
-  right: 240px;
+  right: 200px;
 }
 
 .float-pn {
   bottom: 0px;
-  right: 210px;
+  right: 170px;
 }
 
 @media(max-width:767px){

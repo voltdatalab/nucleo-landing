@@ -3,7 +3,7 @@ layout: pages
 title: 'Transparência do Núcleo Jornalismo'
 desc: 'Saiba de equipe, financiamento, missão, ética e nosso manual'
 tagline: Transparência
-subtitle: ''
+icone: '<i class="fas fa-book-open fa-lg"></i>'
 atualizacao: 03/03/2021
 ---
 
@@ -17,7 +17,7 @@ Por motivos fiscais e legais, ainda estamos avaliando uma nova composição de u
 ## QUEM FINANCIA
 Em outubro de 2020, o Núcleo foi selecionado para participar de um [processo de aceleração](https://nucleo.jor.br/institucional/2020-10-29-anuncio-nucleo-google) do Google News Initiative, que inclui um grant de US$20.000. Antes disso, os recursos vinham dos fundadores.
 
-A Volt Data também faz alguns investimentos, especialmente na parte de infraestrutura e desenvolvimento do site e de aplicações.
+A Volt Data Lab também faz investimentos, especialmente na parte de infraestrutura e desenvolvimento do site e de aplicações.
 
 ## TRANSPARÊNCIA EDITORIAL
 Nossa política editorial é de transparência de processos. Dentro possível, nos comprometemos a explicar 1. por que achamos que um assunto é importante; 2. a forma como apuramos as informações e como chegamos a tal resultados; 3. a divulgação de códigos e dados utilizados e 4. atribuir referências, em forma de citações e links, sempre que utilizarmos conhecimento adquirido diretamente de terceiros.
