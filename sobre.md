@@ -3,12 +3,12 @@ layout: sobre
 title: 'Sobre o Núcleo Jornalismo'
 desc: 'Saiba mais sobre modelo, negócios, canais e equipe'
 direct: 'sobre'
-atualizacao: 14/04/2020
+atualizacao: 29/03/2021
 ---
 
-O **Núcleo** é um veículo jornalístico lançado em 6 em janeiro de 2020, inicialmente com a missão de produzir investigações a partir de dados e trazer mais transparência ao governo, ao debate político e a políticas públicas, em diferentes esferas e localidades.
+O **Núcleo** é uma iniciativa que cobre o impacto das redes sociais nas vidas das pessoas, explorando desde os meios tradicionais de produção jornalística até novos formatos de conteúdo e tecnologia.
 
-Com o passar do tempo, fomos alinhando essa missão para algo que estivesse mais em linha com nossos objetivos e com as demandas que a sociedade tem hoje em dia. Nosso foco atual é orientado para assuntos relacionados a tecnologia e mídia -- tanto no nível editorial (reportagens, análises e até opinião) quanto no desenvolvimento de aplicações e projetos.
+O site foi criado com a missão de produzir investigações a partir de dados e trazer mais transparência ao governo, ao debate político e a políticas públicas, em diferentes esferas e localidades. Com o passar do tempo, fomos ajustando essa missão para ficar mais alinhada com nossos objetivos e com as demandas de informação da sociedade.
 
 A iniciativa foi incubada pela agência [Volt Data Lab](https://voltdata.info), e foi lançada em 6 de janeiro de 2020 pelos jornalistas Sérgio Spagnuolo e Alexandre Orrico.
 
