@@ -798,6 +798,14 @@ PIX
 }
 
 
+.img-meio{
+  width: 50% !important;
+  position: relative;
+  right: 30 !important;
+  float: right !important;
+  padding: 5px 10px 5px 15px
+}
+
 
 /* Responsividade */
 @media(max-width:767px) {
@@ -887,6 +895,14 @@ PIX
 
     .pix-div{
       width: 100% !important
+    }
+
+    .img-meio{
+      width: 100% !important;
+      position: relative;
+      right: 0;
+      float: none;
+      padding: 5px 10px 5px 0
     }
 }
 

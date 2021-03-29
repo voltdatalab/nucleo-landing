@@ -1,0 +1,120 @@
+I"�
+<div class="container" style="padding: 0 5% 0px;max-width:850px">
+          <div class="row">
+
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+
+
+          <div class="indexpost" style="margin:0 auto;background: url('../img/ideias/lock-privacidade.png') rgba(0, 0, 0, 0.4);">
+                <a href="/ideias/2021-02-25-api-nao-e-problema-tecnico">
+                  <h3 class="page-ttt">Falta de transparência dos governos não é um problema técnico</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#fff">
+
+                    <i class="far fa-calendar-alt"></i> 25/02/2021 &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a>
+
+                  </span><br /><br />
+
+                </div>
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+
+
+          <div class="indexpost" style="margin:0 auto;background: url('../img/ideias/redes-03.png') rgba(0, 0, 0, 0.4);">
+                <a href="/ideias/2021-01-28-jornalista-utilidade-redes-sociais">
+                  <h3 class="page-ttt">Usar redes de forma crítica pode ser melhor do que deixá-las</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#fff">
+
+                    <i class="far fa-calendar-alt"></i> 28/01/2021 &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a>
+
+                  </span><br /><br />
+
+                </div>
+                
+                
+                
+                
+
+
+
+          <div class="indexpost" style="margin:0 auto;background: url('../img/ideias/redes-02.png') rgba(0, 0, 0, 0.4);">
+                <a href="/ideias/2021-01-22-jornalista-sem-redes-sociais">
+                  <h3 class="page-ttt">Jornalista sem Twitter, Instagram ou Facebook</h3></a>
+                  <br />
+                  <span class="arquivado" style="color:#fff">
+
+                    <i class="far fa-calendar-alt"></i> 22/01/2021 &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a>
+
+                  </span><br /><br />
+
+                </div>
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+              </div>
+      </div>
+
+<p><br /><br /><br /></p>
+
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>
+
+:ET

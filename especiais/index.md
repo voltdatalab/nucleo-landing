@@ -3,6 +3,7 @@ layout: posts
 title: 'Conteúdo especial'
 desc: 'Reportagens, análises e investigações e fôlego publicadas no Núcleo Jornalismo'
 tagline: 'ESPECIAIS'
+icone: '<i class="fas fa-star"></i>'
 link: posts
 atualizacao: 05/04/2020
 ---
@@ -13,7 +14,7 @@ atualizacao: 05/04/2020
 {% if post.tipo contains 'especial' %}
 {% unless post.categories contains 'draft' %}
 {% unless post.categories contains 'institucional' %}
-          <div class="indexpost" style="margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
+          <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
                   <br />
