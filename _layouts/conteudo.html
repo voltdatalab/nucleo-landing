@@ -128,28 +128,7 @@
 				</p>
 				{% endif %}
 
-				<div class="pix-div">
-						<h4>APOIE O NÚCLEO</h4>
-						<h4 class="arquivado creditos_alt">
-							Nosso site é aberto, mas seu apoio é importante para financiar nosso jornalismo. <a href="{{ site.baseurl }}/transparencia" target="_blank">Conheça nossa transparência.</a>
-						</h4>
-						<h4>COMO FUNCIONA?</h4>
-						<h4 class="arquivado creditos_alt">
-							- Via PIX, é rápido e fácil <br />
-							- Scaneie o QR code<br />
-							- Ou copie a chave aleatória<br />
-							- Envie a <u>quantia que quiser</u> <br />
-						</h4>
-
-						<h5 style="font-weight:400"><em>NOTA: O valor é creditado na conta do Volt Data Lab, empresa por trás do Núcleo</em></h5>
-						<img class="pix-img" src="{{ site.baseurl }}/img/pix/pix_materias.png" alt="pix para doação"/>
-						<br />
-						<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
-						<br />
-						<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave aleatória</button>
-
-						<h4 class="arquivado creditos_alt" style="max-width:90%">Se quiser, mande um email pra gente: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4>
-				</div>
+				{% include apoie_o_nucleo.html %}
 
 				<script>
 					document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
