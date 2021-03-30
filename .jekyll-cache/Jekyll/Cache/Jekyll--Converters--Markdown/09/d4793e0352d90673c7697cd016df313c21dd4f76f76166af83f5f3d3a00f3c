@@ -1,0 +1,62 @@
+I"�<p><a href="/transparencia">Transparência</a> é um princípio importante do Núcleo. Com ela construímos credibilidade e reputação, e também confiança com nossa comunidade. Para manter nosso conteúdo aberto, colaborativo e acessível, estamos desenvolvendo um modelo de negócio que não envolve <em>paywall</em> (site fechado) ou venda de dados (dos poucos que coletamos) das pessoas. Parte desse modelo envolve o apoio de leitores e leitoras.</p>
+
+<p>Por isso, lançamos uma nova forma para sustentar o trabalho que fazemos: <strong>uma contribuição financeira voluntária e direta de quem nos acompanha</strong>.</p>
+
+<p>Pense nisso como se você estivesse pagando pela reportagem, mas em vez de a gente fixar um preço, quem estabelece o valor é <em>você</em>. Pode ser R$1 ou pode ser R$30, depende do que você quer e pode ajudar. <strong>O importante é que é rápido e fácil</strong>.</p>
+
+<p>Às vezes uma reportagem significa muito para alguém, e às vezes não podemos ou não queremos gastar dinheiro com assinatura mensal. Deixamos nossa comunidade escolher seus próprios termos. E quem não puder ou quiser, tudo bem, nosso conteúdo continua aberto.</p>
+
+<h3 id="o-que-você-acha">O QUE VOCÊ ACHA?</h3>
+<p>Queremos saber o que você acha dessa iniciativa. Mande um email para mim: <a href="mailto:comunidade@nucleo.jor.br">comunidade@nucleo.jor.br</a>.</p>
+
+<h3 id="como-funciona">COMO FUNCIONA?</h3>
+
+<ul>
+  <li>
+    <p>Ficarão disponíveis em cada reportagem e na página <a href="/apoie">Apoie o Núcleo</a> um QR code e uma chave PIX aleatória para a transferência de qualquer valor.</p>
+  </li>
+  <li>
+    <p>Para contribuir, escolha a opção “Transferência” via PIX no sistema do seu banco e utilize a chave para completar a transação da quantia que preferir.</p>
+  </li>
+  <li>
+    <p>Os recursos serão creditados na conta do Volt Data Lab, empresa por trás do Núcleo.</p>
+  </li>
+</ul>
+
+<div style="margin-bottom: 50px">
+<div class="row">
+<div class="col-md-6">
+
+<h3>COMO FUNCIONA:</h3>
+
+
+<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix" />
+<br />
+<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave PIX</button>
+<br />
+<script>
+  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
+
+alert("Chave Pix ALEATÓRIA copiada");
+}
+
+
+</script>
+
+</div>
+
+<div class="col-md-6">
+<img src="/img/pix/pix_materias.png" alt="img garimpo" width="90%" />
+
+</div>
+</div>
+</div>
+
+<h3 id="contexto">CONTEXTO</h3>
+<p>A ideia da nova forma de monetização surgiu durante o processo de aceleração do Google News Initiative. Com base na confiança dos leitores, o financiamento do Núcleo será feito por meio do apoio direto do público, patrocínios, republicações e parcerias estratégicas, que serão sempre abertamente comunicadas. Os valores arrecadados serão revertidos em infraestrutura técnica, pagamento de colaboradores e desenvolvimento de novos produtos.</p>
+
+<p>Entendemos que parte dos leitores considera o conteúdo, missão e transparência do Núcleo importantes para o contexto jornalístico do Brasil e querem ajudar a manter a iniciativa de pé. A contribuição financeira é voluntária e, independente disso, reafirmamos o compromisso de manter o conteúdo com acesso gratuito a todos.</p>
+:ET

@@ -2,7 +2,7 @@
 published: TRUE
 visible: 1
 layout: conteudo
-tipo:
+tipo: institucional
 title: "Nova fase do Núcleo: jornalismo + dados + tecnologia"
 titulo_redes: "Nova fase do Núcleo: jornalismo + dados + tecnologia"
 subtitle: 'Após um ano de vida, entendemos que nosso espaço é na intersecção entre jornalismo e tecnologia.'
