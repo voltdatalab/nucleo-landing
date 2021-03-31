@@ -45,14 +45,14 @@ Queremos saber o que você acha dessa iniciativa. Mande um email para mim: [comu
 - Os recursos serão creditados na conta do Volt Data Lab, empresa por trás do Núcleo. Saiba mais [aqui]({{ site.baseurl }}/transparencia).
 
 <div style="text-align: center">
-<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
+<input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix2">
 <br />
-<button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave PIX</button>
+<button id="clipboardCopy2" class="btn pix-btn" onclick="myFunction()">Copiar chave PIX</button>
 <br>
 <script>
-  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+  document.getElementById('clipboardCopy2').addEventListener('click', clipboardCopy);
 async function clipboardCopy() {
-let text = document.querySelector("#myPix").value;
+let text = document.querySelector("#myPix2").value;
 await navigator.clipboard.writeText(text);
 
 alert("Chave Pix ALEATÓRIA copiada");
