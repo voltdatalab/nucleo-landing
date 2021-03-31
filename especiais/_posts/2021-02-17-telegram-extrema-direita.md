@@ -20,8 +20,6 @@ gif: 'telegram/telegram-direita.gif'
 background: 'telegram/telegram-direita-02.png'
 atualizacao: ""
 nota_abertura: ""
-categories:
-  - "redes"
 tags:
   - "Telegram, "
   - "Política Digital, "

@@ -22,8 +22,6 @@ gif: 'social-fb/facebook.gif'
 background: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: ""
 nota_abertura: ""
-categories:
-  - "redes"
 tags:
   - "Facebook, "
   - "Política Digital, "
