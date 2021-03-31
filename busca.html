@@ -9,7 +9,7 @@ direct: 'busca'
 <script>
   window.store = {
     {% for post in site.posts %}
-    {% unless post.categories contains 'draft' %}
+    {% unless post.tipo contains 'draft' %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "subtitle": "{{ post.subtitle | xml_escape }}",

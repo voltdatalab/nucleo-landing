@@ -184,147 +184,6 @@
   });
 </script>
 
-		  <div id="popup">
-    <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
-    <div id="new"><span>AVISO</span></div>
-    <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/privacidade" target="_blank">Política de Privacidade.</a></h2>
-    <br>
-    <a target="_blank" class="button" id="close" style="cursor: pointer;">Ok</a>
-  </div>
-  <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
-
-
-<style>
-  #popup {
-    position: fixed;
-    max-width: 260px;
-    height: 120px;
-    background: #eeeeee;
-    border: 7px solid #fff;
-    bottom: 0;
-    margin-left: 0;
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
-    transition: all 1s ease;
-    z-index: 1000000
-  }
-
-  #new span {
-    background: #fff;
-    position: absolute;
-    color: #4b31dd;
-    padding: 4px 10px;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    margin-top: -5px;
-  }
-
-  #popup .close {
-    color: #464646;
-    right: 8px;
-    top: 0px;
-    position: absolute;
-    font-size: 20px;
-    cursor: pointer;
-  }
-
-  #popup h2 {
-    font-size: 10px;
-    color: #464646;
-    line-height: 1.3em;
-    font-weight: 400;
-    text-align: left;
-    margin-top: 40px;
-    padding: 0 20px;
-  }
-
-  #body {
-    height: 1200px;
-    background: #eee;
-  }
-
-  a.button {
-    margin: 0 auto;
-    text-align: center;
-    right: 0;
-    left: 0;
-    bottom: 8px;
-    position: absolute;
-    width: 80px;
-    font-size: 11px;
-    color: #fff;
-    border-bottom: 2px solid #18729f;
-    background: #4b31dd;
-    border-radius: 4px;
-    padding: 2px 0;
-  }
-
-  #plus {
-    position: fixed;
-    color: #fff;
-    bottom: 15%;
-    font-size: 15px;
-    margin-left: -425px;
-    -webkit-transition: all 1.25s ease;
-    -moz-transition: all 1.25s ease;
-    -o-transition: all 1.25s ease;
-    transition: all 1.25s ease;
-    cursor: pointer;
-    text-align: left;
-    letter-spacing: 1px;
-  }
-
-  #plus span {
-    position: absolute;
-    margin-top: 38px;
-    left: 4px;
-  }
-
-  #plus::after {
-    content: '';
-    display: block;
-    display: relative;
-    border-top: 55px solid transparent;
-    border-bottom: 55px solid transparent;
-    border-left: 55px solid #f33872;
-  }
-
-  @media all and (max-width: 900px) {
-    #popup {
-      /*margin-left: -425px;*/
-      margin-left: 0;
-    }
-    #plus {
-      margin-left: 0px;
-    }
-  }
-</style>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
-<script>
-
-  $(document).scroll(function() {
-    var scroll = $(this).scrollTop();
-    if (scroll >= 150) {
-      $("#popup").css("margin-left", "-425px");
-      $("#plus").css("margin-left", "0px");
-    }
-  });
-
-  $("#plus").click(function() {
-    $("#popup").css("margin-left", "0px");
-    $("#plus").css("margin-left", "-425px");
-  });
-
-  $("#close").click(function() {
-    $("#popup").css("margin-left", "-425px");
-    $("#plus").css("margin-left", "0px");
-  });
-
-</script>
-
 <!-- Page Header -->
 
 <div class="container">
@@ -681,86 +540,89 @@ await navigator.clipboard.writeText(text);
 
 				<hr>
 
-
 				<!-- SUGESTÃO DE POSTS -->
-				<div class="container" style="padding: 0 5% 0px;max-width:850px">
+<div class="container" style="padding: 0 5% 0px;max-width:850px">
 
-				<div style="padding: 0 5% 0px;max-width:550px">
-					<h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> LEIA MAIS</h5>
-					<br /><br />
-									<div class="row">
+<div style="padding: 0 5% 0px;max-width:550px">
+  <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> LEIA MAIS</h5>
+  <br /><br />
+          <div class="row">
 
-				
-				
 
-				
-				
-												
-												
 
-				
-				
+<!-- -->
 
-								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
-									<span class="arquivado" style="color:#000">
 
-										<i class="far fa-calendar-alt"></i> 29/03/2021</a>
 
-									</span>
-												<a href="/ideias/2021-03-29-terapia-com-um-bot">
-													<img src="/img/ideias/terapia-robos-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
-													<h3 class="page-tttt" >Como é fazer terapia com um bot?</h3></a>
-													<br />
-													<br /><br />
-									</div>
-												
-												
-												
 
-				
-				
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
 
-								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
-									<span class="arquivado" style="color:#000">
+            <i class="far fa-calendar-alt"></i> 25/03/2021</a>
 
-										<i class="far fa-calendar-alt"></i> 25/03/2021</a>
+          </span>
+                <a href="/reportagem/2021-03-25-butantan-comunicao-digital">
+                  <img src="/img/butantan/cover.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >De cobras a funk: a guinada nas redes do Butantan</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
 
-									</span>
-												<a href="/reportagem/2021-03-25-butantan-comunicao-digital">
-													<img src="/img/butantan/cover.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
-													<h3 class="page-tttt" >De cobras a funk: a guinada nas redes do Butantan</h3></a>
-													<br />
-													<br /><br />
-									</div>
-												
-												
-												
+                
 
-				
-				
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
 
-								<div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
-									<span class="arquivado" style="color:#000">
+            <i class="far fa-calendar-alt"></i> 18/03/2021</a>
 
-										<i class="far fa-calendar-alt"></i> 24/03/2021</a>
+          </span>
+                <a href="/direitos/2021-03-18-direitos-autorais-desinformacao-treta">
+                  <img src="/img/remocao-conteudo/direitosautorais-fakenews-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
 
-									</span>
-												<a href="/curtas/2021-03-24-butantan-facebook-estrategia-vacinas">
-													<img src="/img/nucleo-geral-fit.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
-													<h3 class="page-tttt" >Butantan e Fiocruz falam com Facebook sobre projeto global de vacinação</h3></a>
-													<br />
-													<br /><br />
-									</div>
-												
-												
-												
+                
 
-												</div>
-												<h5 class="arquivado"><a href="/arquivo">
-													Acesse todo o arquivo >>
-												</a></h5>
-											</div>
-										</div>
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 11/03/2021</a>
+
+          </span>
+                <a href="/redes/2021-03-11-ciencia-dispara-twitter-divulgadores">
+                  <img src="/img/cientistas_engajamento/destaque.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Em meio ao caos, ciência brasileira floresce no Twitter</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 04/03/2021</a>
+
+          </span>
+                <a href="/redes/2021-03-04-big-tech-parler-moredacao">
+                  <img src="/img/moderacao/parler-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Big Tech força redes sociais alternativas a adotarem moderação</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+                </div>
+                <h5 class="arquivado"><a href="/arquivo">
+                  Acesse todo o arquivo >>
+                </a></h5>
+              </div>
+            </div>
+
+
 	      </div>
 
   	</div>

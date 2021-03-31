@@ -99,6 +99,7 @@
 		  <br />
         {{ content }}
 
+				<h5 class="arquivado"><a href="{{ site.baseurl }}/ideias">LEIA TODOS OS IDEIAS AQUI >></a></h5>
 				<p>
 					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
 				</p>
@@ -110,14 +111,14 @@
 				<hr>
 
 
-							<h5 class="arquivado"><a href="{{ site.baseurl }}/ideias">LEIA TODOS OS IDEIAS AQUI >></a></h5>
+							{% include sugestoes_artigos.html %}
+
 						</div>
 
 	      	</div>
 
   	</div>
 	</div>
-</div>
 
   {% include footer.html %}
   {% include js.html %}

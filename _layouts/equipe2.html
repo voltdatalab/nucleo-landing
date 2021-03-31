@@ -61,7 +61,7 @@
 									          <div class="row">
 
 									{% for post in posts %}
-										{% unless post.categories contains 'draft' %}
+										{% unless post.tipo contains 'draft' %}
 									        <div class="col-sm-6 col-lg-6" style="min-height:155px">
 
 									                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

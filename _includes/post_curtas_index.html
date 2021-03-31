@@ -11,8 +11,8 @@
           <div class="row">
             {% assign curtas = site.posts | where_exp: "post", "post.tipo == 'curtas'"  %}
             {% for post in curtas offset:0 limit:2 %}
-            {% unless post.categories contains 'draft' %}
-            {% unless post.categories contains 'institucional' %}
+            {% unless post.tipo contains 'draft' %}
+            {% unless post.tipo contains 'institucional' %}
 
 
         <div class="col-sm-6 col-lg-6" style="min-height:50px">
@@ -41,8 +41,8 @@
                 <div class="row">
                 {% assign ideias = site.posts | where_exp: "post", "post.tipo == 'ideias'"  %}
                 {% for post in ideias offset:0 limit:2 %}
-                {% unless post.categories contains 'draft' %}
-                {% unless post.categories contains 'institucional' %}
+                {% unless post.tipo contains 'draft' %}
+                {% unless post.tipo contains 'institucional' %}
 
             <div class="col-sm-6 col-lg-6" style="min-height:50px">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

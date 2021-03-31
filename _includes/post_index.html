@@ -4,8 +4,8 @@
 
 
 {% for post in site.posts limit:1 offset:0 %}
-{% unless post.categories contains 'draft' %}
-{% unless post.categories contains 'institucional' %}
+{% unless post.tipo contains 'draft' %}
+{% unless post.tipo contains 'institucional' %}
 <br />
   <div class="bannerpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
         <div class="container" style="min-height: 400px;">

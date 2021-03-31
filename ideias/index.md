@@ -12,8 +12,8 @@ atualizacao: 05/04/2020
           <div class="row">
 {% for post in site.posts offset:0 limit:20 %}
 {% if post.tipo contains 'ideias' %}
-{% unless post.categories contains 'draft' %}
-{% unless post.categories contains 'institucional' %}
+{% unless post.tipo contains 'draft' %}
+{% unless post.tipo contains 'institucional' %}
         <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                 <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>

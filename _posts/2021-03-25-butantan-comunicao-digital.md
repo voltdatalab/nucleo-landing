@@ -43,9 +43,7 @@ A estratégia da instituição, ligada ao governo do Estado de São Paulo, deu c
 ###### É importante porque...
 
 - *Butantan tem sido uma das principais organizações do Brasil quando se trata de vacinas*
-
 - *Mostra o peso das redes sociais na estratégia de comunicação até de entidades centenárias*   
-
 - *Estratégia do Butantan pode ditar o tom da 'guerra de versões' com o governo federal*   
 
 ---
@@ -57,7 +55,6 @@ Quando assumiu a gerência de comunicação do instituto, em janeiro de 2020, a 
 Com a covid-19, dois desafios mais imediatos chegaram ao departamento de Comunicação:
 
 - fazer divulgação sobre o processo de desenvolvimento, testes e produção da vacina (Coronavac), estabelecendo um posicionamento de autoridade científica nas redes;
-
 - e alcançar um público ainda fora do escopo do Butantan.
 
 Para isso, o instituto contratou, por [R$ 598 mil reais](https://fundacaobutantan.org.br/despachos-da-superintendencia/extratos/processo-001-0708-002.396-2020) por quatro meses, a Brazilian Brands Company para realizar o monitoramento das redes. O contrato venceu em 6 de março de 2021, mas o Butantan informou ao **Núcleo** que pretende renová-lo.

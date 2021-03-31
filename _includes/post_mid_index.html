@@ -6,8 +6,8 @@
 
 {% assign posts = site.posts | where_exp: "post", "post.tipo == 'especial'"  %}
 {% for post in posts offset:0 limit:2 %}
-{% unless post.categories contains 'draft' %}
-{% unless post.categories contains 'institucional' %}
+{% unless post.tipo contains 'draft' %}
+{% unless post.tipo contains 'institucional' %}
       <div class="col-sm-6 col-lg-6">
           <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
   background-repeat: no-repeat; /* Do not repeat the image */

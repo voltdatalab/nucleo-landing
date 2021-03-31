@@ -15,7 +15,7 @@ atualizacao: 05/04/2020
           <div class="row">
 
 {% for post in paginator.posts %}
-{% unless post.categories contains 'draft' %}
+{% unless post.tipo contains 'draft' %}
 
         <div class="col-sm-6 col-lg-6">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

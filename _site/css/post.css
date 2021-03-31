@@ -156,6 +156,17 @@ h2.subheading {
   text-transform: uppercase;
   margin: 35px 0;
   font-size: 1em;
+  line-height: 1.4em
+}
+
+.texto_post h4:before{
+  content: "\2192 ";
+  padding-right: 10px;
+}
+
+.texto_post h4 a{
+  color: #231f20;
+  text-decoration: underline;
 }
 
 
@@ -183,8 +194,8 @@ h2.subheading {
   color: #4b31dd;
   text-transform: uppercase;
   line-height: 1.5em;
-  margin: 0;
-  font-size: 0.8em;
+  margin: 0 0 12px;
+  font-size: 1em;
   text-align: center;
   font-family: 'Roboto Mono', monospace;
 }
@@ -208,9 +219,30 @@ small{
 
 .texto_post blockquote li{
   font-style: normal;
-  font-weight: 700;
-  font-size: 0.7em !important;
+  font-weight: 400;
   list-style-type: none;
+}
+
+.texto_post li{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2em !important;
+  list-style-type: none;
+  margin-bottom: 12px;
+  max-width: 90%
+}
+
+.texto_post li:before{
+  content: "\25FC";
+  color: #4b31dd;
+  margin-right: 12px
+}
+
+
+
+
+.texto_post ul{
+  margin-bottom: 20px
 }
 
 figcaption{
