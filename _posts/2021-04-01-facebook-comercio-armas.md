@@ -131,7 +131,7 @@ Na avaliação de Francisco Brito Cruz, diretor do [InternetLab](https://www.int
 
 No caso de grupos fechados, como um dos que o **Núcleo** encontrou, a moderação é mais desafiadora, uma vez que dificilmente haverá denúncias de usuários membros do grupo - em geral entusiastas do assunto.
 
-"Fica mais difícil de ter denúncia, mas isso não torna impossível que o Facebook veja o conteúdo que está naquele grupo, não é criptografado", disse Brito Cruz. Neste caso, utiliza-se a detecção por inteligência artificial, algo que parece mais simples do que é.
+"Fica mais difícil de ter denúncia, mas isso não torna impossível que o Facebook veja o conteúdo que está naquele grupo, não é criptografado", disse Brito Cruz. Neste caso, utiliza-se a detecção por inteligência artificial, algo que parece mais simples do que realmente é.
 
 {% include assine_newsletter.html %}
 
