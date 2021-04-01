@@ -204,12 +204,19 @@ small{
   line-height: 1.6em !important
 }
 .texto_post blockquote{
-  font-style: italic;
+  font-family: 'Source Serif Pro', monospace;
   font-size: 1em !important;
-  border-left: 4px solid ##0fb872;
+  color: #4b31dd;
+  text-transform: uppercase;
+  border-left: 4px solid #0fb872;
   padding-left: 10px;
-  max-width: 100% !important;
+  max-width: 80% !important;
   margin-left: -12px
+}
+
+.texto_post blockquote strong{
+  color: #231f20;
+  font-weight: 400;
 }
 
 .texto_post blockquote ul{
@@ -537,7 +544,7 @@ h2.subheading-special {
 .texto_post_special blockquote{
   font-style: italic;
   font-size: 0.95em !important;
-  border-left: 1px solid ##0fb872;
+  border-left: 1px solid #0fb872;
   padding-left: -10px;
   max-width: 100% !important;
 }
@@ -935,6 +942,10 @@ PIX
       right: 0;
       float: none;
       padding: 5px 10px 5px 0
+    }
+
+    .texto_post blockquote{
+        max-width: 100% !important;
     }
 }
 

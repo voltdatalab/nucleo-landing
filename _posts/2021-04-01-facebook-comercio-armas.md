@@ -2,13 +2,13 @@
 published: TRUE
 visible: 1
 layout: conteudo
-tipo: draft
+tipo: reportagem
 title: "Facebook ainda é usado para comprar e vender armas no Brasil"
 titulo_redes: "De cobras a funk: a guinada nas redes do Butantan"
 subtitle: "Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados"
 subtitle_redes: "Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados"
 excerpt: 'Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados'
-date: "31/03/2021 09:48"
+date: "01/04/2021 06:00"
 reportagem: Laís Martins
 analise: Lucas Gelape
 arte: Rodolfo Almeida
@@ -31,7 +31,7 @@ tags:
 
 ---
 
-O Facebook ainda é utilizado para anúncios de comércio direto de armas de fogo entre usuários da rede, o que viola as diretrizes de comunidade implementadas em 2016 e de esforços da plataforma para coibir a prática. Uma investigação do Núcleo encontrou mais de 20 publicações recentes de compra e venda de armamentos na plataforma, e dezenas de outras suspeitas (nos quais a oferta não é explícita).
+O Facebook ainda é utilizado para anúncios de comércio direto de armas de fogo entre usuários da rede, o que viola as diretrizes de comunidade implementadas em 2016 e de esforços da plataforma para coibir a prática. Uma investigação do **Núcleo** encontrou mais de 20 publicações recentes de compra e venda de armamentos na plataforma, e dezenas de outras suspeitas (nos quais a oferta não é explícita).
 
 A persistência desse comércio mostra a dificuldade na moderação de conteúdo mesmo dentro de uma das maiores empresas do mundo em valor de mercado, e também pode ter repercussões sérias fora do ambiente virtual.
 
@@ -56,17 +56,17 @@ As diretrizes de comunidade do Facebook estabelecem que a compra, venda ou troca
 
 Já a venda de armas de fogo no Brasil entre pessoas físicas não é proibida, contato que ambas as partes tenham registro ativo e a transação seja informada à Polícia Federal ou ao Exército.
 
-<div style="border: 2px solid #f33872; padding: 10px 35px 25px">
+<div style="border: 2px solid #f33872; padding: 10px 35px 25px; font-size:0.8em">
 
-<h3>O QUE DIZ A POLÍTICA DO FACEBOOK</h3>
+<h3 style="font-size:1.4em">O QUE DIZ A POLÍTICA DO FACEBOOK</h3>
 <ul>
-<li><span style="color: red;font-weight:700">PROÍBE</span>: Compra, venda, doação, permuta e transferência de armas de fogo, peças e munição entre particulares;</li>
+<li><span style="color: #f33872;font-weight:700">PROÍBE</span>: Compra, venda, doação, permuta e transferência de armas de fogo, peças e munição entre particulares;</li>
 
-<li><span style="color: red;font-weight:700">PROÍBE</span>: Anúncios (no Facebook Ads) que promovam vendas ou uso de armas e munições;</li>
+<li><span style="color: #f33872;font-weight:700">PROÍBE</span>: Anúncios (no Facebook Ads) que promovam vendas ou uso de armas e munições;</li>
 
 <li><span style="color: orange;font-weight:700">RESTRINGE</span>: Menores de 21 anos não conseguem visualizar "conteúdo publicado por ou que promova uma loja física, um site legítimo, uma marca ou uma agência do governo que tente comprar, vender, trocar, doar ou presentear armas de fogo, peças de armas, munição."</li>
 
-<li><span style="color: orange;font-weight:700">PERMITE</span>: Lojas de armas e varejistas online podem promover itens disponíveis para venda fora do Facebook;</li>
+<li><span style="color: #0fb872;font-weight:700">PERMITE</span>: Lojas de armas e varejistas online podem promover itens disponíveis para venda fora do Facebook;</li>
 
 <li><span style="color: #0fb872;font-weight:700">PERMITE</span>: Debates sobre venda de armas e peças em lojas ou por varejistas online;</li>
 
@@ -76,13 +76,21 @@ Já a venda de armas de fogo no Brasil entre pessoas físicas não é proibida, 
 </div>
 
 ### COMÉRCIO (NEM TANTO) ESCONDIDO
-As publicações encontradas pelo Núcleo estão tanto em grupos abertos quanto nos fechados. Enquanto algumas publicações são anúncios explícitos, trazendo preços, detalhes do modelo e formas de contato, outros posts trazem apenas a imagem do produto e um número de telefone ou link para WhatsApp. O Núcleo optou por não publicar as dezenas de capturas de tela que registrou, a fim de manter a privacidade das pessoas.
+As publicações encontradas pelo **Núcleo** estão tanto em grupos abertos quanto nos fechados. Enquanto algumas publicações são anúncios explícitos, trazendo preços, detalhes do modelo e formas de contato, outros posts trazem apenas a imagem do produto e um número de telefone ou link para WhatsApp. O **Núcleo** optou por não publicar as dezenas de capturas de tela que registrou, a fim de manter a privacidade das pessoas, apenas alguns exemplos.
 
 Administradores muitas vezes alertam em posts fixados no topo e nas regras dos grupos que não é permitido fazer negociação de armas ali. Mas a moderação é nula ou, no mínimo, leniente.
+
+![Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática]({{ site/baseurl }}/img/facebook-armas/espingarda_tel_venda.png)
+
+<figcaption>Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática </figcaption>
 
 Nos comentários de uma destas publicações, o autor do post escreve: "tô fazendo uma promoção de 3600 com duas cartelas de munições com 10."
 
 Outros aproveitam a postagem para oferecer produtos diferentes nos comentários. Um usuário pergunta qual o preço da G2C 9MM (um modelo de pistola da fabricante Taurus), ao que outra pessoa responde: "Tenho ela a pronta entrega em palmas R$ 3,600.00 a vista".
+
+![Exemplo de como comentários de um post podem ser utilizados para potenciais negociações]({{ site/baseurl }}/img/facebook-armas/print_oferta_arma.png)
+
+<figcaption>Exemplo de como comentários de um post podem ser utilizados para potenciais negociações, mesmo que a publicação original não tenha essa intenção.</figcaption>
 
 Uma outra publicação coloca link para conversa privada no WhatsApp e anuncia abertamente um revolver Rossi 38 como promoção de _Black Friday_, e logo abaixo um interessado dá seu telefone para contato.
 
@@ -97,9 +105,12 @@ Foram analisados cinco grupos:
 
 As interações nos três primeiros de 2021 foram os maiores desde agosto de 2019 (início da disponibilização dos dados), segundo análise com informações do CrowdTangle, ferramenta de dados do Facebook.
 
-Após o contato do Núcleo, o Facebook tirou do ar três de cinco links que compartilhamos -- dois grupos e uma publicação em outro grupo. Os outros dois links não foram removidos pois representam uma loja legítima, segundo a empresa.   
+Após o contato do **Núcleo**, o Facebook tirou do ar três de cinco links que compartilhamos -- dois grupos e uma publicação em outro grupo. Os outros dois links não foram removidos pois representam uma loja legítima, segundo a empresa.   
 
 ![aumento de interações em 5 grandes grupos do Faceook]({{ site.baseurl }}/img/facebook-armas/interacoes-facebook.png)
+
+#### Uma [reportagem da Veja ](https://veja.abril.com.br/brasil/comercio-ilegal-na-internet-vende-pecas-para-montar-fuzis-e-carabinas/)revelou na semana passada que o Mercado Livre também está sendo usado para comercializar peças de armas de fogo.
+
 
 ### LEGALIDADE
 
@@ -107,26 +118,30 @@ Para além das regras do Facebook, o [Estatuto do Desarmamento](http://www.plana
 
 Embora não seja ilegal (pela lei brasileira) a negociação de armas entre civis no Facebook, não é possível garantir que as partes respeitarão e agirão dentro do que estabelece a lei.
 
-"Qualquer transferência entre civis precisa ser entre pessoas com registro ativo e a transferência tem que ser registrada ou na Polícia Federal ou no Exército. Se a venda envolver alguém sem registro ativo ou se a transferência não for registrada na PF/Exército, configura tráfico de armas", disse ao Núcleo Natália Pollachi, gerente de projetos no [Instituto Sou da Paz](http://soudapaz.org).
+"Qualquer transferência entre civis precisa ser entre pessoas com registro ativo e a transferência tem que ser registrada ou na Polícia Federal ou no Exército. Se a venda envolver alguém sem registro ativo ou se a transferência não for registrada na PF/Exército, configura tráfico de armas", disse ao **Núcleo** Natália Pollachi, gerente de projetos no [Instituto Sou da Paz](http://soudapaz.org).
 
-Para Pollachi, pela sua repercussão, o caso de Suzano levou a uma atuação atípica da polícia em ir atrás dos fornecedores da arma e munição. "Sabemos que tem muito homicídio que foi com arma comprada no mercado ilegal e que a polícia nunca vai atrás de responsabilizar quem vendeu", explicou Pollachi.
+Para Pollachi, pela sua repercussão, o caso de Suzano levou a uma atuação atípica da polícia em ir atrás dos fornecedores da arma e munição. "Tem muito homicídio que foi com arma comprada no mercado ilegal e que a polícia nunca vai atrás de responsabilizar quem vendeu", explicou Pollachi.
 
-Ela defende uma atuação mais incisiva das plataformas para coibir comercialização de armas e munições. "Sabemos que tem um discurso institucional das plataformas, das redes sociais, dizendo que a comunidade é muito grande, que não há como fiscalizar absolutamente tudo, mas a gente entende que comércio de armas e munições é uma coisa extremamente grave que deveria ser prioritária."
+Ela defende uma atuação mais incisiva das plataformas para coibir comercialização de armas e munições.
 
-#### Uma [reportagem da Veja ](https://veja.abril.com.br/brasil/comercio-ilegal-na-internet-vende-pecas-para-montar-fuzis-e-carabinas/)revelou na semana passada que o Mercado Livre também está sendo usado para comercializar peças de armas de fogo.
+>  "Sabemos que tem um discurso institucional das plataformas, das redes sociais, dizendo que a comunidade é muito grande, que não há como fiscalizar absolutamente tudo, mas a gente entende que comércio de armas e munições é uma coisa extremamente grave que deveria ser prioritária." - **Natália Pollachi, Instituto Sou da Paz**
 
 ### POLÍTICAS CLARAS
 Na avaliação de Francisco Brito Cruz, diretor do [InternetLab](https://www.internetlab.org.br), as políticas do Facebook quanto à comercialização de armas de fogo são bastante claras. O que dificulta a implementação, segundo ele, é a interpretação das regras para cada caso.
 
-"Na hora de interpretar e aplicar, você tem N situações, uma diferente da outra e que vão tornar mais difícil ou mais fácil. Seja porque a pessoa está camuflando a venda ou ainda se a pessoa publica uma foto, mas num grupo específico", disse Brito Cruz ao Núcleo.
+"Na hora de interpretar e aplicar, você tem N situações, uma diferente da outra e que vão tornar mais difícil ou mais fácil. Seja porque a pessoa está camuflando a venda ou ainda se a pessoa publica uma foto, mas num grupo específico", disse Brito Cruz em entrevista.
 
-No caso de grupos fechados, como um dos que o Núcleo encontrou, a moderação é mais desafiadora, uma vez que dificilmente haverá denúncias de usuários membros do grupo - em geral entusiastas do assunto. "Fica mais difícil de ter denúncia, mas isso não torna impossível que o Facebook veja o conteúdo que está naquele grupo, não é criptografado", disse Brito Cruz. Neste caso, utiliza-se a detecção por inteligência artificial, algo que parece mais simples do que é.
+No caso de grupos fechados, como um dos que o **Núcleo** encontrou, a moderação é mais desafiadora, uma vez que dificilmente haverá denúncias de usuários membros do grupo - em geral entusiastas do assunto.
+
+"Fica mais difícil de ter denúncia, mas isso não torna impossível que o Facebook veja o conteúdo que está naquele grupo, não é criptografado", disse Brito Cruz. Neste caso, utiliza-se a detecção por inteligência artificial, algo que parece mais simples do que é.
 
 {% include assine_newsletter.html %}
 
-Como o Facebook prevê exceções para alguns conteúdos de armas de fogo, publicados por lojas oficiais, por exemplo, não é simples treinar o algoritmo para detectar conteúdos que não se adequam. "Às vezes você dependerá somente de ferramentas de inteligência artificial para detectar esses conteúdos e essas ferramentas não são perfeitas, elas erram", explicou.
+Como o Facebook prevê exceções para alguns conteúdos de armas de fogo, publicados por lojas oficiais, por exemplo, não é simples treinar o algoritmo para detectar conteúdos que não se adequam.
 
-Procurado pelo Núcleo, o Facebook explicou via assessoria de imprensa que a identificação de publicações que violem os termos de uso se dá de forma híbrida, utilizando inteligência artificial e revisores humanos, mas não divulga de forma detalhada a estratégia, como termos-chaves buscados.
+> "Às vezes você dependerá somente de ferramentas de inteligência artificial para detectar esses conteúdos e essas ferramentas não são perfeitas, elas erram" - **Francisco Brito Cruz, InternetLab**
+
+Procurado pelo **Núcleo**, o Facebook explicou via assessoria de imprensa em uma breve nota que a identificação de publicações que violem os termos de uso se dá de forma híbrida, utilizando inteligência artificial e revisores humanos, mas não divulga de forma detalhada a estratégia, como termos-chaves buscados.
 
 ### PRECEDENTES
 
@@ -136,9 +151,9 @@ Em setembro de 2019, um grupo de parlamentares democratas enviou uma carta ao CE
 
 À época, uma porta-voz do Facebook disse que a empresa havia feito atualizações ao Marketplace após a matéria do WSJ, acrescentando que a empresa também estava ajustando o sistema automatizado e utilizando revisores humanos para identificar conteúdos irregulares.
 
-Mas logo vendedores de armas mudaram de tática, segundo mais uma [reportagem do WSJ](https://www.wsj.com/articles/gun-sellers-use-new-tactic-to-deal-on-facebook-marketplace-11598270872) publicada em agosto do ano passado. Em vez de anunciar armas, os posts no Marketplace ofereciam adesivos e traziam como imagem o logo de fabricantes de armas.
+Mas logo vendedores de armas mudaram de tática, segundo mais uma [reportagem do WSJ](https://www.wsj.com/articles/gun-sellers-use-new-tactic-to-deal-on-facebook-marketplace-11598270872) publicada em agosto do ano passado (tradução da Folha de S.Paulo [neste link](https://www1.folha.uol.com.br/mundo/2020/08/vendedores-de-armas-recorrem-a-tatica-nova-para-operar-no-facebook.shtml)). Em vez de anunciar armas, os posts no Marketplace ofereciam adesivos e traziam como imagem o logo de fabricantes de armas.
 
-Diferentemente do cenário dos EUA, as táticas usadas no Brasil são menos refinadas. O Núcleo não identificou anúncios de armas ou peças no Marketplace, mas sim publicações e comentários dentro de grupos (públicos ou fechados), que trazem imagens dos produtos e palavras explícitas, além de links para formas de contatos.
+Diferentemente do cenário dos EUA, as táticas usadas no Brasil são menos refinadas. O **Núcleo** não identificou anúncios de armas ou peças no Marketplace, mas sim publicações e comentários dentro de grupos (públicos ou fechados), que trazem imagens dos produtos e palavras explícitas, além de links para formas de contatos.
 
 Em seu [relatório global de transparência](https://transparency.facebook.com/community-standards-enforcement#regulated-goods), o Facebook disse que a quantidade de conteúdos ligados a armas de fogos que exigiram ação da plataforma cresceu de 1,1 milhão no terceiro trimestre de 2020 a 1,3 milhão no trimestre seguinte, como resultado de um aprimoramento na tecnologia de detecção proativa. Entre outubro e dezembro de 2020, 92% do conteúdo que poderia exigir alguma ação foi detectado pelo Facebook antes que houvesse uma denúncia por usuários.
 
@@ -152,3 +167,5 @@ O contato com o Facebook foi feito na segunda-feira, dia 29 de março.
 As informações sobre engajamento dos no Facebook foram coletadas no CrowdTangle. A requisição retornou poucos resultados antes de agosto de 2019 (49 postagens) e, por isso, delimitamos 01/08/2019 como marco inicial da análise. O engajamento agregado é a soma de todas as reações, comentários e compartilhamentos dos posts coletados.
 
 Os dados de registros novos de armas foram obtidos junto à assessoria de imprensa da Polícia Federal, por email.
+
+Resposta na íntegra do Facebook: *"Removemos as publicações indicadas pela reportagem que feriam as nossas Políticas Comerciais. Não permitimos anúncios ou a compra, venda ou troca de armas de fogo, munições e explosivos entre pessoas. As atividades comerciais por lojas, desde que respeitem os Padrões da Comunidade do Facebook, são permitidas. Combinamos tecnologia de inteligência artificial e revisão humana para identificar conteúdos que possam violar essas regras"*
