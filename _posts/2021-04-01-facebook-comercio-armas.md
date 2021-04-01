@@ -102,7 +102,7 @@ Foram analisados cinco grupos:
 - "CACS do Brasil" (8 mil membros).
 
 
-As interações nos três primeiros de 2021 foram os maiores desde agosto de 2019 (início da disponibilização dos dados), segundo análise com informações do CrowdTangle, ferramenta de dados do Facebook.
+As interações totais nos três primeiros meses de 2021 foram os maiores desde agosto de 2019 (início da disponibilização dos dados), segundo análise com informações do CrowdTangle, ferramenta de dados do Facebook.
 
 Após o contato do **Núcleo**, o Facebook tirou do ar três de cinco links que compartilhamos -- dois grupos e uma publicação em outro grupo. Os outros dois links não foram removidos pois representam uma loja legítima, segundo a empresa.   
 
