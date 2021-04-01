@@ -164,7 +164,7 @@ Entramos nos grupos e procuramos, usando termos-chave como [preço] [venda] [ten
 
 O contato com o Facebook foi feito na segunda-feira, dia 29 de março.
 
-As informações sobre engajamento dos no Facebook foram coletadas no CrowdTangle. A requisição retornou poucos resultados antes de agosto de 2019 (49 postagens) e, por isso, delimitamos 01/08/2019 como marco inicial da análise. O engajamento agregado é a soma de todas as reações, comentários e compartilhamentos dos posts coletados.
+As informações sobre interações no Facebook foram coletadas no CrowdTangle. A requisição retornou poucos resultados antes de agosto de 2019 (49 postagens) e, por isso, delimitamos 01/08/2019 como marco inicial da análise. O engajamento agregado é a soma de todas as reações, comentários e compartilhamentos dos posts coletados.
 
 Os dados de registros novos de armas foram obtidos junto à assessoria de imprensa da Polícia Federal, por email.
 
