@@ -53,7 +53,7 @@ Além disso, a continuidade desse comércio irregular acontece num momento em qu
 
 As diretrizes de comunidade do Facebook estabelecem que a compra, venda ou troca de armas de fogo, munições e explosivos entre pessoas físicas não são permitidos na plataforma. Lojas e sites que comercializam armas de fogo têm permissão para se engajar em atividades comerciais envolvendo armas e munições, desde que sigam as regras da rede social. A plataforma permite ainda discussões sobre vendas em lojas físicas ou online.
 
-Já a venda de armas de fogo no Brasil entre pessoas físicas não é proibida, contato que ambas as partes tenham registro ativo e a transação seja informada à Polícia Federal ou ao Exército.
+Já a venda de armas de fogo no Brasil entre pessoas físicas não é proibida, contanto que ambas as partes tenham registro ativo e a transação seja informada à Polícia Federal ou ao Exército.
 
 <div style="border: 2px solid #f33872; padding: 10px 35px 25px; font-size:0.8em">
 

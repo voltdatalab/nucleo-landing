@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    
+    <meta name="robots" content="index, follow" />
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <title>Núcleo Jornalismo</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/css/landing-page.css" rel="stylesheet">
+    <link href="/css/post.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/font-awesome-5.12.0/css/all.css" rel="stylesheet" type="text/css">
+
+    <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,500,700|Days+One|Roboto+Mono|Source+Serif+Pro:400,700&display=swap" rel="stylesheet">
+
+    <meta name="keywords" content="Facebook, Comércio de armas, Armas de fogo, Moderação de conteúdo, CAC "/>
+    <meta property="og:site_name" content="Núcleo Jornalismo">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:title" content="Facebook ainda é usado para negociar armas no Brasil" />
+    <meta property="og:description" content="Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas" />
+    <meta property="article:published_time" content="2021-04-01 06:00:00 -0300">
+
+    <!-- FACEBOOK -->
+    <meta property="og:image" content="https://nucleo.jor.br/img/facebook-armas/venda-armas-01.png" />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@nucleojor" />
+    <meta name="twitter:creator" content="@nucleojor" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-104963816-3');
+    </script>
+
+</head>
+
+	<body>
+		<!-- Navigation -->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Navegação mobile</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="/img/landing-nucleo_logo-header.png" width="240px"/> </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a href="/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
+              </li>
+                <li class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                  style="background:none;padding:0;"
+                  ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
+                      <ul class="dropdown-menu">
+                        <li class="dropdown-header">SEÇÕES</li>
+                        <li>  <a href="/especiais">ESPECIAIS</a></li>
+                        <li><a href="/ideias">JOGO RÁPIDO</a></li>
+                        <li>  <a href="/arquivo">ARQUIVO</a></li>
+                        <li><a href="/ideias">IDEIAS</a></li>
+                        <li><a href="/monitor">MONITOR NUCLEAR</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">NEWSLETTERS</li>
+                        <li>  <a href="/newsletters/garimpo">GARIMPO</a></li>
+                        <li><a href="/newsletters">MATÉRIA DA SEMANA</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">COMUNIDADE</li>
+                        <li><a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh">LIXO ELETRÔNICO</a></li>
+                        <li><a href="/transparencia">TRANSPARÊNCIA</a></li>
+                        <li><a href="/cobertura">COBERTURA DE TECH</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">INSTITUCIONAL</li>
+                        <li><a href="/sobre">SOBRE O NÚCLEO</a></li>
+                        <li><a href="/equipe">NOSSA EQUIPE</a></li>
+                        <li><a href="/pautas">COLABORE CONOSCO</a></li>
+                        <li><a href="/republique">REPUBLICAÇÕES</a></li>
+                        <li><a href="/impacto">NOSSO IMPACTO</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">POLÍTICAS</li>
+                        <li><a href="/privacidade">PRIVACIDADE</a></li>
+                        <li role="separator" class="divider"></li>
+                        </ul>
+              </li>
+              <li class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                style="background:none;padding:0;"
+                ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
+                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px">
+                  <li>
+                <form action="/busca.html" method="get">
+                <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                <!-- <input type="submit" value="search"> -->
+                </form>
+                </li>
+                </ul>
+
+                </li>
+                <!--
+                <li>
+                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
+                </li>
+
+                
+                <li>
+                  <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+                <li>
+                  <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
+                </li>
+                
+
+                <li>
+                    <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
+                </li> -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<script>
+  $(function(){
+  	$(".dropdown-menu > li > a.trigger").on("click",function(e){
+  		var current=$(this).next();
+  		var grandparent=$(this).parent().parent();
+  		if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+  			$(this).toggleClass('right-caret left-caret');
+  		grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+  		grandparent.find(".sub-menu:visible").not(current).hide();
+  		current.toggle();
+  		e.stopPropagation();
+  	});
+  	$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+  		var root=$(this).closest('.dropdown');
+  		root.find('.left-caret').toggleClass('right-caret left-caret');
+  		root.find('.sub-menu:visible').hide();
+  	});
+  });
+</script>
+
+<!-- Page Header -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-heading">
+
+        <h1>Facebook ainda é usado para comprar e vender armas no Brasil</h1>
+        
+        <h2 class="subheading">Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados</h2>
+        
+        <span class="arquivado">
+          <i class="far fa-calendar-alt"></i> Publicado em 01/04/2021 06:00 </span></a></u>
+
+        </span>
+
+				<h4 class="arquivado creditos_alt">
+				<i class="fas fa-list-alt"></i> Arquivado em <u><a href="/reportagem"><span> reportagem</span></a></u>
+				</h4>
+
+				
+
+
+				
+				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: 2199 <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: 17455--> &middot; <i class="far fa-clock"></i> Leitura: 12 minutos</h4>
+
+				<br />
+
+				
+				
+				
+
+				
+				
+
+				<!--
+				<h4 class="arquivado creditos_alt">
+				<div class="popover__wrapper" style="margin:0 auto">
+								<i class="fas fa-list-alt"></i> Formato: <span class="popover__title"><u>reportagem</u></span>
+										<div class="popover__content">
+											<p class="popover__message">
+												- <strong>Investigação/Reportagem</strong>: matéria mais aprofundada ou investigativa<br /><br />
+												- <strong>Análise</strong>: levantamentos inéditos ou aprofundados <br /><br />
+												- <strong>Análise rápida</strong>: insights de dados do dia a dia<br /><br />
+												- <strong>Explicação</strong>: explica um tema ou assunto <br /><br />
+												- <strong>Descrição</strong>: exploração sem necessidade de conclusão<br /><br />
+												- <strong>Nota do Editor</strong>: assuntos institucionais do Núcleo
+											</p>
+										</div>
+									</div>
+									<br />
+								</h4>
+							-->
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<h6 class="feature_credito"> Rodolfo Almeida </h6>
+
+
+<header class="masthead" style="background-image: url('../img/facebook-armas/venda-armas-01.png')">
+  
+    <div class="overlay"></div>
+  </header>
+
+
+
+<div class="container wrap sidebar-right box_conteudo">
+  <div class="container">
+    <div class="row">
+			<div class="creditos">
+				<div class="sidebar col-sm-4">
+					<span class="arquivado creditos_alt">
+
+					 Reportagem <span><a href="/equipe/">Laís Martins</a></span><br /> 
+						 Análise <span><a href="/equipe/">Lucas Gelape</a></span><br /> 
+						
+						
+						
+						 Arte <span><a href="/equipe/">Rodolfo Almeida</a></span><br /> 
+						 Edição <span><a href="/equipe/">Sérgio Spagnuolo</a></span>
+					</span>
+					<br />
+					<br />
+
+					<!--
+					<ul class="share-buttons">
+						<li>
+							<i class="fas fa-share-alt"></i>
+						</li>
+					<li><a href="https://twitter.com/intent/tweet?source=/reportagem/2021-04-01-facebook-comercio-armas%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+					<li><a href="whatsapp://send?text=Facebook ainda é usado para negociar armas no Brasil - https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+				  <li><a href="http://www.reddit.com/submit?url=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+				  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+				  <li><a href="mailto:?subject=&body=:%20/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+				</ul>
+			-->
+
+				
+
+				<div class="pix-div">
+    <h5>APOIE O NÚCLEO, PAGUE<br /> POR ESTE CONTEÚDO</h5>
+    <h4 class="arquivado creditos_alt">
+      - Via PIX, é rápido e fácil <br />
+      - Use o QR no app do seu banco<br />
+      - Ou copie a chave aleatória<br />
+      - Pague a <u>quantia que quiser</u> <br />
+    </h4>
+
+    <img class="pix-img" src="/img/pix/pix_materias.png" alt="pix para doação"/>
+    <br />
+    <input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
+    <br />
+    <button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave aleatória</button>
+    <h4 class="arquivado creditos_alt">
+      <a href="/transparencia" target="_blank">Conheça nossa transparência</a>
+    </h4>
+    <!-- <h4 class="arquivado creditos_alt" style="max-width:90%">Fale conosco: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4> -->
+</div>
+
+
+				<script>
+					document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
+
+	alert("Chave Pix ALEATÓRIA copiada");
+}
+
+
+				</script>
+
+				<hr class="hrtop"/>
+
+				<!-- Floating Social Media bar Starts -->
+<div class="float-sm" style="background: #000 !important; width:100%">
+	<div class="fl-fl float-shareicon" style="background-color: transparent">
+		<i class="fas fa-share-alt fa-lg"></i>
+  </div>
+  <div class="fl-fl float-fb">
+		<a href="https://twitter.com/intent/tweet?source=/reportagem/2021-04-01-facebook-comercio-armas%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-tw">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-gp">
+    <a href="whatsapp://send?text=Facebook ainda é usado para negociar armas no Brasil - https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-rs">
+    <a href="http://www.reddit.com/submit?url=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+  <div class="fl-fl float-ig">
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url=/reportagem/2021-04-01-facebook-comercio-armas" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
+  </div>
+</div>
+<!-- Floating Social Media bar Ends -->
+
+			</div>
+		</div>
+			<div class="main col-sm-7">
+        <div class="texto_post">
+
+        <p>O Facebook ainda é utilizado para anúncios de comércio direto de armas de fogo entre usuários da rede, o que viola as diretrizes de comunidade implementadas em 2016 e de esforços da plataforma para coibir a prática. Uma investigação do <strong>Núcleo</strong> encontrou mais de 20 publicações recentes de compra e venda de armamentos na plataforma, e dezenas de outras suspeitas (nos quais a oferta não é explícita).</p>
+
+<p>A persistência desse comércio mostra a dificuldade na moderação de conteúdo mesmo dentro de uma das maiores empresas do mundo em valor de mercado, e também pode ter repercussões sérias fora do ambiente virtual.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li><em>Mostra dificuldade de moderação mesmo para uma das maiores redes sociais do mundo</em></li>
+  <li><em>Comércio de armas de fogo entre pessoas física precisa seguir regras específicas</em></li>
+  <li><em>Prática é contra a própria política de comunidade do Facebook</em></li>
+</ul>
+
+<hr />
+
+<p>Em março de 2019, dois adolescentes <a href="https://www.bbc.com/portuguese/brasil-51880555">invadiram</a> uma escola a tiros em Suzano (SP) e deixaram oito mortos, entre alunos e professores, e depois se mataram. Uma <a href="https://www1.folha.uol.com.br/cotidiano/2019/07/investigacao-de-massacre-de-suzano-aponta-fragilidade-de-controle-de-arma-e-municao.shtml?utm_source=folha&amp;utm_medium=site&amp;utm_campaign=topicos">investigação policial </a>determinou que os atiradores, um dos quais menor de idade, negociaram a compra de parte das munições usadas no massacre pelo Facebook.</p>
+
+<p>Além disso, a continuidade desse comércio irregular acontece num momento em que o presidente Jair Bolsonaro está tentando facilitar a aquisição de armamentos no Brasil por pessoas físicas. Em <a href="https://g1.globo.com/politica/noticia/2021/02/13/veja-o-que-muda-com-os-novos-decretos-de-bolsonaro-sobre-armas-de-fogo.ghtml">fevereiro</a> deste ano, Bolsonaro <a href="https://www1.folha.uol.com.br/cotidiano/2021/02/bolsonaro-edita-mais-4-decretos-para-facilitar-acesso-a-armas-e-municoes.shtml">editou quatro decretos</a> que ampliam a possibilidade de porte de armas para cidadãos comuns.<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br /><br />Mais recentemente, em março, o Supremo Tribunal Federal iniciou o julgamento de uma ação apresentada pelo PSB em relação a outros decretos de armas editados por Bolsonaro em 2019. A votação teve início em 12 de março, mas foi <a href="https://www1.folha.uol.com.br/cotidiano/2021/03/rosa-weber-pede-vista-e-suspende-julgamento-de-decretos-de-bolsonaro-sobre-armas.shtml" target="_blank">suspensa</a> após a ministra Rosa Weber pedir vistas.<br /><br /></span></p>
+
+<p><img src="/img/facebook-armas/registro-armas.png" alt="registro de armas novas no Brasil - gráfico mostra crescimento, em 2009 foram quase 30 mil registros, em 2020 foram quase 180 mil" /></p>
+
+<p>As diretrizes de comunidade do Facebook estabelecem que a compra, venda ou troca de armas de fogo, munições e explosivos entre pessoas físicas não são permitidos na plataforma. Lojas e sites que comercializam armas de fogo têm permissão para se engajar em atividades comerciais envolvendo armas e munições, desde que sigam as regras da rede social. A plataforma permite ainda discussões sobre vendas em lojas físicas ou online.</p>
+
+<p>Já a venda de armas de fogo no Brasil entre pessoas físicas não é proibida, contanto que ambas as partes tenham registro ativo e a transação seja informada à Polícia Federal ou ao Exército.</p>
+
+<div style="border: 2px solid #f33872; padding: 10px 35px 25px; font-size:0.8em">
+
+<h3 style="font-size:1.4em">O QUE DIZ A POLÍTICA DO FACEBOOK</h3>
+<ul>
+<li><span style="color: #f33872;font-weight:700">PROÍBE</span>: Compra, venda, doação, permuta e transferência de armas de fogo, peças e munição entre particulares;</li>
+
+<li><span style="color: #f33872;font-weight:700">PROÍBE</span>: Anúncios (no Facebook Ads) que promovam vendas ou uso de armas e munições;</li>
+
+<li><span style="color: orange;font-weight:700">RESTRINGE</span>: Menores de 21 anos não conseguem visualizar "conteúdo publicado por ou que promova uma loja física, um site legítimo, uma marca ou uma agência do governo que tente comprar, vender, trocar, doar ou presentear armas de fogo, peças de armas, munição."</li>
+
+<li><span style="color: #0fb872;font-weight:700">PERMITE</span>: Lojas de armas e varejistas online podem promover itens disponíveis para venda fora do Facebook;</li>
+
+<li><span style="color: #0fb872;font-weight:700">PERMITE</span>: Debates sobre venda de armas e peças em lojas ou por varejistas online;</li>
+
+</ul>
+
+<p><small><a href="https://www.facebook.com/communitystandards/regulated_goods" target="_blank">REFERÊNCIA</a> - (última atualização em abril de 2020)</small></p>
+</div>
+
+<h3 id="comércio-nem-tanto-escondido">COMÉRCIO (NEM TANTO) ESCONDIDO</h3>
+<p>As publicações encontradas pelo <strong>Núcleo</strong> estão tanto em grupos abertos quanto nos fechados. Enquanto algumas publicações são anúncios explícitos, trazendo preços, detalhes do modelo e formas de contato, outros posts trazem apenas a imagem do produto e um número de telefone ou link para WhatsApp. O <strong>Núcleo</strong> optou por não publicar as dezenas de capturas de tela que registrou, a fim de manter a privacidade das pessoas, apenas alguns exemplos.</p>
+
+<p>Administradores muitas vezes alertam em posts fixados no topo e nas regras dos grupos que não é permitido fazer negociação de armas ali. Mas a moderação é nula ou, no mínimo, leniente.</p>
+
+<p><img src="/img/facebook-armas/espingarda_tel_venda.png" alt="Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática" /></p>
+
+<figcaption>Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática </figcaption>
+
+<p>Nos comentários de uma destas publicações, o autor do post escreve: “tô fazendo uma promoção de 3600 com duas cartelas de munições com 10.”</p>
+
+<p>Outros aproveitam a postagem para oferecer produtos diferentes nos comentários. Um usuário pergunta qual o preço da G2C 9MM (um modelo de pistola da fabricante Taurus), ao que outra pessoa responde: “Tenho ela a pronta entrega em palmas R$ 3,600.00 a vista”.</p>
+
+<p><img src="/img/facebook-armas/print_oferta_arma.png" alt="Exemplo de como comentários de um post podem ser utilizados para potenciais negociações" /></p>
+
+<figcaption>Exemplo de como comentários de um post podem ser utilizados para potenciais negociações, mesmo que a publicação original não tenha essa intenção.</figcaption>
+
+<p>Uma outra publicação coloca link para conversa privada no WhatsApp e anuncia abertamente um revolver Rossi 38 como promoção de <em>Black Friday</em>, e logo abaixo um interessado dá seu telefone para contato.</p>
+
+<p>Foram analisados cinco grupos:</p>
+
+<ul>
+  <li>“Apaixonados por Armas” (140 mil membros);</li>
+  <li>“CAC’s Brasil” (20 mil membros);</li>
+  <li>“CAC Fácil” (16 mil membros);</li>
+  <li>“TH9mm Taurus” (16 mil membros);</li>
+  <li>“CACS do Brasil” (8 mil membros).</li>
+</ul>
+
+<p>As interações nos três primeiros de 2021 foram os maiores desde agosto de 2019 (início da disponibilização dos dados), segundo análise com informações do CrowdTangle, ferramenta de dados do Facebook.</p>
+
+<p>Após o contato do <strong>Núcleo</strong>, o Facebook tirou do ar três de cinco links que compartilhamos – dois grupos e uma publicação em outro grupo. Os outros dois links não foram removidos pois representam uma loja legítima, segundo a empresa.</p>
+
+<h4 id="saiba-mais-sobre-o-impacto-do-núcleo">Saiba mais sobre o <a href="https://nucleo.jor.br/impacto">impacto do Núcleo</a></h4>
+
+<p><img src="/img/facebook-armas/interacoes-facebook.png" alt="aumento de interações em 5 grandes grupos do Facebook" /></p>
+
+<h3 id="legalidade">LEGALIDADE</h3>
+
+<p>Para além das regras do Facebook, o <a href="http://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm">Estatuto do Desarmamento</a>, de 2003, proíbe a publicidade para venda por parte de empresas de produção ou comércio de armamento, exceto em publicações especializadas, como revistas sobre tiro desportivo, por exemplo. O descumprimento pode incorrer em multa de até 300 mil reais. A própria determinação do Facebook, portanto, que permite que pessoas jurídicas ofertem seus produtos, entra em conflito com a legislação brasileira.</p>
+
+<p>Embora não seja ilegal (pela lei brasileira) a negociação de armas entre civis no Facebook, não é possível garantir que as partes respeitarão e agirão dentro do que estabelece a lei.</p>
+
+<p>“Qualquer transferência entre civis precisa ser entre pessoas com registro ativo e a transferência tem que ser registrada ou na Polícia Federal ou no Exército. Se a venda envolver alguém sem registro ativo ou se a transferência não for registrada na PF/Exército, configura tráfico de armas”, disse ao <strong>Núcleo</strong> Natália Pollachi, gerente de projetos no <a href="http://soudapaz.org">Instituto Sou da Paz</a>.</p>
+
+<p>Para Pollachi, pela sua repercussão, o caso de Suzano levou a uma atuação atípica da polícia em ir atrás dos fornecedores da arma e munição. “Tem muito homicídio que foi com arma comprada no mercado ilegal e que a polícia nunca vai atrás de responsabilizar quem vendeu”, explicou Pollachi.</p>
+
+<p>Ela defende uma atuação mais incisiva das plataformas para coibir comercialização de armas e munições.</p>
+
+<blockquote>
+  <p>“Sabemos que tem um discurso institucional das plataformas, das redes sociais, dizendo que a comunidade é muito grande, que não há como fiscalizar absolutamente tudo, mas a gente entende que comércio de armas e munições é uma coisa extremamente grave que deveria ser prioritária.” - <strong>Natália Pollachi, Instituto Sou da Paz</strong></p>
+</blockquote>
+
+<h3 id="políticas-claras">POLÍTICAS CLARAS</h3>
+<p>Na avaliação de Francisco Brito Cruz, diretor do <a href="https://www.internetlab.org.br">InternetLab</a>, as políticas do Facebook quanto à comercialização de armas de fogo são bastante claras. O que dificulta a implementação, segundo ele, é a interpretação das regras para cada caso.</p>
+
+<p>“Na hora de interpretar e aplicar, você tem N situações, uma diferente da outra e que vão tornar mais difícil ou mais fácil. Seja porque a pessoa está camuflando a venda ou ainda se a pessoa publica uma foto, mas num grupo específico”, disse Brito Cruz em entrevista.</p>
+
+<p>No caso de grupos fechados, como um dos que o <strong>Núcleo</strong> encontrou, a moderação é mais desafiadora, uma vez que dificilmente haverá denúncias de usuários membros do grupo - em geral entusiastas do assunto.</p>
+
+<p>“Fica mais difícil de ter denúncia, mas isso não torna impossível que o Facebook veja o conteúdo que está naquele grupo, não é criptografado”, disse Brito Cruz. Neste caso, utiliza-se a detecção por inteligência artificial, algo que parece mais simples do que é.</p>
+
+<div style="margin: 30px auto;max-width:320px; padding: 25px;border:1px solid #f33872;">
+  <label style="font-size:1em; text-transform: uppercase">Receba nossas matérias por email, toda quinta-feira. <br />
+  <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+  <div id="newsletter_page" style="margin-top:10px">
+  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+    <input style="width:65%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+     <div class="footer-form-actions">
+       <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ" />
+       <input type="hidden" name="subform" value="yes" />
+       <input style="padding-left:12px;padding-right:12px" type="submit" name="submit" id="submit" value="Receber" />
+       </div>
+  <!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
+
+  </form>
+  </div>
+</div>
+
+<p>Como o Facebook prevê exceções para alguns conteúdos de armas de fogo, publicados por lojas oficiais, por exemplo, não é simples treinar o algoritmo para detectar conteúdos que não se adequam.</p>
+
+<blockquote>
+  <p>“Às vezes você dependerá somente de ferramentas de inteligência artificial para detectar esses conteúdos e essas ferramentas não são perfeitas, elas erram” - <strong>Francisco Brito Cruz, InternetLab</strong></p>
+</blockquote>
+
+<p>Procurado pelo <strong>Núcleo</strong>, o Facebook explicou via assessoria de imprensa em uma breve nota que a identificação de publicações que violem os termos de uso se dá de forma híbrida, utilizando inteligência artificial e revisores humanos, mas não divulga de forma detalhada a estratégia, como termos-chaves buscados.</p>
+
+<h3 id="precedentes">PRECEDENTES</h3>
+
+<p>O uso do Facebook para comercialização de armas de fogo não é limitado ao Brasil e já teve desdobramentos nos Estados Unidos.</p>
+
+<p>Em setembro de 2019, um grupo de parlamentares democratas enviou uma carta ao CEO do Facebook, Mark Zuckerberg, pedindo ações mais contundentes para banir a venda de armas de fogo no Marketplace, a interface de vendas diretas da plataforma, além de esclarecimentos sobre como a rede moderava a negociação destes produtos, segundo o <a href="https://www.wsj.com/articles/democratic-senators-question-facebook-on-hidden-gun-sales-11567781443?mod=article_inline">Wall Street Journal.</a>.</p>
+
+<p>À época, uma porta-voz do Facebook disse que a empresa havia feito atualizações ao Marketplace após a matéria do WSJ, acrescentando que a empresa também estava ajustando o sistema automatizado e utilizando revisores humanos para identificar conteúdos irregulares.</p>
+
+<p>Mas logo vendedores de armas mudaram de tática, segundo mais uma <a href="https://www.wsj.com/articles/gun-sellers-use-new-tactic-to-deal-on-facebook-marketplace-11598270872">reportagem do WSJ</a> publicada em agosto do ano passado (tradução da Folha de S.Paulo <a href="https://www1.folha.uol.com.br/mundo/2020/08/vendedores-de-armas-recorrem-a-tatica-nova-para-operar-no-facebook.shtml">neste link</a>). Em vez de anunciar armas, os posts no Marketplace ofereciam adesivos e traziam como imagem o logo de fabricantes de armas.</p>
+
+<p>Diferentemente do cenário dos EUA, as táticas usadas no Brasil são menos refinadas. O <strong>Núcleo</strong> não identificou anúncios de armas ou peças no Marketplace, mas sim publicações e comentários dentro de grupos (públicos ou fechados), que trazem imagens dos produtos e palavras explícitas, além de links para formas de contatos.</p>
+
+<p>Em seu <a href="https://transparency.facebook.com/community-standards-enforcement#regulated-goods">relatório global de transparência</a>, o Facebook disse que a quantidade de conteúdos ligados a armas de fogos que exigiram ação da plataforma cresceu de 1,1 milhão no terceiro trimestre de 2020 a 1,3 milhão no trimestre seguinte, como resultado de um aprimoramento na tecnologia de detecção proativa. Entre outubro e dezembro de 2020, 92% do conteúdo que poderia exigir alguma ação foi detectado pelo Facebook antes que houvesse uma denúncia por usuários.</p>
+
+<h4 id="uma-reportagem-da-veja-revelou-na-semana-passada-que-o-mercado-livre-também-está-sendo-usado-para-comercializar-peças-de-armas-de-fogo">Uma <a href="https://veja.abril.com.br/brasil/comercio-ilegal-na-internet-vende-pecas-para-montar-fuzis-e-carabinas/">reportagem da Veja </a>revelou na semana passada que o Mercado Livre também está sendo usado para comercializar peças de armas de fogo.</h4>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+<p>Procuramos por grupos abertos ligados à temática de armas. Buscamos por grupos de caça e pesca, grupos de CACs (Caçadores, Atiradores e Colecionadores) e buscamos por marcas de armas, como Taurus. Achamos sete grupos que continham posts ou comentários de vendas de armas.</p>
+
+<p>Entramos nos grupos e procuramos, usando termos-chave como [preço] [venda] [tenho] em posts que indicassem venda de armas, seja na própria publicação ou nos comentários. Encontramos conteúdos postados desde novembro de 2020 até posts e comentários feitos 12 horas antes. A busca por esses posts, feita manualmente, levou horas e procuramos em dias diferentes.</p>
+
+<p>O contato com o Facebook foi feito na segunda-feira, dia 29 de março.</p>
+
+<p>As informações sobre engajamento dos no Facebook foram coletadas no CrowdTangle. A requisição retornou poucos resultados antes de agosto de 2019 (49 postagens) e, por isso, delimitamos 01/08/2019 como marco inicial da análise. O engajamento agregado é a soma de todas as reações, comentários e compartilhamentos dos posts coletados.</p>
+
+<p>Os dados de registros novos de armas foram obtidos junto à assessoria de imprensa da Polícia Federal, por email.</p>
+
+<p>Resposta na íntegra do Facebook: <em>“Removemos as publicações indicadas pela reportagem que feriam as nossas Políticas Comerciais. Não permitimos anúncios ou a compra, venda ou troca de armas de fogo, munições e explosivos entre pessoas. As atividades comerciais por lojas, desde que respeitem os Padrões da Comunidade do Facebook, são permitidas. Combinamos tecnologia de inteligência artificial e revisão humana para identificar conteúdos que possam violar essas regras”</em></p>
+
+
+        </div>
+        <hr>
+				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Facebook, Comércio de armas, Armas de fogo, Moderação de conteúdo, CAC </h4>
+
+				<div style="margin: 0 auto;max-width:300px">
+
+
+								 <h4 class="links_dados arquivado"><i class="fas fa-database"></i> Dados tabulados pelo Núcleo &middot; <a href="https://docs.google.com/spreadsheets/d/1Ubk45hD-_EQGvR159ckOdwSbCiTGUfKMgbqdEZG5Y6w/edit?usp=sharing"  target="_blank">Link</a></h4> 
+								 <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> Registro de novas armas (Polícia Federal) (2) &middot; <a href="https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"  target="_blank">Link</a></h4> 
+								
+
+								
+
+					</div>
+
+				<hr>
+
+				<!-- SUGESTÃO DE POSTS -->
+<div class="container" style="padding: 0 5% 0px;max-width:850px">
+
+<div style="padding: 0 5% 0px;max-width:550px">
+  <h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> LEIA MAIS</h5>
+  <br /><br />
+          <div class="row">
+
+
+
+<!-- -->
+
+
+
+
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 25/03/2021</a>
+
+          </span>
+                <a href="/reportagem/2021-03-25-butantan-comunicao-digital">
+                  <img src="/img/butantan/cover.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >De cobras a funk: a guinada nas redes do Butantan</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 18/03/2021</a>
+
+          </span>
+                <a href="/direitos/2021-03-18-direitos-autorais-desinformacao-treta">
+                  <img src="/img/remocao-conteudo/direitosautorais-fakenews-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Nas redes sociais, rigor por direitos autorais não vale para fake news. Por quê?</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 11/03/2021</a>
+
+          </span>
+                <a href="/redes/2021-03-11-ciencia-dispara-twitter-divulgadores">
+                  <img src="/img/cientistas_engajamento/destaque.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Em meio ao caos, ciência brasileira floresce no Twitter</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+        <div class="col-sm-6 col-lg-6" style="max-height:280px;padding-bottom:300px">
+          <span class="arquivado" style="color:#000">
+
+            <i class="far fa-calendar-alt"></i> 04/03/2021</a>
+
+          </span>
+                <a href="/redes/2021-03-04-big-tech-parler-moredacao">
+                  <img src="/img/moderacao/parler-01.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>
+                  <h3 class="page-tttt" >Big Tech força redes sociais alternativas a adotarem moderação</h3></a>
+                  <br />
+                  <br /><br />
+          </div>
+
+                
+
+                </div>
+                <h5 class="arquivado"><a href="/arquivo">
+                  Acesse todo o arquivo >>
+                </a></h5>
+              </div>
+            </div>
+
+
+	      </div>
+
+  	</div>
+	</div>
+</div>
+
+<br /><br /><br />
+
+
+  <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                  <label style="font-size:1em; text-transform: uppercase">Receba os Despachos do Núcleo, <br />toda quinta-feira à tarde. <br />
+                  <small style="font-weight: 300"><a href="/newsletters">Conheça nossas newsletters</a></small></label>
+                  <div id="newsletter_page" style="margin-top:10px">
+                  <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+                    <input style="width:30%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+                     <div class="footer-form-actions">
+                       <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
+                       <input type="hidden" name="subform" value="yes"/>
+                       <input type="submit" name="submit" id="submit" value="Receber de graça"/>
+                       </div>
+                  <!--<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME..." style="max-width:100%"/>-->
+
+                  </form>
+                  </div>
+
+                  <br />
+                <ul class="list-inline" style="font-size:0.85em; text-transform: uppercase">
+                    <!--<li>
+                        <a href="/">Início</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>-->
+                    <li>
+                        <a href="/sobre">Sobre</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/impacto">Impacto</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/privacidade">Privacidade</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/en">English</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-md-4" style="font-weight: 300; max-width: 390px">
+                <small style="font-size:0.75em">Copyright © 2021 | Volt Data Lab. Todos os direitos reservados. Reprodução integral do conteúdo deste site depende de aprovação, mas citações e reprodução parcial, com links para origem, são permitidas e apreciadas. Este site utiliza Google Analytics.</small>
+
+                <ul class="list-inline " >
+                  <br />
+                  
+                  <li>
+                    <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
+                  </li>
+                  
+                  <li>
+                    <a href="nucleo@voltdata.info" style="border:0px"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> <span class="network-name"></span></a>
+                  </li>
+                </ul>
+                <p class="copyright text-muted small"><img src="/img/landing-nucleo_logo-header.png" width="130px" style="margin:0" /></p>
+                <!-- /.banner -->
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <!-- jQuery Version 1.11.0 -->
+<script src="/js/jquery-1.11.0.js"></script>
+
+<!-- Plugin JavaScript -->
+    <script src="/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/landing-page.js"></script>
+
+<!-- Busca -->
+<script src="/js/searchjs/lunr.min.js"></script>
+<script src="/js/searchjs/search.js"></script>
+
+</body>
+</html>
