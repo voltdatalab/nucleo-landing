@@ -79,7 +79,7 @@ As publicações encontradas pelo **Núcleo** estão tanto em grupos abertos qua
 
 Administradores muitas vezes alertam em posts fixados no topo e nas regras dos grupos que não é permitido fazer negociação de armas ali. Mas a moderação é nula ou, no mínimo, leniente.
 
-![Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática]({{ site/baseurl }}/img/facebook-armas/espingarda_tel_venda.png)
+![Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática]({{ site.baseurl }}/img/facebook-armas/espingarda_tel_venda.png)
 
 <figcaption>Exemplo de anúncio de arma à venda em fevereiro de 2021. Sem texto no post, o contato fica na própria imagem, o que torna mais difícil a identificação automática </figcaption>
 
@@ -87,7 +87,7 @@ Nos comentários de uma destas publicações, o autor do post escreve: "tô faze
 
 Outros aproveitam a postagem para oferecer produtos diferentes nos comentários. Um usuário pergunta qual o preço da G2C 9MM (um modelo de pistola da fabricante Taurus), ao que outra pessoa responde: "Tenho ela a pronta entrega em palmas R$ 3,600.00 a vista".
 
-![Exemplo de como comentários de um post podem ser utilizados para potenciais negociações]({{ site/baseurl }}/img/facebook-armas/print_oferta_arma.png)
+![Exemplo de como comentários de um post podem ser utilizados para potenciais negociações]({{ site.baseurl }}/img/facebook-armas/print_oferta_arma.png)
 
 <figcaption>Exemplo de como comentários de um post podem ser utilizados para potenciais negociações, mesmo que a publicação original não tenha essa intenção.</figcaption>
 
