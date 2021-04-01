@@ -4,7 +4,7 @@ visible: 1
 layout: conteudo
 tipo: reportagem
 title: "Facebook ainda é usado para comprar e vender armas no Brasil"
-titulo_redes: "De cobras a funk: a guinada nas redes do Butantan"
+titulo_redes: "Facebook ainda é usado para negociar armas no Brasil"
 subtitle: "Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados"
 subtitle_redes: "Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados"
 excerpt: 'Investigação do Núcleo encontrou dezenas de publicações que violam as regras da plataforma para produtos controlados'
@@ -50,7 +50,6 @@ Em março de 2019, dois adolescentes [invadiram](https://www.bbc.com/portuguese/
 Além disso, a continuidade desse comércio irregular acontece num momento em que o presidente Jair Bolsonaro está tentando facilitar a aquisição de armamentos no Brasil por pessoas físicas. Em [fevereiro](https://g1.globo.com/politica/noticia/2021/02/13/veja-o-que-muda-com-os-novos-decretos-de-bolsonaro-sobre-armas-de-fogo.ghtml) deste ano, Bolsonaro [editou quatro decretos](https://www1.folha.uol.com.br/cotidiano/2021/02/bolsonaro-edita-mais-4-decretos-para-facilitar-acesso-a-armas-e-municoes.shtml) que ampliam a possibilidade de porte de armas para cidadãos comuns.<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>Mais recentemente, em março, o Supremo Tribunal Federal iniciou o julgamento de uma ação apresentada pelo PSB em relação a outros decretos de armas editados por Bolsonaro em 2019. A votação teve início em 12 de março, mas foi <a href="https://www1.folha.uol.com.br/cotidiano/2021/03/rosa-weber-pede-vista-e-suspende-julgamento-de-decretos-de-bolsonaro-sobre-armas.shtml" target="_blank">suspensa</a> após a ministra Rosa Weber pedir vistas.<br><br></span>
 
 ![registro de armas novas no Brasil - gráfico mostra crescimento, em 2009 foram quase 30 mil registros, em 2020 foram quase 180 mil]({{ site.baseurl }}/img/facebook-armas/registro-armas.png)
-
 
 As diretrizes de comunidade do Facebook estabelecem que a compra, venda ou troca de armas de fogo, munições e explosivos entre pessoas físicas não são permitidos na plataforma. Lojas e sites que comercializam armas de fogo têm permissão para se engajar em atividades comerciais envolvendo armas e munições, desde que sigam as regras da rede social. A plataforma permite ainda discussões sobre vendas em lojas físicas ou online.
 
@@ -107,10 +106,9 @@ As interações nos três primeiros de 2021 foram os maiores desde agosto de 201
 
 Após o contato do **Núcleo**, o Facebook tirou do ar três de cinco links que compartilhamos -- dois grupos e uma publicação em outro grupo. Os outros dois links não foram removidos pois representam uma loja legítima, segundo a empresa.   
 
-![aumento de interações em 5 grandes grupos do Faceook]({{ site.baseurl }}/img/facebook-armas/interacoes-facebook.png)
+#### Saiba mais sobre o [impacto do Núcleo](https://nucleo.jor.br/impacto)
 
-#### Uma [reportagem da Veja ](https://veja.abril.com.br/brasil/comercio-ilegal-na-internet-vende-pecas-para-montar-fuzis-e-carabinas/)revelou na semana passada que o Mercado Livre também está sendo usado para comercializar peças de armas de fogo.
-
+![aumento de interações em 5 grandes grupos do Facebook]({{ site.baseurl }}/img/facebook-armas/interacoes-facebook.png)
 
 ### LEGALIDADE
 
@@ -156,6 +154,8 @@ Mas logo vendedores de armas mudaram de tática, segundo mais uma [reportagem do
 Diferentemente do cenário dos EUA, as táticas usadas no Brasil são menos refinadas. O **Núcleo** não identificou anúncios de armas ou peças no Marketplace, mas sim publicações e comentários dentro de grupos (públicos ou fechados), que trazem imagens dos produtos e palavras explícitas, além de links para formas de contatos.
 
 Em seu [relatório global de transparência](https://transparency.facebook.com/community-standards-enforcement#regulated-goods), o Facebook disse que a quantidade de conteúdos ligados a armas de fogos que exigiram ação da plataforma cresceu de 1,1 milhão no terceiro trimestre de 2020 a 1,3 milhão no trimestre seguinte, como resultado de um aprimoramento na tecnologia de detecção proativa. Entre outubro e dezembro de 2020, 92% do conteúdo que poderia exigir alguma ação foi detectado pelo Facebook antes que houvesse uma denúncia por usuários.
+
+#### Uma [reportagem da Veja ](https://veja.abril.com.br/brasil/comercio-ilegal-na-internet-vende-pecas-para-montar-fuzis-e-carabinas/)revelou na semana passada que o Mercado Livre também está sendo usado para comercializar peças de armas de fogo.
 
 ### COMO FIZEMOS ISSO
 Procuramos por grupos abertos ligados à temática de armas. Buscamos por grupos de caça e pesca, grupos de CACs (Caçadores, Atiradores e Colecionadores) e buscamos por marcas de armas, como Taurus. Achamos sete grupos que continham posts ou comentários de vendas de armas.

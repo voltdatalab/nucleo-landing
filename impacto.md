@@ -5,7 +5,7 @@ desc: 'Se nosso jornalismo foi útil para você de alguma forma, fale pra gente!
 tagline: IMPACTO
 subtitle: ''
 link: impacto
-atualizacao: 06/05/2020
+atualizacao: 01/04/2021
 ---
 
 O **Núcleo** tem como público-alvo principal agentes do terceiro setor, do funcionalismo público e a imprensa. Nossas reportagens, muitas vezes, servem para pautar esses profissionais, subsidiando outras reportagens ou ações.
@@ -23,6 +23,15 @@ Se nosso jornalismo foi útil para você de alguma forma, fale pra gente! Conte 
 <i class="fab fa-twitter"></i> [@nucleojor](https://twitter.com/nucleojor)
 
 De UOL a El País, de Yahoo a Aos Fatos, [veja aqui]({{ site.baseurl }}/republique) os veículos parceiros que já republicaram nossas reportagens
+
+<hr>
+
+## &#8594; Remoção de anúncios irregulares de armas do Facebook
+
+[Nossa reportagem](https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas) resultou na remoção de diversos conteúdos com anúncios de compra e venda de armas que infringiam as regras de comunidade do Facebook.
+
+#### Como soubemos disso?
+Após solicitação de comentários ao Facebook, a assessoria de imprensa da rede social nos informou da retirada dessas publicações.
 
 <hr>
 
