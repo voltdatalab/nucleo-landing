@@ -1,0 +1,143 @@
+I"�<p>Dados confirmam o que você talvez já suspeite: a movimentação nas ruas de todo o Brasil de fato aumentou nos últimos meses e podemos dizer que a mobilidade retomou níveis pré-pandemia já em meados de julho – um dos períodos de mais óbitos de Covid-19 no país.</p>
+
+<p>Análise do <strong>Núcleo</strong> com dados do Banco Interamericano de Desenvolvimento/IDB Invest, em parceria com o aplicativo de mapas Waze, mostra que a movimentação de veículos no Brasil como um todo começou a disparar a partir da semana encerrada em 19 de julho em comparação à primeira semana de março.</p>
+
+<hr />
+
+<h6 id="é-importante-porque">É importante porque…</h6>
+
+<ul>
+  <li>
+    <p><em>Mostra evidências do relaxamento no isolamento social</em></p>
+  </li>
+  <li>
+    <p><em>Indica essa relaxamento num dos momentos mais graves da pandemia, reflexo de falta de políticas públicas</em></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><img src="../img/covid/transito-normal/brasil.png" alt="gráfico sobre média geral brasileira" /></p>
+
+<p>Se considerarmos que o isolamento social no Brasil começou de fato na semana iniciada em 15 de março de 2020, isso significa uma retomada nos índices de movimentação de veículos a partir da 19a semana de quarentena.</p>
+
+<p>Foi um dos períodos com mais óbitos semanais por conta de Covid-19 que o Brasil já viu. Em 25 de julho, o Brasil registrou uma média móvel de sete dias de 1.095 mortes por dia, o maior patamar até agora de acordo com dados do projeto <a href="https://bigdata-covid19.icict.fiocruz.br/">MonitoraCovid-19</a>, da Fiocruz. Já o pico de casos confirmados aconteceu em 28 de julho, na mesma métrica, com 47.514 confirmações.</p>
+
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
+<div id="content">
+<div id="thumb_img" class="cf">
+  <button class="active botao" onclick="changeimg('/img/covid/transito-normal/casos.png',this);">Novos casos Covid-19
+  </button>
+  <button class="botao" onclick="changeimg('/img/covid/transito-normal/obitos.png',this);">Novos óbitos Covid-19
+</button>
+</div>
+<br />
+  <div id="featured_img">
+    <img id="img" src="/img/covid/transito-normal/casos.png" />
+  </div>
+</div>
+
+<p>Esse é o quadro nacional, com dados de todas as partes do Brasil.</p>
+
+<p>Na maioria das grandes cidades, o índice de movimentação de veículos continua menor do que na primeira semana de março. (Nota do Núcleo: Uma das hipóteses é que grandes cidades oferecem mais condições para trabalho remoto, como boa conexão à internet e empregos que de fato não exigem a presença física do funcionário.)</p>
+
+<p>No entanto, é necessário notar que, apesar disso, é possível notar um afrouxamento constante do isolamento social nessas regiões metropolitanas, à medida que políticas de restrições a comércios e parques foram sendo relaxadas.</p>
+
+<p>Se considerarmos grandes cidades, como São Paulo, Rio de Janeiro e Belo Horizonte, a movimentação foi aumentando semanalmente, e embora ainda seja menor do que no início do isolamento social, essa retomada tem peso no aumento nacional.</p>
+
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Mude a cidade para atualizar os dados</em></small></p>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4378486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<p>Além do cenário nacional, o BID discrimina dados de 24 regiões metropolitanas, num total de quase 80 milhões de brasileiros. Isso não permite analisar todas as minúcias da intensidade de trânsito em cada canto do território nacional, mas dá uma ideia boa.</p>
+
+<h5 id="quais-grandes-cidades-mais-puxaram-a-retomada-da-normalidade">Quais grandes cidades mais puxaram a retomada da “normalidade”?</h5>
+
+<p>Se considerarmos como ponto de partida a semana encerrada em 19 de julho, quando houve uma virada no âmbito nacional no trânsito, Santos foi onde houve maior alta – potencialmente por causa do porto – e única cidade com média positiva.</p>
+
+<p>Manaus, Belém, Recife e Curitiba são grandes centros que também contribuíram bastante. São Paulo teve a oitava maior variação média, e o Rio de Janeiro, a décima.</p>
+
+<p><img src="../img/covid/transito-normal/media_pos_pico.png" alt="gráfico sobre movimentação desde julho" /></p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+
+<p>Os <a href="https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard">dados</a> são baseados em um convênio entre o Banco Interamericano de Desenvolvimento e o <a href="https://www.waze.com/en/ccp">programa</a> “Waze for Cities”.</p>
+
+<p>Os gráficos desconsideram algumas cidades e países a fim de facilitar a visualização de dados.</p>
+
+<p>As regiões metropolitanas consideradas na conta foram: Belém, Belo Horizonte, Brasília, Campinas, Curitiba, Florianópolis, Fortaleza, Goiânia, João Pessoa, Joinville, Maceió, Manaus, Natal, Porto Alegre, Recife, Rio de Janeiro, Salvador, Santos, São José dos Campos, São Luís, São Paulo, Sorocaba, Teresina e Vitória.</p>
+
+<p>Para o Brasil, em geral, os dados consideram mais localidades, o que explica possíveis disparidades com dados das regiões metropolitanas mencionadas.</p>
+
+<p>A metodologia pode ser encontrada <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-1350314980-529">neste documento</a>. Descrevendo o TCI (tradução do Núcleo):</p>
+
+<p>“Essa medida do TCI sumariza tanto a extensão dos congestionamentos na rede viária de um polígono (ex. uma região metropolitana) quanto sua duração, porque a continuidade de congestionamentos é contada cada vez dentro de um intervalo i. Por exemplo, se na região metropolitana A e na região metropolitana B as mesmas 10 linhas de congestionamento são formadas em um dia, cada uma com 150 metros de comprimento, teríamos uma medida de 1.500 metros de congestionamento tanto em A quanto em B durante o dia. No entanto, se congestionamentos em A têm uma duração que seja o dobro da duração de B, o TCI para A seria o dobro do TCI para B.”</p>
+
+<style>
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+ #featured_img img, #thumb_img img {
+	 max-width: 600px;
+}
+ #thumb_img {
+	 margin-top: 2%;
+}
+ #thumb_img img {
+	 float: left;
+	 max-width: 32%;
+	 width: 32%;
+	 cursor: pointer;
+	 margin-right: 2%;
+	 border: 2px solid #eee;
+	 box-sizing: border-box;
+}
+ #thumb_img img.active {
+	 border: 2px solid #cac6b8;
+}
+ #thumb_img img:last-child {
+	 margin-right: 0;
+}
+
+</style>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET
