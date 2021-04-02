@@ -19,7 +19,7 @@ background: 'facebook-armas/venda-armas-01.png'
 dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1Ubk45hD-_EQGvR159ckOdwSbCiTGUfKMgbqdEZG5Y6w/edit?usp=sharing"
 dados_abertos2: "Registro de novas armas (Polícia Federal)"
-dados_abertos_link2: "https://gist.github.com/lgelape/01cda13cbb9ecf06e9131873d509910b"
+dados_abertos_link2: "https://drive.google.com/file/d/1S9q-T0lUW29gwMkUkbfwIOpZX5IL_d_8/view?usp=sharing"
 categories:
   - "reportagem"
 tags:
