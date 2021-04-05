@@ -15,7 +15,7 @@ dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1QK39Va5sHPc-6eprVB0fqrO3CZ5AD_Zoj3vFGXy-2g0/edit?usp=sharing'
 dados_abertos2: "Acesse o código da análise"
 dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/1c63e752ee8bdac1cdb8a7a307761316"
-background: 'nucleo-geral-fit.png'
+background: 'curtas/redes_padroes/twitter.png'
 atualizacao: ""
 como_fizemos: "O Núcleo utilizou dados da API do Twitter contendo o termo 'genocida' em tweets e retweets em português, de 11 a 21 de março."
 atualizacao: "Atualizado às 15h42 de 23.mar.2021 com explicação sobre 'Efeito Streisand', no segundo parágrafo (obrigado comunidade do Núcleo do Twitter)."

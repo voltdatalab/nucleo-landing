@@ -3,7 +3,7 @@ layout: posts
 title: 'Jogo rápido'
 desc: 'Notas curtas e análises rápidas do Núcleo Jornalismo'
 tagline: CURTAS
-atualizacao: 22/03/2021
+icone: '<i class="fas fa-basketball-ball fa-lg"></i>'
 ---
 
 <div class="container" style="padding: 0 5% 50px;max-width:850px">
@@ -21,9 +21,11 @@ atualizacao: 22/03/2021
                     <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}  <!-- &middot; Arquivado em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a> -->
 
                   </span>
+                  <br /><br />
           </div>
                 {% endif %}
                 {% endfor %}
                 </div>
+
 
   </div>

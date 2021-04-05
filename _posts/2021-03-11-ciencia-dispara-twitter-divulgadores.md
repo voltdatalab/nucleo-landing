@@ -44,7 +44,6 @@ Análise do **Núcleo** a partir de tweets monitorados pela ferramenta [Science 
 ###### É importante porque...
 
 - *Mostra um cenário de alta difusão de desinformação e de falta de ação do governo federal, ao passo que divulgadores científicos têm sido essenciais na disseminação de informações sobre a pandemia*
-
 - *Aponta para uma mudança permanente nas redes, onde cientistas e pesquisadores têm forte voz e são presenças importantes. Muitos deles sequer tinham conta no Twitter antes de 2020*   
 
 

@@ -10,8 +10,12 @@ excerpt: "Média de menções ao termo dispararam em 6x em relação aos dias an
 date: 24/03/2021 10:57
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
-background: 'nucleo-geral-fit.png'
+creditos: "Laís Martins, Sérgio Spagnuolo"
+background: 'curtas/redes_padroes/facebook.png'
+dados_abertos: "Acesse os dados"
+dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1QK39Va5sHPc-6eprVB0fqrO3CZ5AD_Zoj3vFGXy-2g0/edit?usp=sharing'
+dados_abertos2: "Acesse o código da análise"
+dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/1c63e752ee8bdac1cdb8a7a307761316"
 como_fizemos: "A partir do anúncio de Mark Zuckerberg sobre a iniciativa do Facebook, o Núcleo procurou a assessoria de imprensa do Facebook para saber sobre planos para o Brasil."
 categories:
   - "curtas"

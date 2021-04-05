@@ -10,7 +10,7 @@
 			<div class="col-lg-5 col-md-4 col-sm-4">
 								<div class="post-heading-curta pull-left">
 									<h5 class="chapeu">
-										<i class="fas fa-compress-alt"></i> JOGO RÁPIDO <span style="font-weight:300"></span>
+										<i class="fas fa-basketball-ball fa-lg"></i> JOGO RÁPIDO <span style="font-weight:300"></span>
 									</h5>
 									<h1>{{ page.title }}</h1>
 									{% if page.subtitle %}
@@ -99,9 +99,8 @@
 														<div class="row">
 
 									{% assign posts = site.posts | where_exp:"post","post.title != page.title" %}
+									{% assign posts = posts | where_exp:"post","post.tipo == 'curtas'" %}
 									{% for post in posts offset:0 limit: 4 %}
-			            {% if post.tipo contains 'curtas' %}
-
 
 													<div class="col-sm-6 col-lg-6" style="max-height:350px;padding-bottom:300px">
 														<span class="arquivado" style="color:#000">
@@ -115,14 +114,14 @@
 																		<br />
 																		<br /><br />
 																</div>
-																		{% endif %}
 																			{% endfor %}
 
 
-																	<h5 class="arquivado"><a href="{{ site.baseurl }}/posts">
-																		Acesse todo o arquivo >>
-																	</a></h5>
+
 																</div>
+																<h5 class="arquivado"><a href="{{ site.baseurl }}/posts">
+																	Acesse todo o arquivo >>
+																</a></h5>
 									</div>
 
 							</div>

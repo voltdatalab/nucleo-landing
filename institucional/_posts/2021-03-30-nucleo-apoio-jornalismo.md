@@ -39,9 +39,7 @@ Queremos saber o que você acha dessa iniciativa. Mande um email para mim: [comu
 ### COMO FUNCIONA?
 
 - Ficarão disponíveis em cada reportagem e na página [Apoie o Núcleo]({{ site.baseurl }}/apoie) um QR code e uma chave PIX aleatória para a transferência de qualquer valor.
-
 - Para contribuir, escolha a opção “Transferência” via PIX no sistema do seu banco para completar a transação da quantia que preferir.
-
 - Os recursos serão creditados na conta do Volt Data Lab, empresa por trás do Núcleo. Saiba mais [aqui]({{ site.baseurl }}/transparencia).
 
 <div style="text-align: center">
