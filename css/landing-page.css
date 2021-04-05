@@ -133,7 +133,9 @@ li a{
   /*background-color: rgba(75, 49, 221, 0.4);*/
   background-color: rgba(0, 0, 0, 0.5);
   display: inline;
-  line-height: 1.3em
+  line-height: 1.3em;
+  width: 100%;
+
 }
 
 .page-tt a:hover{
