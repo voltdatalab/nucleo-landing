@@ -6,6 +6,7 @@ subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minuto
 background: 'header-garimpo.png'
 link: ''
 subTitle: ''
+icone: '<i class="far fa-envelope fa-lg"></i>'
 ---
 
 <style>
@@ -32,7 +33,7 @@ img{
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
-<div id="newsletter_page" style="border: 1px solid black;margin-top: 30px;">
+<div id="newsletter_page" style="margin-top: 30px;">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
@@ -74,9 +75,9 @@ img{
 
 <div class="col-md-6">
 <br>
-<p>Veja as últimas três edições:</p>
+<p>Veja as últimas edições:</p>
 
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=3&showtitle=false&type=js"></script>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=7&showtitle=false&type=js"></script>
 </div>
 </div>
 </div>

@@ -4,7 +4,7 @@ title: 'Newsletters'
 desc: 'Conheça as newsletters do do Núcleo Jornalismo'
 subtitle: ''
 link: ''
-subTitle: ''
+icone: '<i class="far fa-envelope fa-lg"></i>'
 ---
 
 <style>
