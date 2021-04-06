@@ -9,7 +9,7 @@ subtitle_redes: "Tweets em inglês chegaram a superar 3.500 menções por hora. 
 excerpt: "Tweets em inglês chegaram a superar 3.500 menções por hora. Em português, o máximo foi 128."
 date: 05/04/2021 11:51
 analise: Sérgio Spagnuolo
-edicao: Sérgio Spagnuolo
+edicao: Alexandre Orrico
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
 background: 'curtas/redes_padroes/twitter.png'
 dados_abertos: "Acesse os dados"
