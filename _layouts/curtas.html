@@ -18,7 +18,7 @@
 									{% endif %}
 									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
 									<span class="arquivado">
-					          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} &middot; Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
+					          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} <br />Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
 
 										<br /><br />
 															{% assign currentYear = site.time | date: '%Y' %}
@@ -51,10 +51,8 @@
 									{% assign wordCount = page.content | number_of_words %}
 									<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }}</h4>
 									<h4 class="arquivado creditos_alt" style="max-width:300px"><i class="fas fa-tags"></i> Tags: {{ page.tags }}</h4>
-
-
 									<h4 class="arquivado creditos_alt" style="max-width:300px"><strong><i class="far fa-lightbulb"></i></strong> {{ page.como_fizemos }}</h4>
-									<br />
+
 													{% if page.dados_abertos %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h4> {% endif %}
 													{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
 													{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
