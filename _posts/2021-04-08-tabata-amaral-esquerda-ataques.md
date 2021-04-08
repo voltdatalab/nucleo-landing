@@ -8,7 +8,7 @@ titulo_redes: "As redes de esquerda odeiam Tabata Amaral. Por quê?"
 subtitle: "Núcleo investiga o que motiva xingamentos, desinformação e até ameaças contra a deputada do PDT"
 subtitle_redes: "O que motiva xingamentos, desinformação e até ameaças contra a deputada do PDT"
 excerpt: 'Núcleo investiga o que motiva xingamentos, desinformação e até ameaças contra a deputada do PDT'
-date: "08/04/2021 01:00"
+date: "08/04/2021 06:00"
 reportagem: Sérgio Spagnuolo e Laís Martins
 analise: Sérgio Spagnuolo e Lucas Gelape
 arte: Rodolfo Almeida
