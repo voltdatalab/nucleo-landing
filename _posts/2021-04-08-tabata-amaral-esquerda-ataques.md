@@ -122,11 +122,11 @@ Há muito mais nuance, claro. Ela não está alinhada aos partidos mais oposicio
 
 Comparando essa taxa, que mede um alinhamento ao líder do governo na Câmara dos Deputados, com os deputados medianos de vários partidos, vemos que seu histórico de votação a coloca entre diferentes partidos - de um lado PT, PDT, PSOL e PSB e, de outro MDB, DEM, PSDB e Novo.
 
-Tabata  foi a 131ª deputada mais oposicionista da Câmara tanto em 2019 quanto em 2020. Colocando esta posição em perspectiva, os deputados menos oposicionistas do PSOL foram os 16o e 10o do total da Casa nesses dois anos.
+Tabata  foi a 131ª deputada mais oposicionista da Câmara tanto em 2019 quanto em 2020. Colocando esta posição em perspectiva, os deputados menos oposicionistas do PSOL foram os 16º e 10º do total da Casa nesses dois anos.
 
 No próprio partido da deputada há deputados menos oposicionistas que ela. Em 2019 e 2020, Gil Cutrim foi o deputado "menos oposicionista" do PDT  (146 e 262, respectivamente).
 
-> "Tabata foi articuladora bem importante para a reforma da previdência ser menos dura para os trabalhadores. Essa opção mais pragmática embaralha tudo, a joga ela num lugar intermediário e faz com que seja vista como o inimigo." - **Pablo Ortellado, professor de Gestão de Políticas Públicas da USP**
+> "Tabata foi articuladora bem importante para a reforma da previdência ser menos dura para os trabalhadores. Essa opção mais pragmática embaralha tudo, a joga num lugar intermediário e faz com que seja vista como o inimigo." - **Pablo Ortellado, professor de Gestão de Políticas Públicas da USP**
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Abri o Twitter para fazer o monitoramento e descobri Tabata Amaral mais uma vez no trending topic. Não é a primeira vez que isso acontece e merece uma reflexão. Fio abaixo.</p>&mdash; Pablo Ortellado (@pablo_ortellado) <a href="https://twitter.com/pablo_ortellado/status/1370528845292564482?ref_src=twsrc%5Etfw">March 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
