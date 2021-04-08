@@ -67,13 +67,13 @@ O **Núcleo** fez um recorte com os 50 tweets que tiveram mais interações, num
 Algo similar foi observado também no Facebook, inclusive repercutindo posts no Twitter.
 
 ### POLÊMICA DA PEC
-A desinformação dizia que a PEC congelaria o salário de servidores públicos por 15 anos, o que [não é verdade](https://twitter.com/FelipeSalto/status/1370428858969776134), de acordo com [economistas](https://twitter.com/danielvcouri/status/1370437975893544968), incluindo a professora da USP [Laura Carvalho](https://twitter.com/lauraabcarvalho/status/1370416375722881027), tradicionalmente alinhada com a esquerda política. Isso não impediu que o argumento fosse usado contra Tabata.
+A desinformação dizia que a PEC congelaria o salário de servidores públicos por 15 anos, o que [não é bem assim](https://twitter.com/FelipeSalto/status/1370428858969776134), de acordo com [economistas](https://twitter.com/danielvcouri/status/1370437975893544968), incluindo a professora da USP [Laura Carvalho](https://twitter.com/lauraabcarvalho/status/1370416375722881027), tradicionalmente alinhada com a esquerda política. Isso não impediu que o argumento fosse usado contra Tabata.
 
 "Você pega, por exemplo, o meu voto na PEC emergencial, aí começaram a dizer que eu tinha votado pra congelar salário de professor por quinze anos. O que não encontra nenhum eco na lei que foi aprovada", disse Tabata.
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">A PEC Emergencial é ruim por várias razões, mas não dá pra concluir que ela congela salários de servidores por 15 anos. Ela estabelece um gatilho de que quando as despesas obrigatórias chegarem a 95% das totais (o que se projeta que ocorra em 2025) os salários ficam congelados 1/</p>&mdash; Laura Carvalho (@lauraabcarvalho) <a href="https://twitter.com/lauraabcarvalho/status/1370416375722881027?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Tabata é filiada a um partido tradicionalmente de esquerda e diz se identificar com muitos temas alinhados à agenda progressista. Por exemplo, segundo a ferramenta [Elas No Congresso](https://www.elasnocongresso.com.br/), da revista AzMina, Tabata fica em 31º no ranking de da Câmara sobre direitos das mulheres, empatada em pontuação com Gleisi Hoffmann (PT), e apenas um ponto a menos do que Marília Arraes.
+Tabata é filiada a um partido tradicionalmente de esquerda e diz se identificar com muitos temas alinhados à agenda progressista. Por exemplo, segundo a ferramenta [Elas No Congresso](https://www.elasnocongresso.com.br/), da revista AzMina, Tabata fica em 31º (dentre todos os deputados) no ranking de da Câmara sobre direitos das mulheres, empatada em pontuação com Gleisi Hoffmann (PT), e com apenas um ponto a menos do que Marília Arraes.
 
 Ela, no entanto, reconhece abertamente uma orientação por pautas econômicas que conflitam com sua posição de costumes. "Sim, eu tenho um posicionamento que é de esquerda nas pautas sociais, mas que é de centro na pauta econômica", disse.
 
@@ -122,7 +122,7 @@ Há muito mais nuance, claro. Ela não está alinhada aos partidos mais oposicio
 
 Comparando essa taxa, que mede um alinhamento ao líder do governo na Câmara dos Deputados, com os deputados medianos de vários partidos, vemos que seu histórico de votação a coloca entre diferentes partidos - de um lado PT, PDT, PSOL e PSB e, de outro MDB, DEM, PSDB e Novo.
 
-Tabata  foi a 131º deputada mais oposicionista da Câmara tanto em 2019 quanto em 2020. Colocando esta posição em perspectiva, os deputados menos oposicionistas do PSOL foram os 16o e 10o do total da Casa nesses dois anos.
+Tabata  foi a 131ª deputada mais oposicionista da Câmara tanto em 2019 quanto em 2020. Colocando esta posição em perspectiva, os deputados menos oposicionistas do PSOL foram os 16o e 10o do total da Casa nesses dois anos.
 
 No próprio partido da deputada há deputados menos oposicionistas que ela. Em 2019 e 2020, Gil Cutrim foi o deputado "menos oposicionista" do PDT  (146 e 262, respectivamente).
 
@@ -148,11 +148,11 @@ Radde mencionou também o [alinhamento](https://epoca.globo.com/guilherme-amado/
 
 > "Essas pautas que os grupos conservadores tentam se apropriar... e aí tem aqueles cálculos de quantas vezes ela votou com o governo, né? E não é um número desprezível. E sabendo que é um governo extremamente conservador, um governo extremamente liberal, isso é representativo" - **Leonel Radde, vereador pelo PT em Porto Alegre**
 
-A [formação](https://g1.globo.com/educacao/noticia/aluna-de-escola-publica-formada-em-harvard-lista-mitos-sobre-estudar-fora.ghtml) da deputada também faz com que parte da esquerda olhe com certo desdém para ela. Tabata fez parte da escolha de formação de políticos [RenovaBR](https://renovabr.org/eleito/tabata-amaral/), que [elegeu](https://media.renovabr.org/uploads/2020/07/Relat%C3%B3rio-2018.pdf) 17 políticos de sete partidos diferentes (inclusive de esquerda) em 2018 como parte de um movimento de renovação de lideranças políticas, financiado por investidores e empresários como pessoa física e por isso associado ao liberalismo econômico.
+A [formação](https://g1.globo.com/educacao/noticia/aluna-de-escola-publica-formada-em-harvard-lista-mitos-sobre-estudar-fora.ghtml) da deputada também faz com que parte da esquerda olhe com certo desdém para ela. Tabata fez parte da escola de formação de políticos [RenovaBR](https://renovabr.org/eleito/tabata-amaral/), que [elegeu](https://media.renovabr.org/uploads/2020/07/Relat%C3%B3rio-2018.pdf) 17 políticos de sete partidos diferentes (inclusive de esquerda) em 2018 como parte de um movimento de renovação de lideranças políticas, financiado por investidores e empresários como pessoa física e por isso associado ao liberalismo econômico.
 
 "E aí tem toda essa situação do Lehman Brothers [sic], como que ela foi financiada, como é que ela foi, digamos, forjada nessa construção política dela. E então, frequentemente, ela faz essas ponderações muito ligadas ao neoliberalismo mesmo", disse Radde.
 
-Ele provavelmente não quis se referir ao banco norte-americano que faliu em 2008 e [culminou](https://agenciabrasil.ebc.com.br/economia/noticia/2018-09/marco-de-crise-global-quebra-do-lehman-brothers-completa-10-anos) em uma das piores crises do sistema financeiro global, e sim a Jorge Paulo Lemann, um dos homens mais ricos do Brasil. Tabata foi fellow de um dos [programas](https://www.facebook.com/fundacaolemann/posts/1131183716942206/) da fundação que leva o nome do empresário, e [foi criticada](https://noticias.uol.com.br/politica/ultimas-noticias/2019/05/22/com-trajetoria-parecida-deputados-associados-a-lemann-divergem-na-politica.htm) por isso no passado.
+Ele provavelmente não quis se referir ao banco norte-americano que faliu em 2008 e [culminou](https://agenciabrasil.ebc.com.br/economia/noticia/2018-09/marco-de-crise-global-quebra-do-lehman-brothers-completa-10-anos) em uma das piores crises do sistema financeiro global, e sim a Jorge Paulo Lemann, um dos homens mais ricos do Brasil. Tabata foi fellow de um dos [programas](https://www.facebook.com/fundacaolemann/posts/1131183716942206/) da fundação que leva o nome do empresário, e [tendo sido criticada](https://noticias.uol.com.br/politica/ultimas-noticias/2019/05/22/com-trajetoria-parecida-deputados-associados-a-lemann-divergem-na-politica.htm) por isso no passado.
 
 ### COMO FIZEMOS ISSO
 
