@@ -27,7 +27,7 @@ tags:
   - "Comércio de armas, "
   - "Armas de fogo, "
   - "Moderação de conteúdo, "
-  - "CAC "
+  - "CAC"
 
 ---
 

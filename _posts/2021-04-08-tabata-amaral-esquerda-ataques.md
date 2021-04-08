@@ -25,7 +25,7 @@ tags:
   - "Twitter, "
   - "Facebook, "
   - "Esquerda, "
-  - "Tabata Amaral "
+  - "Tabata Amaral"
 
 ---
 
