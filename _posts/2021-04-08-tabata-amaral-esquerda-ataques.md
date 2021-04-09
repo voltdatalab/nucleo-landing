@@ -18,6 +18,7 @@ creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Lucas Gelape, Alex
 background: 'tabata/tabata-01.png'
 dados_abertos: "Dados tabulados de tweets"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"
+atualizacao: "Um trecho da reportagem foi alterado em 9.abr.2021 às 9h41 para esclarecer a posição de Tabata sobre ensino domiciliar. O trecho original dizia que ela 'já sinalizou ser favorável' ao método, baseado em post dela no Facebook. Após reconsideração da equipe do Núcleo, alteramos para 'já sinalizou em 2019 não ser contra, desde que regulamentada'."
 categories:
   - "reportagem"
 tags:
@@ -144,7 +145,7 @@ Muitos dos políticos e militantes de esquerda que a criticam duramente nas rede
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Já passou da hora da Tabata Amaral ir para o Partido Novo.<br>Faria um sucesso absoluto. Carinha de anjo, discurso intelectualizado, arrogante, mas completamente antiservidor, antitrabalhador e reacionário na raiz.</p>&mdash; Leonel Radde (@LeonelRadde) <a href="https://twitter.com/LeonelRadde/status/1370510558554959879?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Radde mencionou também o [alinhamento](https://epoca.globo.com/guilherme-amado/tabata-amaral-desiste-de-cargo-em-bancada-conservadora-23562062) de Tábata com uma frente conservadora da Câmara que queria pressionar por educação domiciliar (homeschooling), pauta que ela já [sinalizou](https://www.facebook.com/tabataamaralSP/posts/372018173353460/) ser favorável, mas que vai contra os preceitos da esquerda.
+Radde mencionou também o [alinhamento](https://epoca.globo.com/guilherme-amado/tabata-amaral-desiste-de-cargo-em-bancada-conservadora-23562062) de Tábata com uma frente conservadora da Câmara que queria pressionar por educação domiciliar (homeschooling), pauta que ela já [sinalizou em 2019](https://www.facebook.com/tabataamaralSP/posts/372018173353460/) não ser contra, desde que regulamentada -- mas mesmo assim vai contra os preceitos da esquerda.
 
 > "Essas pautas que os grupos conservadores tentam se apropriar... e aí tem aqueles cálculos de quantas vezes ela votou com o governo, né? E não é um número desprezível. E sabendo que é um governo extremamente conservador, um governo extremamente liberal, isso é representativo" - **Leonel Radde, vereador pelo PT em Porto Alegre**
 
