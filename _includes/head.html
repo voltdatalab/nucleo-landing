@@ -16,6 +16,9 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.8.6/umd/popper.min.js" integrity="sha512-jbqFEuvOwSwKyG+POu/cFuLrOaMjIjYO4NVGzs2+h3fidvrLOQ7LLc1yf+LIKmm9SfEP+ZTpbLlu41jmILbRyw==" crossorigin="anonymous"></script>
+
+    {% include google_tag_manager_head.html %}
+
     <!-- Bootstrap Core CSS -->
     <link href="{{site.baseurl}}/css/bootstrap.min.css" rel="stylesheet">
 
@@ -52,47 +55,6 @@
     <meta name="twitter:creator" content="@nucleojor" />
     <meta name="twitter:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png{% endif %}">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-104963816-3');
-    </script>
-    <script>
-      gtag('event','100%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 100 ,
-    'non_interaction' : true
-  });
-    </script>
-    <script>
-      gtag('event','75%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 75 ,
-    'non_interaction' : true
-});
-    </script>
-    <script>
-      gtag('event','50%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 50 ,
-    'non_interaction' : true
-});
-    </script>
-    <script>
-      gtag('event','25%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 25 ,
-    'non_interaction' : true
-});
-    </script>
-
+    {% include google_analytics.html %}
 
 </head>
