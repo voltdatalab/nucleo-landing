@@ -24,32 +24,37 @@
                   style="background:none;padding:0;"
                   ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
                       <ul class="dropdown-menu">
+
                         <li class="dropdown-header">SEÇÕES</li>
-                        <li>  <a href="{{ site.baseurl }}/especiais">ESPECIAIS</a></li>
-                        <li><a href="{{ site.baseurl }}/ideias">JOGO RÁPIDO</a></li>
-                        <li>  <a href="{{ site.baseurl }}/arquivo">ARQUIVO</a></li>
-                        <li><a href="{{ site.baseurl }}/ideias">IDEIAS</a></li>
-                        <li><a href="{{ site.baseurl }}/monitor">MONITOR NUCLEAR</a></li>
+                          {% for item in site.data.nav_secoes %}
+                            <li>  <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                          {% endfor %}
+
                         <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">NEWSLETTERS</li>
-                        <li>  <a href="{{ site.baseurl }}/newsletters/garimpo">GARIMPO</a></li>
-                        <li><a href="{{ site.baseurl }}/newsletters">MATÉRIA DA SEMANA</a></li>
+                          <li class="dropdown-header">APLICAÇÕES</li>
+                          {% for item in site.data.nav_apps %}
+                            <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                          {% endfor %}
+
+                        <li role="separator" class="divider"></li>
+                          <li class="dropdown-header">NEWSLETTERS</li>
+                          {% for item in site.data.nav_newsletters %}
+                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                          {% endfor %}
+
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">COMUNIDADE</li>
-                        <li><a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh">LIXO ELETRÔNICO</a></li>
-                        <li><a href="{{ site.baseurl }}/transparencia">TRANSPARÊNCIA</a></li>
-                        <li><a href="{{ site.baseurl }}/cobertura">COBERTURA DE TECH</a></li>
+                          {% for item in site.data.nav_comunidade %}
+                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                          {% endfor %}
+
+
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">INSTITUCIONAL</li>
-                        <li><a href="{{ site.baseurl }}/sobre">SOBRE O NÚCLEO</a></li>
-                        <li><a href="{{ site.baseurl }}/equipe">NOSSA EQUIPE</a></li>
-                        <li><a href="{{ site.baseurl }}/pautas">COLABORE CONOSCO</a></li>
-                        <li><a href="{{ site.baseurl }}/republique">REPUBLICAÇÕES</a></li>
-                        <li><a href="{{ site.baseurl }}/impacto">NOSSO IMPACTO</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">POLÍTICAS</li>
-                        <li><a href="{{ site.baseurl }}/privacidade">PRIVACIDADE</a></li>
-                        <li role="separator" class="divider"></li>
+                          {% for item in site.data.nav_institucional %}
+                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                          {% endfor %}
+
                         </ul>
               </li>
               <li class="dropdown">

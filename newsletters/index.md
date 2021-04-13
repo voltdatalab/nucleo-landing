@@ -45,7 +45,7 @@ O **Garimpo** é uma news curta, com menos de três minutos de leitura, que cont
 
 <hr>
 
-## DESPACHO NUCLEAR
+## MATÉRIA DA SEMANA
 
 Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
 
@@ -64,32 +64,6 @@ Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a 
 
 </form>
 </div>
-
-<hr>
-
-## NEWS INSTITUCIONAL
-
-Entre na nossa lista e fique por dentro do que está rolando com o Núcleo Jornalismo. Mandaremos um email (curto!) sempre que tivermos algo importante a dizer sobre nossa iniciativa nuclear.
-
-<div id="newsletter_page">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<input style="max-width:100%" class="revue-form-field" type="text" name="last_name" id="last_name" placeholder="SOBRENOME" style="max-width:100%"/>
-<br/><div style="display:none;">
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
-
-</form>
-</div>
-
 
 <hr>
 

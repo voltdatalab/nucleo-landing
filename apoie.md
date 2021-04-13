@@ -89,6 +89,7 @@ alert("Chave Pix ALEATÓRIA copiada");
 
 <div class="col-md-6">
 <img src="{{ site.baseurl }}/img/pix/pix_materias.png" alt="img garimpo" width="90%">
+<small>O banco que utilizamos é o Cora SCD</small>
 
 </div>
 </div>

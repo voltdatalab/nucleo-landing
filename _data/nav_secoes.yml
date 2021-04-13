@@ -1,0 +1,14 @@
+- nome: Especiais
+  link: '{{ site.baseurl }}/especiais'
+
+- nome: Reportagens
+  link: '{{ site.baseurl }}/reportagem'
+
+- nome: Jogo Rápido
+  link: '{{ site.baseurl }}/curtas'
+
+- nome: Ideias
+  link: '{{ site.baseurl }}/ideias'
+
+- nome: Arquivo
+  link: '{{ site.baseurl }}/arquivo'

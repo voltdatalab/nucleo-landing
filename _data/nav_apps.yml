@@ -1,0 +1,8 @@
+- nome: Monitor Nuclear
+  link: '{{ site.baseurl }}/monitor'
+
+- nome: Science Pulse
+  link: '{{ site.baseurl }}/curtas'
+
+- nome: Bot de ciência
+  link: 'https://t.me/SciencePulseBot'

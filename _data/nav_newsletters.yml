@@ -1,0 +1,5 @@
+- nome: Garimpo
+  link: '{{ site.baseurl }}/newsletters/garimpo'
+
+- nome: Reportagens
+  link: '{{ site.baseurl }}/newsletters/semanal'

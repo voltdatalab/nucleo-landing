@@ -1,0 +1,64 @@
+I"h<style>
+#newsletter_page{
+  margin: 0 auto;
+  width: 65%;
+}
+#newsletter_page label{
+  font-size: 1em;
+}
+
+img{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  max-width: 100%;
+}
+
+.feed-item-title{
+    font-weight: 400;
+}
+
+</style>
+
+<p>Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno. Colocamos algumas informações extras e a perspectiva dos jornalistas envolvidos na apuração, análise ou edição da matéria.</p>
+
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+<br />
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ" />
+  <input type="hidden" name="subform" value="yes" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER" />
+  </div>
+
+</form>
+</div>
+
+<hr />
+
+<p><small>O uso de seus dados é regido pelo nossa <a href="/privacidade">política de privacidade</a>.</small></p>
+
+<p><small>Veja abaixo os principais pontos cobertos por essa política:</small></p>
+
+<ul>
+  <li>
+    <p><small>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small></p>
+  </li>
+  <li>
+    <p><small>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</small></p>
+  </li>
+  <li>
+    <p><small>Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;</small></p>
+  </li>
+  <li>
+    <p><small>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab. Você será avisado disso;</small></p>
+  </li>
+  <li>
+    <p><small>Fazemos um compromisso de tratar sua informação com zelo.</small></p>
+  </li>
+</ul>
+:ET
