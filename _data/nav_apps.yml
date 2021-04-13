@@ -1,8 +1,10 @@
 - nome: Monitor Nuclear
-  link: '{{ site.baseurl }}/monitor'
+  link: monitor
 
 - nome: Science Pulse
-  link: '{{ site.baseurl }}/curtas'
+  link: 'https://sciencepulse.org'
+  externo: sim
 
 - nome: Bot de ciência
   link: 'https://t.me/SciencePulseBot'
+  externo: sim

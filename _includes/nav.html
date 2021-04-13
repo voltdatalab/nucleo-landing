@@ -27,32 +27,63 @@
 
                         <li class="dropdown-header">SEÇÕES</li>
                           {% for item in site.data.nav_secoes %}
-                            <li>  <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
                           {% endfor %}
 
                         <li role="separator" class="divider"></li>
                           <li class="dropdown-header">APLICAÇÕES</li>
                           {% for item in site.data.nav_apps %}
-                            <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
                           {% endfor %}
 
                         <li role="separator" class="divider"></li>
                           <li class="dropdown-header">NEWSLETTERS</li>
                           {% for item in site.data.nav_newsletters %}
-                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
                           {% endfor %}
 
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">COMUNIDADE</li>
                           {% for item in site.data.nav_comunidade %}
-                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+
+                              </li>
                           {% endfor %}
 
 
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">INSTITUCIONAL</li>
                           {% for item in site.data.nav_institucional %}
-                          <li> <a href="{{ item.link }}">{{ item.nome }}</a></li>
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
                           {% endfor %}
 
                         </ul>

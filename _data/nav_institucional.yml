@@ -1,14 +1,14 @@
 - nome: Sobre o Núcleo
-  link: '{{ site.baseurl }}/sobre'
+  link: 'sobre'
 
 - nome: Nossa equipe
-  link: '{{ site.baseurl }}/equipe'
+  link: 'equipe'
 
 - nome: Trabalhe conosco
-  link: '{{ site.baseurl }}/pautas'
+  link: 'pautas'
 
 - nome: Use nossas matérias
-  link: '{{ site.baseurl }}/republique'
+  link: 'republique'
 
 - nome: Política de privacidade
-  link: '{{ site.baseurl }}/privacidade'
+  link: 'privacidade'

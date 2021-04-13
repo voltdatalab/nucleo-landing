@@ -1,5 +1,5 @@
 - nome: Garimpo
-  link: '{{ site.baseurl }}/newsletters/garimpo'
+  link: 'newsletters/garimpo'
 
 - nome: Reportagens
-  link: '{{ site.baseurl }}/newsletters/semanal'
+  link: 'newsletters/semanal'

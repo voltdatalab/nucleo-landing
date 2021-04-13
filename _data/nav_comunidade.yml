@@ -1,14 +1,16 @@
 - nome: Transparência
-  link: '{{ site.baseurl }}/transparencia'
+  link: 'transparencia'
 
 - nome: Nosso impacto
-  link: '{{ site.baseurl }}/impacto'
+  link: 'impacto'
 
 - nome: Lixo Eletrônico
   link: 'https://t.me/joinchat/YfgEgDLRjDQyOTZh'
+  externo: sim
 
 - nome: Siga no Twitter
   link: 'https://twitter.com/nucleojor'
+  externo: sim
 
 - nome: Outros sites legais
-  link: '{{ site.baseurl }}/cobertura'
+  link: 'cobertura'
