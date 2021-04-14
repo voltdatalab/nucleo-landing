@@ -30,7 +30,7 @@ No Ramadan, os muçulmanos jejuam entre a alvorada e o pôr do sol para relembra
 
 Para agrupar stories do mundo todo que usam as figurinhas especiais, o Instagram criou um *Destaque*, como costuma fazer em datas importantes.
 
-![image dos stickers]({{ site.baseurl }}/img/curtas/graficos/ramadan_marcas.jpg)
+![image dos stickers]({{ site.baseurl }}/img/curtas/graficos/ramadan_marcas.png)
 
 Em busca de visibilidade, algumas pessoas usaram os stickers em postagens não relacionadas e o destaque, que era para reunir homenagens a um período religioso e sagrado, começou a ser usado [como vitrine](https://twitter.com/hyattomar_/status/1382010400980471815) para venda de produtos e exibição de corpos.
 
