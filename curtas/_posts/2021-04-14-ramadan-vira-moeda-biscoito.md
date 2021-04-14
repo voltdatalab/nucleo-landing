@@ -2,8 +2,8 @@
 published: TRUE
 layout: curtas
 tipo: curtas
-title: "No Instagram, Ramadan viram moeda de biscoito "
-titulo_redes: "No Instagram, Ramadan viram moeda de biscoito "
+title: "No Instagram, Ramadan vira moeda de biscoito"
+titulo_redes: "No Instagram, Ramadan vira moeda de biscoito "
 subtitle: 'Consulta ao CrowdTangle mostra que termo "Ramadan" teve forte alta no número de interações; homenagens à data estão ofuscadas por pessoas e marcas em busca de engajamento'
 subtitle_redes: 'Homenagens à data estão ofuscadas por pessoas e marcas em busca de engajamento'
 excerpt: 'Consulta ao CrowdTangle mostra que termo "Ramadan" teve forte alta no número de interações; homenagens à data estão ofuscadas por pessoas e marcas em busca de engajamento'
@@ -30,7 +30,7 @@ No Ramadan, os muçulmanos jejuam entre a alvorada e o pôr do sol para relembra
 
 Para agrupar stories do mundo todo que usam as figurinhas especiais, o Instagram criou um *Destaque*, como costuma fazer em datas importantes.
 
-![image dos stickers]({{ site.baseurl }}/img/curtas/graficos/ramadan_marcas.png)
+![image dos stickers]({{ site.baseurl }}/img/curtas/graficos/ramadan_marcas.jpg)
 
 Em busca de visibilidade, algumas pessoas usaram os stickers em postagens não relacionadas e o destaque, que era para reunir homenagens a um período religioso e sagrado, começou a ser usado [como vitrine](https://twitter.com/hyattomar_/status/1382010400980471815) para venda de produtos e exibição de corpos.
 
