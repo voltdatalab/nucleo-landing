@@ -101,7 +101,7 @@ Em 2020 a média de publicações com essas hashtags específicas foi quase o do
 
 <img id="img" src="{{ site.baseurl }}/img/instagram-armas/influencers-armas_posts-mes.png" class="img-destak" alt="gráfico com aumento na média de posts com hashtags ligadas a armas por mês">
 
-Os posts analisados pelo **Núcleo** oferecem um olhar para dentro desse nicho no Instagram e o que ele pode representar para as políticas armamentistas no país, embora não seja possível dizer que são representativos de todo o universo de armas do Brasil. Nossa análise envolve desde posts de sorteios de acessórios e [artesanato](https://www.instagram.com/camachoartesao/) com cartuchos de balas até anúncios de cursos de tiro específicos para mulheres.
+Os posts analisados pelo **Núcleo** oferecem um olhar para dentro desse nicho no Instagram e o que ele pode representar para as políticas armamentistas no país, embora não seja possível dizer que representam todo o universo de armas do Brasil. Nossa análise envolve desde posts de sorteios de acessórios e [artesanato](https://www.instagram.com/camachoartesao/) com cartuchos de balas até anúncios de cursos de tiro específicos para mulheres.
 
 Matéria do **Núcleo** no começo de abril [mostrou como](https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas) o Facebook tem sido utilizado para comprar e vender armas de fogo entre pessoas físicas, o que vai contra a política de comunidade da plataforma. Mas anúncios de armas por lojas físicas especializadas são permitidos por lá. O [mesmo vale](https://www.facebook.com/help/instagram/477434105621119) para o Instagram.<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>O Instagram foi comprado pelo Facebook em 2012.<br><br></span>
 
