@@ -481,17 +481,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 
-				<script>
-					document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+<script>
+  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
 async function clipboardCopy() {
 let text = document.querySelector("#myPix").value;
 await navigator.clipboard.writeText(text);
 
-	alert("Chave Pix ALEATÓRIA copiada");
+alert("Chave Pix ALEATÓRIA copiada");
 }
 
 
-				</script>
+</script>
+
+
 
 				<hr class="hrtop"/>
 

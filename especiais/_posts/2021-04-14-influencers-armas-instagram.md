@@ -173,7 +173,7 @@ O uso de redes sociais por policiais é uma questão controversa por utilizar s�
 Há ainda casos em que as redes sociais são usadas por policiais para atividades políticas, o que por si só contraria a ideia da polícia como uma força neutra, explicou Alcapadini. Embora os códigos disciplinares das corporações tenham escopo para punir ou evitar tais comportamentos, falta vontade política. "As polícias são coniventes com isso", acrescentou o professor.
 
 <span class="texto-destak">"É um problema que persiste há muito tempo e que as corregedorias e comandos das polícias deveriam tomar atitudes, mas não tomam porque essas figuras podem se eleger deputados ou senadores e defender a pauta corporativista da polícia."<br>
-<small class="arquivado" style="color:#222222">- Rafael Alcapadini, professor da FGV</small>
+<small class="arquivado" style="color:#222222">- Rafael Alcapadini, da FGV</small>
 </span>
 
 O número de policiais militares na política vêm crescendo nos últimos anos. Entre 2010 e 2018, a proporção de agentes de segurança que se candidataram e foram eleitos triplicou, [segundo dados](https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/) publicados pelo Fórum Brasileiro de Segurança Pública (FBSP). <input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>Cresceu também o incentivo para que policiais busquem cargos, tanto por parte das associações policiais quanto por partidos políticos, escreveram Samira Bueno e Renato Sérgio de Lima <a href="https://piaui.folha.uol.com.br/cresce-forca-de-pms-na-politica/" target="_blank">em texto</a> publicado pela revista piauí em outubro de 2020.<br><br></span>
@@ -239,7 +239,7 @@ Embora estivesse fora do foco de sua pesquisa, Sordi notou que já naquele momen
 
 <span class="texto-destak">"Ao mesmo tempo que é uma plataforma de difusão de técnicas de caça, das fotos dos animais abatidos, essa coisa do troféu de caça, também é uma plataforma de extrema direita."<br>
 <small class="arquivado" style="color:#222222">- Caetano Sordi, doutor em antropologia social pela UFRGS</small>
-</span>
+</span> <br>
 
 Em 2013, o Ibama [autorizou](http://g1.globo.com/economia/agronegocios/noticia/2013/06/ibama-autoriza-o-abate-de-javalis-e-de-javaporcos-em-todo-o-pais.html) a caça do javali selvagem, o que motivou a articulação de redes e grupos de caça, inclusive virtuais. Um exemplo de página que revolve ao redor da caça dos javaporcos é Aqui Tem Javali. O antropológo acompanhou essas redes durante algum tempo.
 

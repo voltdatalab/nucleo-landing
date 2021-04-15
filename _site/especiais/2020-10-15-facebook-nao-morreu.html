@@ -900,6 +900,40 @@ function changeimg(url,e) {
 
 
 										<hr>
+										<div class="pix-div">
+    <h5>APOIE O NÚCLEO, PAGUE<br /> POR ESTE CONTEÚDO</h5>
+    <h4 class="arquivado creditos_alt">
+      - Via PIX, é rápido e fácil <br />
+      - Use o QR no app do seu banco<br />
+      - Ou copie a chave aleatória<br />
+      - Pague a <u>quantia que quiser</u> <br />
+    </h4>
+
+    <img class="pix-img" src="/img/pix/pix_materias.png" alt="pix para doação"/>
+    <br />
+    <input class="pix-input" type="text" value="958d1b06-0c5f-41e4-bdd6-f9aa7e452c7c" id="myPix">
+    <br />
+    <button id="clipboardCopy" class="btn pix-btn" onclick="myFunction()">Copiar chave aleatória</button>
+    <h4 class="arquivado creditos_alt">
+      <a href="/transparencia" target="_blank">Conheça nossa transparência</a>
+    </h4>
+    <!-- <h4 class="arquivado creditos_alt" style="max-width:90%">Fale conosco: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4> -->
+</div>
+
+
+<script>
+  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
+
+alert("Chave Pix ALEATÓRIA copiada");
+}
+
+
+</script>
+
+									 </hr>
 										<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: Facebook, Política Digital, Desinformação, COVID-19, Redes sociais</h4>
 								</div>
 
@@ -987,7 +1021,7 @@ function changeimg(url,e) {
               </div>
             </div>
 
-								
+
 								      </div>
 
 

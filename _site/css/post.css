@@ -910,7 +910,8 @@ PIX
     }
 
     .texto-destak{
-      max-width: 300px;
+      max-width: 100% !important;
+      width: 100% !important;
       overflow: visible;
       position: relative;
       left: 0 !important;
@@ -921,7 +922,8 @@ PIX
     }
 
     .texto-destak-right{
-      max-width: 300px;
+      max-width: 100% !important;
+      width: 100% !important;
       position: relative;
       right: 0 !important;
       float: right;
