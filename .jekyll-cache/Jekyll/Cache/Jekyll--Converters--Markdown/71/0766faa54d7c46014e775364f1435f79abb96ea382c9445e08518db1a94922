@@ -1,0 +1,167 @@
+I"WM<style>
+
+h3{
+  margin-top: 35px;
+}
+
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.active{
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media screen and (max-width: 900px) {
+  .timeline ul li div {
+    width: 250px;
+  }
+  .timeline ul li:nth-child(even) div {
+    left: -289px;
+    /*250+45-6*/
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+</style>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+
+<p><strong>A FACILITAÇÃO DO ACESSO A ARMAS DE FOGO</strong> promovida pelo governo do presidente Jair Bolsonaro tem movimentado um nicho de contas no Instagram que se identificam profundamente com a agenda armamentista.</p>
+
+<p>São diferentes grupos, que vão de policiais e agentes de segurança pública, passando por instrutores e atiradores esportivos, chegando até caçadores. Frequentemente há destaques para perfis de clubes de tiro e lojas de equipamentos.</p>
+
+<p>O Núcleo analisou mais de 26 mil posts públicos no Instagram entre 2017 e 2021 que contêm uma série de hashtags relacionadas a esses perfis. Neste período, há um nítido aumento no número médio de publicações por mês, especialmente a partir da posse de Bolsonaro, no começo de 2019.</p>
+
+<p>Em 2020 a média de publicações com essas hashtags específicas foi quase o dobro se comparada com a média de três anos antes. Os dados foram obtidos por meio de uma busca na ferramenta CrowdTangle, do Facebook.</p>
+
+<p><img id="img" src="/img/instagram-armas/influencers-armas_posts-mes.png" class="img-destak" alt="gráfico com aumento na média de posts com hashtags ligadas a armas por mês" /></p>
+
+<p>Embora não sejam representativos do universo de armas do Brasil, os posts analisados pelo Núcleo oferecem um olhar para dentro desse nicho no Instagram e o que ele pode representar para as políticas armamentistas no país. Nossa análise envolve desde posts de sorteios de acessórios e <a href="https://www.instagram.com/camachoartesao/">artesanato</a> com cartuchos de balas até anúncios de cursos de tiro específicos para mulheres.</p>
+
+<p>Matéria do Núcleo no começo de abril <a href="https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas">mostrou como</a> o Facebook tem sido utilizado para comprar e vender armas de fogo entre pessoas físicas, o que vai contra a política de comunidade da plataforma. Mas anúncios de armas por lojas físicas especializadas são permitidos. O <a href="https://www.facebook.com/help/instagram/477434105621119">mesmo vale</a> para o Instagram.</p>
+
+<p>Tradicionalmente associada à direita do espectro político, a defesa por uma maior possibilidade de que indivíduos tenham direito a comprar e portar armas ganhou espaço na agenda política dos últimos anos no Brasil.  Se antes a pauta armamentista tinha mais eco dentro do Congresso, com a chamada “Bancada da Bala”, depois que Bolsonaro se tornou presidente, ela ganhou lugar de destaque no Palácio do Planalto.</p>
+
+<p>Debates e conversas mais escancaradas em torno da pauta também são um fenômeno recente, observou Natália Pollachi, gerente de projetos do Instituto Sou da Paz, em entrevista ao Núcleo. Antes mais restritas a espaços fechados, como fóruns na internet ou grupos no Facebook, discussões e conversas sobre armas se tornaram mais públicas.</p>
+
+<p>“Essa migração para o Instagram, que é uma rede social mais de imagem, que começa a conectar outras pautas e que traz uma coisa de mostrar arma quase como um estilo de vida, é um pouco mais novo”, disse Pollachi.</p>
+
+<p>Na avaliação do Sou da Paz, esse tipo de visibilidade dada às armas traz duas preocupações principais. Por um lado, é problemática a disseminação da arma como objeto de desejo de consumo, quase como um tênis ou um carro.</p>
+
+<p>“A arma é um produto controlado pelo Exército brasileiro e a gente entende que ela tem que continuar sendo vista dessa forma, já que tem potencial de causar um dano coletivo muito grande”, explicou Pollachi.</p>
+
+<p>Por outro lado, diversas postagens vistas pelo Núcleo difundem também a ideia da arma como objeto de defesa pessoal e garantia de proteção.</p>
+
+<p>“Isso dissemina uma falsa impressão de que a arma vai te trazer segurança, quando a gente sabe, algo que pesquisas já mostraram, que mais armas em circulação no Brasil trazem mais homicídios”, acrescentou.</p>
+
+<p>Em 21 de setembro de 2016, 56 especialistas brasileiros, em áreas como direito penal, saúde pública, estatística, sociologia e relações internacionais, entre outras, assinaram um manifesto contra a revogação do Estatuto do Desarmamento e listaram dezenas de estudos.</p>
+
+<p>“Inegavelmente, o apelo à aprovação desse projeto de lei ganha força no rastro da sensação de insegurança que vivemos no Brasil. No entanto, a violência é um fenômeno complexo”, disse a carta.</p>
+
+<p>“Estudos científicos que lograram abordar esse problema de forma estatisticamente adequada geraram evidências empíricas robustas sobre a relação entre armas de fogo e violência. Esses estudos, conduzidos em inúmeras instituições de pesquisa domésticas e internacionais, levam à conclusão inequívoca de que uma maior quantidade de armas em circulação está associada a uma maior incidência de homicídios cometidos com armas de fogo.”</p>
+
+<h3 id="atirar-como-nos-eua">ATIRAR, COMO NOS EUA</h3>
+
+<p>Uma característica marcante dessas postagens é a presença de elementos nacionalistas: a bandeira brasileira (🇧🇷) é o emoji mais utilizado, enquanto um símbolo que remete às cores nacionais (🔰) aparece em quinto lugar.</p>
+
+<p>O segundo emoji mais utilizado é o de telefone (📞), o qual, junto a outros símbolos comuns de telefone celular (📱) e cartão de crédito (💳)  indicam potencial interesse comercial.</p>
+
+<p><img id="img" src="/img/instagram-armas/influencers-armas_emojis.png" class="img-destak" alt="gráfico com os principais emojis" /></p>
+
+<p>Para além do nacionalismo brasileiro, na 10a posição dos emojis mais comuns está a bandeira estadunidense (🇺🇸). Não é à toa: a popularidade da agenda armamentista no Brasil frequentemente tem inspiração na direita dos Estados Unidos e pode ser vista como um “elemento importado” de lá, segundo David Magalhães, coordenador do Observatório da Extrema Direita.</p>
+
+<p>“É uma mescla da ideia de que bandido bom é bandido morto com a visão da defesa da propriedade e da família pela arma. Parte desse armamentismo é importado da direita dos EUA e parte é em reação ao ambiente de caos na segurança pública que se instalou no Brasil”, avaliou Magalhães em entrevista ao Núcleo.</p>
+
+<h3 id="atirar-mas-como-policial">ATIRAR, MAS COMO POLICIAL</h3>
+<p>As hashtags mais usadas nessas postagens apontam para outro grupo importante: o de policiais militares. Das 10 hashtags que aparecem em mais posts, 7 fazem referência direta ou indireta a esse grupo.</p>
+
+<p>Além disso, o terceiro emoji mais utilizado é um policial (👮). Muitas postagens mostram o cotidiano dos policiais e tudo que os rodeiam: viaturas, fardas, operações e, claro, armas. Outras publicações promovem cursos de tiro ou treinamentos táticos.</p>
+
+<p>Um dos perfis mais ativos identificados na análise do Núcleo pertence ao policial federal Danilo Campetti, que tem 37,6 mil seguidores. Além de agente da PF, ele se descreve como professor de tiro e professor de curso para segurança de dignitários. A postagem mais recente de sua conta mostra um #TBT, uma foto tirada no passado, mais especificamente durante uma operação do Grupo de Pronta Intervenção (GPI) da Polícia Federal, segundo a legenda.</p>
+
+<p>Em 21 de março, Campetti fez uma postagem desejando feliz aniversário a Jair Bolsonaro e postou fotos em que aparece junto ao presidente. Em junho de 2020, o policial federal usou sua conta para postar um vídeo sobre as obras de transposição do rio São Francisco, iniciadas na gestão do ex-presidente Lula, e concluídas na gestão Bolsonaro.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Ver essa foto no Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Uma publicação compartilhada por Agente Federal Danilo Campetti (@apfcampetti)</a></p></div></blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+
+<p>O uso de redes sociais por policiais é uma questão controversa por utilizar símbolos da polícia – emblema da força, armas, viaturas, farda – para promoção pessoal, pontuou ao Núcleo Rafael Alcapadini, professor da Fundação Getúlio Vargas e associado ao Fórum Brasileiro de Segurança Pública.</p>
+
+<p>“Há polícias fora do Brasil - nos EUA, Chile, Inglaterra, por exemplo - que são bastante restritivas em relação àquilo que pode utilizar os símbolos das corporações”, disse.</p>
+
+<p>Há ainda casos em que as redes sociais são usadas por policiais para atividades políticas, o que por si só contraria a ideia da polícia como uma força neutra, explicou Alcapadini. Embora os códigos disciplinares das corporações tenham escopo para punir ou evitar tais comportamentos, falta vontade política.</p>
+
+<p>“As polícias são coniventes com isso, é um problema que persiste há muito tempo e que as corregedorias e comando das polícias deveriam tomar atitudes, mas não tomam porque depois essas figuras podem se eleger deputados ou senadores e defender a pauta corporativista da polícia”, acrescentou o professor.</p>
+
+<p>O número de policiais militares na política vêm crescendo nos últimos anos. Segundo dados publicados pelo Fórum Brasileiro de Segurança Pública (FBSP) em 2020, entre 2010 e 2018, a proporção de agentes de segurança que se candidataram e foram eleitos triplicou. Cresceu também o incentivo para que policiais busquem cargos, tanto por parte das associações policiais quanto por partidos políticos, segundo escreveram Samira Bueno e Renato Sérgio de Lima em texto publicado pela revista piauí em outubro de 2020.</p>
+
+<p>Alcapadini defende ainda que se investigue a promoção, nas redes sociais, de clubes de tiro por policiais ou policiais que sejam patrocinados por fabricantes de armas, já que isso configura uma utilização do símbolo público para ganhos privados. Em seu perfil, o policial civil de São Paulo Diego Del Rio, promove para seus 444 mil seguidores os cursos do Projeto Policial, uma plataforma de cursos de armamento e tiro.</p>
+
+<p>Apesar de majoritariamente composto por homens (87% dos PMs do país são homens, segundo dados publicados em 2020 pela Secretaria Nacional de Segurança Pública), também existe um grupo de postagens voltadas a mulheres. Não por acaso, três das hashtags que mais aparecem são #mulheresarmadas, #mulheresdefarda e #mulheresfardadas.</p>
+
+<p>As postagens mostram as agentes vestindo fardas, sozinhas ou acompanhadas de colegas, dentro ou ao lado de viaturas. Em algumas, elas seguram armas ou as portam no coldre. Assim como no caso dos homens, há agentes que também promovem cursos ou clubes de tiro esportivo. Uma destas influenciadoras é a policial civil paranaense Bianca Dal-Cól, que tem 60 mil seguidores. Em uma das postagens, ela aparece segurando uma arma e veste uma camiseta com a frase “Um povo armado jamais será escravizado’’, frase dita pelo presidente Jair Bolsonaro durante a reunião ministerial em abril de 2020.</p>
+
+<p>Além de policiais, a #mulheresarmadas também inclui posts de civis que são atiradoras esportivas. O nicho de mulheres atiradoras também vem sendo explorado por fabricantes de armas: no Dia Internacional das Mulheres, a fabricante brasileira Taurus lançou uma edição especial de um revólver cor-de-rosa com a inscrição mulheres fortes.</p>
+
+<!-- faz aparecer os gráficos -->
+<script>
+$(document).ready(function() {
+
+    /* Every time the window is scrolled ... */
+    $(window).scroll( function(){
+
+        /* Check the location of each desired element */
+        $('.img-destak').each( function(i){
+
+            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+
+            /* If the object is completely visible in the window, fade it it */
+            if( bottom_of_window > bottom_of_object ){
+
+                $(this).animate({'opacity':'1'},230);
+
+            }
+
+        });
+
+    });
+
+});
+</script>
+
+:ET
