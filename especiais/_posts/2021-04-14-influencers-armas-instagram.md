@@ -126,8 +126,8 @@ Esse tipo de visibilidade dada às armas traz duas preocupações principais. Po
 <img id="img" src="{{ site.baseurl }}/img/instagram-armas/influencers-armas_decretos.png" class="img-destak" alt="gráfico com aumento na média de posts com hashtags ligadas a armas por mês">
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle" tabindex="0">[SAIBA MAIS] Manifesto anti-armas<i class="far fa-hand-pointer fa"></i> </label>
+  <input id="collapsible1" class="toggle" type="checkbox">
+  <label for="collapsible1" class="lbl-toggle" tabindex="0">[SAIBA MAIS] Manifesto anti-armas<i class="far fa-hand-pointer fa"></i> </label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p><strong>Manifesto dos pesquisadores contra a revogação do Estatuto do Desarmamento</strong></p>
