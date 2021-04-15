@@ -3,7 +3,7 @@ published: TRUE
 visible: 1
 layout: especial
 tipo: especial
-title: "Armas viram moeda influência no Instagram"
+title: "Armas viram moeda de influência no Instagram"
 titulo_redes: "Entre policiais e atiradores, armas viram moeda de influência no Instagram"
 subtitle: 'Análise do Núcleo mostra aumento expressivo de publicações com hashtags ligadas ao movimento de armas no Brasil'
 subtitle_redes: "Análise do Núcleo mostra aumento expressivo de publicações com hashtags ligadas ao movimento de armas no Brasil"
