@@ -36,12 +36,15 @@ social:
     url: https://www.facebook.com/Nucleojor-103656567831757
   - title: github
     url: https://github.com/voltdatalab
+  - title: instagram
+    url: https://www.instagram.com/nucleojornalismo/
+  - title: linkedin
+    url: https://www.linkedin.com/company/71866321
   - title: whatsapp
     url: https://wa.me/5511934441844
   - title: telegram
     url: https://t.me/nucleojor
-  - title: linkedin
-    url: https://www.linkedin.com/company/71866321
+
 
 collections:
   category:

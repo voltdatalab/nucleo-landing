@@ -6,20 +6,18 @@
   <br /><br />
           <div class="row">
 
-{% for post in site.posts offset:7 limit: 8 %}
-{% unless post.tipo contains 'curtas' %}
+{% for post in site.posts offset:12 limit: 8 %}
         <div class="col-sm-3 col-lg-3" style="max-height:110px" >
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
                   <br />
                   <span class="arquivado" style="color:#000">
 
-                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}  <!-- &middot; Arquivado em <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a> -->
+                    <i class="far fa-calendar-alt"></i> {{ post.date | date: '%d/%m/%Y' }}  &middot; <a href="{{ post.categories }}"><span class="spancateg">{% if post.cat %}{{ post.cat }} {% else %} {{ post.categories }}{% endif %}</span></a>
 
                   </span>
                   <br /><br />
           </div>
-                {% endunless %}
                 {% endfor %}
                 </div>
                 <h5 class="arquivado"><a href="{{ site.baseurl }}/arquivo">Acesse todo o arquivo >></a></h5>
