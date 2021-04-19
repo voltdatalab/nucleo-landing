@@ -18,7 +18,7 @@ credito_img: "Rodolfo Almeida"
 creditos: "Sérgio Spagnuolo, Alexandre Orrico, Renata Hirota, Felippe Mercurio, Rodolfo Almeida, Lucas Gelape"
 gif: 'telegram/telegram-direita.gif'
 background: 'telegram/telegram-direita-02.png'
-atualizacao: ""
+atualizacao: "Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais. Texto atualizado em 22.fev.2021 às 13h23 para acrescentar detalhes sobre o canal de Telegram de Ciro Gomes, a pedido de um leitor."
 nota_abertura: ""
 tags:
   - "Telegram, "
@@ -329,7 +329,6 @@ O **Núcleo** tentou entrar em contato com o Telegram pelos contatos de mídia [
 
 Por não ser uma reportagem de denúncia ou acusação, e sim de observação e tendências, não entramos em contato com os canais analisados. Caso queiram responder a essa reportagem, nosso email é [nucleo@voltdata.info](mailto:nucleo@voltdata.info).
 
-<small>_Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais. Texto atualizado em 22.fev.2021 às 13h23 para acrescentar detalhes sobre o canal de Telegram de Ciro Gomes, a pedido de um leitor._ </small>
 
 <img src="{{ site.baseurl }}/img/telegram/loop_telegram1.gif" width="100%">
 
