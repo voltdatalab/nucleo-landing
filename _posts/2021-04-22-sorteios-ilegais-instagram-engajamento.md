@@ -79,7 +79,7 @@ Uma das ferramentas utilizadas pelos influenciadores é o [AppSorteos](https://a
 
 Outro site que faz isso é o [InstaSorteio](https://instasorteio.com.br), que em seus termos de uso diz que "não se responsabiliza e não tem qualquer vínculo por sorteios realizados em redes sociais, tendo em vista que para realizar sorteios em redes sociais deve-se pagar uma taxa ao órgão responsável de acordo com a Lei Nº 5.768", embora sua única função seja realizar sorteios no Instagram.
 
-No dia 18 de janeiro, a conta `@NicolasLowCars`, a segunda com mais engajamento no mundo, fez [um post ](https://www.instagram.com/p/CNz8clqAZtv/)para sortear uma Mercedes Exclusive modificada. Diferentemente da maioria dos posts vistos pelo Núcleo, essa publicação traz um número de autorização da promoção -- provavelmente a autorização a que se referiu o advogado -- além de um disclaimer de que a ação promocional não tem vínculo com o Instagram.
+No dia 18 de janeiro, a conta `@NicolasLowCars`, a segunda com mais engajamento no mundo, fez [um post ](https://www.instagram.com/p/CNz8clqAZtv/)para sortear uma Mercedes Exclusive modificada. Diferentemente da maioria dos posts vistos pelo **Núcleo**, essa publicação traz um número de autorização da promoção -- provavelmente a autorização a que se referiu o advogado -- além de um disclaimer de que a ação promocional não tem vínculo com o Instagram.
 
 Um dos perfis apurados, com 47 milhões de comentários em apenas 6 publicações, o `@bolaodasemana` foi tirado do ar no curso desta reportagem - assim como o perfil `@allan_rocha_bh`.
 
