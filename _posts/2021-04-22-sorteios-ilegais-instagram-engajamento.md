@@ -5,8 +5,8 @@ layout: conteudo
 tipo: reportagem
 title: "Sorteios irregulares inundam Instagram com engajamento artificial"
 titulo_redes: "Sorteios irregulares inundam Instagram com engajamento artificial"
-subtitle: "Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos; postagens chegam a ter milhões de comentários "
-subtitle_redes: "Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos; postagens chegam a ter milhões de comentários "
+subtitle: "Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos; postagens chegam a ter milhões de comentários"
+subtitle_redes: "Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos"
 excerpt: 'Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos; postagens chegam a ter milhões de comentários '
 date: "22/04/2021 11:42"
 reportagem: Alexandre Orrico e Laís Martins
