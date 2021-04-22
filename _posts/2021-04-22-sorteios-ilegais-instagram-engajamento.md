@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Wesley Alemão, Renato Garcia, Hugo Milgrau, Eder e Nicolas LowCars são nomes de influenciadores no Instagram que talvez você nunca tenha ouvido falar. Mas esses quatro caras estão por trás das 15 publicações em português com mais interações da plataforma. O segredo? Anúncios de sorteios de carros e motos, que geram um verdadeiro tsunami de engajamento artificial.  
+Wesley Alemão, Renato Garcia, Hugo Milgrau e Nicolas LowCars são nomes de influenciadores no Instagram que talvez você nunca tenha ouvido falar. Mas esses quatro caras estão por trás das 15 publicações em português com mais interações da plataforma. O segredo? Anúncios de sorteios de carros e motos, que geram um verdadeiro tsunami de engajamento artificial.  
 
 O volume não é brincadeira: estamos falando de posts com mais de dez milhões de comentários cada.
 
