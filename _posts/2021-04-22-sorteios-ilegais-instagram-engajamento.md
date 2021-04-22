@@ -17,6 +17,7 @@ creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Alexandre Orrico"
 background: 'instagram/jackpot_Teaser.png'
 dados_abertos: "Código da análise"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"
+atualizacao: "Texto atualizado às 14h02 de 22.abr.2021 para acrescentar posicionamento do Instagram."
 categories:
   - "reportagem"
 tags:
@@ -87,7 +88,7 @@ Todos os perfis citados nesta reportagem foram procurados por comentários via I
 
 O tema dá ainda muito pano pra manga e há ainda questões não respondidas: como estes influencers conseguem carros e motos tão caros para sorteá-los? É possível atestar a legitimidade destas promoções? Assim que os perfis responderem, atualizaremos este texto ou, dependendo dos retornos, poderemos produzir uma outra matéria sobre este mesmo assunto.
 
-Entramos em contato também com o Instagram, que não respondeu até o fechamento da matéria. Assim que houver um posicionamento, incluiremos aqui.  
+O Instagram informou somente que está "investigando os perfis citados na matéria" e enviou dois links, um para as [regras do Instagram](https://www.facebook.com/help/instagram/179379842258600) sobre sorteios e o outro sobre as [diretrizes de comunidade](https://help.instagram.com/477434105621119) da plataforma.
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox">
