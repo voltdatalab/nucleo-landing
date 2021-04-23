@@ -16,7 +16,8 @@
 									{% if page.subtitle %}
 									<h2 class="subheading">{{ page.subtitle }}</h3>
 									{% endif %}
-									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+									<!-- <hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />-->
+									<div style="height:20px;width:90%;background: url('../img/{{ page.background }}'); margin: 20px 0 10px" /></div>
 									<span class="arquivado">
 					          Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} <br />Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
 
@@ -52,7 +53,7 @@
 									<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }}</h4>
 									<h4 class="arquivado creditos_alt" style="max-width:300px"><i class="fas fa-tags"></i> Tags: {{ page.tags }}</h4>
 
-									{% if como_fizemos %}
+									{% if page.como_fizemos %}
 									<h4 class="arquivado creditos_alt" style="max-width:300px"><strong><i class="far fa-lightbulb"></i></strong> {{ page.como_fizemos }}</h4>
 									{% endif %}
 
