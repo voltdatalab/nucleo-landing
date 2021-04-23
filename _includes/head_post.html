@@ -39,8 +39,8 @@
     <meta property="article:published_time" content="{{ page.date }}">
 
     <!-- FACEBOOK -->
-    <meta property="og:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png {% endif %}" />
-    <meta property="og:image:type" content="{% if page.background %}image/jpeg{% else %}image/png{% endif %}" />
+    <meta property="og:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png{% endif %}" />
+    <meta property="og:image:type" content="{% if page.background contains == '.jpeg' %}image/jpeg{% else %}image/png{% endif %}" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
