@@ -5,7 +5,8 @@ desc: 'Informações básicas de acessos de usuários, pageviews e outras métri
 tagline: APLICAÇÃO
 background: 'audiencia.png'
 contexto: 'Informações básicas de acessos de usuários, pageviews e outras métricas que analisamos, como parte de nossa política de transparência.'
-iframe: '<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" frameborder="0" style="border:0"></iframe>'
+iframe: '<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" scrolling="no" frameborder="0" style="border:0"></iframe>'
+iframe_mobile: '<iframe id="chart-mobile" width="100%" height="1300" src="https://datastudio.google.com/embed/reporting/2d1e7abc-02f5-4c79-8037-06079464e50b/page/eqHFC" frameborder="0" style="border:0" allowfullscreen></iframe>'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
@@ -17,14 +18,31 @@ COMPARTILHE:
 </ul>'
 ---
 
+<style>
+#chart-mobile {
+  display: none
+}
+
+@media only screen and (max-width: 600px) {
+  #chart {
+    display: none
+  }
+
+  #chart-mobile{
+    display: block;
+    overflow: hidden
+  }
+}
+</style>
+
 ### Sobre os dados
 
 - Os dados de audiência são compilados pelo Google Analytics e atualizados constantemente;
 
-- Os dados consideram apenas a audiência neste site, e não refletem nenhum dado de newsletters, redes sociais ou [republicações]({{ site.baseurl/republique }}) nos sites de nossos parceiros;
+- Os dados consideram apenas a audiência neste site, e não refletem nenhum dado de newsletters, redes sociais ou [republicações]({{ site.baseurl }}/republique) nos sites de nossos parceiros;
 
 - Os dados são abertos e devem ser utilizados para referência e transparência;
 
 - Os dados não são auditados;
 
-- Os dados não refletem dados pessoais de nenhum usuário. 
+- Os dados não refletem dados pessoais de nenhum usuário.

@@ -224,6 +224,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           
                               <li>
                                 
+                                <a href="/audiencia">Dados de Audiência</a>
+                                
+
+                              </li>
+                          
+                              <li>
+                                
                                 <a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank">Lixo Eletrônico</a>
                                 
 
@@ -569,21 +576,43 @@ small{
 							</div>
 
 						<div class="container" style="max-width: 1200px; margin: 0 auto">
-							<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" frameborder="0" style="border:0"></iframe>
+							<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" scrolling="no" frameborder="0" style="border:0"></iframe>
+
+							
+							<iframe id="chart-mobile" width="100%" height="1300" src="https://datastudio.google.com/embed/reporting/2d1e7abc-02f5-4c79-8037-06079464e50b/page/eqHFC" frameborder="0" style="border:0" allowfullscreen></iframe>
+							
+
 						</div>
 
 							<div class="container" style="max-width: 540px">
 
 								<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
 
-									<h3 id="sobre-os-dados">Sobre os dados</h3>
+									<style>
+#chart-mobile {
+  display: none
+}
+
+@media only screen and (max-width: 600px) {
+  #chart {
+    display: none
+  }
+
+  #chart-mobile{
+    display: block;
+    overflow: hidden
+  }
+}
+</style>
+
+<h3 id="sobre-os-dados">Sobre os dados</h3>
 
 <ul>
   <li>
     <p>Os dados de audiência são compilados pelo Google Analytics e atualizados constantemente;</p>
   </li>
   <li>
-    <p>Os dados consideram apenas a audiência neste site, e não refletem nenhum dado de newsletters, redes sociais ou <a href="">republicações</a> nos sites de nossos parceiros;</p>
+    <p>Os dados consideram apenas a audiência neste site, e não refletem nenhum dado de newsletters, redes sociais ou <a href="/republique">republicações</a> nos sites de nossos parceiros;</p>
   </li>
   <li>
     <p>Os dados são abertos e devem ser utilizados para referência e transparência;</p>

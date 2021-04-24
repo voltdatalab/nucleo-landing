@@ -73,6 +73,11 @@ small{
 
 						<div class="container" style="max-width: 1200px; margin: 0 auto">
 							{{ page.iframe }}
+
+							{% if page.iframe_mobile %}
+							{{ page.iframe_mobile }}
+							{% endif %}
+
 						</div>
 
 							<div class="container" style="max-width: 540px">
