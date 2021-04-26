@@ -7,7 +7,7 @@ titulo_redes: "Anúncios de cloroquina ainda podem ser impulsionados no Facebook
 subtitle: 'Rede social vai rotular conteúdos que promovam tratamentos sem comprovação científica, mas usuários ainda conseguem impulsionar anúncios desse tipo'
 subtitle_redes: 'Rede social irá rotular ads que promovam tratamentos sem comprovação científica'
 excerpt: 'Rede social anunciou em abril que irá rotular conteúdos que promovam tratamentos sem comprovação científica, mas usuários ainda conseguem impulsionar anúncios desse tipo'
-date: 22/04/2021 11:54
+date: 23/04/2021 11:54
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Laís Martins"
