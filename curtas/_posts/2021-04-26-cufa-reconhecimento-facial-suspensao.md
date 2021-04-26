@@ -21,7 +21,7 @@ tags:
 
 ---
 
-A Central Única das Favelas (CUFA) suspendeu o cadastro de cidadãos por reconhecimento facial após questionamentos de ativistas e pesquisadores no Twitter.
+A Central Única das Favelas (CUFA) suspendeu seu cadastro de beneficiários por reconhecimento facial após questionamentos de ativistas e pesquisadores no Twitter.
 
 A suspensão, [anunciada](https://twitter.com/pretozeze/status/1386699936734093316?s=19) pelo presidente da CUFA, Preto Zezé, veio poucas horas após um [post](https://twitter.com/celsoathayde/status/1386643001234137092) (apagado depois) de Celso Athayde, um dos fundadores da CUFA, sobre o uso do reconhecimento facial pela organização -- cuja meta era cadastrar 2 milhões de pessoas até 2021.
 
