@@ -51,7 +51,7 @@ A Folha também disponibiliza, no rodapé de seu site, informações mensais sob
 
 O [Colabora](https://projetocolabora.com.br/nossos-numeros/), projeto jornalístico sem fins lucrativos, disponibiliza números de audiência e gastos detalhados do último mês e último ano.
 
-O site de tecnologia [Manual do Usuário](https://manualdousuario.net/) divulga informações de audiência para seus apoiadores e também em seu [media kit](https://manualdousuario.net/anuncie/).
+O site de tecnologia [Manual do Usuário](https://manualdousuario.net/) divulga informações de audiência para seus apoiadores e também em seu [mediakit](https://manualdousuario.net/anuncie/).
 
 Esperamos servir de referência no nosso segmento e ver outras iniciativas jornalísticas divulgarem audiência dessa forma.
 
