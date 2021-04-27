@@ -14,7 +14,7 @@ edicao:  Sérgio Spagnuolo
 creditos:  Sérgio Spagnuolo, Jade Drummond, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 background: 'audiencia.png'
-atualizacao: "Acrescenta informação às 11h16 de 27.abr.2021 de que a Folha de S.Paulo mantém no rodapé de seu site informações mensais sobre visitantes únicos e pageviews."
+atualizacao: "Acrescenta informação às 11h16 de 27.abr.2021 de que a Folha de S.Paulo mantém no rodapé de seu site informações mensais sobre visitantes únicos e pageviews. Atualiza às 12h36 de 27.abr.2021 com dados do Manual do Usuário."
 categories:
   - "institucional"
 tags:
@@ -50,6 +50,8 @@ A iniciativa de abrir os principais dados de audiência para consulta a qualquer
 A Folha também disponibiliza, no rodapé de seu site, informações mensais sobre visitantes únicos e pageviews.
 
 O [Colabora](https://projetocolabora.com.br/nossos-numeros/), projeto jornalístico sem fins lucrativos, disponibiliza números de audiência e gastos detalhados do último mês e último ano.
+
+O site de tecnologia [Manual do Usuário](https://manualdousuario.net/) divulga informações de audiência para seus apoiadores e também em seu [media kit](https://manualdousuario.net/anuncie/).
 
 Esperamos servir de referência no nosso segmento e ver outras iniciativas jornalísticas divulgarem audiência dessa forma.
 
