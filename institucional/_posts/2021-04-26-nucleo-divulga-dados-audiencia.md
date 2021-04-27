@@ -14,6 +14,7 @@ edicao:  Sérgio Spagnuolo
 creditos:  Sérgio Spagnuolo, Jade Drummond, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 background: 'audiencia.png'
+atualizacao: "Acrescenta informação às 11h16 de 27.abr.2021 de que a Folha de S.Paulo mantém no rodapé de seu site informações mensais sobre visitantes únicos e pageviews."
 categories:
   - "institucional"
 tags:
@@ -46,13 +47,15 @@ Reforçamos ainda que as informações disponibilizadas não contém dados pesso
 
 A iniciativa de abrir os principais dados de audiência para consulta a qualquer momento, inclusive o número de leitores diários, se diferencia no mercado jornalístico. Muitos veículos, como [Folha de S. Paulo](https://www1.folha.uol.com.br/poder/2021/04/dados-de-audiencia-do-1o-trimestre-reafirmam-lideranca-da-folha.shtml?origin=folha) e [Poder 360](https://www.poder360.com.br/institucional-poder360/poder360-consolida-audiencia-e-bate-novo-recorde-de-acessos-em-abril/), divulgam dados agregados de audiência de forma pontual para se posicionar como lideranças do segmento de notícias, celebrar recordes de leitores ou conseguir novos patrocinadores.
 
+A Folha também disponibiliza, no rodapé de seu site, informações mensais sobre visitantes únicos e pageviews.
+
 O [Colabora](https://projetocolabora.com.br/nossos-numeros/), projeto jornalístico sem fins lucrativos, disponibiliza números de audiência e gastos detalhados do último mês e último ano.
 
 Esperamos servir de referência no nosso segmento e ver outras iniciativas jornalísticas divulgarem audiência dessa forma.
 
 ### História
 
-O **Núcleo** é uma iniciativa jornalística nova, criada em janeiro de 2020. No primeiro ano de vida, sem financiamento, fizemos 36 reportagens ou análises e tivemos 18.467 leitores únicos.
+O **Núcleo** é uma iniciativa jornalística nova, criada em janeiro de 2020. No primeiro ano de vida, sem financiamento, fizemos 36 reportagens ou análises e tivemos 18.467 leitores únicos até a publicação deste texto.
 
 Em janeiro deste ano, compartilhamos com o público uma [mudança de posicionamento](https://nucleo.jor.br/institucional/2021-01-15-nucleo-reposicionamento-tech) e o foco da cobertura passou a ser a cobertura de redes sociais e seu impacto na sociedade -- tanto no nível editorial (reportagens, análises e até opinião) quanto no desenvolvimento de aplicações e projetos.
 
