@@ -24,7 +24,7 @@ tags:
 
 ---
 
-Como parte da política de transparência do **Núcleo**, a partir de agora é possível acompanhar os principais [dados de audiência](https://nucleo.jor.br/audiencia) de nosso site no ano vigente, atualizados diariamente. Somos o primeiro veículo brasileiro a adotar esse tipo de transparência em relação à nossa audiência.
+Como parte da política de transparência do **Núcleo**, a partir de agora é possível acompanhar os principais [dados de audiência](https://nucleo.jor.br/audiencia) de nosso site no ano vigente, atualizados diariamente. Somos o primeiro veículo brasileiro de jornalismo a adotar esse tipo de transparência em relação à nossa audiência.
 
 Informações básicas de acessos de usuários, visualizações de página, sessões por leitor e dispositivos utilizados ficarão constantemente abertas para o público geral. 
 
