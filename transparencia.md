@@ -28,14 +28,14 @@ Como parte da nossa política de transparência, a partir de agora é possível 
 ## POLÍTICA DE CORREÇÕES
 O **Núcleo** sempre corrigirá informações e será claro e transparente em relação a elas.
 
-Nossas matérias terão um aviso do dia e hora em que uma reportagem for alterada, o que foi alterado e os motivos da alteração, quando aplicáveis.
+Nossas matérias terão um aviso do dia e hora em que uma reportagem foi alterada, o que foi alterado e os motivos da alteração, quando aplicáveis.
 
 Retificações de erros de digitação são uma exceção e não serão avisadas, exceto se mudarem alguma informação ou a forma de interpretação (por exemplo uma vírgula em casas decimais).
 
 ## POLÍTICA DE CONTRATAÇÃO E REMUNERAÇÃO
 O **Núcleo** nasceu com o compromisso de aumentar a diversidade em seus quadros de colaboradores. Entendemos que algumas vezes o processo de contratação inclusiva possui algumas dificuldades. Por exemplo, somos uma empresa pequena que precisa otimizar a alocação de recursos, e muitas vezes recorremos a pessoas que já conhecemos e que confiamos para entregar um trabalho -- o que nos mantém dentro de nossas bolhas. Entendemos esse desafio e queremos fazer algo sobre isso.
 
-A tabela de remuneração-base de frilas **Núcleo** pode ser acessada [neste link]({{ site.baseurl }}/pautas).   
+A tabela de remuneração-base de frilas do **Núcleo** pode ser acessada [neste link]({{ site.baseurl }}/pautas).   
 
 ## OUTROS LINKS
 
