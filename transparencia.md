@@ -20,7 +20,7 @@ Em outubro de 2020, o **Núcleo** foi selecionado para participar de um [process
 A Volt Data Lab também faz investimentos, especialmente na parte de infraestrutura e desenvolvimento do site e de aplicações.
 
 ## TRANSPARÊNCIA EDITORIAL
-Nossa política editorial é de transparência de processos. Dentro possível, nos comprometemos a explicar 1. por que achamos que um assunto é importante; 2. a forma como apuramos as informações e como chegamos a tal resultados; 3. a divulgação de códigos e dados utilizados e 4. atribuir referências, em forma de citações e links, sempre que utilizarmos conhecimento adquirido diretamente de terceiros.
+Nossa política editorial é de transparência de processos. Dentro possível, nos comprometemos a explicar 1. por que achamos que um assunto é importante; 2. a forma como apuramos as informações e como chegamos a tais resultados; 3. a divulgação de códigos e dados utilizados e 4. atribuir referências, em forma de citações e links, sempre que utilizarmos conhecimento adquirido diretamente de terceiros.
 
 ## DADOS DE AUDIÊNCIA
 Como parte da nossa política de transparência, a partir de agora é possível acompanhar os principais [dados de audiência](https://nucleo.jor.br/audiencia) do **Núcleo** do ano vigente. Informações básicas de acessos de usuários, visualizações de página, sessões por leitor e dispositivos utilizados ficarão constantemente abertas para o público geral, atualizados diariamente. 
