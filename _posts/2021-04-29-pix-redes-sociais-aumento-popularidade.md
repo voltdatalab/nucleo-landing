@@ -33,7 +33,7 @@ tags:
 
 Nas redes sociais, sobram brasileiros desejando que caia, do nada, um PIX em suas contas bancárias. Ao [facilitar doações](https://www1.folha.uol.com.br/mercado/2021/04/pix-agiliza-doacoes-para-entidades-assistenciais.shtml), transferir prêmios de apostas e [sorteios](https://nucleo.jor.br/reportagem/2021-04-22-sorteios-ilegais-instagram-engajamento) e até mesmo chamar atenção (famosa biscoitagem), a plataforma de pagamento instantâneo<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>O PIX entrou em funcionamento em novembro de 2020.<br><br></span> tem ressignificado a forma como usuários e organizações ganham dinheiro com seus perfis.
 
-Os motivos de apelo são muitos. A pessoa está triste, quer comer um lanche, comprar uma HQ ou está fazendo aniversário. Tem quem troque [por biscoito](https://twitter.com/matheus_srib/status/1370161415709933580) ou aceite como "biscoito". Tem influenciador transformando PIX em [modelo de negócios](https://www.facebook.com/McLancinhoofc/posts/328855021935424) e até usando a plataforma para enviar dinheiro para seus seguidores [mais engajados](https://twitter.com/MandyCandy/status/1377718354895638528). Pode tudo.
+Os motivos de apelo são muitos. A pessoa está triste, quer comer um lanche<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>[Nota do editor] Existe um real debate dentro do <strong>Núcleo</strong> sobre o significado da palavra <em>lanche</em>. Ao passo que os paulistas nucleares defendem ferrenhamente o direito de chamar de lanche qualquer sanduíche, nossos colaboradores de outras terras contestam essa versão. Venceu a determinação do editor. Desta vez...<br><br></span>, comprar uma HQ ou está fazendo aniversário. Tem quem troque [por biscoito](https://twitter.com/matheus_srib/status/1370161415709933580) ou aceite como "biscoito". Tem influenciador transformando PIX em [modelo de negócios](https://www.facebook.com/McLancinhoofc/posts/328855021935424) e até usando a plataforma para enviar dinheiro para seus seguidores [mais engajados](https://twitter.com/MandyCandy/status/1377718354895638528). Pode tudo.
 
 ---
 
@@ -49,7 +49,7 @@ Menções ao termo "PIX" em posts em português têm disparado no Facebook, no I
 
 ![total de menções ao termo PIX no Facebook e no Instagram]({{ site.baserurl }}/img/pix/pix_redes.png)
 
-No bimestre março-abril, o número de menções no Facebook dobrou em relação ao bimestre anterior, totalizando 433 mil citações -- isso somente em grupos públicos, perfis verificados e fan pages<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br><br>O CrowdTangle não concede acesso a dados de grupos privados nem perfis pessoais.<br><br></span>. No Instagram, o número cresceu 136%, num total de 68 mil referências em posts públicos.
+No bimestre março-abril, o número de menções no Facebook dobrou em relação ao bimestre anterior, totalizando 433 mil citações -- isso somente em grupos públicos, perfis verificados e fan pages<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br><br>O CrowdTangle não concede acesso a dados de grupos privados nem perfis pessoais.<br><br></span>. No Instagram, o número cresceu 136%, num total de 68 mil referências em posts públicos.
 
 No Reddit, rede de fóruns pouco popular no Brasil mas grande nos EUA, o número de menções saltou 64% no período. O Twitter só permite consultas gratuitas dos últimos 7 dias, mas tudo indica que segue a mesma linha de crescimento.
 
