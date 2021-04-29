@@ -4,6 +4,9 @@
 - nome: Nossa equipe
   link: 'equipe'
 
+- nome: Notas institucionais
+  link: 'institucional'
+
 - nome: Trabalhe conosco
   link: 'pautas'
 

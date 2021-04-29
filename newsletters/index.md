@@ -10,7 +10,6 @@ icone: '<i class="far fa-envelope fa-lg"></i>'
 <style>
 #newsletter_page{
   margin: 0 auto;
-  width: 70%;
 }
 #newsletter_page label{
   font-size: 1em;

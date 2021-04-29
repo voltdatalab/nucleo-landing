@@ -12,7 +12,6 @@ icone: '<i class="far fa-envelope fa-lg"></i>'
 <style>
 #newsletter_page{
   margin: 0 auto;
-  width: 65%;
 }
 #newsletter_page label{
   font-size: 1em;
@@ -33,7 +32,7 @@ img{
 
 ![garimpo logo]({{ site.baseurl }}/img/garimpo.png)
 
-<div id="newsletter_page" style="margin-top: 30px;">
+<div id="newsletter_page" style="margin-top: 30px;max-width: 65%">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>

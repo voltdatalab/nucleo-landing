@@ -11,7 +11,6 @@ icone: '<i class="far fa-envelope fa-lg"></i>'
 <style>
 #newsletter_page{
   margin: 0 auto;
-  width: 65%;
 }
 #newsletter_page label{
   font-size: 1em;
@@ -36,7 +35,7 @@ Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a 
 
 É de graça.
 
-<div id="newsletter_page">
+<div id="newsletter_page" style="max-width: 65%">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
   <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
