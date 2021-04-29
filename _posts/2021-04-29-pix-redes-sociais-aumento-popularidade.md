@@ -70,7 +70,7 @@ Na semana passada, uma conta de apostas [anunciou ](https://twitter.com/luckybet
 
 <li><strong>393 milhões</strong> de transações em março de 2021;</li>
 
-<li><strong>R$238,2 milhões</strong> em transações feitas por PIX;</li>
+<li><strong>R$238,2 milhões</strong> em transações feitas por PIX em março de 2021.</li>
 
 </ul>
 
