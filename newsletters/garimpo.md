@@ -24,8 +24,13 @@ img{
   max-width: 100%;
 }
 
-.feed-item-title{
+.headline{
     font-weight: 400;
+}
+
+.feedburnerFeedBlock ul > li{
+  padding-bottom: 7px !important;
+  margin-left: -12px
 }
 
 </style>
@@ -76,7 +81,7 @@ img{
 <br>
 <p>Veja as últimas edições:</p>
 
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=7&showtitle=false&type=js"></script>
+<script src="http://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/garimpo-campaignsrss"></a><br/>Powered by FeedBurner</p> </noscript>
 </div>
 </div>
 </div>

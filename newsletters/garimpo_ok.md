@@ -28,12 +28,13 @@ compartilhe: 'https://nucleo.jor.br/newsletters/garimpo'
   margin: 30px auto;
 }
 
-.feed-item-title{
+.headline{
     font-weight: 400;
 }
 
-.feed-item-title:before{
-  content: "\2709 \00A0";
+.feedburnerFeedBlock ul > li{
+  padding-bottom: 7px !important;
+  margin-left: -12px
 }
 </style>
 
@@ -59,7 +60,7 @@ Se você quiser mergulhar mais ainda na internet e consumir com a gente os links
 
 #### Últimas edições
 
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fsendy.voltdata.info%2Fcampaigns-rss%3Fa%3Ded0OKlEpN7gsNoXsgE3JPzAYdkACW1%26i%3D3&detail=-1&limit=10&showtitle=false&type=js"></script>
+<script src="http://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/garimpo-campaignsrss"></a><br/>Powered by FeedBurner</p> </noscript>
 
 ---
 
