@@ -4,16 +4,16 @@ layout: curtas
 tipo: curtas
 title: "Butantan se recusa fornecer detalhes sobre contrato público para gestão de redes"
 titulo_redes: "Butantan esconde detalhes sobre contrato público para gestão de redes"
-subtitle: 'Desde março, buscamos - sem sucesso - informações sobre um contrato com dinheiro público entre instituto e agência'
-subtitle_redes: 'Desde março, buscamos informações sobre contrato com dinheiro público'
-excerpt: ''
+subtitle: 'Desde março, buscamos - sem sucesso - informações sobre um contrato com agência'
+subtitle_redes: 'Desde março, buscamos - sem sucesso - informações sobre um contrato com agência'
+excerpt: 'Desde março, buscamos - sem sucesso - informações sobre um contrato com agência'
 date: 04/05/2021 15:02
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Laís Martins"
-como_fizemos: "O Núcleo tem buscado informações via LAI sobre contrato do Butantan que utiliza dinheiro público."
+como_fizemos: "O Núcleo tem buscado informações via LAI sobre contrato do Butantan com empresa que faz gestão de redes sociais."
 background: 'curtas/redes_padroes/outras.png'
-atualizacao: "Texto atualizado em 6.mai.2021 para incluir comunicado do Instituto Butantan."
+atualizacao: "Texto atualizado em 6.mai.2021 às 13h02 para incluir comunicado do Instituto Butantan. Por a Fundação Butantan ser privada, tiramos referências a 'dinheiro público' até termos mais clareza da fonte dos recursos -- embora a maior parte venha de vendas ao Ministério da Saúde."
 categories:
   - "curtas"
 tags:
