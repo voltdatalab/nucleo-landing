@@ -37,7 +37,7 @@ O **Núcleo** foi atrás de quem tem utilizado essas *lives* para entender o que
 ###### É importante porque...
 
 - *Mostra novas formas de trabalho online motivadas pela pandemia*
-- *Redes sociais, cada vez mais, passar a fazer parte da rotina profissional das pessoas*
+- *Redes sociais, cada vez mais, passam a fazer parte da rotina profissional das pessoas*
 - *Novos negócios e relacionamentos podem surgir de corworkings virtuais*
 
 ---
