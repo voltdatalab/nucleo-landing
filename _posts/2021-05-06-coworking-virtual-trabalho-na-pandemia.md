@@ -74,7 +74,7 @@ Ser observada não é uma questão para Mikannn. Ainda assim, ela opta por desli
     video: "993720533",
     width: "100%",
     height: 410,
-    autoplay: "FALSE"
+    autoplay: false
   });
 </script>
 
