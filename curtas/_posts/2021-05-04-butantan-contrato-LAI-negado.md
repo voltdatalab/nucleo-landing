@@ -13,6 +13,7 @@ edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Laís Martins"
 como_fizemos: "O Núcleo tem buscado informações via LAI sobre contrato do Butantan que utiliza dinheiro público."
 background: 'curtas/redes_padroes/outras.png'
+atualizacao: "Texto atualizado em 6.mai.2021 para incluir comunicado do Instituto Butantan."
 categories:
   - "curtas"
 tags:
@@ -21,7 +22,11 @@ tags:
 
 ---
 
-O Instituto Butantan, ligado à Secretaria de Saúde do governo do Estado de São Paulo, tem recorrentemente se recusado a responder um pedido, feito pelo **Núcleo** via Lei de Acesso à Informação, em busca detalhes de um contrato para gestão de redes sociais que utiliza recursos públicos.
+O Instituto Butantan, ligado à Secretaria de Saúde do governo do Estado de São Paulo, tem recorrentemente se recusado a responder um pedido, feito pelo **Núcleo** via Lei de Acesso à Informação (LAI), em busca detalhes de um contrato para gestão de redes sociais.
+
+Segundo a equipe jurídica do instituto, o motivo é que o contrato foi feito junto à Fundação Butantan, uma entidade privada que tem "como objetivo auxiliar o Instituto Butantan" e que não recebe recursos do governo do Estado de São Paulo. Segundo o [site da fundação](https://fundacaobutantan.org.br/transparencia/informacoes-complementares), sua principal fonte de recursos é a venda de vacinas e soros para o Ministério da Saúde.
+
+Sua característica privada, dessa forma, não tornaria a fundação sujeita à LAI, segundo o departamento jurídico da organização.
 
 Se você acompanha o **Núcleo**, já deve ter visto [a matéria](https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital) que publicamos no fim de março sobre a estratégia de comunicação digital do Butantan. Nela, analisamos publicações nos perfis do instituto no Twitter e no Facebook, e mostramos que houve uma virada de chave na estratégia da entidade a partir de dezembro passado.
 
@@ -55,7 +60,16 @@ Recorremos à 2ª instância, mas o prazo já venceu e não houve resposta.
 
 Entramos em contato com a Ouvidoria-Geral do Estado de São Paulo e aguardamos resposta. O MP de Contas de São Paulo, por meio da assessoria, informou que não investigou o contrato em questão.
 
-Enviamos também as mesmas perguntas feitas no pedido de LAI ao Instituto Butantan por meio da assessoria de comunicação, mas não houve resposta até o fechamento deste texto.
+Enviamos também as mesmas perguntas feitas no pedido de LAI ao Instituto Butantan por meio da assessoria de comunicação, se a reposta foi enviada em 6.mai.2021.
+
+Segue na íntegra:
+
+*A Fundação Butantan é uma entidade privada, criada em 1989 por Pesquisadores Científicos. Tem como objetivo auxiliar o Instituto Butantan. Não recebe qualquer recurso do Estado de São Paulo, não se encontrando, portanto, submetida à Lei de Acesso à Informação.*
+
+*Inclusive, sobre as perguntas, especialmente aquela que questiona se "O governo do Estado de São Paulo já teve contratos firmados com esta empresa no passado?", como se vê pela própria pergunta, deve ser dirigida ao Governo do Estado, pois a Fundação não pertence à Administração Direta, ou Indireta e desconhece por completo o tema.*
+
+*Atenciosamente,
+Equipe jurídica do Instituto Butantan*
 
 ---
 
