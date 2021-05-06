@@ -65,7 +65,8 @@ Os recursos serão creditados na conta do Volt Data Lab, empresa por trás do **
 - Via PIX, rápido e fácil <br>
 - Scaneie o QR Code<br>
 - Envie a quantia que quiser <br>
-- Ou copie a chave <u>ALEATÓRIA</u>
+- Ou copie a chave <u>ALEATÓRIA</u><br>
+- Chave CNPJ: 37307891000133
 
 <br><br>
 
