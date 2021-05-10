@@ -2,11 +2,16 @@
   margin-bottom: 5px;
   margin-top: 10px;
   background-attachment: scroll;
-  background-repeat: no-repeat;
   background-position: center;
   position: relative;
-  background-size: cover;
-  height: 800px
+  /*
+  background-repeat: no-repeat;
+  height: 850px;
+  background-size: cover; */
+  height: 600px;
+  background-size: contain;
+  background-repeat: repeat;
+
 }
 
 .masthead-curta{
