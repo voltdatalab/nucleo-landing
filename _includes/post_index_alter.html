@@ -8,6 +8,7 @@
 {% assign top = site.posts | where_exp: "post", "post.tipo != 'curtas'"  %}
 {% assign top = top | where_exp: "post", "post.tipo != 'ideias'"  %}
 {% assign top = top | where_exp: "post", "post.tipo != 'institucional'"  %}
+{% assign top = top | where_exp: "post", "post.tipo != 'republicação'"  %}
 {% assign top = top | where_exp: "post", "post.tipo != 'draft'"  %}
 {% for post in top limit:1 offset:0 %}
 {% unless post.tipo contains 'draft' %}
