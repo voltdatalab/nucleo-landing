@@ -81,7 +81,7 @@ img{
 <br>
 <p>Veja as últimas edições:</p>
 
-<script src="http://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/garimpo-campaignsrss"></a><br/>Powered by FeedBurner</p> </noscript>
+<script src="https://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/garimpo-campaignsrss"></a></noscript>
 </div>
 </div>
 </div>
