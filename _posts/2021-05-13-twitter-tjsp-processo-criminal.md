@@ -32,7 +32,7 @@ tags:
 No dia 31 de maio de 2020, a Avenida Paulista serviu de [palco](https://g1.globo.com/sp/sao-paulo/noticia/2020/05/31/avenida-paulista-tem-ato-e-marcha-contra-o-fascismo-e-a-favor-da-democracia-diz-pm.ghtml) para um confronto entre apoiadores do presidente Jair Bolsonaro e torcidas de futebol em um ato pró-democracia.
 
 Ambas as manifestações começaram pacíficas. Por volta das 13h, a confusão começou, [motivada](https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/31/pm-diz-que-bandeiras-neonazistas-foram-estopim-de-tensao-em-ato-na-paulista.htm) pelo uso por alguns bolsonaristas de símbolos associados ao nazismo. Uma hora depois, a Polícia Militar, posicionada entre os dois grupos, disparava gás lacrimogêneo contra os torcedores e recebia pedras em troca.
-No meio disso tudo, uma agência agência do banco Itaú nessa mesma avenida foi depredada e alguns objetos e mobiliários foram furtados.
+No meio disso tudo, uma agência do banco Itaú nessa mesma avenida foi depredada e alguns objetos e mobiliários foram furtados.
 
 Localizada no número 1.948 dessa tradicional avenida de São Paulo, entre a Rua Frei Caneca e a Alameda Ministro Rocha Azevedo, sentido Pinheiros, essa agência é uma das oito que o Itaú possui na mesma via, muitas das quais já foram [alvo](http://g1.globo.com/sao-paulo/noticia/2013/07/apos-protesto-av-paulista-amanhece-com-estabelecimentos-depredados.html) da violência de manifestantes.
 
@@ -115,7 +115,7 @@ O magistrado não curtiu a resposta. Entendendo que o argumento apresentado foi 
 
 Em nota, o Twitter disse que não comenta casos específicos, mas acrescentou que "tem por premissa defender, à luz das regulações locais, a liberdade de expressão e privacidade dos indivíduos envolvidos nas referidas ordens".
 
-[Dados](https://transparency.twitter.com/en/reports/information-requests.html#2020-jan-jun) de janeiro a junho de 2020 mostram que a plataforma teve 140 pedidos por informações por parte de autoridades brasileiras, mas só enviou informações sobre 12% deles. 
+[Dados](https://transparency.twitter.com/en/reports/information-requests.html#2020-jan-jun) de janeiro a junho de 2020 mostram que a plataforma teve 140 pedidos por informações por parte de autoridades brasileiras, mas só enviou informações sobre 12% deles.
 
 ### TEIMOSIA
 
