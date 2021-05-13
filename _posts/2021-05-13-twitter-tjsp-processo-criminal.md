@@ -60,7 +60,7 @@ Essa é a história de um desses processos.
 
 ### DEU B.O.
 
-Em 5 de junho de 2021, um funcionário do Itaú se identificou ao plantão policial como bancário e representante do banco, e registrou boletim de ocorrência em apenas 45 minutos.
+Em 5 de junho de 2020, um funcionário do Itaú se identificou ao plantão policial como bancário e representante do banco, e registrou boletim de ocorrência em apenas 45 minutos.
 
 Três dias antes, ele fizera um primeiro B.O. sobre a depredação da agência e furtos de pertences do banco (por manifestantes pró-democracia e pró-Bolsonaro, diga-se), mas o segundo era diferente: a vítima agora era "a coletividade", ou seja, todo mundo, e os agressores da vez eram tuiteiros.
 
