@@ -16,6 +16,7 @@ edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
 creditos: "Beatriz Montesanti, Rodolfo Almeida, Sérgio Spagnuolo"
 background: 'twitter-files/inquerito_Teaser.png'
+atualizacao: "Texto atualizado em 13.05.2021 às 10h37 para acrescentar posicionamento do Twitter."
 categories:
   - "reportagem"
 tags:
@@ -110,7 +111,11 @@ O Twitter descumpriu essa decisão por entender que não houve apreciação sufi
 
 O magistrado não curtiu a resposta. Entendendo que o argumento apresentado foi infundado, ele elevou a multa para R$50 mil por dia de descumprimento.
 
-"Mais uma vez, como em diversos processos que tramitam neste Juizado Especial Criminal, o Twitter prejudica as investigações policiais, não fornecendo as informações determinadas pelo Poder Judiciário pois entende 'que não houve a devida apreciação da conduta dos quinze usuários envolvidos'", disse o Juiz Luiz Guilherme Angeli Feichtenberger, do Juizado Especial Criminal da Barra Funda
+"Mais uma vez, como em diversos processos que tramitam neste Juizado Especial Criminal, o Twitter prejudica as investigações policiais, não fornecendo as informações determinadas pelo Poder Judiciário pois entende 'que não houve a devida apreciação da conduta dos quinze usuários envolvidos'", disse o Juiz Luiz Guilherme Angeli Feichtenberger, do Juizado Especial Criminal da Barra Funda.
+
+Em nota, o Twitter disse que não comenta casos específicos, mas acrescentou que "tem por premissa defender, à luz das regulações locais, a liberdade de expressão e privacidade dos indivíduos envolvidos nas referidas ordens".
+
+[Dados](https://transparency.twitter.com/en/reports/information-requests.html#2020-jan-jun) de janeiro a junho de 2020 mostram que a plataforma teve 140 pedidos por informações por parte de autoridades brasileiras, mas só enviou informações sobre 12% deles. 
 
 ### TEIMOSIA
 
@@ -144,6 +149,14 @@ A ideia para a pauta surgiu a partir do [tuíte](https://twitter.com/outrofobia/
 
 Obtivemos por meio de uma fonte envolvida no inquérito uma cópia do processo, que está correndo no Tribunal de Justiça de São Paulo. Como o inquérito ainda está aberto, não identificamos a fonte.
 
-Contatado pelo **Núcleo**, o Tribunal de Justiça de São Paulo disse não ter prontamente disponíveis informações sobre outros casos em que o Twitter recebeu ordem judicial para quebrar o sigilo de dados de usuários. Enviamos perguntas também para o Twitter.
+Contatado pelo **Núcleo**, o Tribunal de Justiça de São Paulo disse não ter prontamente disponíveis informações sobre outros casos em que o Twitter recebeu ordem judicial para quebrar o sigilo de dados de usuários.
 
 O banco Itaú não foi contatado pela reportagem, por não estar envolvido no processo judicial, apenas no boletim de ocorrência.
+
+Resposta na íntegra do Twitter:
+
+_Não comentamos casos específicos, mas o Twitter atende a ordens judiciais que requerem quebra do sigilo de contas quando estão presentes os requisitos legais cabíveis para tal medida. Essa postura decorre do compromisso com as leis locais e o respeito às ordens e requisições que nos são destinadas._
+
+_Em linha com a conduta adotada em qualquer requisição de informações referentes às pessoas que usam o seu serviço, o Twitter tem por premissa defender, à luz das regulações locais, a liberdade de expressão e privacidade dos indivíduos envolvidos nas referidas ordens._
+
+_Diante de seu compromisso com a transparência, o Twitter divulga periodicamente as requisições legais recebidas ao redor do mundo. O relatório mais recente está disponível [neste link](https://transparency.twitter.com/en/reports/information-requests.html#2020-jan-jun)._
