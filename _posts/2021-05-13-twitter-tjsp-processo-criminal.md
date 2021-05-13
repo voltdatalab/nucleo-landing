@@ -8,7 +8,7 @@ titulo_redes: "A disputa entre Twitter e Justiça de SP pelas vidraças do Itaú
 subtitle: "Um processo criminal contra 15 perfis de Twitter nos tribunais paulistas pode abrir precedente perigoso para liberdade de expressão nas redes sociais"
 subtitle_redes: "Um processo criminal contra 15 perfis pode abrir precedente perigoso para liberdade de expressão"
 excerpt: 'Um processo criminal contra 15 perfis pode abrir precedente perigoso para liberdade de expressão'
-date: "12/05/2021 09:30"
+date: "13/05/2021 10:01"
 reportagem: Laís Martins
 arte: Rodolfo Almeida
 colaboracao: Renata Hirota
