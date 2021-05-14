@@ -1,0 +1,61 @@
+I"<p>Um documento de acesso restrito contendo diversos dados pessoais sensíveis de aparentemente todos os generais do Exército ficou exposto em uma rede externa durante vários dias, com a possibilidade de qualquer um acessá-lo.</p>
+
+<p>O livrete com as informações estava hospedado no serviço online europeu <a href="https://pt.calameo.com/">Calameo</a>, especializado em publicações digitais para ampla divulgação. Após contato do <strong>Núcleo</strong>, no mesmo dia o link aberto para o livreto deixou de estar ativo.</p>
+
+<p>O <strong>Núcleo</strong> não vai divulgar nenhum dado pessoal e aguardou o Exército tirar o link do ar para publicar esta nota. A informação de que esses dados estavam expostos foi repassada por uma fonte que não quis se identificar.</p>
+
+<p>Entre os dados expostos constavam:</p>
+
+<ul>
+  <li>
+    <p>telefone e email pessoais</p>
+  </li>
+  <li>
+    <p>endereço particular</p>
+  </li>
+  <li>
+    <p>nome da esposa</p>
+  </li>
+  <li>
+    <p>nome de auxiliares</p>
+  </li>
+</ul>
+
+<p>Contatado, o Exército informou somente que o livrete digital exposto já era disponibilizado aos Oficiais-Generais antes da pandemia, e que possui normas e realiza orientações para segurança de tecnologia da informação e comunicação.</p>
+
+<p>Mas as informações nele contidas não eram públicas. Inclusive, na capa consta em vermelho que seu acesso é “restrito” e uma nota interna indica que qualquer cópia impressa do livreto deve ser destruída e cópias digitais precisam ser permanentemente removidas.</p>
+
+<p><img src="/img/curtas/graficos/capa_livrete_exercito.png" alt="imagem da capa do livrete com dados de generais do Exército" />
+<br /></p>
+<figcaption>Capa do livrete que indica que as informações são pessoais e de acesso restrito</figcaption>
+
+<p><img src="/img/curtas/graficos/nota_livrete_exercito.png" alt="imagem de nota interna do livrete com dados de generais do Exército" />
+<br /></p>
+<figcaption>Imagem interna de página do livrete mostrando as indicações de cuidado com a manipulação dos dados e parte dos dados criptográficos do usuário</figcaption>
+
+<p>O livrete exposto é gerado a partir de um sistema próprio do Exército Brasileiro disponível apenas para Oficiais-Generais e seus assessores. O arquivo gerado contém em todas as páginas, exceto a capa, dados criptografados do usuário que fez o download. O arquivo presente no link acessado pelo <strong>Núcleo</strong> tem data de 03 de maio de 2021.</p>
+
+<p>Abaixo, resposta na íntegra do Exército ao <strong>Núcleo</strong>:</p>
+
+<p><em>Atendendo à sua solicitação formulada por meio de mensagem eletrônica, de
+12 de maio de 2021, o Centro de Comunicação Social do Exército informa que o
+referido material, na versão digital, é anterior à pandemia.</em></p>
+
+<p><em>Informamos, ainda, que a Força possui normas e realiza orientações para
+segurança de tecnologia da informação e comunicação.</em></p>
+
+<hr />
+
+<h4 id="é-importante-porque">É importante porque…</h4>
+
+<ul>
+  <li>
+    <p><em>Mostra fragilidade de proteção de dados pessoais em redes externas mesmo por forças de segurança.</em></p>
+  </li>
+  <li>
+    <p><em>Mesmo uma força de segurança como o Exército não protege propriamente suas comunicações e dados.</em></p>
+  </li>
+</ul>
+
+<hr />
+:ET

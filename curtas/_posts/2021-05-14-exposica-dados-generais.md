@@ -28,7 +28,7 @@ O livrete com as informações estava hospedado no serviço online europeu [Cala
 
 O **Núcleo** não vai divulgar nenhum dado pessoal e aguardou o Exército tirar o link do ar para publicar esta nota. A informação de que esses dados estavam expostos foi repassada por uma fonte que não quis se identificar.
 
-Entre os dados constavam, entre outros dados:
+Entre os dados expostos constavam:
 
 - telefone e email pessoais
 
