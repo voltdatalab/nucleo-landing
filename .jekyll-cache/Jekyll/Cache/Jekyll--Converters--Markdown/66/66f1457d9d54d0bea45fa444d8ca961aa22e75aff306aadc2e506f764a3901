@@ -1,0 +1,87 @@
+I"m<div class="container" style="padding: 0 5% 0px;max-width:850px">
+          <div class="row">
+
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+
+
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/ideias/terapia-robos-01.png') rgba(0, 0, 0, 0.4);">
+              <a href="/ideias/2021-03-29-terapia-com-um-bot">
+                <h3 class="page-ttt">Como é fazer terapia com um bot?</h3></a>
+                <br />
+                <span class="arquivado" style="color:#fff">
+
+                  <i class="far fa-calendar-alt"></i> 29/03/2021 &middot; Arquivado em <a href="ideias"><span class="spancateg"> ideias</span></a>
+
+                </span><br /><br />
+
+              </div>
+              
+              
+              
+              
+            </div>
+      </div>
+
+<p><br /><br /><br /></p>
+
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>
+
+:ET
