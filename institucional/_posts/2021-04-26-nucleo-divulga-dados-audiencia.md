@@ -11,8 +11,7 @@ excerpt: 'Agora é possível ver nossos dados de acessos, usuários e pageviews 
 date: "27/04/2021 09:38"
 texto: Jade Drummond
 edicao:  Sérgio Spagnuolo
-creditos:  Sérgio Spagnuolo, Jade Drummond, Rodolfo Almeida
-credito_img: "Rodolfo Almeida"
+creditos:  Sérgio Spagnuolo, Jade Drummond
 background: 'audiencia.png'
 atualizacao: "Acrescenta informação às 11h16 de 27.abr.2021 de que a Folha de S.Paulo mantém no rodapé de seu site informações mensais sobre visitantes únicos e pageviews. Atualiza às 12h36 de 27.abr.2021 com dados do Manual do Usuário."
 categories:

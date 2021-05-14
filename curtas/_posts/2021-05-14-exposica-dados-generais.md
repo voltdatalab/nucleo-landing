@@ -50,7 +50,7 @@ Mas as informações nele contidas não eram públicas. Inclusive, na capa const
 <br>
 <figcaption>Imagem interna de página do livrete mostrando as indicações de cuidado com a manipulação dos dados e parte dos dados criptográficos do usuário</figcaption>
 
-O livrete exposto é gerado a partir de um sistema próprio do Exército Brasileiro disponível apenas para Oficiais-Generais e seus assessores. O arquivo gerado contém em todas as páginas, exceto a capa, dados criptografados do usuário que fez o download. O arquivo presente no link acessado pelo Núcleo tem data de 03 de maio de 2021.
+O livrete exposto é gerado a partir de um sistema próprio do Exército Brasileiro disponível apenas para Oficiais-Generais e seus assessores. O arquivo gerado contém em todas as páginas, exceto a capa, dados criptografados do usuário que fez o download. O arquivo presente no link acessado pelo **Núcleo** tem data de 03 de maio de 2021.
 
 Abaixo, resposta na íntegra do Exército ao **Núcleo**:
 
