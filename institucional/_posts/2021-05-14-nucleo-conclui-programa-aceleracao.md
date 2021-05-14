@@ -27,7 +27,7 @@ Na última semana, o **Núcleo** finalizou a participação na primeira edição
 
 Além de todo o aprendizado, o **Núcleo** recebeu um apoio financeiro de USD20.000, que foi investido na equipe e na criação de novos produtos jornalísticos. Os principais objetivos eram fortalecer o projeto e desenvolver um modelo de negócios sustentável.
 
-O programa foi desenvolvido pelo Google, em parceria com o Insper e a consultoria Ecchos. Ao todo, 10 startups brasileiras de jornalismo fizeram parte da primeira turma do GNI Startup Lab no país. Além do **Núcleo**, participaram a [Agência BORI](https://abori.com.br/), [Agência Tatu](https://www.agenciatatu.com.br/), [Alma Preta](https://almapreta.com/), [AzMina](https://azmina.com.br/), [Fervura](https://www.fervura.net/), [Galápagos](https://www.galapagosnewsmaking.com.br/), [MyNews](https://canalmynews.com.br/), [Ponte Jornalismo](https://ponte.org/) e [São Paulo para Crianças](https://saopauloparacriancas.com.br/).
+O programa foi desenvolvido pelo Google, em parceria com o Insper e a consultoria Echos. Ao todo, 10 startups brasileiras de jornalismo fizeram parte da primeira turma do GNI Startup Lab no país. Além do **Núcleo**, participaram a [Agência BORI](https://abori.com.br/), [Agência Tatu](https://www.agenciatatu.com.br/), [Alma Preta](https://almapreta.com/), [AzMina](https://azmina.com.br/), [Fervura](https://www.fervura.net/), [Galápagos](https://www.galapagosnewsmaking.com.br/), [MyNews](https://canalmynews.com.br/), [Ponte Jornalismo](https://ponte.org/) e [São Paulo para Crianças](https://saopauloparacriancas.com.br/).
 
 ### IMPACTO
 
