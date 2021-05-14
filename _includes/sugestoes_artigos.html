@@ -10,6 +10,7 @@
 {% assign posts = posts | where_exp: "post", "post.tipo != 'curtas'"  %}
 <!-- {% assign posts = posts | where_exp: "post", "post.tipo != 'ideias'"  %}-->
 {% assign posts = posts | where_exp: "post", "post.tipo != 'institucional'"  %}
+{% assign posts = posts | where_exp: "post", "post.tipo != 'republicação'"  %}
 {% assign posts = posts | where_exp: "post", "post.tipo != 'draft'"  %}
 {% for post in posts offset:0 limit: 4 %}
 
