@@ -64,7 +64,7 @@ Em 5 de junho de 2020, um funcionário do Itaú se identificou ao plantão polic
 
 Três dias antes, ele fizera um primeiro B.O. sobre a depredação da agência e furtos de pertences do banco (por manifestantes pró-democracia e pró-Bolsonaro, diga-se), mas o segundo era diferente: a vítima agora era "a coletividade", ou seja, todo mundo, e os agressores da vez eram tuiteiros.
 
-Em três breves parágrafos, o B.O. descreve como usuários utilizaram o Twitter para "incitar violência" contra o maior branco do país, numa tentativa de responsabilizar esses perfis, mesmo que sequer estivessem na Avenida Paulista naquele 31 de maio.
+Em três breves parágrafos, o B.O. descreve como usuários utilizaram o Twitter para "incitar violência" contra o maior banco do país, numa tentativa de responsabilizar esses perfis, mesmo que sequer estivessem na Avenida Paulista naquele 31 de maio.
 
 O tuíte "Pois eu acho que o banco Itaú tem que pegar fogo quebrar vidro é muito pouco [sic]" foi mencionado para ilustrar a peça. O funcionário apresentou à delegacia cópia dos posts citados e imagens de câmeras de segurança da invasão à agência.
 
