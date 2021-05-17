@@ -24,11 +24,11 @@ O **Monitor Nuclear** é uma aplicação do **Núcleo Jornalismo** que identific
 
 Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.
 
-Com apenas 14,35 milhões de usuários [^1], o Twitter está longe de representar o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3].
+Com apenas 14,35 milhões de usuários [^1], o Twitter não representa o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3].
 
 A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.
 
-Essa importância é destacada também no estudo Twiplomacy de 2017 [^4]: "_Redes sociais viraram a cara-metade da diplomacia. Passaram de uma consideração posterior para a primeira coisa levada em conta por líderes mundiais e governos em todo o mundo, à medida que audiências recorrem a seus feeds de Twitter em busca das últimas notícias e declarações... As redes sociais fornecem uma plataforma de comunicação incondicional, tornando-se a ferramenta mais poderosa para um comunicador. O Twitter, em particular, tornou-se um barômetro diplomático, uma ferramenta usada para analisar e prever relações internacionais._"
+Para entender mais a importância do Twitter na política e na diplomacia, acesse o estudo Twiplomacy[^4]. Segundo a pesquisa, governos e líderes de 189 países possuíam uma presença oficial na rede social -- quase todos os membros das Nações Unidas.
 
 
 ### METODOLOGIA
@@ -39,24 +39,31 @@ Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ai
 
 #### Escolha dos nomes
 
-Os nomes foram escolhidos tanto pela sua relevância no noticiário político nacional recente quanto pela percepção de que são possíveis pré-candidatos às eleições presidenciais de 2022. A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+Os perfis dos políticos foram baseados em diversas fontes:
 
-Uma medida utilizada para a lista final veio a partir da análise 50 perfis de políticos. Essa análise mostrou que a taxa de engajamento mediana era de 1.133 interações por tweet em 2020. Todos os perfis que não chegaram a esse patamar foram excluídos da lista.
+- [Lista de senadores](https://twitter.com/i/lists/1049263545530142720), via conta oficial do Senado Federal
 
-No entanto, a ideia é identificar e analisar os políticos mais relevantes. Qualquer pessoa pode sugerir um nome para integrar o **Monitor Nuclear**, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
+- [Lista de deputados](https://twitter.com/i/lists/1126190774805258241), via conta oficial da Câmara dos Deputados
 
-Muitos das arrobas selecionadas foram obtidas pela lista [^5] compilada pelo projeto [7c0](https://projeto7c0.com.br/).
+- [Lista de governadores](https://twitter.com/i/lists/1376874024949649411), via Sérgio Spagnuolo (editor do *Núcleo*)
 
+- [Lista de ministros](https://twitter.com/i/lists/1376880814860931082), via Sérgio Spagnuolo (editor do *Núcleo*)
+
+- [Lista com presidente e vice-presidente](https://twitter.com/i/lists/1376883897607335936) via Sérgio Spagnuolo (editor do *Núcleo*)
+
+- [Lista de atores políticos](https://twitter.com/i/lists/1376884601122082821), que contém personagens relevantes na cena política, políticos eleitos que não constam nas outras listas e políticos ou autoridades sem cargos eletivos, com curadoria de Sérgio Spagnuolo (editor do *Núcleo*)
+
+A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+
+Qualquer pessoa pode sugerir um nome para integrar a lista de _atores políticos_, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
 
 #### Dados
 
 Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.
 
-Os dados analisados são obtidos diretamente da API do Twitter[^4], e atualizados a cada seis horas - hora-base de 17h. Os dados já analisados são abertos e podem ser consultados e baixados [neste link](https://uc8f8f2631cacaa97002ad402994.dl.dropboxusercontent.com/cd/0/inline/A3If5uq3_Rcy577SJh3FbWtC54-_84Z3P8BvyydwCbtzNTGxMoi4QCHjAA2gc4IgVyWO0n_esVZPY5SPvJnY2j0uTL7VrRXybnvrCNzxqqthNcCiKJriz2W15NesYKHlCJw/file). O código para extração pode ser encontrado [neste gist](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5).
+Os dados analisados são obtidos diretamente da API do Twitter[^5], e atualizados a cada 20 minutos. O código para extração pode ser encontrado [neste gist](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5). A política de API do Twitter não permite a reprodução integral dos dados.
 
-A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil. Tentar obter publicações mais antigas com dados atualizados, mas a partir do lançamento de maio de 2020) passamos a acumular todos os tweets, agregando todas as entradas. Nosso script roda automaticamente de seis em seis horas, puxando os últimos 50 tweets publicados por cada perfil para atualizar suas contagens.  
-
-O **Monitor** é construído com a linguagem R.
+A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil.
 
 #### Base da análise
 
@@ -80,17 +87,21 @@ Isso nos permite calcular duas métricas fundamentais para nossa análise: a `ta
 
 2. `Tendência de engajamento`: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 15 dias como o _default_, indicando um ciclo noticioso rápido, mas constante.  
 
+3. `Tweets em alta`: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham o maior número de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: Descoberta mostra tweets de usuários que estejam abaixo da mediana do número de seguidores dentre os perfis listados no Science Pulse, e Popularidade mostra tweets de todos os perfis da base de dados.
+
 Em todos os casos, a linha de tendência utiliza [regressão local (LOESS)](http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curto prazo.
+
+#### Fundamentos técnicos
+
+O **Monitor** é construído com a linguagem de programação R, utilizando o pacote `Shiny`. O ETL (processo de captura e organização de dados) é feito a partir de uma instância no Rstudio, e o banco de dados que armazena as informações é `PostgresSQL`.
 
 #### Créditos
 
-O **Monitor Nuclear** foi desenvolvido por [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo).
-
-A estratégia digital é de [Alexandre Orrico](https://twitter.com/alexorrico).
+O **Monitor Nuclear** foi desenvolvido por [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo) e [Lucas Gelape](https://twitter.com/lgelape).
 
 A arte de destaque e o conceito visual dos gráficos são de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
 
-As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](https://twitter.com/renata_mh), [Luiza Bodenmuller](https://twitter.com/lubodenmuller), [Vitor Conceição](https://twitter.com/vitor) e [Lucas Lago](https://twitter.com/lucaslago) foram importantes para a melhoria do projeto.
+As opiniões [Renata Hirota](https://twitter.com/renata_mh), [Luiza Bodenmuller](https://twitter.com/lubodenmuller), [Vitor Conceição](https://twitter.com/vitor) e [Lucas Lago](https://twitter.com/lucaslago) foram importantes para a melhoria do projeto.
 
 #### Referências
 
@@ -100,8 +111,6 @@ As opiniões de [Lucas Gelape](https://twitter.com/lgelape), [Renata Hirota](htt
 
 [^3]: Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: _"O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases."_ - [Episódio #95, Foro de Teresina aos 28m28s](https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/)
 
-[^4]: [Twiplomacy Study 2017](https://twiplomacy.com/blog/twiplomacy-study-2017/)
+[^4]: [Twiplomacy Study 2020](https://twiplomacy.com/blog/twiplomacy-study-2020/)
 
 [^5]: [API DO TWITTER](https://developer.twitter.com/en/docs)
-
-[^6]: [Arquivo .csv](https://github.com/projeto7c0/redes-sociais-politicos/blob/master/redes-sociais-politicos-full.csv) com redes sociais de políticos
