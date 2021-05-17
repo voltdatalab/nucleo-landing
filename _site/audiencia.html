@@ -100,6 +100,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 
+    <script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+   </script>
 </head>
 
 	<body>
@@ -542,12 +547,12 @@ small{
 	font-family: 'Roboto Mono';
 	font-size: 0.6em;
 }
-
+/*
 #chart{
 	margin: 0 auto;
 	height: 730px;
 	border: 1px dashed #999999
-}
+}*/
 
 @media (max-width: 990px){
 				#chart{
