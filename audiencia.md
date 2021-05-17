@@ -1,6 +1,6 @@
 ---
 layout: monitor
-title: 'Dados de audiência do Núcleo Jornalismo'
+title: 'Dados de audiência'
 desc: 'Informações básicas de acessos de usuários, pageviews e outras métricas que analisamos, como parte de nossa política de transparência'
 tagline: APLICAÇÃO
 background: 'audiencia.png'
