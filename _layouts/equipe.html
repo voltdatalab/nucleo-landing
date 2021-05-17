@@ -8,7 +8,7 @@
 </div>
 
 		<!-- índice simples de matérias  -->
-		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
+		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:35px;">
 
 			{% assign posts = site.posts | where_exp: "post", "post.creditos contains page.title" %}
 
@@ -18,51 +18,59 @@
 			</h5>
 								<div class="post-heading">
 									<br />
-									<h1 style="text-transform:uppercase">{{ page.title }}</h1>
-									{% if page.subtitle %}
-									<p>{{ page.subtitle }}</p>
-									{% endif %}
-
-									{% if page.twitter %}
-									<i class="fab fa-twitter "></i> <a class="social" href="https://twitter.com/{{ page.twitter }}" target="_blank"> {{ page.twitter }}</a> <br />
-									{% endif %}
-
-									{% if page.email %}
-									<i class="far fa-envelope"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a>
-									<br />
-									{% endif %}
-
-									{% assign total = posts | size %}
-									{% if total > 1 %}
-									<i class="fas fa-pen fa-sm"></i> <small class="social">{{ total }} publicações</small>
-									{% endif %}
-
-									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
-										{% include counter.html %}
-
-								</div>
-							</div>
-
-							<div class="container" style="max-width: 540px">
+									<div class="row gy-5">
+										<h1 style="text-transform:uppercase;margin-left:13px">{{ page.title }}</h1>
+										<div class="col-sm-9 col-lg-9">
+												{% if page.subtitle %}
+												<p>{{ page.subtitle }}</p>
+												{% endif %}
+										</div>
+											<div class="col-sm-3 col-lg-3">
 
 
+													{% if page.email %}
+													<span class="arquivado"><i class="far fa-envelope"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a></span>
+													<br />
+													{% endif %}
+
+													{% if page.twitter %}
+													<span class="arquivado"><i class="fab fa-twitter"></i> <a class="social" href="https://twitter.com/{{ page.twitter }}" target="_blank"> {{ page.twitter }}</a></span>
+													<br />
+													{% endif %}
+
+													{% if page.linkedin_nome %}
+													<span class="arquivado"><i class="fab fa-linkedin"></i> <a class="social" href="{{ page.linkedin_link }}" target="_blank"> {{ page.linkedin_nome }}</a></span>
+													<br />
+													{% endif %}
+
+													{% assign total = posts | size %}
+													{% if total > 1 %}
+													<i class="fas fa-pen fa-sm"></i> <small class="social">{{ total }} publicações</small>
+													{% endif %}
+												</div>
+									</div>
+									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 3px" />
+									<span style="font-family:'Roboto Mono';font-size:0.8em;margin-bottom:30px">
+									<a href="{{ site.baseurl }}/equipe"><< Voltar para equipe</a>
+									</span>
+									<br /><br />
 									{% if total > 0 %}
-									<h5 class="chapeu" style="margin-left: 25px">
+									<h5 class="chapeu">
 									 <i class="fas fa-layer-group fa-lg"></i> PUBLICAÇÕES RELACIONADAS
 								 </h5>
 								  {% else %} <p>
 										Ainda não há publicações no site associadas a esta pessoa.
 									</p>
 									 {% endif %}
+								</div>
+							</div>
 
-									 {{ content }}
-
-									<div style="padding: 20px 5% 0px;max-width:850px">
+									<div style="margin:0 auto;padding-left:13px;max-width:850px">
 									          <div class="row">
 
 									{% for post in posts %}
 										{% unless post.tipo contains 'draft' %}
-									        <div class="col-sm-6 col-lg-6" style="height:130px">
+									        <div class="col-sm-6 col-lg-6" style="height:80px">
 
 									                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
 									                  <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
@@ -77,15 +85,9 @@
 														{% endunless %}
 									          {% endfor %}
 									                </div>
-									              </div>
 
-									<hr />
-										<p>
-										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
-										{% if page.atualizacao %}	Última atualização desta página em {{ page.atualizacao | date: '%d/%m/%Y' }} {% endif %}
-										</span>
-										</p>
-									</div>
+									              </div>
+																<br />
 
 
 
