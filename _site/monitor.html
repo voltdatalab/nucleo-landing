@@ -525,7 +525,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </script>
 
-
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.1.1/iframeResizer.min.js'></script>
 </div>
 
 <style>
@@ -593,7 +593,7 @@ small{
 							</div>
 
 						<div class="container" style="max-width: 1200px; margin: 0 auto">
-							<iframe id="chart" src="https://nucleo.jor.br/monitor_base.html" frameborder="no" scrolling="no" width="100%" onload="resizeIframe(this)" allowfullscreen></iframe>
+							<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>
 
 							
 
@@ -713,7 +713,38 @@ small{
 										</p>
 									</div>
 
+									<script type="text/javascript">
 
+								function loadIframe() {
+								setTimeout(function(){
+								iFrameResize({
+								// 'bodyOffset' | 'bodyScroll' | 'documentElementOffset' | 'documentElementScroll' | 'max' | 'min' | 'grow' | 'lowestElement' | 'taggedElement'
+								heightCalculationMethod: 'lowestElement',
+								log                     : false,                  // Enable console logging
+								enablePublicMethods     : true,                  // Enable methods within iframe hosted page
+								resizedCallback         : function(messageData){ // Callback fn when resize is received
+
+
+								},
+								messageCallback         : function(messageData){ // Callback fn when message is received
+
+
+								},
+								closedCallback         : function(id){ // Callback fn when iFrame is closed
+
+
+								}
+								});
+
+								}, 300);
+								}
+
+								function formComplete () {
+								alert('iframe form success');
+								}
+
+
+								</script>
 
   <!-- Footer -->
 <footer>

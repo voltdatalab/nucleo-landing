@@ -5,7 +5,7 @@ desc: 'Análises de engajamento político no Twitter'
 tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
 contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação do <strong>Núcleo Jornalismo</strong> que identifica tendências de engajamento em perfis dos políticos mais relevantes no Twitter.'
-iframe: '<iframe id="chart" src="https://nucleo.jor.br/monitor_base.html" frameborder="no" scrolling="no" width="100%" onload="resizeIframe(this)" allowfullscreen></iframe>'
+iframe: '<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
 share_buttons: '<ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
 <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
