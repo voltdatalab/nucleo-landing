@@ -6,25 +6,28 @@ tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
 contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação do <strong>Núcleo Jornalismo</strong> que identifica tendências de engajamento em perfis dos políticos mais relevantes no Twitter.'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
-share_buttons: '<ul class="share-buttons" style="text-align: center">
+share_buttons: '
+<ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
 <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&text=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos:%20https%3A%2F%2Fnucleo.jor.br%2Fmonitor&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
 <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-</ul>'
+</ul>
+<a href="https://nucleo.jor.br/apoie" target="_blank">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i>
+'
 ---
 
 <small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência `Monitor de Twitter, do Núcleo Jornalismo` ou `Monitor Nuclear`, se possível com link para `www.nucleo.jor.br/monitor`.</small>
 
 ### SOBRE O PROJETO
 
-O **Monitor Nuclear** é uma aplicação do **Núcleo Jornalismo** que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.
+O Monitor Nuclear é uma aplicação do **Núcleo** que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.
 
 Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.
 
-Com apenas 14,35 milhões de usuários [^1], o Twitter não representa o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3].
+Com pouco mais de 16 milhões de usuários [^1], o Twitter não representa o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3] e em muitos outros países.
 
 A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.
 
@@ -35,7 +38,7 @@ Para entender mais a importância do Twitter na política e na diplomacia, acess
 
 A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.
 
-Ainda estamos trabalhando em melhorias e novos recursos, e por isso o código ainda não está disponível, mas esperamos abri-lo no futuro.  
+A base do código é [aberta](https://github.com/voltdatalab/science-pulse-public) e tem como referência a ferramenta [Science Pulse](https://sciencepulse.org/), projeto de monitoramento de ciência do [Volt Data Lab](www.voltdata.info), a empresa por trás do **Núcleo**.
 
 #### Escolha dos nomes
 
@@ -97,15 +100,21 @@ O **Monitor** é construído com a linguagem de programação R, utilizando o pa
 
 #### Créditos
 
-O **Monitor Nuclear** foi desenvolvido por [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo) e [Lucas Gelape](https://twitter.com/lgelape).
+- [Sérgio Spagnuolo]({{ site.baseurl }}/equipe/sergiospagnuolo) - idealizador e desenvolvedor
 
-A arte de destaque e o conceito visual dos gráficos são de [Rodolfo Almeida](https://twitter.com/rodolfoalmd).
+- [Lucas Gelape]({{ site.baseurl }}/equipe/lgelape) - desenvolvedor de aplicação
 
-As opiniões [Renata Hirota](https://twitter.com/renata_mh), [Luiza Bodenmuller](https://twitter.com/lubodenmuller), [Vitor Conceição](https://twitter.com/vitor) e [Lucas Lago](https://twitter.com/lucaslago) foram importantes para a melhoria do projeto.
+- [Felippe Mercurio]({{ site.baseurl }}/equipe/ztock) - desenvolvedor de banco de dados
+
+- [Renata Hirota]({{ site.baseurl }}/equipe/renata_mh) - consultoria
+
+- [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico) e [Jade Drummond]({{ site.baseurl }}/equipe/jade_dru) - estratégia digital e comunidades
+
+- [Rodolfo Almeida]({{ site.baseurl }}/equipe/rodolfoalmd) - Arte
 
 #### Referências
 
-[^1]: [Statista](https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/), ref. abril de 2020
+[^1]: [Statista](https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/), ref. fevereiro de 2021
 
 [^2]: [TSE](http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais) - Estatísticas de Eleitorado
 

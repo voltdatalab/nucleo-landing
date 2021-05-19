@@ -1,0 +1,123 @@
+I"	+<p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="language-plaintext highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code> ou <code class="language-plaintext highlighter-rouge">Monitor Nuclear</code>, se possível com link para <code class="language-plaintext highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
+
+<h3 id="sobre-o-projeto">SOBRE O PROJETO</h3>
+
+<p>O Monitor Nuclear é uma aplicação do <strong>Núcleo</strong> que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.</p>
+
+<p>Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.</p>
+
+<p>Com pouco mais de 16 milhões de usuários <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>, o Twitter não representa o eleitorado brasileiro <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup>, mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote">3</a></sup> e em muitos outros países.</p>
+
+<p>A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.</p>
+
+<p>Para entender mais a importância do Twitter na política e na diplomacia, acesse o estudo Twiplomacy<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote">4</a></sup>. Segundo a pesquisa, governos e líderes de 189 países possuíam uma presença oficial na rede social – quase todos os membros das Nações Unidas.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.</p>
+
+<p>A base do código é <a href="https://github.com/voltdatalab/science-pulse-public">aberta</a> e tem como referência a ferramenta <a href="https://sciencepulse.org/">Science Pulse</a>, projeto de monitoramento de ciência do <a href="www.voltdata.info">Volt Data Lab</a>, a empresa por trás do <strong>Núcleo</strong>.</p>
+
+<h4 id="escolha-dos-nomes">Escolha dos nomes</h4>
+
+<p>Os perfis dos políticos foram baseados em diversas fontes:</p>
+
+<ul>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1049263545530142720">Lista de senadores</a>, via conta oficial do Senado Federal</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1126190774805258241">Lista de deputados</a>, via conta oficial da Câmara dos Deputados</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376874024949649411">Lista de governadores</a>, via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376880814860931082">Lista de ministros</a>, via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376883897607335936">Lista com presidente e vice-presidente</a> via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376884601122082821">Lista de atores políticos</a>, que contém personagens relevantes na cena política, políticos eleitos que não constam nas outras listas e políticos ou autoridades sem cargos eletivos, com curadoria de Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+</ul>
+
+<p>A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.</p>
+
+<p>Qualquer pessoa pode sugerir um nome para integrar a lista de <em>atores políticos</em>, através <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform">deste formulário</a>, explicando por que.</p>
+
+<h4 id="dados">Dados</h4>
+
+<p>Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.</p>
+
+<p>Os dados analisados são obtidos diretamente da API do Twitter<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote">5</a></sup>, e atualizados a cada 20 minutos. O código para extração pode ser encontrado <a href="https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5">neste gist</a>. A política de API do Twitter não permite a reprodução integral dos dados.</p>
+
+<p>A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil.</p>
+
+<h4 id="base-da-análise">Base da análise</h4>
+
+<p>A análise é baseada em três variáveis: data de publicação, total de curtidas por tweet e total de retweets por tweet.</p>
+
+<p>Os dados não consideram comentários, por dois motivos:</p>
+
+<p><strong>1.</strong> curtidas e retweets estão limitados a apenas um por perfil, funcionando quase como uma métrica de endosso ao conteúdo. Isso torna mais difícil para <em>bots</em> e perfis falsos inflarem artificialmente tweets originais, ao contrário do que acontece com uma hashtag, por exemplo, à medida que um perfil pode curtir múltiplos tweets com um termo.</p>
+
+<p><strong>2.</strong> comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação provável de endosso, podendo ser críticos, ofensivos, spam, piadas, memes ou <em>tags</em> para pessoas acompanharem o assunto.</p>
+
+<p>Vale notar que a metodologia do <strong>Monitor</strong> é válida para se visualizar engajamento em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
+
+<h4 id="fórmulas">Fórmulas</h4>
+
+<p>O <strong>Monitor</strong> agrega, por dia, o número de tweets disparados entre 00h e 23h59 e soma o total de curtidas e retweets. Essa soma é considerada como o <code class="language-plaintext highlighter-rouge">total de interações</code>.</p>
+
+<p>Isso nos permite calcular duas métricas fundamentais para nossa análise: a <code class="language-plaintext highlighter-rouge">taxa de engajamento</code> e <code class="language-plaintext highlighter-rouge">tendência de engajamento</code>.</p>
+
+<ol>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Taxa de engajamento</code>: é a média simples do total de interações pelo número de tweets disparados em um único dia. Assim, se um perfil tuitou 10 vezes e teve 100 interações, a taxa de engajamento é de 10 interações por tweet. Se outro perfil tuitou uma vez e teve 100 interações, essa taxa é de 100 por tweet.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Tendência de engajamento</code>: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 15 dias como o <em>default</em>, indicando um ciclo noticioso rápido, mas constante.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Tweets em alta</code>: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham o maior número de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: Descoberta mostra tweets de usuários que estejam abaixo da mediana do número de seguidores dentre os perfis listados no Science Pulse, e Popularidade mostra tweets de todos os perfis da base de dados.</p>
+  </li>
+</ol>
+
+<p>Em todos os casos, a linha de tendência utiliza <a href="http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf">regressão local (LOESS)</a>, um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curto prazo.</p>
+
+<h4 id="fundamentos-técnicos">Fundamentos técnicos</h4>
+
+<p>O <strong>Monitor</strong> é construído com a linguagem de programação R, utilizando o pacote <code class="language-plaintext highlighter-rouge">Shiny</code>. O ETL (processo de captura e organização de dados) é feito a partir de uma instância no Rstudio, e o banco de dados que armazena as informações é <code class="language-plaintext highlighter-rouge">PostgresSQL</code>.</p>
+
+<h4 id="créditos">Créditos</h4>
+
+<p>O <strong>Monitor Nuclear</strong> foi desenvolvido por <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a> e <a href="https://twitter.com/lgelape">Lucas Gelape</a>.</p>
+
+<p>A arte de destaque e o conceito visual dos gráficos são de <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a>.</p>
+
+<p>As opiniões <a href="https://twitter.com/renata_mh">Renata Hirota</a>, <a href="https://twitter.com/lubodenmuller">Luiza Bodenmuller</a>, <a href="https://twitter.com/vitor">Vitor Conceição</a> e <a href="https://twitter.com/lucaslago">Lucas Lago</a> foram importantes para a melhoria do projeto.</p>
+
+<h4 id="referências">Referências</h4>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/">Statista</a>, ref. fevereiro de 2021 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p><a href="http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais">TSE</a> - Estatísticas de Eleitorado <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: <em>“O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases.”</em> - <a href="https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/">Episódio #95, Foro de Teresina aos 28m28s</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p><a href="https://twiplomacy.com/blog/twiplomacy-study-2020/">Twiplomacy Study 2020</a> <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p><a href="https://developer.twitter.com/en/docs">API DO TWITTER</a> <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

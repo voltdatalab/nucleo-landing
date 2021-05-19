@@ -5,7 +5,7 @@ desc: 'Informações básicas de acessos de usuários, pageviews e outras métri
 tagline: APLICAÇÃO
 background: 'audiencia.png'
 contexto: 'Informações básicas de acessos de usuários, pageviews e outras métricas que analisamos, como parte de nossa política de transparência.'
-iframe: '<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" scrolling="no" frameborder="0" style="border:0"></iframe>'
+iframe: '<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" onload="loadIframe()" scrolling="no" frameborder="0" style="border:0"></iframe>'
 iframe_mobile: '<iframe id="chart-mobile" width="100%" height="1300" src="https://datastudio.google.com/embed/reporting/2d1e7abc-02f5-4c79-8037-06079464e50b/page/eqHFC" frameborder="0" style="border:0" allowfullscreen></iframe>'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">

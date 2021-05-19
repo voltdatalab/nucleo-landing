@@ -547,12 +547,12 @@ small{
 	font-family: 'Roboto Mono';
 	font-size: 0.6em;
 }
-/*
+
 #chart{
 	margin: 0 auto;
 	height: 730px;
 	border: 1px dashed #999999
-}*/
+}
 
 @media (max-width: 990px){
 				#chart{
@@ -591,7 +591,7 @@ small{
 							</div>
 
 						<div class="container" style="max-width: 1200px; margin: 0 auto">
-							<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" scrolling="no" frameborder="0" style="border:0"></iframe>
+							<iframe id="chart" width="100%" height="375" src="https://datastudio.google.com/embed/reporting/5111c7d8-f348-44ae-90fc-def6dfdcaf15/page/eqHFC" onload="loadIframe()" scrolling="no" frameborder="0" style="border:0"></iframe>
 
 							
 							<iframe id="chart-mobile" width="100%" height="1300" src="https://datastudio.google.com/embed/reporting/2d1e7abc-02f5-4c79-8037-06079464e50b/page/eqHFC" frameborder="0" style="border:0" allowfullscreen></iframe>
