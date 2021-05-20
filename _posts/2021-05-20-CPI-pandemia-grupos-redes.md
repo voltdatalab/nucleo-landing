@@ -8,7 +8,7 @@ titulo_redes: "Por dentro dos grupos que ajudam a oposição na CPI da Pandemia"
 subtitle: "Organizados no Telegram, no Discord e no Twitter, voluntários arquivam, organizam e disponibilizam evidências sobre depoentes para compartilhar com senadores em tempo real"
 subtitle_redes: "Organizados no Telegram e no Discord e ativos no Twitter, voluntários municiam senadores em tempo real"
 excerpt: 'Organizados no Telegram e no Discord e ativos no Twitter, voluntários arquivam, organizam e disponibilizam evidências sobre depoentes para compartilhar com senadores em tempo real'
-date: "19/05/2021 06:01"
+date: "20/05/2021 05:01"
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo e Juliene Moretti
 credito_img: "Edilson Rodrigues/Agência Senado | Intervenção de Rodolfo Almeida"
