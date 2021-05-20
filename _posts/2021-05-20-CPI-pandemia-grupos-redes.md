@@ -14,6 +14,7 @@ edicao: Sérgio Spagnuolo e Juliene Moretti
 credito_img: "Edilson Rodrigues/Agência Senado | Intervenção de Rodolfo Almeida"
 creditos: "Lais Martins, Sérgio Spagnuolo, Juliene Moretti"
 background: 'outros/cpi-pandemia_Teaser.png'
+atualizacao: "Texto atualizando às 10h08 para esclarecer que o perfil 'Desmentindo Bolsonaro' vai além do Telegram, presente também em outras plataformas."
 categories:
   - "reportagem"
 tags:
@@ -126,7 +127,7 @@ Os perfis que conversaram com o **Núcleo** concordam que, por vezes, o formato 
 
 "Quando a gente pega o formato jornalístico tradicional e transmuta, uma thread engraçadinha, faz um card mais bobão, a gente consegue levar a relevância da CPI pra uma galera que talvez nem fosse dar tanta importância assim. Eu acho que é fundamental nesse momento que a gente tá vivendo que é vida ou morte literalmente que todos os olhos estejam atentos a todos os movimentos que rolem ali", disse o admin do Jairme.
 
-Além deste grupo do Telegram que reúne os perfis entrevistados pelo **Núcleo**, há outros voluntários que trabalham para gerar conteúdo a partir da CPI, como curtos vídeos dos depoimentos que podem ser compartilhados pelo WhatsApp. Um deles é o canal de Telegram [Desmentindo Bolsonaro](https://t.me/desmentindobozo), que compartilha trechos dos depoimentos.
+Além deste grupo do Telegram que reúne os perfis entrevistados pelo **Núcleo**, há outros voluntários que trabalham para gerar conteúdo a partir da CPI, como curtos vídeos dos depoimentos que podem ser compartilhados pelo WhatsApp. Um deles é o perfil [Desmentindo Bolsonaro](https://t.me/desmentindobozo), que compartilha trechos dos depoimentos. Além de canal de Telegram, também está no [Twitter](https://twitter.com/desmentindobozo), Youtube e Instagram para, como diz o próprio nome, desmentir declarações e contradições do presidente e de outras autoridades.
 
 "É aí que começa, que a gente consegue chegar a outros lugares, porque não adiantaria nada o senador Randolfe dando show na CPI se isso não chega para a população. Não vira um acontecimento", disse Orlando Calheiros.
 
