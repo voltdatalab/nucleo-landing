@@ -64,7 +64,7 @@ Qualquer pessoa pode sugerir um nome para integrar a lista de _atores políticos
 
 Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.
 
-Os dados analisados são obtidos diretamente da API do Twitter[^5], e atualizados a cada 20 minutos. O código para extração pode ser encontrado [neste gist](https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5). A política de API do Twitter não permite a reprodução integral dos dados.
+Os dados analisados são obtidos diretamente da API do Twitter[^5], e atualizados a cada 20 minutos. O código para extração pode ser encontrado [neste gist](https://gist.github.com/sergiospagnuolo/16f59265c79f26a95959cd3c9b279f99). A política de API do Twitter não permite a reprodução integral dos dados.
 
 A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil.
 
