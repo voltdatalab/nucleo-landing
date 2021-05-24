@@ -139,6 +139,8 @@ Para entender essa migração da direita para o Telegram, o **Núcleo** analisou
 
 Esse grupos, apenas uma pequena amostra da presença da direita por lá, foram escolhidos por serem de políticos ou comunicadores conhecidos, assim como pelo volume de inscritos.
 
+[Aos Fatos](https://www.aosfatos.org/noticias/pressionados-por-redes-sociais-bolsonaristas-levam-desinformacao-ao-telegram-e-quintuplicam-audiencia-no-app-em-um-mes/) e [Manual do Usuário](https://manualdousuario.net/telegram-desinformacao/) já publicaram matérias indicando essa movimentação em torno do Telegram no Brasil.
+
 <img src="{{ site.baseurl }}/img/line_break.png" width="100%">
 
 ### ANÁLISE DO NÚCLEO

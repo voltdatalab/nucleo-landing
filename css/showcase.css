@@ -202,7 +202,7 @@ float:right;
 margin-top:10%;
 pointer-events:none;
 --delay: 0s;
-animation: arrows 4s var(--delay) infinite ease-in;
+/*animation: arrows 4s var(--delay) infinite ease-in;*/
 }
 
 @keyframes arrows {
@@ -415,7 +415,7 @@ width:95%;
        height: 100%;
        background-size:cover;
        transform: translateX( 700px );
-       background-image: url("https://i.ibb.co/qDfqrrK/04.webp");
+
        background-repeat:no-repeat;
        animation: opaqTransition 28s cubic-bezier(0, 0, 0, 0.97) infinite;
        }
@@ -423,21 +423,21 @@ width:95%;
 
       .slick .card_part.card_part-two {
        z-index: 6;
-       background-image: url("https://i.ibb.co/qDfqrrK/04.webp");
+       background-image: url("{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png");
        animation-delay: 7s;
        background-repeat:no-repeat;
       }
 
       .slick .card_part.card_part-three {
        z-index: 5;
-       background-image: url("https://i.ibb.co/qDfqrrK/04.webp");
+       background-image: url("{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png");
        animation-delay: 14s;
        background-repeat:no-repeat;
        }
 
       .slick .card_part.card_part-four {
        z-index: 4;
-       background-image: url("https://i.ibb.co/qDfqrrK/04.webp");
+       background-image: url("{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png");
        animation-delay: 21s;
        background-repeat:no-repeat;
        }
