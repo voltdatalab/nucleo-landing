@@ -7,6 +7,8 @@ background: 'header-garimpo.png'
 link: ''
 subTitle: ''
 icone: '<i class="far fa-envelope fa-lg"></i>'
+retorno_link: newsletters
+retorno_nome: Newsletters
 ---
 
 <style>

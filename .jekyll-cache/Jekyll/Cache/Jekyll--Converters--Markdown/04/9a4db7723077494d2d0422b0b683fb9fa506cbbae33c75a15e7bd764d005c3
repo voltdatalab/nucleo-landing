@@ -1,0 +1,81 @@
+I"?<style>
+#newsletter_page{
+  margin: 0 auto;
+}
+#newsletter_page label{
+  font-size: 1em;
+}
+</style>
+
+<p>O <strong>Núcleo</strong> quer chegar a seus leitores e leitoras onde quer que eles estejam, seja pelo nosso canal no <a href="https://t.me/nucleojor">Telegram</a>, seja pelas redes sociais ou por outras mídias.</p>
+
+<p>Email é uma das formas mais simples e acessíveis, e queremos levar apenas o essencial (novidades que publicamos ou anúncios), sem <em>spam</em>, sem forçar a barra com um monte de emails.</p>
+
+<hr />
+
+<h2 id="garimpo"><a href="/newsletters/garimpo">GARIMPO</a></h2>
+
+<p>O <strong>Garimpo</strong> é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais – do Twitter ao TikTok, do Facebook ao ClubHouse. <a href="/newsletters/garimpo">Saiba mais</a>.</p>
+
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+<br />
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg" />
+  <input type="hidden" name="subform" value="yes" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER" />
+  </div>
+
+</form>
+</div>
+
+<hr />
+
+<h2 id="matéria-da-semana"><a href="/newsletters/semanal">MATÉRIA DA SEMANA</a></h2>
+
+<p>Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.</p>
+
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+<br />
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ" />
+  <input type="hidden" name="subform" value="yes" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER" />
+  </div>
+
+</form>
+</div>
+
+<hr />
+
+<p><small>O uso de seus dados é regido pelo nossa <a href="/privacidade">política de privacidade</a>.</small></p>
+
+<p><small>Veja abaixo os principais pontos cobertos por essa política:</small></p>
+
+<ul>
+  <li>
+    <p><small>Caso você escolha receber nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small></p>
+  </li>
+  <li>
+    <p><small>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</small></p>
+  </li>
+  <li>
+    <p><small>Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;</small></p>
+  </li>
+  <li>
+    <p><small>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab. Você será avisado disso;</small></p>
+  </li>
+  <li>
+    <p><small>Fazemos um compromisso de tratar sua informação com zelo.</small></p>
+  </li>
+</ul>
+:ET

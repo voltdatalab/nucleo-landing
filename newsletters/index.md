@@ -22,7 +22,34 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 <hr>
 
-## GARIMPO
+## [Polígono]({{ site.baseurl }}/newsletters/poligono)
+
+**Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates sobre ciência que estão acontecendo nas redes sociais, parte do nosso projeto [Science Pulse](www.sciencepulse.org).
+
+A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jornal da USP.
+
+É enviada toda terça-feira, por volta das 10h.
+
+
+<div id="newsletter_page">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+<br/>
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="7C4Hby3cm472FRL3lYo0Hw"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
+  </div>
+
+</form>
+</div>
+
+<hr>
+
+## [GARIMPO]({{ site.baseurl }}/newsletters/garimpo)
 
 O **Garimpo** é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo).
 
@@ -44,7 +71,7 @@ O **Garimpo** é uma news curta, com menos de três minutos de leitura, que cont
 
 <hr>
 
-## MATÉRIA DA SEMANA
+## [MATÉRIA DA SEMANA]({{ site.baseurl }}/newsletters/semanal)
 
 Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
 

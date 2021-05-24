@@ -6,6 +6,8 @@ subtitle: 'Nossa reportagem semanal direto na sua caixa de email'
 link: ''
 subTitle: ''
 icone: '<i class="far fa-envelope fa-lg"></i>'
+retorno_link: newsletters
+retorno_nome: Newsletters
 ---
 
 <style>
