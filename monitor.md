@@ -4,7 +4,7 @@ title: 'Monitor Nuclear'
 desc: 'Análises de engajamento político no Twitter'
 tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
-contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação do <strong>Núcleo Jornalismo</strong> que identifica tendências de engajamento em perfis dos políticos mais relevantes no Twitter.'
+contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação de apresenta tendências e análises sobre perfis dos políticos mais relevantes no Twitter.'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">

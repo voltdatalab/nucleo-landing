@@ -1,0 +1,86 @@
+I"<div class="container" style="padding: 0 5% 0px;max-width:850px">
+          <div class="row">
+          
+          
+
+          
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/outros/cpi-pandemia_Teaser.png') rgba(0, 0, 0, 0.4);">
+              <a href="/reportagem/2021-05-20-CPI-pandemia-grupos-redes">
+                <h3 class="page-ttt">Por dentro dos grupos que ajudam a oposição na CPI da Pandemia</h3></a>
+                <br />
+                <span class="arquivado" style="color:#fff">
+
+                  <i class="far fa-calendar-alt"></i> 20/05/2021 &middot; Arquivado em <a href="reportagem"><span class="spancateg"> reportagem</span></a>
+
+                </span><br /><br />
+
+              </div>
+
+              
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/monitor_destaque1.jpeg') rgba(0, 0, 0, 0.4);">
+              <a href="/institucional/2021-05-19-nova-ferramenta-twitter-politicos">
+                <h3 class="page-ttt">Núcleo lança ferramenta de monitoramento político no Twitter</h3></a>
+                <br />
+                <span class="arquivado" style="color:#fff">
+
+                  <i class="far fa-calendar-alt"></i> 19/05/2021 &middot; Arquivado em <a href="institucional"><span class="spancateg"> institucional</span></a>
+
+                </span><br /><br />
+
+              </div>
+
+              
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/nucleo-geral-fit.png') rgba(0, 0, 0, 0.4);">
+              <a href="/institucional/2021-05-14-nucleo-conclui-programa-aceleracao">
+                <h3 class="page-ttt">Núcleo conclui programa de aceleração do Google</h3></a>
+                <br />
+                <span class="arquivado" style="color:#fff">
+
+                  <i class="far fa-calendar-alt"></i> 14/05/2021 &middot; Arquivado em <a href="institucional"><span class="spancateg"> institucional</span></a>
+
+                </span><br /><br />
+
+              </div>
+
+              
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/curtas/redes_padroes/outras.png') rgba(0, 0, 0, 0.4);">
+              <a href="/curtas/2021-05-14-exposica-dados-generais">
+                <h3 class="page-ttt">Dados pessoais de generais do Exército ficaram expostos na internet</h3></a>
+                <br />
+                <span class="arquivado" style="color:#fff">
+
+                  <i class="far fa-calendar-alt"></i> 14/05/2021 &middot; Arquivado em <a href="curtas"><span class="spancateg"> curtas</span></a>
+
+                </span><br /><br />
+
+              </div>
+
+              
+            </div>
+      </div>
+
+<p><br /><br /><br /></p>
+
+<style>
+  .row [class*='col-'] {
+  background-clip: content-box;
+  min-height: 120px;
+  margin-bottom: 10px;
+}
+
+.tall {
+  height: 160px;
+}
+.taller {
+  height: 200px;
+}
+
+</style>
+
+<script type="text/javascript">
+  $('.row').masonry({
+  itemSelector : '.col-xs-6'
+});
+</script>
+
+:ET
