@@ -1,9 +1,9 @@
 ---
 layout: pages
-title: 'Valeu por assinar o Garimpo!'
+title: 'Valeu por assinar o Polígono!'
 desc: 'Agora você faz parte da nossa comunidade'
 subtitle: 'Agora você faz parte da nossa comunidade'
-background: 'header-garimpo.png'
+background: 'poligono-banner.png'
 link: ''
 subTitle: ''
 noindex: ativo
@@ -38,29 +38,26 @@ compartilhe: 'https://nucleo.jor.br/newsletters/poligono'
 }
 </style>
 
-Esperamos que goste do nosso conteúdo e que a newsletter lhe coloque rapidinho por dentro das conversas e tendências de redes sociais.
-
-Se você quiser mergulhar mais ainda na internet e consumir com a gente os links que também NÃO entram na seleção, faça parte, por sua conta e risco, do *LIXO ELETRÔNICO*, nossa comunidade no Telegram!
-
-<a class="garimpo" href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank"><span>ENTRE NO LIXO ELETRÔNICO</span></a>
+Esperamos que goste do nosso conteúdo e que a newsletter lhe coloque rapidinho por dentro das conversas e tendências de ciência redes sociais.
 
 <ul class="share-buttons">
   <li>
     <i class="fas fa-share-alt"></i> COMPARTILHE:
   </li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo&quote=Assine%20a%20newsletter%20Garimpo%2C%20uma%20curadoria%20curtinha%20sobre%20os%20principais%20destaques%20das%20redes%20sociais" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
- <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo&text=Assine%20a%20newsletter%20Garimpo%2C%20uma%20curadoria%20curtinha%20sobre%20os%20principais%20destaques%20das%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
- <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo&title=Assine%20a%20newsletter%20Garimpo%2C%20uma%20curadoria%20curtinha%20sobre%20os%20principais%20destaques%20das%20redes%20sociais" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a></li>
- <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo&title=Assine%20a%20newsletter%20Garimpo%2C%20uma%20curadoria%20curtinha%20sobre%20os%20principais%20destaques%20das%20redes%20sociais&summary=Garimpo%20%C3%A9%20uma%20newsletter%20gratuita%20e%20curtinha%2C%20com%20menos%20de%20tr%C3%AAs%20minutos%20de%20leitura%2C%20que%20cont%C3%A9m%20os%20assuntos%20mais%20populares%20de%20v%C3%A1rias%20redes%20sociais%20%E2%80%93%20do%20Twitter%20ao%20Facebook%2C%20do%20Instagram%20ao%20TikTok%2C%20do%20ClubHouse%20ao%20que%20vier%20depois.&source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
- <li><a href="mailto:?subject=Assine%20a%20newsletter%20Garimpo%2C%20uma%20curadoria%20curtinha%20sobre%20os%20principais%20destaques%20das%20redes%20sociais&body=Garimpo%20%C3%A9%20uma%20newsletter%20gratuita%20e%20curtinha%2C%20com%20menos%20de%20tr%C3%AAs%20minutos%20de%20leitura%2C%20que%20cont%C3%A9m%20os%20assuntos%20mais%20populares%20de%20v%C3%A1rias%20redes%20sociais%20%E2%80%93%20do%20Twitter%20ao%20Facebook%2C%20do%20Instagram%20ao%20TikTok%2C%20do%20ClubHouse%20ao%20que%20vier%20depois.:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fgarimpo" target="_blank" title="Send email"><i class="fas fa-envelope-square fa-lg" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&quote=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&text=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&summary=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+  <li><a href="mailto:?subject=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&body=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Send email"><i class="fas fa-envelope-square fa-lg" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
 </ul>
-
-
+<!--
 ---
 
 #### Últimas edições
 
 <script src="http://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/garimpo-campaignsrss"></a><br/>Powered by FeedBurner</p> </noscript>
+
+-->
 
 ---
 

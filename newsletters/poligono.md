@@ -78,8 +78,6 @@ ul.share-buttons i {
 <br>
 **Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates de ciência nas redes sociais, parte do nosso projeto [Science Pulse](www.sciencepulse.org). A newsletter é apoiada pelo [Instituto Serrapilheira](https://serrapilheira.org/).
 
-
-
 A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jornal da USP e uma das [principais vozes](https://abori.com.br/comunicacao/estudo-identifica-as-principais-vozes-da-ciencia-no-twitter-em-2020/) da divulgação científica no Twitter em 2020.
 
 É enviada toda terça-feira, por volta das 10h.
