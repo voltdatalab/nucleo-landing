@@ -15,46 +15,67 @@ td, tr, table{
 
 <!--MAIN-->
 <div class="main">
-<table>
-<tr>
-<td>
-<section>
-<h5 class="sub-title">{{ page.chapeu }}</h5>
-<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.title }}</h1>
-<p> {{ page.desc }}</p>
-<a href="#sections" class="btn1">Saiba Mais</a>
-</section>
-</td>
-<td>
-<img src="{{ site.baserl }}/img/pulse/landing-pulse_1tweets.png" class="inline-photo show-on-scroll" alt="Imagem de destaque" width="100%">
-</td>
-</tr>
-</table>
+			<table>
+				<tr>
+					<td>
+						<section>
+							<h5 class="sub-title">{{ page.chapeu }}</h5>
+							<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.title }}</h1>
+							<p> {{ page.subtitle }}</p>
+							<a href="#mais" class="btn1">Saiba Mais</a>
+						</section>
+					</td>
+					<td>
+						<img src="{{ site.baserl }}/img/pulse/landing-pulse_1tweets.png" class="inline-photo show-on-scroll" alt="Imagem de destaque" width="100%">
+					</td>
+				</tr>
+			</table>
 </div>
 
-
+<hr />
 <!--CONTAINER-->
-<div id="#sections" class="container">
-<table>
-<tr>
-<td>
-<img src="{{ site.baserl }}/img/pulse/landing-pulse_2debates.png" class="inline-photo show-on-scroll" alt="Sobre o Pulse">
-</td>
-<td>
-<h1 class="title"  style="color:#4b31dd;text-transform:uppercase"> {{ page.title2 }}</h1>
-<p> {{ content }}</p>
-<a href="#moreaboutus" class="btn2">{{ page.botao_explain }}</a>
-</td>
-</tr>
-</table>
+<div id="sections" class="container">
+	<table>
+		<tr>
+			<td>
+				<img src="{{ site.baserl }}/img/pulse/landing-pulse_2debates.png" class="inline-photo show-on-scroll" alt="Sobre o Pulse">
+				</td>
+			<td id="mais">
+				<h1 class="title"  style="color:#4b31dd;text-transform:uppercase"> {{ page.title2 }}</h1>
+				<p> {{ content }}</p>
+				<a href="#moreaboutus" class="btn2">{{ page.botao_explain }}</a>
+			</td>
+		</tr>
+	</table>
 </div>
 
+<hr />
 
+<section class="section1" >
+		<div class="banner">
+			<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.aplicacoes_tit }}</h1>
+			<h5 class="sub-title">{{ page.aplicacoes_desc }}</h5>
+			</div>
+
+			{% for app in site.data.pulses %}
+			<div style="max-width:450px; margin: 0 auto">
+				<a href="{{ app.link }}" target="_blank"><h3>{{ app.nome }}</h3></a>
+				<p>
+					{{ app.desc }}
+				</p>
+			</div>
+		  {% endfor %}
+
+		<br />
+		<br />
+</section>
+
+<hr />
 
 <section class="slick" id="moreaboutus">
 <div class="banner">
-	<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.implementacao_tit}}</h1>
-	<h5 class="sub-title">{{ page.implementacao_desc }}</h5>
+		<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.implementacao_tit}}</h1>
+		<h5 class="sub-title">{{ page.implementacao_desc }}</h5>
 	</div>
 	<table>
 	<tr>
@@ -76,19 +97,19 @@ td, tr, table{
 		</td>
 		<td>
 		<div class="card inline-photo show-on-scroll">
-        <div class="card_part card_part-one" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png')">
+        <div class="card_part card_part-one" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup_1.png')">
         </div>
 
        <!-- Photo 2 -->
-       <div class="card_part card_part-two" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png')">
+       <div class="card_part card_part-two" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup_2.png')">
        </div>
 
        <!-- Photo 3 -->
-       <div class="card_part card_part-three" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png')">
+       <div class="card_part card_part-three" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup_1.png')">
        </div>
 
        <!-- Photo 4 -->
-       <div class="card_part card_part-four" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup.png')">
+       <div class="card_part card_part-four" style="background-image: url('{{ site.baserl }}/img/pulse/landing-pulse_3mockup_2.png')">
        </div>
        </div>
 		</td>
@@ -112,45 +133,43 @@ td, tr, table{
 	</table>
 	</section>
 
+<hr />
 
+<section class="section1" >
+		<div class="banner">
+			<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.FAQ_tit }}</h1>
+			<h5 class="sub-title">{{ page.FAQ_desc }}</h5>
+			</div>
+		<button class="accordion">{{ page.faq_tit_1 }}</button>
+		<div class="panel">
+		  <p>
+		  {{ page.faq_desc_1 }}
+		  </p>
+		</div>
 
+		<button class="accordion">{{ page.faq_tit_2 }}</button>
+		<div class="panel">
+		 <p>
+		  {{ page.faq_desc_2 }}
+		  </p>
+		</div>
 
+		<button class="accordion">{{ page.faq_tit_3 }}</button>
+		<div class="panel">
+		  <p>
+		  {{ page.faq_desc_3 }}
+		  </p>
+		</div>
 
-<section class="section1">
-<div class="banner">
-	<h1 class="title" style="color:#4b31dd;text-transform:uppercase">{{ page.FAQ_tit }}</h1>
-	<h5 class="sub-title">{{ page.FAQ_desc }}</h5>
-	</div>
-<button class="accordion">{{ page.faq_tit_1 }}</button>
-<div class="panel">
-  <p>
-  {{ page.faq_desc_1 }}
-  </p>
-</div>
+		<button class="accordion">{{ page.faq_tit_4 }}</button>
+		<div class="panel">
+		   <p>
+		  {{ page.faq_desc_4 }}
+		  </p>
+		</div>
 
-<button class="accordion">{{ page.faq_tit_1 }}</button>
-<div class="panel">
- <p>
-  {{ page.faq_desc_2 }}
-  </p>
-</div>
-
-<button class="accordion">{{ page.faq_tit_1 }}</button>
-<div class="panel">
-  <p>
-  {{ page.faq_desc_3 }}
-  </p>
-</div>
-
-<button class="accordion">{{ page.faq_tit_1 }}</button>
-<div class="panel">
-   <p>
-  {{ page.faq_desc_4 }}
-  </p>
-</div>
-
-<br />
-<br />
+		<br />
+		<br />
 </section>
 
   {% include footer.html %}

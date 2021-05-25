@@ -22,6 +22,10 @@ li{
 list-style:none;
 padding:5px;
 }
+
+hr{
+  max-width: 50%
+}
 .title{
 font-size:2em;
 }
@@ -30,8 +34,8 @@ font-size:1em;
 color:gray;
 }
 em{
-font-style:normal;
-color:#4033ff;
+font-style:italic;
+color:#222222;
 }
 .btn1{
 padding:10px 20px;
@@ -46,7 +50,7 @@ text-align:center;
 transition:0.5s;
 }
 .btn1:hover{
-background-color:#0fb872;
+background-color:#4b31dd;
 }
 .btn2{
 padding:10px 20px;
@@ -67,6 +71,7 @@ background:#0fb872;
 margin:auto;
 width:70%;
 text-align:center;
+padding: 30px 0
 }
 #scroll-up{
 position:fixed;
@@ -182,14 +187,14 @@ display:none;
 
 .main{
 width:100%;
-height:100vh;
+height:80vh;
 background-image:url("{{ site.baserl }}/img/pulse/pulse-header.jpeg");
 background-size:100% 100%;
 }
 
 .main table{
 width:100%;
-height:100vh;
+height:70vh;
 }
 
 .main table td{
@@ -235,10 +240,14 @@ display:block;
 margin-top:20%;
 }
 .main table td img{
-width:60%;
-height:60%;
+width:100%;
+height:100%;
 margin-top:0%;
 pointer-events:none;
+}
+
+.main{
+  height: 100vh
 }
 
 }
@@ -318,7 +327,7 @@ width:100%;
 display:block;
 }
 .container table td img{
-width:90%;
+width:100%;
 }
 .container table td:nth-child(2),.container table .aboutus_td2{
 padding:10px;
@@ -489,7 +498,7 @@ width:95%;
 		font-size:1.3em;
 		}
 		.sub-title{
-		font-size:0.6em;
+		font-size:0.9em;
 		}
 		.slick table td ul li{
 		padding:5px 0px;
@@ -500,6 +509,7 @@ width:95%;
 
 .section1{
 width:90%;
+max-width: 650px;
 margin:auto;
 }
 .section1 .accordion {
@@ -516,7 +526,7 @@ margin:auto;
 }
 
 .section1 .panel img{
-margin:0px 20px;
+margin: 0px 20px;
 }
 
 .section1 .active,.section1 .accordion:hover {
@@ -537,11 +547,17 @@ margin:0px 20px;
 
 .section1 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: #f4f4f4;
+  border: 1px solid #4b31dd;
   max-height: 0;
   overflow: hidden;
   margin:auto;
+
   transition: max-height 0.2s ease-out;
+}
+
+.section1 .panel p {
+  padding: 18px;
 }
 
  @media (max-width:600px){
