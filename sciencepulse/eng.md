@@ -1,21 +1,21 @@
 ---
 layout: monitor
 title: 'SciencePulse'
-desc: 'Descubra o que cientistas e especialistas estão compartilhando nas redes sociais e descubra fatos que podem levar a melhores reportagens e decisões'
-tagline: APLICAÇÃO
-background: 'monitornuclear.jpeg'
-contexto: 'O <strong>Science Pulse</strong> reúne em um só lugar publicações e tendências sobre ciência compartilhadas nas redes por cientistas, especialistas e organizações de renome.'
-iframe: '<iframe src="https://nucleojor.shinyapps.io/science/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
+desc: 'Discover scientific conversations and topics on social media with Science Pulse. Our selected curation includes +1,500 scientists, experts and scientific organizations.'
+tagline: APPLICATION
+background: 'pulse-destak.png'
+contexto: 'Discover scientific conversations and topics on social media with Science Pulse. Our selected curation includes +1,500 scientists, experts and scientific organizations.'
+iframe: '<iframe src="https://nucleojor.shinyapps.io/science_pulse_eng/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
+color: "#f33872"
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">
-COMPARTILHE:
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&text=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos:%20https%3A%2F%2Fnucleo.jor.br%2Fmonitor&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
-<li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
-</ul>
-<a href="https://nucleo.jor.br/apoie" target="_blank">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i>
+SHARE:
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng&quote=Discover%20scientific%20conversations%20and%20topics%20on%20social%20media%20with%20Science%20Pulse" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng&text=Discover%20scientific%20conversations%20and%20topics%20on%20social%20media%20with%20Science%20Pulse:%20https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng&via=thesciencepulse" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng&title=Discover%20scientific%20conversations%20and%20topics%20on%20social%20media%20with%20Science%20Pulse" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng&title=Discover%20scientific%20conversations%20and%20topics%20on%20social%20media%20with%20Science%20Pulse&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+  <li><a href="mailto:?subject=Discover%20scientific%20conversations%20and%20topics%20on%20social%20media%20with%20Science%20Pulse&body=:%20https%3A%2F%2Fnucleo.jor.br%2Fsciencepulse%2Feng" target="_blank" title="Send email"><i class="fas fa-envelope-square fa-lg" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
+  </ul>
 '
 ---
 

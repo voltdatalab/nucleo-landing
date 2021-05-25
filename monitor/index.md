@@ -1,7 +1,7 @@
 ---
 layout: monitor
-title: 'Monitor Nuclear'
-desc: 'Análises de engajamento político no Twitter'
+title: 'Monitor Nuclear | Núcleo Jornalismo'
+desc: 'Acompanhe e analise o debate político no Twitter'
 tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
 contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação de apresenta tendências e análises sobre perfis dos políticos mais relevantes no Twitter.'

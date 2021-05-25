@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <title>Mídia | Núcleo Jornalismo</title>
+    <title>Monitor Nuclear | Núcleo Jornalismo | Núcleo Jornalismo</title>
 
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -38,11 +38,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <meta name="keywords" content="jornalismo, jornalismo de dados, análise de dados, transparêcia pública, políticas públicas, gastos públicos"/>
     <meta property="og:site_name" content="Núcleo Jornalismo">
-    <meta property="og:title" content="Mídia" />
-    <meta property="og:description" content="  " />
+    <meta property="og:title" content="Monitor Nuclear | Núcleo Jornalismo" />
+    <meta property="og:description" content=" Acompanhe e analise o debate político no Twitter " />
 
     <!-- FACEBOOK -->
-    <meta property="og:image" content="https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png"/>
+    <meta property="og:image" content="https://nucleo.jor.br/img/monitornuclear.jpeg"/>
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@nucleojor" />
     <meta name="twitter:creator" content="@nucleojor" />
-    <meta name="twitter:image" content="https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png">
+    <meta name="twitter:image" content="https://nucleo.jor.br/img/monitornuclear.jpeg">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   gtag('event','100%', {
 'event_category': 'NTG article milestone',
-'event_label': 'Mídia',
+'event_label': 'Monitor Nuclear | Núcleo Jornalismo',
 'event_value': 100 ,
 'non_interaction' : true
 });
@@ -77,7 +77,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   gtag('event','75%', {
 'event_category': 'NTG article milestone',
-'event_label': 'Mídia',
+'event_label': 'Monitor Nuclear | Núcleo Jornalismo',
 'event_value': 75 ,
 'non_interaction' : true
 });
@@ -85,7 +85,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   gtag('event','50%', {
 'event_category': 'NTG article milestone',
-'event_label': 'Mídia',
+'event_label': 'Monitor Nuclear | Núcleo Jornalismo',
 'event_value': 50 ,
 'non_interaction' : true
 });
@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   gtag('event','25%', {
 'event_category': 'NTG article milestone',
-'event_label': 'Mídia',
+'event_label': 'Monitor Nuclear | Núcleo Jornalismo',
 'event_value': 25 ,
 'non_interaction' : true
 });
@@ -109,7 +109,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    </script>
 </head>
 
-	<body style="">
+	<body>
 		<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JK4HMB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -386,479 +386,409 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   });
 </script>
 
+		  <div id="popup">
+    <!-- <div id="close" class="close"><i class="fa fa-times"></i></div>-->
+    <div id="new"><span>AVISO</span></div>
+    <h2>Este site utiliza cookies a partir do serviços de terceiros. Leia nossa <a href="/privacidade" target="_blank">Política de Privacidade.</a></h2>
+    <br>
+    <a target="_blank" class="button" id="close" style="cursor: pointer;">Ok</a>
+  </div>
+  <!--<div id="plus"><span style="font-size:0.7em">NOVO!<br>&nbsp;&nbsp;<i class="fa fa-plus"></i></span></div>-->
 
+
+<style>
+  #popup {
+    position: fixed;
+    max-width: 260px;
+    height: 120px;
+    background: #eeeeee;
+    border: 7px solid #fff;
+    bottom: 0;
+    margin-left: 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 1000000
+  }
+
+  #new span {
+    background: #fff;
+    position: absolute;
+    color: #4b31dd;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: -5px;
+  }
+
+  #popup .close {
+    color: #464646;
+    right: 8px;
+    top: 0px;
+    position: absolute;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  #popup h2 {
+    font-size: 10px;
+    color: #464646;
+    line-height: 1.3em;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 40px;
+    padding: 0 20px;
+  }
+
+  #body {
+    height: 1200px;
+    background: #eee;
+  }
+
+  a.button {
+    margin: 0 auto;
+    text-align: center;
+    right: 0;
+    left: 0;
+    bottom: 8px;
+    position: absolute;
+    width: 80px;
+    font-size: 11px;
+    color: #fff;
+    border-bottom: 2px solid #18729f;
+    background: #4b31dd;
+    border-radius: 4px;
+    padding: 2px 0;
+  }
+
+  #plus {
+    position: fixed;
+    color: #fff;
+    bottom: 15%;
+    font-size: 15px;
+    margin-left: -425px;
+    -webkit-transition: all 1.25s ease;
+    -moz-transition: all 1.25s ease;
+    -o-transition: all 1.25s ease;
+    transition: all 1.25s ease;
+    cursor: pointer;
+    text-align: left;
+    letter-spacing: 1px;
+  }
+
+  #plus span {
+    position: absolute;
+    margin-top: 38px;
+    left: 4px;
+  }
+
+  #plus::after {
+    content: '';
+    display: block;
+    display: relative;
+    border-top: 55px solid transparent;
+    border-bottom: 55px solid transparent;
+    border-left: 55px solid #f33872;
+  }
+
+  @media all and (max-width: 900px) {
+    #popup {
+      /*margin-left: -425px;*/
+      margin-left: 0;
+    }
+    #plus {
+      margin-left: 0px;
+    }
+  }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
+<script>
+
+  $(document).scroll(function() {
+    var scroll = $(this).scrollTop();
+    if (scroll >= 150) {
+      $("#popup").css("margin-left", "-425px");
+      $("#plus").css("margin-left", "0px");
+    }
+  });
+
+  $("#plus").click(function() {
+    $("#popup").css("margin-left", "0px");
+    $("#plus").css("margin-left", "-425px");
+  });
+
+  $("#close").click(function() {
+    $("#popup").css("margin-left", "-425px");
+    $("#plus").css("margin-left", "0px");
+  });
+
+</script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.1.1/iframeResizer.min.js'></script>
 </div>
 
+<style>
+---
+---
+
+h2{
+	font-size: 1.5em
+}
+
+h3{
+	margin-top: 45px;
+}
+
+h4{
+	text-transform: uppercase;
+	margin-top: 45px
+}
+
+small{
+	font-family: 'Roboto Mono';
+	font-size: 0.6em;
+}
+
+#chart{
+	margin: 0 auto;
+	height: 730px;
+	border: 1px dashed #999999
+}
+
+@media (max-width: 990px){
+				#chart{
+				height: 1300px
+				}`
+}
+
+@media (max-width: 420px){
+      #chart{
+      height: 1450px
+      }
+}
+
+
+</style>
+
 		<!-- índice simples de matérias  -->
-		<div class="container" style="padding: 0 5% 0px;max-width:950px;margin-top:75px; text-align:center">
+		<div class="container" style="padding: 0 5% 0px;max-width:950px;text-align:center">
 
 			<br /><br />
-			<h5 class="chapeu">
-				 <i class="fas fa-layer-group fa-lg"></i>
-				
-
-				ARQUIVADO EM
+		  <h5 class="chapeu" >
+				<i class="fas fa-layer-group fa-lg"></i> APLICAÇÃO
 			</h5>
 								<div class="post-heading">
 									<br />
-									<h1 style="text-transform:uppercase">Mídia</h1>
+									<h1 style="text-transform:uppercase">Monitor Nuclear | Núcleo Jornalismo</h1>
 
-									
-
-									
-									<h3 style="color:#777">Reportagens e análises sobre a interseção de mídia e tecnologia</h3>
-									
+									<!--<h2 style="color:#999999;font-family: 'Roboto Mono'">Acompanhe e analise o debate político no Twitter</h2>-->
 
 									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+									<p>
+										O <strong>Monitor Nuclear</strong> é uma aplicação de apresenta tendências e análises sobre perfis dos políticos mais relevantes no Twitter.</p>
 
-									<small style="font-weight:300;color: #9b9b9b;font-family: 'Roboto Mono', monospace">Publicamos
+										
+												 <ul class="share-buttons" style="text-align: center"> COMPARTILHE: <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&quote=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos" title="Share on Facebook" target="_blank"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li> <li><a href="whatsapp://send?text=Núcleo, jornalismo, dados e transparência - https://nucleo.jor.br/monitor" target="_blank" title="Compartilhar no Facebook"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li> <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&text=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos:%20https%3A%2F%2Fnucleo.jor.br%2Fmonitor&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li> <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li> <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li> </ul> <a href="https://nucleo.jor.br/apoie" target="_blank">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i> 
+										
 
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-    36 matérias em 2021 |
-    
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-    35 matérias em 2020 |
-    
-  
-
-<a href="/arquivo"><i class="far fa-list-alt"></i> &rarr;</a>
-</small>
-
+										
 
 								</div>
 							</div>
 
-									<div class="container" style="padding: 0 5% 0px;max-width:850px">
-          <div class="row">
+						<div class="container" style="max-width: 1200px; margin: 0 auto">
+							<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>
+
+							
+
+						</div>
+
+							<div class="container" style="max-width: 540px">
+
+								<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
+
+									<p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="language-plaintext highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code> ou <code class="language-plaintext highlighter-rouge">Monitor Nuclear</code>, se possível com link para <code class="language-plaintext highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
+
+<h3 id="sobre-o-projeto">SOBRE O PROJETO</h3>
+
+<p>O Monitor Nuclear é uma aplicação do <strong>Núcleo</strong> que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.</p>
+
+<p>Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.</p>
+
+<p>Com pouco mais de 16 milhões de usuários <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>, o Twitter não representa o eleitorado brasileiro <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup>, mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote">3</a></sup> e em muitos outros países.</p>
+
+<p>A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.</p>
+
+<p>Para entender mais a importância do Twitter na política e na diplomacia, acesse o estudo Twiplomacy<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote">4</a></sup>. Segundo a pesquisa, governos e líderes de 189 países possuíam uma presença oficial na rede social – quase todos os membros das Nações Unidas.</p>
+
+<h3 id="metodologia">METODOLOGIA</h3>
+
+<p>A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.</p>
+
+<p>A base do código é <a href="https://github.com/voltdatalab/science-pulse-public">aberta</a> e tem como referência a ferramenta <a href="https://sciencepulse.org/">Science Pulse</a>, projeto de monitoramento de ciência do <a href="www.voltdata.info">Volt Data Lab</a>, a empresa por trás do <strong>Núcleo</strong>.</p>
+
+<h4 id="escolha-dos-nomes">Escolha dos nomes</h4>
+
+<p>Os perfis dos políticos foram baseados em diversas fontes:</p>
+
+<ul>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1049263545530142720">Lista de senadores</a>, via conta oficial do Senado Federal</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1126190774805258241">Lista de deputados</a>, via conta oficial da Câmara dos Deputados</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376874024949649411">Lista de governadores</a>, via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376880814860931082">Lista de ministros</a>, via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376883897607335936">Lista com presidente e vice-presidente</a> via Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+  <li>
+    <p><a href="https://twitter.com/i/lists/1376884601122082821">Lista de atores políticos</a>, que contém personagens relevantes na cena política, políticos eleitos que não constam nas outras listas e políticos ou autoridades sem cargos eletivos, com curadoria de Sérgio Spagnuolo (editor do <em>Núcleo</em>)</p>
+  </li>
+</ul>
+
+<p>A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.</p>
+
+<p>Qualquer pessoa pode sugerir um nome para integrar a lista de <em>atores políticos</em>, através <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform">deste formulário</a>, explicando por que.</p>
+
+<h4 id="dados">Dados</h4>
+
+<p>Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.</p>
+
+<p>Os dados analisados são obtidos diretamente da API do Twitter<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote">5</a></sup>, e atualizados a cada 20 minutos. O código para extração pode ser encontrado <a href="https://gist.github.com/sergiospagnuolo/16f59265c79f26a95959cd3c9b279f99">neste gist</a>. A política de API do Twitter não permite a reprodução integral dos dados.</p>
+
+<p>A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil.</p>
+
+<h4 id="base-da-análise">Base da análise</h4>
+
+<p>A análise é baseada em três variáveis: data de publicação, total de curtidas por tweet e total de retweets por tweet.</p>
+
+<p>Os dados não consideram comentários, por dois motivos:</p>
+
+<p><strong>1.</strong> curtidas e retweets estão limitados a apenas um por perfil, funcionando quase como uma métrica de endosso ao conteúdo. Isso torna mais difícil para <em>bots</em> e perfis falsos inflarem artificialmente tweets originais, ao contrário do que acontece com uma hashtag, por exemplo, à medida que um perfil pode curtir múltiplos tweets com um termo.</p>
+
+<p><strong>2.</strong> comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação provável de endosso, podendo ser críticos, ofensivos, spam, piadas, memes ou <em>tags</em> para pessoas acompanharem o assunto.</p>
+
+<p>Vale notar que a metodologia do <strong>Monitor</strong> é válida para se visualizar engajamento em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.</p>
+
+<h4 id="fórmulas">Fórmulas</h4>
+
+<p>O <strong>Monitor</strong> agrega, por dia, o número de tweets disparados entre 00h e 23h59 e soma o total de curtidas e retweets. Essa soma é considerada como o <code class="language-plaintext highlighter-rouge">total de interações</code>.</p>
+
+<p>Isso nos permite calcular duas métricas fundamentais para nossa análise: a <code class="language-plaintext highlighter-rouge">taxa de engajamento</code> e <code class="language-plaintext highlighter-rouge">tendência de engajamento</code>.</p>
+
+<ol>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Taxa de engajamento</code>: é a média simples do total de interações pelo número de tweets disparados em um único dia. Assim, se um perfil tuitou 10 vezes e teve 100 interações, a taxa de engajamento é de 10 interações por tweet. Se outro perfil tuitou uma vez e teve 100 interações, essa taxa é de 100 por tweet.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Tendência de engajamento</code>: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 15 dias como o <em>default</em>, indicando um ciclo noticioso rápido, mas constante.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Tweets em alta</code>: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham o maior número de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: Descoberta mostra tweets de usuários que estejam abaixo da mediana do número de seguidores dentre os perfis listados no Science Pulse, e Popularidade mostra tweets de todos os perfis da base de dados.</p>
+  </li>
+</ol>
+
+<p>Em todos os casos, a linha de tendência utiliza <a href="http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf">regressão local (LOESS)</a>, um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curto prazo.</p>
+
+<h4 id="fundamentos-técnicos">Fundamentos técnicos</h4>
+
+<p>O <strong>Monitor</strong> é construído com a linguagem de programação R, utilizando o pacote <code class="language-plaintext highlighter-rouge">Shiny</code>. O ETL (processo de captura e organização de dados) é feito a partir de uma instância no Rstudio, e o banco de dados que armazena as informações é <code class="language-plaintext highlighter-rouge">PostgresSQL</code>.</p>
+
+<h4 id="créditos">Créditos</h4>
+
+<ul>
+  <li>
+    <p><a href="/equipe/sergiospagnuolo">Sérgio Spagnuolo</a> - idealizador e desenvolvedor</p>
+  </li>
+  <li>
+    <p><a href="/equipe/lgelape">Lucas Gelape</a> - desenvolvedor de aplicação</p>
+  </li>
+  <li>
+    <p><a href="/equipe/ztock">Felippe Mercurio</a> - desenvolvedor de banco de dados</p>
+  </li>
+  <li>
+    <p><a href="/equipe/renata_mh">Renata Hirota</a> - consultoria</p>
+  </li>
+  <li>
+    <p><a href="/equipe/alexorrico">Alexandre Orrico</a> e <a href="/equipe/jade_dru">Jade Drummond</a> - estratégia digital e comunidades</p>
+  </li>
+  <li>
+    <p><a href="/equipe/rodolfoalmd">Rodolfo Almeida</a> - Arte</p>
+  </li>
+</ul>
+
+<h4 id="referências">Referências</h4>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/">Statista</a>, ref. fevereiro de 2021 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p><a href="http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais">TSE</a> - Estatísticas de Eleitorado <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: <em>“O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases.”</em> - <a href="https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/">Episódio #95, Foro de Teresina aos 28m28s</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p><a href="https://twiplomacy.com/blog/twiplomacy-study-2020/">Twiplomacy Study 2020</a> <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p><a href="https://developer.twitter.com/en/docs">API DO TWITTER</a> <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2021-02-11-terca-livre-youtube-banido-bolsonarismo">
-                  <h3 class="page-tttt">Expulsão do Terça Livre afeta pouco o bolsonarismo no YouTube</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000;font-weight:300">
+									<hr />
+										<p>
+										<span style="font-family:'Roboto Mono';font-size:0.8em;margin-left:30px">
+										
+										</span>
+										</p>
+									</div>
 
-                    <i class="far fa-calendar-alt"></i> 11/02/2021 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
+									<script type="text/javascript">
 
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2021-02-04-veiculos-digitais-desertos-atlas">
-                  <h3 class="page-tttt">Nos rincões do Brasil, blogs irrigam desertos de notícia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000;font-weight:300">
-
-                    <i class="far fa-calendar-alt"></i> 04/02/2021 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-11-10-vereadores-reeleicao-desertos-noticia">
-                  <h3 class="page-tttt">Em desertos de notícia, vereadores buscam mais a reeleição</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000;font-weight:300">
-
-                    <i class="far fa-calendar-alt"></i> 10/11/2020 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-03-30-aplicativos-noticias-sobem-sob-coronavirus">
-                  <h3 class="page-tttt">Apps de notícias crescem no Brasil em meio à pandemia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000;font-weight:300">
-
-                    <i class="far fa-calendar-alt"></i> 30/03/2020 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-        <div class="col-sm-6 col-lg-6">
-                <a href="/media/2020-01-28-partidos-desertos-noticias">
-                  <h3 class="page-tttt">Os partidos que comandam os desertos de notícia</h3></a>
-                  <br />
-                  <span class="arquivado" style="color:#000;font-weight:300">
-
-                    <i class="far fa-calendar-alt"></i> 28/01/2020 &middot; Arquivado em <a href="media"><span class="spancateg"> media</span></a>
-
-                  </span>
-                  <br /><br />
-          </div>
-
-                
-                </div>
-
-            </div>
+								function loadIframe() {
+								setTimeout(function(){
+								iFrameResize({
+								// 'bodyOffset' | 'bodyScroll' | 'documentElementOffset' | 'documentElementScroll' | 'max' | 'min' | 'grow' | 'lowestElement' | 'taggedElement'
+								heightCalculationMethod: 'lowestElement',
+								log                     : false,                  // Enable console logging
+								enablePublicMethods     : true,                  // Enable methods within iframe hosted page
+								resizedCallback         : function(messageData){ // Callback fn when resize is received
 
 
-<br /><br /><br />
+								},
+								messageCallback         : function(messageData){ // Callback fn when message is received
 
 
+								},
+								closedCallback         : function(id){ // Callback fn when iFrame is closed
+
+
+								}
+								});
+
+								}, 300);
+								}
+
+								function formComplete () {
+								alert('iframe form success');
+								}
+
+
+								</script>
 
   <!-- Footer -->
 <footer>

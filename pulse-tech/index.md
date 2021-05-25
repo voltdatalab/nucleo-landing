@@ -1,6 +1,6 @@
 ---
 layout: showcase
-title: 'UMA NOVA FORMA DE ANALISAR AS REDES SOCIAIS'
+title: 'Listening Pulse'
 desc: 'Listening Pulse é uma tecnologia open source e de baixo custo para monitoramento e análise de tendências de mídias sociais, que utiliza curadoria seletiva para aumentar a descoberta de conversas e debates relevantes, filtrando o ruído das redes.'
 subtitle: '<strong>Listening Pulse</strong> é uma tecnologia <em>open source</em> e de baixo custo para monitoramento e análise de tendências de mídias sociais, que utiliza curadoria seletiva para aumentar a descoberta de conversas e debates relevantes, filtrando o ruído das redes.'
 link: ''

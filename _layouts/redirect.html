@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+  <meta http-equiv="refresh" content="1;url={{ site.baseurl }}/{{ page.redirect }}"/>
+  <link rel="canonical" href="{{ page.redirect }}"/>
+  <script type="text/javascript">
+          window.location.href = "{{ site.baseurl }}/{{ page.redirect }}"
+  </script>
+
+	<body style="">
+		{% include nav.html %}
+		{% include popup.html %}
+
+		<!-- índice simples de matérias  -->
+							<div class="container page-in" style="max-width: 540px">
+
+
+                  <h3>Caso não a página não seja redirecionada, acesse <a href="{{ site.baseurl }}/{{ page.redirect }}">este link</a>.
+
+                    </div>
+
+
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

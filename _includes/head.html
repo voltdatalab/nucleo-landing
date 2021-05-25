@@ -52,6 +52,14 @@
 
     {% include google_analytics.html %}
 
+    {% if page.redirect %}
+    <meta http-equiv="refresh" content="1;url={{ page.redirect }}"/>
+    <link rel="canonical" href="{{ page.redirect }}"/>
+    <script type="text/javascript">
+            window.location.href = "{{ page.redirect }}"
+    </script>
+    {% endif %}
+
     <script>
   function resizeIframe(obj) {
     obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
