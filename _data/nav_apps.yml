@@ -2,7 +2,7 @@
   link: monitor
 
 - nome: Science Pulse
-  link: 'https://sciencepulse.org'
+  link: 'sciencepulse'
   externo: sim
 
 - nome: Bot de ciência
