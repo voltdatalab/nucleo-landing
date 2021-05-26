@@ -71,6 +71,16 @@ O **Garimpo** é uma news curta, com menos de três minutos de leitura, que cont
 
 <hr>
 
+## [Despachos]({{ site.baseurl }}/newsletters/despachos)
+
+Os **Despachos** são newsletters automatizadas e gratuitas do **Núcleo**, que trazem as principais publicações da comunidade científica, parte do nosso projeto [Science Pulse](www.sciencepulse.org).
+
+São duas newsletters: uma diária e uma semanal.
+
+[Para receber, clique aqui]({{ site.baseurl }}/newsletters/despachos)
+
+<hr>
+
 ## [MATÉRIA DA SEMANA]({{ site.baseurl }}/newsletters/semanal)
 
 Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.

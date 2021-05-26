@@ -1,5 +1,14 @@
+- nome: Conheça as news
+  link: 'newsletters'
+
+- nome: Polígono
+  link: 'newsletters/poligono'
+
 - nome: Garimpo
   link: 'newsletters/garimpo'
+
+- nome: Despachos
+  link: 'newsletters/despachos'
 
 - nome: Reportagens
   link: 'newsletters/semanal'
