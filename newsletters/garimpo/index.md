@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'Newsletter Garimpo'
+title: 'Newsletter Garimpo - tendências e assuntos das redes sociais'
 desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 background: 'header-garimpo.png'

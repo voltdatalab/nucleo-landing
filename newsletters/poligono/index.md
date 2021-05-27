@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'Newsletter Polígono'
+title: 'Newsletter Polígono - a ciência nas redes sociais'
 desc: 'Os debates mais relevantes de ciência nas redes sociais, por Luiza Caires'
 subtitle: 'Os debates mais relevantes de ciência nas redes sociais, por Luiza Caires'
 background: 'poligono-banner.png'
