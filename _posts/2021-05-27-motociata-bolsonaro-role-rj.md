@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Com motociata, Bolsonaro tenta se apropriar de rolezinhos de motoboys e entregadores"
-titulo_redes: "Com motociata, Bolsonaro tenta se apropriar de rolezinhos de motoboys"
+title: "Com motociatas, bolsonarismo tenta se apropriar de rolezinhos de motoboys e entregadores"
+titulo_redes: "Bolsonarismo tenta se apropriar de rolezinhos de motoboys"
 subtitle: "Organizado pelas redes de forma agressiva, com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de fenômeno cultural espontâneo da categoria"
 subtitle_redes: "Com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de evento espontâneo da categoria"
 excerpt: 'Organizado pelas redes de forma agressiva, com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de fenômeno cultural espontâneo da categoria'
@@ -14,6 +14,7 @@ edicao: Alexandre Orrico
 credito_img: "Allan Santos/PR (Agência Brasil) | Intervenção de Rodolfo Almeida"
 creditos: "Lais Martins, Alexandre Orrico, Victor Silva"
 background: 'motociata/bolsonaro-motoqueiro_Teaser.png'
+atualizacao: "Texto atualizado às 9h32 do dia 27.mai.2021 para corrigir nome do grupo 'Rolezinho 100 limites', que numa primeira versão estava 'Rolezinho 100grau'"
 categories:
   - "reportagem"
 tags:
@@ -78,7 +79,7 @@ Mas apesar de ter pautado o debate, no final das contas o RZN não só decidiu p
 
 Mesmo assim, muitos motoboys ficaram com vontade de participar da motociata. Seria uma oportunidade única de fazer um rolê com escolta policial e respaldo oficial.
 
-Um dos grupos de motoboys presentes nas ruas do Rio no dia 23 foi o Rolezinho 100grau, figurinha carimbada em mobilizações coletivas dos entregadores e que em fevereiro fez parte de uma manifestação contra o aumento dos combustíveis, em conjunto com um sindicato de petroleiros. 
+Um dos grupos de motoboys presentes nas ruas do Rio no dia 23 foi o [Rolezinho 100 limites](https://www.facebook.com/rolezinho100limites/), figurinha carimbada em mobilizações coletivas dos entregadores e que em fevereiro fez parte de uma manifestação contra o aumento dos combustíveis, em conjunto com um sindicato de petroleiros. 
 
 Essa cronologia de eventos e conversas mostra como Bolsonaro e seus aliados têm tentado novas estratégias frente a uma [queda de popularidade](https://www1.folha.uol.com.br/poder/2021/05/datafolha-aprovacao-a-bolsonaro-recua-seis-pontos-e-chega-a-24-a-pior-marca-do-mandato-rejeicao-e-de-45.shtml), possivelmente de olho no apoio político de uma categoria importante, antes das eleições de 2022.
 
