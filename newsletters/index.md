@@ -24,7 +24,7 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 ## [Polígono]({{ site.baseurl }}/newsletters/poligono)
 
-**Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates sobre ciência que estão acontecendo nas redes sociais, parte do nosso projeto [Science Pulse](www.sciencepulse.org).
+**Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates sobre ciência que estão acontecendo nas redes sociais, parte do nosso projeto [Science Pulse]({{ site.baseurl }}/sciencepulse).
 
 A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jornal da USP.
 

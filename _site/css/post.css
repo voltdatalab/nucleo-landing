@@ -670,7 +670,6 @@ input[type='checkbox'] {
 input[type=checkbox]:checked ~ label {
     color: #ffffff;
     text-decoration: none;
-    background-color: #f33872
 }
 
 .lbl-toggle::before {
