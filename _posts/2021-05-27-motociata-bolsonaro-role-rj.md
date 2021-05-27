@@ -6,7 +6,7 @@ tipo: reportagem
 title: "Com motociatas, bolsonarismo tenta se apropriar de rolezinhos de motoboys e entregadores"
 titulo_redes: "Bolsonarismo tenta se apropriar de rolezinhos de motoboys"
 subtitle: "Organizado pelas redes de forma agressiva, com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de fenômeno cultural espontâneo da categoria"
-subtitle_redes: "Com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de evento espontâneo da categoria"
+subtitle_redes: "Com táticas que incluem cooptação de lideranças, evento espontâneo da categoria entra na mira de oportunistas políticos"
 excerpt: 'Organizado pelas redes de forma agressiva, com táticas que incluem cooptação de lideranças, bolsonarismo tenta ganhar em cima de fenômeno cultural espontâneo da categoria'
 date: "27/05/2021 06:01"
 reportagem: Victor Silva
