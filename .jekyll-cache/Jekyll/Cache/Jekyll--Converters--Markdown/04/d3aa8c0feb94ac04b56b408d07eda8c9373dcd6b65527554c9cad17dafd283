@@ -1,17 +1,4 @@
----
-layout: pages
-title: 'Despacho Semanal'
-desc: 'Uma newsletter automatizada com os destaques da semana sobre ciência no Twitter, via Science Pulse'
-subtitle: 'Uma newsletter automatizada com os destaques da semana sobre ciência no Twitter, via Science Pulse'
-background: 'pulse-destak.png'
-link: '{{ site.baseurl }}/newsletters'
-subTitle: ''
-icone: '<i class="far fa-envelope fa-lg"></i>'
-retorno_link: newsletters
-retorno_nome: Newsletters
----
-
-<style>
+I"$'<style>
 #newsletter_page{
   margin: 0 auto;
 }
@@ -55,15 +42,15 @@ ul.share-buttons i {
 
 </style>
 
-![science pulse logo]({{ site.baseurl }}/img/pulse_newshead_logo.png)
+<p><img src="/img/pulse_newshead_logo.png" alt="science pulse logo" /></p>
 
 <div class="tabset">
 
   <!-- Tab 1 -->
-  <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked>
+  <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked="" />
   <label for="tab1">DESPACHO DIÁRIO</label>
   <!-- Tab 2 -->
-  <input type="radio" name="tabset" id="tab2" aria-controls="en">
+  <input type="radio" name="tabset" id="tab2" aria-controls="en" />
   <label for="tab2">DESPACHO SEMANAL</label>
 
 
@@ -72,19 +59,19 @@ ul.share-buttons i {
           <div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
           <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
             <div class="revue-form-group">
-            <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-          <br/>
-          <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
+            <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+          <br />
+          <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
           </div>
           <div class="revue-form-actions">
-            <input type="hidden" name="list" value="reKLi4A3xnM763ZFcG1h1kBg	"/>
-            <input type="hidden" name="subform" value="yes"/>
-            <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA"/>
+            <input type="hidden" name="list" value="reKLi4A3xnM763ZFcG1h1kBg	" />
+            <input type="hidden" name="subform" value="yes" />
+            <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA" />
             </div>
 
           </form>
       </div>
-      <br>
+      <br />
       <p>Despacho Diário é uma newsletter gratuita do <strong>Núcleo</strong>, que traz uma curadoria automatizada todos os dias, inclusive de fim de semana, com os dois tweets de mais destaque e as cinco principais hashtags que a comunidade científica compartilhou no Twitter nas últimas 24 horas, parte do nosso projeto <a href="https://nucleo.jor.br/sciencepulse">Science Pulse</a>.</p>
 
       <p>A curadoria do conteúdo é feita pelos nossos algoritmos, ao passo que a curadoria de perfis é feita pelo jornalista Sérgio Spagnuolo, editor do <strong>Núcleo</strong>.</p>
@@ -98,19 +85,19 @@ ul.share-buttons i {
         <div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
         <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
           <div class="revue-form-group">
-          <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-        <br/>
-        <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
+          <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL" />
+        <br />
+        <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" />
         </div>
         <div class="revue-form-actions">
-          <input type="hidden" name="list" value="FVDD892YnU1CQsb892892lz02ktA"/>
-          <input type="hidden" name="subform" value="yes"/>
-          <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA"/>
+          <input type="hidden" name="list" value="FVDD892YnU1CQsb892892lz02ktA" />
+          <input type="hidden" name="subform" value="yes" />
+          <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA" />
           </div>
 
         </form>
         </div>
-        <br>
+        <br />
         <p>Despacho Semanal é uma newsletter gratuita do <strong>Núcleo</strong>, que traz uma curadoria automatizada com os principais tweets e estatísticas da comunidade científica no Twitter, parte do nosso projeto <a href="https://nucleo.jor.br/sciencepulse">Science Pulse</a>.</p>
 
         <p>A curadoria do conteúdo é feita pelos nossos algoritmos, ao passo que a curadoria de perfis é feita pelo jornalista Sérgio Spagnuolo, editor do <strong>Núcleo</strong>.</p>
@@ -125,14 +112,14 @@ ul.share-buttons i {
   <li>
     <i class="fas fa-share-alt"></i> COMPARTILHE:
   </li>
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&quote=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
-  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&text=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
-  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a></li>
-  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&summary=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-  <li><a href="mailto:?subject=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&body=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Send email"><i class="fas fa-envelope-square fa-lg" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&amp;quote=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-lg" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&amp;text=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&amp;via=nucleojor" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
+  <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&amp;title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono&amp;title=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&amp;summary=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&amp;source=https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+  <li><a href="mailto:?subject=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais&amp;body=Newsletter%20Pol%C3%ADgono%20-%20os%20principais%20debates%20de%20ci%C3%AAncia%20nas%20redes%20sociais:%20https%3A%2F%2Fnucleo.jor.br%2Fnewsletters%2Fpoligono" target="_blank" title="Send email"><i class="fas fa-envelope-square fa-lg" aria-hidden="true"></i><span class="sr-only">Send email</span></a></li>
 </ul>
 
-<br>
+<p><br /></p>
 
 <!--
 ---
@@ -140,7 +127,7 @@ ul.share-buttons i {
 <div style="margin-bottom: 50px">
 <div class="row">
 <div class="col-md-6">
-<img src="{{ site.baseurl }}/img/poligono.gif" alt="img garimpo" width="100%">
+<img src="/img/poligono.gif" alt="img garimpo" width="100%">
 </div>
 
 <div class="col-md-6">
@@ -153,27 +140,32 @@ ul.share-buttons i {
 </div>
 -->
 
-
-
 <h2 style="color:#f33872"> QUEM FAZ </h2>
 
-- **Curadoria de tweets**: [Algoritmo do Science Pulse](https://twitter.com/thesciencepulse)
-
-- **Curadoria de perfis**: [Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo)
-
-- **Desenvolvimento**: [Renata Hirota](https://twitter.com/renata_mh) e [Lucas Gelape](https://twitter.com/lgelape)
-
-- **Arte**: [Rodolfo Almeida](https://twitter.com/rodolfoalmd)
-
+<ul>
+  <li>
+    <p><strong>Curadoria de tweets</strong>: <a href="https://twitter.com/thesciencepulse">Algoritmo do Science Pulse</a></p>
+  </li>
+  <li>
+    <p><strong>Curadoria de perfis</strong>: <a href="https://twitter.com/sergiospagnuolo">Sérgio Spagnuolo</a></p>
+  </li>
+  <li>
+    <p><strong>Desenvolvimento</strong>: <a href="https://twitter.com/renata_mh">Renata Hirota</a> e <a href="https://twitter.com/lgelape">Lucas Gelape</a></p>
+  </li>
+  <li>
+    <p><strong>Arte</strong>: <a href="https://twitter.com/rodolfoalmd">Rodolfo Almeida</a></p>
+  </li>
+</ul>
 
 <h2 style="color:#f33872"> VEJA AS ÚLTIMAS EDIÇÕES </h2>
 
+<script src="https://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript"></script>
+<noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/garimpo-campaignsrss"></a>&lt;/noscript&gt;
 
-<script src="https://feeds.feedburner.com/sciencepulserss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/sciencepulserss"></a><br/></p> </noscript>
 
-<hr>
+<hr />
 
-<small>O uso de seus dados é regido pelo nossa [política de privacidade]({{ site.baseurl }}/privacidade).</small>
+<small>O uso de seus dados é regido pelo nossa [política de privacidade](/privacidade).</small>
 
 <small>Veja abaixo os principais pontos cobertos por essa política:</small>
 
@@ -194,6 +186,10 @@ ul.share-buttons i {
   }
   h2{
     text-transform: uppercase
+  }
+
+  h2,h4{
+    text-align: center
   }
 
 .tabset > input[type="radio"] {
@@ -260,3 +256,5 @@ ul.share-buttons i {
   border-top: 1px solid #d91c5c;
 }
 </style>
+</p></noscript>
+:ET
