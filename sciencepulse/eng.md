@@ -7,6 +7,10 @@ background: 'pulse-destak.png'
 contexto: 'Discover scientific conversations and topics on social media with Science Pulse. Our selected curation includes +1,500 scientists, experts and scientific organizations.'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/science_pulse_eng/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
 color: "#f33872"
+brand_top: '
+<p><strong>SUPPORTED BY:</strong> <a href="https://www.icfj.org/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/icfj.png" alt="logo ICFJ" width="200px" style="padding-right:8px"></a>
+<a href="https://serrapilheira.org/" target="_blank" style="border-bottom: 0px"><img src="https://olz34z4bb51rsojq274o1g19-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/marca-200_.png" alt="Logo Serrapilheira"></a>
+'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">
 SHARE:
@@ -19,107 +23,115 @@ SHARE:
 '
 ---
 
-<small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência `Monitor de Twitter, do Núcleo Jornalismo` ou `Monitor Nuclear`, se possível com link para `www.nucleo.jor.br/monitor`.</small>
-
-### SOBRE O PROJETO
-
-O Monitor Nuclear é uma aplicação do **Núcleo** que identifica tendências de engajamento no Twitter, considerando tweets publicados pelos principais políticos brasileiros e possíveis pré-candidatos à eleição presidencial de 2022.
-
-Esses dados são relevantes porque podem indicar tanto o humor do momento quanto a mobilização de bases de apoio ou de oposição em relação a certo ator político ou assunto.
-
-Com pouco mais de 16 milhões de usuários [^1], o Twitter não representa o eleitorado brasileiro [^2], mas, nos últimos anos, a rede social passou a funcionar como um termômetro do debate político no Brasil [^3] e em muitos outros países.
-
-A rede social é recorrentemente um meio utilizado por autoridades para se comunicar diretamente com suas bases, o que a tornou uma ferramenta de tomada de decisões, além de pautar a imprensa e boa parte do debate.
-
-Para entender mais a importância do Twitter na política e na diplomacia, acesse o estudo Twiplomacy[^4]. Segundo a pesquisa, governos e líderes de 189 países possuíam uma presença oficial na rede social -- quase todos os membros das Nações Unidas.
+<small>_You can get the core code for the application [in this link](https://github.com/voltdatalab/science-pulse-public). With time, we will make more elements available._</small>
 
 
-### METODOLOGIA
+**Science Pulse** is a project led by ICFJ Knight Fellow Sérgio Spagnuolo in collaboration with [Volt Data Lab](https://voltdata.info), a data-driven news agency he founded in Sao Paulo, Brazil. It is supported by the [International Center for Journalists (ICFJ)](https://icfj.org) and by the Brazilian science journalism agency [Bori](https://abori.com.br/).
 
-A fim de garantir total transparência para nossos métodos e abordagens, descrevemos abaixo passo a passo de como chegamos aos resultados do gráfico.
+You can find our privacy policy and license [in this link]({{ site.baseurl }}/privacy).
 
-A base do código é [aberta](https://github.com/voltdatalab/science-pulse-public) e tem como referência a ferramenta [Science Pulse](https://sciencepulse.org/), projeto de monitoramento de ciência do [Volt Data Lab](www.voltdata.info), a empresa por trás do **Núcleo**.
+<p><a href="https://www.icfj.org/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/icfj.png" alt="logo ICFJ" width="160px" style="padding-right:8px"></a>
+<a href="https://www.voltdata.info/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/volt.png" alt="logo Volt" width="120px"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://abori.com.br/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/agenciabori.png" alt="logo Bori" width="60px"></a></p>
 
-#### Escolha dos nomes
+### WHY IS THIS RELEVANT?
 
-Os perfis dos políticos foram baseados em diversas fontes:
+Scientists and journalists have a longstanding record of collaboration. But, as social media creates its own hard-to burst bubbles, sometimes a bridge is necessary to bring awareness about each other's conversations. Journalists can benefit a lot from knowing what scientists and experts are sharing on social media.
 
-- [Lista de senadores](https://twitter.com/i/lists/1049263545530142720), via conta oficial do Senado Federal
+The **Science Pulse** wants to be that bridge. In a time where scientific knowledge is in great demand, there are also great challenges around the way academic papers and preliminary conclusions are communicated. Data, conclusions and decisions can change fast.
 
-- [Lista de deputados](https://twitter.com/i/lists/1126190774805258241), via conta oficial da Câmara dos Deputados
+It is hard to keep up with all social media has to offer nowadays, and even harder to follow hundreds of new people, even if you are interested in what they have to say. And even if you do follow them, some messages will be buried amongst hundreds of other posts and trending topics.
 
-- [Lista de governadores](https://twitter.com/i/lists/1376874024949649411), via Sérgio Spagnuolo (editor do *Núcleo*)
+That is why we decided to make a tool to increase the discovery around the scientific conversation on social media, especially regarding the coronavirus pandemic. It is a way to increase knowledge but also leave some noise out of social media. We will give room for people that are brilliant in their fields, but might not have thousands of followers to engage.
 
-- [Lista de ministros](https://twitter.com/i/lists/1376880814860931082), via Sérgio Spagnuolo (editor do *Núcleo*)
+<hr>
 
-- [Lista com presidente e vice-presidente](https://twitter.com/i/lists/1376883897607335936) via Sérgio Spagnuolo (editor do *Núcleo*)
+## ABOUT THE DATA
 
-- [Lista de atores políticos](https://twitter.com/i/lists/1376884601122082821), que contém personagens relevantes na cena política, políticos eleitos que não constam nas outras listas e políticos ou autoridades sem cargos eletivos, com curadoria de Sérgio Spagnuolo (editor do *Núcleo*)
+### PROFILE COLLECTION
 
-A lista pode ser aumentada, e, inclusive, reduzida, a depender de fatores políticos e eleitorais.
+All the profiles and pages of scientists, experts, physicians, universities, organisations and scientific initiatives were compiled by Science Pulse's development team through a number of methods. We found those profiles mostly through three ways:
 
-Qualquer pessoa pode sugerir um nome para integrar a lista de _atores políticos_, através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSc_Spz0v-_kUqfm1GG_XSY4OCRxGw0IP233UeFdXaOgZK3hvg/viewform), explicando por que.
+1. A crowdsourcing, where people were invited to suggest a profile;
+2. By identifying users with profiles verified by Twitter and Facebook, and checking the profiles that they follow;
+3. Consulting Twitter and Facebook lists of scientists made by universities, journalists or other initiatives.
 
-#### Dados
+Anyone can suggest a new profile to include in our platform through [this form](https://forms.gle/KHufKHzJxJVdsD7s8).
 
-Os dados são baseados em tweets originais (retweets são desconsiderados) publicados pelos próprios atores em seus perfis oficiais e verificados pelo Twitter.
+If you are a scientist or expert with a profile mapped by this tool, you can ask us to be left out. Send an email to [sciencemonitor@icfj.org](mailto:sciencemonitor@icfj.org).
 
-Os dados analisados são obtidos diretamente da API do Twitter[^5], e atualizados a cada 20 minutos. O código para extração pode ser encontrado [neste gist](https://gist.github.com/sergiospagnuolo/16f59265c79f26a95959cd3c9b279f99). A política de API do Twitter não permite a reprodução integral dos dados.
+### DATA COLLECTION
 
-A API gratuita do Twitter só permite retornar os últimos 3.200 tweets de cada perfil.
+Currently, we collect data from tweets and Facebook posts.
 
-#### Base da análise
+On Twitter, our database is updated regularly with new tweets and counts, in respect to Twitter's free API limits. Our datasets are updated every 20 minutes.
 
-A análise é baseada em três variáveis: data de publicação, total de curtidas por tweet e total de retweets por tweet.
+## ABOUT THE ALGORITHM
 
-Os dados não consideram comentários, por dois motivos:
+## TWITTER DATA
 
-**1.** curtidas e retweets estão limitados a apenas um por perfil, funcionando quase como uma métrica de endosso ao conteúdo. Isso torna mais difícil para _bots_ e perfis falsos inflarem artificialmente tweets originais, ao contrário do que acontece com uma hashtag, por exemplo, à medida que um perfil pode curtir múltiplos tweets com um termo.
+### TRENDS
 
-**2.** comentários são ilimitados, o que pode inflar indevidamente o número de interações. Além disso, eles frequentemente não refletem uma interação provável de endosso, podendo ser críticos, ofensivos, spam, piadas, memes ou _tags_ para pessoas acompanharem o assunto.
+All of our trends consider only tweets published in the last 12-hours by our listed profiles. They consider both authored tweets and retweets as separate posts.
 
-Vale notar que a metodologia do **Monitor** é válida para se visualizar engajamento em perfis específicos, mas não acerca de dados conversacionais. Com uma hashtag ou campanha online, por exemplo, o caso é diferente, à medida que há vários tweets com hashtags ou termos que um bot ou um humano possam interagir em massa.
+Trending tweets are separated into three groups for each language:
 
-#### Fórmulas
+1. **Trending**: shows tweets with the highest interactions, compared to what each account would generally have. This measure is designed to find content which stands out from a profile's average. It's based on [CrowdTangle's overperforming metric](https://help.crowdtangle.com/en/articles/2013937-how-do-you-calculate-overperforming-scores): we establish a "penalty" for users with less engagement, in order not to let posts with very low engagement stand out only because it's author has a small number of followers.
 
-O **Monitor** agrega, por dia, o número de tweets disparados entre 00h e 23h59 e soma o total de curtidas e retweets. Essa soma é considerada como o `total de interações`.  
+2. **On Fire**: lists tweets authored by Pulse's list members that had the largest number of retweets from the whole population of Twitter users (retweet count), at the moment of the last data collection. Users can choose from two options: *Discovery* shows tweets from ranks the five tweets with the highest RT:followers ratio published by Pulse's list members (and only if they had more than 1 retweet); and *Popularity* shows tweets from all users listed in Science Pulse's database.
 
-Isso nos permite calcular duas métricas fundamentais para nossa análise: a `taxa de engajamento` e `tendência de engajamento`.  
+3. **Radar**: shows a random list of 5 tweets with more than one retweet and originally authored by profiles listed on Science Pulse. By clicking on "Get new tweets" users get a new sample from random tweets under the same criteria. This sample is also stratified in order to always show two tweets from non-male experts/academics.
 
-1. `Taxa de engajamento`: é a média simples do total de interações pelo número de tweets disparados em um único dia. Assim, se um perfil tuitou 10 vezes e teve 100 interações, a taxa de engajamento é de 10 interações por tweet. Se outro perfil tuitou uma vez e teve 100 interações, essa taxa é de 100 por tweet.
+### EXPLORE
 
-2. `Tendência de engajamento`: é a média móvel exponencial de X dias da taxa de engajamento. Consideramos 15 dias como o _default_, indicando um ciclo noticioso rápido, mas constante.  
+The Discover More tab digs deeper into our databases. It contains four sets of information on tweets posted in the last 12 hours and they are also filtered by language:
 
-3. `Tweets em alta`: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham o maior número de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: Descoberta mostra tweets de usuários que estejam abaixo da mediana do número de seguidores dentre os perfis listados no Science Pulse, e Popularidade mostra tweets de todos os perfis da base de dados.
+1. **Active Users**: the users who have tweeted the most over this period;
 
-Em todos os casos, a linha de tendência utiliza [regressão local (LOESS)](http://www.leg.ufpr.br/lib/exe/fetch.php/projetos:saudavel:loess.pdf), um método estatístico que estima curvas e superfícies através de suavização, melhor para identificar tendências de curto prazo.
+2. **Hashtags**: the most shared hashtags in the same time-lapse;
 
-#### Fundamentos técnicos
+3. **Also popular on pulse**: we use a clustering algorithm (k-means clustering) to classify those tweets into four groups according to their retweet count at the time of the last data collection (1 through 4, with 4 being those with the most retweets). Then, we consider only tweets from "group 2", eliminating those that are probably personal messages and thus have less retweets (group 1) and those that had reached our main trends (Trends tab) or had reached users' Twitter timelines by their own organic reach (groups 3 and 4). Inside group 2, the also popular within pulse set uses the same metrics as the Popular within pulse set from the Trends tab.
 
-O **Monitor** é construído com a linguagem de programação R, utilizando o pacote `Shiny`. O ETL (processo de captura e organização de dados) é feito a partir de uma instância no Rstudio, e o banco de dados que armazena as informações é `PostgresSQL`.
+4. **Hidden gems**: this set shows a random sample of five tweets from the previously described group 2. Tweets can coincide with the previous set, but gives the user a chance to find other interesting content that is not trending.
 
-#### Créditos
+5. **Popular among scientists**:  shows the most retweeted posts published in Pulse’s database by the list’s own members. Every time one member shared a tweet, it counts as one. The highest ranked posts had the highest number of retweets inside the sample, thus identifying the tweets that got the most attention by the listed accounts. For example, if 15 profiles in our sample shared this [@WHO tweet](https://twitter.com/WHO/status/1275349898209173505), it has a 15 share rate.
 
-- [Sérgio Spagnuolo]({{ site.baseurl }}/equipe/sergiospagnuolo) - idealizador e desenvolvedor
+### COVID-19 SPECIAL
 
-- [Lucas Gelape]({{ site.baseurl }}/equipe/lgelape) - desenvolvedor de aplicação
+The **COVID-19 SPECIAL** tab filters tweets in the last 12 hours by keywords related to Covid-19. Thus, it shows trends focused on pandemic-related issues. The metrics used here are same for the **Active users**, **Hashtags** and **Popular among scientists** from the Explore tab - with the caveat that we exclude common hashtags, such as [#COVID-19](https://twitter.com/hashtag/covid19), **Trending** and **On Fire** from the Trends tab.
 
-- [Felippe Mercurio]({{ site.baseurl }}/equipe/ztock) - desenvolvedor de banco de dados
+These are the keywords we apply as filters: "Covid", "covid", "Coronavirus", "coronavirus",
+                      "Corona", "corona", "SARS-CoV-2", "Sars-CoV-2",
+                      "SRAG", "sindrome", "syndrome", "pandemic",
+                      "pandemia", "WHO", "OMS", "quarantine", "social distancing",
+                      "quarentena", "isolamento social", "distanciamento social",
+                      "mascara", "mask", "distanciamiento social", "spread",
+                      "asymptomatic", "epidemic", "outbreak", "epidemia",
+                      "vacina", "vaccine", "wuhan", "Wuhan", "herd immunity",
+                      "imunidade de rebanho", "imunidade coletiva", "lockdown",
+                      "blood clot", "coágulo", "AstraZeneca", "Astrazeneca",
+                      "astrazeneca", "Coronovac", "CoronoVac", "coronavac",
+                      "Janssen", "janssen", "Sputnik", "sputnik",
+                      "máscara", "mascara", "mask".
 
-- [Renata Hirota]({{ site.baseurl }}/equipe/renata_mh) - consultoria
+### PROFILES
 
-- [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico) e [Jade Drummond]({{ site.baseurl }}/equipe/jade_dru) - estratégia digital e comunidades
+In the Profiles tab, we list all members from the group of scientists, institutions, researchers and experts curated by Science Pulse. To help users discover new and reliable sources of scientific information, the *Find New Experts* table shows a random sample of five accounts which have a number of followers smaller than the median number of followers from the profiles in our sample.
 
-- [Rodolfo Almeida]({{ site.baseurl }}/equipe/rodolfoalmd) - Arte
+### POPULARITY
 
-#### Referências
+On this tab, users can compare engagement trends of up to 4 Twitter accounts monitored by the **Science Pulse**, according to four different metrics: engagement trend, engagement rate, interactions' total and number of posted tweets.
 
-[^1]: [Statista](https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/), ref. fevereiro de 2021
+### TWEETS SEARCH
 
-[^2]: [TSE](http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais) - Estatísticas de Eleitorado
+In the Tweets Search tab, users can search from tweets over the last 90 days, according to different filters, such as user-defined keywords, date range, verified profiles, retweets or replies.
 
-[^3]: Uma definição interessante vem do jornalista José Roberto de Toledo, no podcast Foro de Teresina: _"O Twitter não é um espelho da sociedade, ele é um espelho do debate político e ali o que a gente está medindo é o engajamento, a força dos atores, de quanto eles conseguem mobilizar suas bases."_ - [Episódio #95, Foro de Teresina aos 28m28s](https://piaui.folha.uol.com.br/foro-de-teresina-95-os-mitos-da-pandemia-queda-de-braco-com-mandetta-e-o-bate-cabeca-na-economia/)
+## LICENSE (The MIT License)
 
-[^4]: [Twiplomacy Study 2020](https://twiplomacy.com/blog/twiplomacy-study-2020/)
+Copyright 2020 Volt Data Lab
 
-[^5]: [API DO TWITTER](https://developer.twitter.com/en/docs)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

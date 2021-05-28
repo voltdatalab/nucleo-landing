@@ -7,7 +7,10 @@ background: 'pulse-destak.png'
 contexto: 'Explore em um só lugar tendências e conversas sobre ciência nas redes sociais por +1.500 cientistas, especialistas e organizações de renome.'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/science/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
 color: "#f33872"
-incluir_apoio: sim
+brand_top: '
+<p><strong>APOIO:</strong> <a href="https://www.icfj.org/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/icfj.png" alt="logo ICFJ" width="200px" style="padding-right:8px"></a>
+<a href="https://serrapilheira.org/" target="_blank" style="border-bottom: 0px"><img src="https://olz34z4bb51rsojq274o1g19-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/marca-200_.png" alt="Logo Serrapilheira"></a>
+'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
@@ -20,11 +23,24 @@ COMPARTILHE:
 '
 ---
 
-<small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência `Science Pulse`, se possível com link para `www.nucleo.jor.br/sciencepulse`.</small>
+<small>_Você pode acessar nosso código aberto desta aplicação [neste link](https://github.com/voltdatalab/science-pulse-public)._</small>
 
-_Você pode acessar nosso código aberto desta aplicação [neste link](https://github.com/voltdatalab/science-pulse-public)._
+O Science Pulse é um projeto liderado pelo ICFJ Knight Fellow Sérgio Spagnuolo, também editor do **Núcleo** e do [Volt Data Lab](https://voltdata.info), agência de dados fundada por ele em São Paulo. O projeto é apoiado pelo [Centro Internacional para Jornalistas (ICFJ)](https://icfj.org) e pela agência de jornalismo científico [Bori](https://abori.com.br/).
 
-_For the translated version of the methodology [click here](https://sciencepulse.org/eng/methodology)._
+**APOIO INSTITUCIONAL**
+<br>
+<br><a href="https://abori.com.br/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/agenciabori.png" alt="logo Bori" width="60px"></a>
+
+### POR QUE ISSO É RELEVANTE?
+
+Cientistas e jornalistas possuem uma história de colaboração. Mas, em um momento no qual as mídias sociais criam suas próprias bolhas, difíceis de superar, às vezes uma ponte é necessária entre as conversas acontecendo dos dois lados. Jornalistas podem se beneficiar muito de saber o que cientistas e especialistas estão compartilhando em redes sociais.
+
+O Science Pulse quer ser esta ponte. Em uma época na qual o conhecimento científico está em grande demanda, há também grandes desafios acerca de como pesquisas e trabalhos acadêmicos e resultados preliminares são comunicados. Dados, conclusões e decisões podem mudar rapidamente.
+
+Além disso, é difícil acompanhar tudo o que se passa nas redes sociais hoje em dia, e mais difícil ainda seguir centenas ou milhares de novos perfis, mesmo que estejamos interessados no que eles têm a dizer. E, mesmo seguindo todos esses novos perfis, boa parte das mensagens que eles vão passar ficarão perdidas entre outras publicações.
+
+É por isso que decidimos fazer uma ferramenta que pode aumentar a descoberta em torno da conversa científica que acontece agora nas redes sociais, especialmente no contexto da pandemia de coronavírus. É uma forma de aumentar nosso conhecimento, assim como filtrar boa parte do ruído. Daremos espaço para cientistas e especialistas, muitos dos quais são brilhantes em seus campos, mas que não se destacam nas redes sociais.
+
 
 ## SOBRE OS DADOS
 
@@ -61,15 +77,16 @@ Todas as nossas tendências consideram apenas tweets publicados ou recompartilha
 
 Nossa aba principal de tendências é separada em três grupos para cada idioma:
 
-1. **Popular no Pulse**: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham o maior número de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: *Descoberta* mostra tweets de usuários que estejam abaixo da mediana do número de seguidores dentre os perfis listados no Science Pulse, e *Popularidade* mostra tweets de todos os perfis da base de dados.
+1. **Isso é tendência**: mostra os tweets com o maior número de interações (likes + RTs) comparados ao que um perfil normalmente possui. Essa medida é desenhada para encontrar conteúdos que se destacam da média de um perfil. Ele é inspirado na [medida de *overperforming* do CrowdTangle](https://help.crowdtangle.com/en/articles/1141056-how-is-overperforming-calculated): estabelecemos uma espécie de penalidade para usuários com menos engajamento, para não permitir que posts com um número muito baixo de interações apareça somente porque o autor possui um baixo número de seguidores.
 
-2. **Popularidade em alta**: ranqueia os cinco tweets com maior proporção de RTs por seguidores (RT:followers) publicados por membros da lista do Science Pulse (apenas se tiverem mais de 10 retweets). Essa lista mostra posts que tiveram engajamento significativo (com base em RTs), levando em conta o alcance (número de seguidores) do perfil que a escreveu. Se um tweet tiver 200 RTs e seu autor tiver 400 seguidores, o tweet possui uma razão de 0,5 RT:seguidores.
+2. **Pegando fogo**: lista tweets de autoria de perfis monitorados pelo Science Pulse que tenham um número substantivo de retweets de toda a população de usuários (contagem de RTs), no momento da última coleta de dados. Usuários podem escolher duas opções para visualização: *Descoberta* ranqueia os cinco tweets com maior proporção de RTs por seguidores (RT:followers) publicados por membros da lista do Science Pulse (apenas se tiverem mais de 1 retweet), e *Popularidade* mostra os tweets com maior número de RTs dentre todos os perfis monitorados.
 
-3. **Descubra mais**: mostra uma lista de 5 tweets aleatórios que tiveram mais que um RT (por usuários de toda a rede social) e são de autoria de perfis listados no Science Pulse. Ao clicar no ícone "Mostrar novos tweets" o usuário sorteia uma nova lista com 5 tweets aleatórios.
+3. **Radar pulse**: mostra uma lista de 5 tweets aleatórios que tiveram mais que um RT (por usuários de toda a rede social) e são de autoria de perfis listados no Science Pulse. Ao clicar no ícone "Mostrar novos tweets" o usuário sorteia uma nova lista com 5 tweets aleatórios. Essa amostra de 5 tweets é estratificada para *sempre* mostrar dois tweets de especialistas/acadêmicos não-homens.
+
 
 ### DESCUBRA MAIS
 
-Essa aba serve para maior exploração do banco de dados de tweets do Science Pulse. Ela contém quatro conjuntos de informações sobre tweets publicados nas últimas 12 horas, também filtrados por idioma:
+Essa aba serve para maior exploração do banco de dados de tweets do Science Pulse. Ela contém cinco conjuntos de informações sobre tweets publicados nas últimas 12 horas, também filtrados por idioma:
 
 1. **Usuários ativos**: os usuários que mais tuitaram no período;
 
@@ -86,14 +103,7 @@ Essa aba serve para maior exploração do banco de dados de tweets do Science Pu
 
 O **ESPECIAL COVID-19** apresenta tweets em destaque nas últimas 12 horas em posts filtrados por palavras-chave relacionadas à pandemia. As métricas utilizadas são as mesmas para usuários ativos e hashtags da aba Descubra Mais - com a exclusão de hashtags mais recorrentes, como [#COVID-19](https://twitter.com/hashtag/covid19) - e das colunas da aba Tendências.  
 
-Essas são as palavras-chave aplicadas como filtro: "Covid", "covid", "Coronavirus", "coronavirus",
-                    "Corona", "corona", "SARS-CoV-2", "Sars-CoV-2",
-                    "SRAG", "sindrome", "syndrome", "pandemic",
-                    "pandemia", "WHO", "OMS", "quarantine", "social distancing",
-                    "quarentena", "isolamento social", "distanciamento social",
-                    "mascara", "mask", "distanciamiento social", "spread", "asymptomatic",
-                    "epidemic", "outbreak", "epidemia", "vacina", "vaccine", "wuhan", "Wuhan",
-                    "herd immunity", "imunidade de rebanho", "imunidade coletiva".
+Essas são as palavras-chave aplicadas como filtro: “Covid”, “covid”, “Coronavirus”, “coronavirus”, “Corona”, “corona”, “SARS-CoV-2”, “Sars-CoV-2”, “SRAG”, “sindrome”, “syndrome”, “pandemic”, “pandemia”, “WHO”, “OMS”, “quarantine”, “social distancing”, “quarentena”, “isolamento social”, “distanciamento social”, “mascara”, “mask”, “distanciamiento social”, “spread”, “asymptomatic”, “epidemic”, “outbreak”, “epidemia”, “vacina”, “vaccine”, “wuhan”, “Wuhan”, “herd immunity”, “imunidade de rebanho”, “imunidade coletiva”, “lockdown”, “blood clot”, “coágulo”, “AstraZeneca”, “Astrazeneca”, “astrazeneca”, “Coronovac”, “CoronoVac”, “coronavac”, “Janssen”, “janssen”, “Sputnik”, “sputnik”, “máscara”, “mascara”, “mask”.
 
 ### PERFIS ACOMPANHADOS
 

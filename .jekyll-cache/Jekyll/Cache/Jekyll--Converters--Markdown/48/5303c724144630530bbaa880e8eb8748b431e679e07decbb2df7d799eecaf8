@@ -1,0 +1,100 @@
+I"!<p><small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência <code class="language-plaintext highlighter-rouge">Monitor de Twitter, do Núcleo Jornalismo</code> ou <code class="language-plaintext highlighter-rouge">Monitor Nuclear</code>, se possível com link para <code class="language-plaintext highlighter-rouge">www.nucleo.jor.br/monitor</code>.</small></p>
+
+<p><em>You can get the core code for the application <a href="https://github.com/voltdatalab/science-pulse-public">in this link</a>. With time, we will make more elements available.</em></p>
+
+<h2 id="about-the-data">ABOUT THE DATA</h2>
+
+<h3 id="profile-collection">PROFILE COLLECTION</h3>
+
+<p>All the profiles and pages of scientists, experts, physicians, universities, organisations and scientific initiatives were compiled by Science Pulse’s development team through a number of methods. We found those profiles mostly through three ways:</p>
+
+<ol>
+  <li>A crowdsourcing, where people were invited to suggest a profile;</li>
+  <li>By identifying users with profiles verified by Twitter and Facebook, and checking the profiles that they follow;</li>
+  <li>Consulting Twitter and Facebook lists of scientists made by universities, journalists or other initiatives.</li>
+</ol>
+
+<p>Anyone can suggest a new profile to include in our platform through <a href="https://forms.gle/KHufKHzJxJVdsD7s8">this form</a>.</p>
+
+<p>If you are a scientist or expert with a profile mapped by this tool, you can ask us to be left out. Send an email to <a href="mailto:sciencemonitor@icfj.org">sciencemonitor@icfj.org</a>.</p>
+
+<h3 id="data-collection">DATA COLLECTION</h3>
+
+<p>Currently, we collect data from tweets and Facebook posts.</p>
+
+<p>On Twitter, our database is updated regularly with new tweets and counts, in respect to Twitter’s free API limits. Our datasets are updated every 20 minutes.</p>
+
+<h2 id="about-the-algorithm">ABOUT THE ALGORITHM</h2>
+
+<h2 id="twitter-data">TWITTER DATA</h2>
+
+<h3 id="trends">TRENDS</h3>
+
+<p>All of our trends consider only tweets published in the last 12-hours by our listed profiles. They consider both authored tweets and retweets as separate posts.</p>
+
+<p>Trending tweets are separated into three groups for each language:</p>
+
+<ol>
+  <li>
+    <p><strong>Trending</strong>: shows tweets with the highest interactions, compared to what each account would generally have. This measure is designed to find content which stands out from a profile’s average. It’s based on <a href="https://help.crowdtangle.com/en/articles/2013937-how-do-you-calculate-overperforming-scores">CrowdTangle’s overperforming metric</a>: we establish a “penalty” for users with less engagement, in order not to let posts with very low engagement stand out only because it’s author has a small number of followers.</p>
+  </li>
+  <li>
+    <p><strong>On Fire</strong>: lists tweets authored by Pulse’s list members that had the largest number of retweets from the whole population of Twitter users (retweet count), at the moment of the last data collection. Users can choose from two options: <em>Discovery</em> shows tweets from ranks the five tweets with the highest RT:followers ratio published by Pulse’s list members (and only if they had more than 1 retweet); and <em>Popularity</em> shows tweets from all users listed in Science Pulse’s database.</p>
+  </li>
+  <li>
+    <p><strong>Radar</strong>: shows a random list of 5 tweets with more than one retweet and originally authored by profiles listed on Science Pulse. By clicking on “Get new tweets” users get a new sample from random tweets under the same criteria. This sample is also stratified in order to always show two tweets from non-male experts/academics.</p>
+  </li>
+</ol>
+
+<h3 id="explore">EXPLORE</h3>
+
+<p>The Discover More tab digs deeper into our databases. It contains four sets of information on tweets posted in the last 12 hours and they are also filtered by language:</p>
+
+<ol>
+  <li>
+    <p><strong>Active Users</strong>: the users who have tweeted the most over this period;</p>
+  </li>
+  <li>
+    <p><strong>Hashtags</strong>: the most shared hashtags in the same time-lapse;</p>
+  </li>
+  <li>
+    <p><strong>Also popular on pulse</strong>: we use a clustering algorithm (k-means clustering) to classify those tweets into four groups according to their retweet count at the time of the last data collection (1 through 4, with 4 being those with the most retweets). Then, we consider only tweets from “group 2”, eliminating those that are probably personal messages and thus have less retweets (group 1) and those that had reached our main trends (Trends tab) or had reached users’ Twitter timelines by their own organic reach (groups 3 and 4). Inside group 2, the also popular within pulse set uses the same metrics as the Popular within pulse set from the Trends tab.</p>
+  </li>
+  <li>
+    <p><strong>Hidden gems</strong>: this set shows a random sample of five tweets from the previously described group 2. Tweets can coincide with the previous set, but gives the user a chance to find other interesting content that is not trending.</p>
+  </li>
+  <li>
+    <p><strong>Popular among scientists</strong>:  shows the most retweeted posts published in Pulse’s database by the list’s own members. Every time one member shared a tweet, it counts as one. The highest ranked posts had the highest number of retweets inside the sample, thus identifying the tweets that got the most attention by the listed accounts. For example, if 15 profiles in our sample shared this <a href="https://twitter.com/WHO/status/1275349898209173505">@WHO tweet</a>, it has a 15 share rate.</p>
+  </li>
+</ol>
+
+<h3 id="covid-19-special">COVID-19 SPECIAL</h3>
+
+<p>The <strong>COVID-19 SPECIAL</strong> tab filters tweets in the last 12 hours by keywords related to Covid-19. Thus, it shows trends focused on pandemic-related issues. The metrics used here are same for the <strong>Active users</strong>, <strong>Hashtags</strong> and <strong>Popular among scientists</strong> from the Explore tab - with the caveat that we exclude common hashtags, such as <a href="https://twitter.com/hashtag/covid19">#COVID-19</a>, <strong>Trending</strong> and <strong>On Fire</strong> from the Trends tab.</p>
+
+<p>These are the keywords we apply as filters: “Covid”, “covid”, “Coronavirus”, “coronavirus”,
+                      “Corona”, “corona”, “SARS-CoV-2”, “Sars-CoV-2”,
+                      “SRAG”, “sindrome”, “syndrome”, “pandemic”,
+                      “pandemia”, “WHO”, “OMS”, “quarantine”, “social distancing”,
+                      “quarentena”, “isolamento social”, “distanciamento social”,
+                      “mascara”, “mask”, “distanciamiento social”, “spread”,
+                      “asymptomatic”, “epidemic”, “outbreak”, “epidemia”,
+                      “vacina”, “vaccine”, “wuhan”, “Wuhan”, “herd immunity”,
+                      “imunidade de rebanho”, “imunidade coletiva”, “lockdown”,
+                      “blood clot”, “coágulo”, “AstraZeneca”, “Astrazeneca”,
+                      “astrazeneca”, “Coronovac”, “CoronoVac”, “coronavac”,
+                      “Janssen”, “janssen”, “Sputnik”, “sputnik”,
+                      “máscara”, “mascara”, “mask”.</p>
+
+<h3 id="profiles">PROFILES</h3>
+
+<p>In the Profiles tab, we list all members from the group of scientists, institutions, researchers and experts curated by Science Pulse. To help users discover new and reliable sources of scientific information, the <em>Find New Experts</em> table shows a random sample of five accounts which have a number of followers smaller than the median number of followers from the profiles in our sample.</p>
+
+<h3 id="popularity">POPULARITY</h3>
+
+<p>On this tab, users can compare engagement trends of up to 4 Twitter accounts monitored by the <strong>Science Pulse</strong>, according to four different metrics: engagement trend, engagement rate, interactions’ total and number of posted tweets.</p>
+
+<h3 id="tweets-search">TWEETS SEARCH</h3>
+
+<p>In the Tweets Search tab, users can search from tweets over the last 90 days, according to different filters, such as user-defined keywords, date range, verified profiles, retweets or replies.</p>
+:ET

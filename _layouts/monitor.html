@@ -80,7 +80,11 @@ ul.share-buttons i{
 										{% endif %}
 
 										{% if page.incluir_apoio %}
-											<a href="https://nucleo.jor.br/apoie" target="_blank" style="color:{{ page.color }}">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i>
+										<a href="https://nucleo.jor.br/apoie" target="_blank" style="color:{{ page.color }}">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i>
+										{% endif %}
+
+										{% if page.brand_top %}
+											{{ page.brand_top }}
 										{% endif %}
 
 								</div>

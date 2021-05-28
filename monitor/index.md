@@ -1,11 +1,14 @@
 ---
 layout: monitor
-title: 'Monitor Nuclear | Núcleo Jornalismo'
+title: 'Monitor Nuclear'
 desc: 'Acompanhe e analise o debate político no Twitter'
 tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
 contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação de apresenta tendências e análises sobre perfis dos políticos mais relevantes no Twitter.'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
+brand_top: '
+<p><strong>APOIO:</strong> <a href="https://www.icfj.org/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/icfj.png" alt="logo ICFJ" width="200px" style="padding-right:8px"></a>
+'
 share_buttons: '
 <ul class="share-buttons" style="text-align: center">
 COMPARTILHE:
@@ -15,7 +18,6 @@ COMPARTILHE:
 <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20do%20N%C3%BAcleo%20Jornalismo" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-square fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnucleo.jor.br%2Fmonitor&title=Monitor%20Nuclear%2C%20compare%20tend%C3%AAncias%20de%20engajamento%20dos%20principais%20pol%C3%ADticos&summary=&source=https%3A%2F%2Fnucleo.jor.br%2Fmonitor" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i><span class="sr-only"></span></a></li>
 </ul>
-<a href="https://nucleo.jor.br/apoie" target="_blank">APOIE ESSE PROJETO VIA PIX</a> <i class="fas fa-money-check-alt"></i>
 '
 ---
 

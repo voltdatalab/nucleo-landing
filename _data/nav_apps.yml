@@ -6,7 +6,9 @@
 
 - nome: Science Pulse
   link: 'sciencepulse'
-  externo: sim
+
+- nome: Science Pulse (English)
+  link: 'sciencepulse/eng'
 
 - nome: Bot de ciência
   link: 'https://t.me/SciencePulseBot'

@@ -14,7 +14,7 @@ edicao: Alexandre Orrico
 credito_img: "Allan Santos/PR (Agência Brasil) | Intervenção de Rodolfo Almeida"
 creditos: "Lais Martins, Alexandre Orrico, Victor Silva"
 background: 'motociata/bolsonaro-motoqueiro_Teaser.png'
-atualizacao: "Texto atualizado às 9h32 do dia 27.mai.2021 para corrigir nome do grupo 'Rolezinho 100 limites', que numa primeira versão estava 'Rolezinho 100grau'"
+atualizacao: "Texto atualizado às 9h32 do dia 27.mai.2021 para corrigir nome do grupo 'Rolezinho 100 limites', que numa primeira versão estava 'Rolezinho 100grau'. Texto atualizado em 28.mai.2021 às 12h20 para esclarecer informação no 8º parágrafo sobre um post apagado no grupo de motoboys no Facebook: onde se lia 'A mensagem com essa sugestão foi apagada' agora se lê 'O post no Facebook foi apagado'."
 categories:
   - "reportagem"
 tags:
@@ -50,7 +50,7 @@ No Rio de Janeiro, a coisa toda começou logo após o evento em Brasília, quand
 
 O grupo [Motoboys e Entregadores do RJ](https://www.facebook.com/groups/929534160502538), no Facebook, repercutiu o post do presidente. O espaço discute problemas cotidianos e foi um local importante de conversa da categoria durante o [Breque dos Apps](https://www.uol.com.br/tilt/noticias/redacao/2020/07/01/e-greve-entregadores-param-hoje-e-fazem-desafio-a-economia-dos-aplicativos.htm) em 1º julho do ano passado, conhecido como a primeira greve nacional dos entregadores, mas naquele momento reverberava a mensagem do mandatário.
 
-Nos comentários estava um link com convite para o "🇧🇷 Patriotas de Moto 🇧🇷", grupo de WhatsApp que tinha um ritual de entrada incomum: "se apresente aí com uma foto e suas máquinas". A mensagem com essa sugestão foi apagada pouco tempo depois para evitar polêmicas e intrigas, mas ficou no ar tempo suficiente para reunir uma bolha de entregadores que se identificavam com a ideia de participar da motociata.
+Nos comentários estava um link com convite para o "🇧🇷 Patriotas de Moto 🇧🇷", grupo de WhatsApp que tinha um ritual de entrada incomum: "se apresente aí com uma foto e suas máquinas". O post no Facebook foi apagado pouco tempo depois para evitar polêmicas e intrigas, mas ficou no ar tempo suficiente para reunir uma bolha de entregadores que se identificavam com a ideia de participar da motociata.
 
 O controle de entrada pode ter servido para tentar uniformizar a identidade ideológica do grupo num primeiro momento, quando começaram a circular também imagens e propostas do governo Bolsonaro as quais os articuladores dessa comunidade consideravam pontos comuns da categoria, como a redução dos pedágios federais para motos.
 
