@@ -57,8 +57,6 @@ ul.share-buttons i {
 
 ![garimpo logo]({{ site.baseurl }}/img/poligono-header.png)
 
-<div style="border: 0px solid #000; padding: 14px;text-align:center"><p>RECEBA PRIMEIRO, INSCREVA-SE AGORA. <strong>PREVISÃO DE LANÇAMENTO EM JUNHO DE 2021</strong></p></div>
-
 <div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
   <div class="revue-form-group">
