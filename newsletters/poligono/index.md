@@ -111,7 +111,7 @@ A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jorna
 <br>
 <p>Veja as últimas edições:</p>
 
-<script src="" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href=""></a></noscript>
+<script src="https://feeds.feedburner.com/poligono-rss-feed?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/poligono-rss-feed"></a><br/></p> </noscript>
 </div>
 </div>
 </div>
