@@ -1,35 +1,14 @@
----
-published: TRUE
-layout: curtas
-tipo: curtas
-title: "Manifestações 29M unificam narrativa anti-Bolsonaro no Twitter"
-titulo_redes: "Manifestações 29M unificam narrativa anti-Bolsonaro no Twitter"
-subtitle: 'Debate contra o governo estava pulverizado entre outros assuntos de destaque nas últimas semanas'
-subtitle_redes: 'Debate contra o governo estava pulverizado entre outros assuntos de destaque'
-excerpt: 'Debate contra o governo estava pulverizado entre outros assuntos de destaque nas últimas semanas'
-date: 31/05/2021 08:14
-texto: Sérgio Spagnuolo
-analise: Pedro Barciela
-edicao: Alexandre Orrico
-creditos: "Sérgio Spagnuolo, Alexandre Orrico, Pedro Barciela"
-como_fizemos: "Análise de redes e debates via dados coletados do Twitter."
-background: 'curtas/redes_padroes/twitter.png'
-categories:
-  - "curtas"
-tags:
-  - "29M, "
-  - "Manifestações, "
-  - "Anti-Bolsonarismo"
+I"�<p>A repercussão no Twitter das manifestações de 29 de maio em todo o Brasil ajudou a sedimentar uma narrativa unificada contra o presidente Jair Bolsonaro, que estava pulverizada nos debates da rede nas últimas semanas, entre pautas como CPI da Pandemia, vacinação e voto impresso.</p>
 
----
+<p>Os debates no Twitter são particularmente importantes porque, frequentemente, pauta as conversas em outras redes sociais, em estratégias de comunicação e até mesmo em políticas públicas.</p>
 
-A repercussão no Twitter das manifestações de 29 de maio em todo o Brasil ajudou a sedimentar uma narrativa unificada contra o presidente Jair Bolsonaro, que estava pulverizada nos debates da rede nas últimas semanas, entre pautas como CPI da Pandemia, vacinação e voto impresso.
+<p>Com as manifestações, a campanha anti-bolsonarista expandiu seu campo de diálogo, engajando outros atores e consolidando uma estrutura de atuação que poderá, em 2022, ser bastante significativa. A manifestação da Av. Paulista, em São Paulo, e brutalidade da Polícia Militar de Pernambuco tiveram papéis centrais no debate.</p>
 
-Os debates no Twitter são particularmente importantes porque, frequentemente, pauta as conversas em outras redes sociais, em estratégias de comunicação e até mesmo em políticas públicas.
+<div style="margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;">
+  <h4 style="font-size:1em; text-transform: uppercase">Acompanhe o debate político no Twitter com o <strong>Monitor Nuclear</strong>. <br />
+  <a href="/monitor" target="_blank"><button type="button" name="button">ACESSE AGORA</button></a>
+&lt;/div&gt;
 
-Com as manifestações, a campanha anti-bolsonarista expandiu seu campo de diálogo, engajando outros atores e consolidando uma estrutura de atuação que poderá, em 2022, ser bastante significativa. A manifestação da Av. Paulista, em São Paulo, e brutalidade da Polícia Militar de Pernambuco tiveram papéis centrais no debate.
-
-{% include monitor_sugestao.html %}
 
 Diferentemente das manifestações de junho de 2020, quando alguns influenciadores contrários a Bolsonaro [criticaram](https://revistaquem.globo.com/QUEM-News/noticia/2020/06/emicida-rebate-criticas-por-nao-ter-ido-manifestacao-rezando-para-que-o-contagio-tenha-sido-baixo.html) aglomerações, desta vez não houve um grande movimento de críticas aos que foram às ruas por parte de anti-bolsonaristas, mas sim preocupação com a segurança e com os protocolos. Manifestações na linha do "não pude ir, mas estou feliz pela mobilização" tiveram significativo destaque.
 
@@ -41,7 +20,6 @@ O bolsonarismo optou por reagir às manifestações em duas frentes:
 
 2. A segunda ofensiva, ainda que confusa, tenta responsabilizar a oposição por uma mistura de aglomerações + terceira onda + PT. Tentam, aqui, incluir o nome do ex-presidente Lula com um dos alvos, a quem responsabilizam por de forma indireta "convocar" as manifestações. Aqui, atores como Adrilles Jorge, Rodrigo Constantino, Eduardo Bolsonaro e setores do lavajatismo, como Antagonista, se destacam em volume de interações.
 
-{% include assine_newsletter.html %}
 
 ### Dados gerais
 * Campo bolsonarista: 12,54% dos atores; 13,02% das interações;
@@ -50,7 +28,7 @@ O bolsonarismo optou por reagir às manifestações em duas frentes:
 * Termos: Aglomeração, Manifestação, Bolsonaro, Ruas, Povo, Genocida, Esquerda.
 
 
-![imagem da capa do livrete com dados de generais do Exército]({{ site.baseurl }}/img/curtas/graficos/29M-analise-redes.png)
+![imagem da capa do livrete com dados de generais do Exército](/img/curtas/graficos/29M-analise-redes.png)
 <figcaption>O que se destaca é a pluralidade de clusters que compõe o campo antibolsonarista, aqui marcados pelas cores verde, lilás, laranja, entre outras. A exceção é o campo bolsonarista, sinalizado pela cor azul e que, para além de em menor tamanho, sinaliza um isolamento desse perfil de usuário.</figcaption>
 
 | Dias       | Amostra |
@@ -68,3 +46,5 @@ O bolsonarismo optou por reagir às manifestações em duas frentes:
 - *Caso se mantenha, unificação de campanhas anti-bolsonaristas nas redes sociais pode ter impacto nas eleições de 2022.*
 
 ---
+</h4></div>
+:ET
