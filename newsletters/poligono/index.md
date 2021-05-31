@@ -121,13 +121,13 @@ A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jorna
 
 <h2 style="color:#f33872"> QUEM FAZ </h2>
 
-- **Curadoria**: [Luiza Caires](https://twitter.com/luizacaires3)
+- **Curadoria**: [Luiza Caires]({{ site.baseurl }}/equipe/luizacaires3)
 
-- **Desenvolvimento**: [Renata Hirota](https://twitter.com/renata_mh)
+- **Desenvolvimento**: [Renata Hirota]({{ site.baseurl }}/equipe/renata_mh)
 
-- **Arte**: [Rodolfo Almeida](https://twitter.com/rodolfoalmd)
+- **Arte**: [Rodolfo Almeida]({{ site.baseurl }}/equipe/rodolfoalmd)
 
-- **Edição**: [Alexandre Orrico](https://twitter.com/alexorrico)
+- **Edição**: [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico) e [Sérgio Spagnuolo]({{ site.baseurl }}/equipe/sergiospagnuolo)
 
 
 <hr>

@@ -60,7 +60,7 @@
 													{% if page.dados_abertos %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h4> {% endif %}
 													{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
 													{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
-													
+
 													{% if page.atualizacao %}
 													<h4 class="arquivado creditos_alt" style="max-width:300px">
 														<i class="fas fa-exclamation-circle"></i> {{ page.atualizacao }}
@@ -89,12 +89,8 @@
 							<br />
 									{{ content }}
 
-
-									<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
-
 									<!-- SUGESTÃO DE POSTS -->
-									<div style="padding: 5% 5% 0px;max-width:550px">
+									<div style="padding: 0 5% 5%;max-width:550px">
 										<h5 class="chapeu"><i class="fas fa-layer-group fa-lg"></i> OUTRAS DO JOGO RÁPIDO</h5>
 										<br /><br />
 
@@ -129,7 +125,7 @@
 							</div>
 						</div>
 
-
+</div>
 
   {% include footer.html %}
   {% include js.html %}

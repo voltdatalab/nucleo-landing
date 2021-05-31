@@ -92,13 +92,13 @@ img{
 
 ## Quem faz
 
-- **Curadoria**: [Raphael Evangelista](https://twitter.com/raphaevanges)
+- **Curadoria**: [Raphael Evangelista]({{ site.baseurl }}/equipe/raphaevanges)
 
-- **Desenvolvimento**: [Renata Hirota](https://twitter.com/renata_mh)
+- **Desenvolvimento**: [Renata Hirota]({{ site.baseurl }}/equipe/renata_mh)
 
-- **Arte**: [Rodolfo Almeida](https://twitter.com/rodolfoalmd)
+- **Arte**: [Rodolfo Almeida]({{ site.baseurl }}/equipe/rodolfoalmd)
 
-- **Edição**: [Alexandre Orrico](https://twitter.com/alexorrico)
+- **Edição**: [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico)
 
 
 <hr>
