@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: 'Newsletters'
-desc: 'Conheça as newsletters do do Núcleo Jornalismo'
+desc: 'Conheça as newsletters do Núcleo Jornalismo'
 subtitle: ''
 link: ''
 icone: '<i class="far fa-envelope fa-lg"></i>'

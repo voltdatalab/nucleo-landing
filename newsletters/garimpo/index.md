@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'Newsletter Garimpo - tendências e assuntos das redes sociais'
+title: 'Newsletter Garimpo'
 desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
 background: 'header-garimpo.png'
@@ -73,19 +73,30 @@ img{
 
 ---
 
+<!-- 1a Div -->
 <div style="margin-bottom: 50px">
+<!-- 2a Div -->
 <div class="row">
+
+<!-- 1a col Div -->
 <div class="col-md-6">
 <img src="{{ site.baseurl }}/img/garimpo.gif" alt="img garimpo" width="100%">
+<!-- fecha 1a col Div -->
 </div>
 
+<!-- 2a col Div -->
 <div class="col-md-6">
 <br>
 <p>Veja as últimas edições:</p>
 
-<script src="https://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/garimpo-campaignsrss"></a></noscript>
+<script src="https://feeds.feedburner.com/garimpo-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/garimpo-campaignsrss"></a></p></noscript>
+<!-- fecha 2a col Div -->
 </div>
+
+<!-- fecha 2a Div -->
 </div>
+
+<!-- fecha 1a Div -->
 </div>
 
 ---
