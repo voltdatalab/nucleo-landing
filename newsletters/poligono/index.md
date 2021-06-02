@@ -56,7 +56,6 @@ ul.share-buttons i {
 </style>
 
 
-<!--
 ![garimpo logo]({{ site.baseurl }}/img/poligono-header.png)
 
 <div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
@@ -75,7 +74,7 @@ ul.share-buttons i {
 </form>
 </div>
 
--->
+
 
 <br>
 **Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates de ciência nas redes sociais, parte do nosso projeto [Science Pulse]({{ site.baseurl }}/sciencepulse). A newsletter é apoiada pelo [Instituto Serrapilheira](https://serrapilheira.org/).
@@ -108,7 +107,7 @@ A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jorna
 <div style="margin-bottom: 50px">
 <div class="row">
 <div class="col-md-6">
-
+<img src="{{ site.baseurl }}/img/poligono.gif" alt="img garimpo" width="100%">
 </div>
 
 <div class="col-md-6">
