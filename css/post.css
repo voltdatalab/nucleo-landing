@@ -476,10 +476,9 @@ td{
 
 h2.subheading-special {
   font-weight: 300;
-  color: #555555;
+  color: #444444;
   font-size: 1.4em;
-  line-height: 2.3em;
-  text-transform: uppercase;
+  line-height: 1.8em;
   padding: 7px;
   background-color: none;
   display: inline;

@@ -1,0 +1,344 @@
+I"q<style>
+
+h3{
+  margin-top: 35px;
+}
+
+.botao {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 5px 7px;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  border: 1px solid #4b31dd
+}
+
+.botao:hover {
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.active{
+  background-color: #4b31dd;
+  color: #fff;
+}
+
+.cf:before, .cf:after {
+	 content: "";
+	 display: table;
+}
+ .cf:after {
+	 clear: both;
+}
+ .cf {
+	 zoom: 1;
+}
+ #content {
+	 max-width: 650px;
+	 margin: 3rem auto;
+	 text-align: center;
+}
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media screen and (max-width: 900px) {
+  .timeline ul li div {
+    width: 250px;
+  }
+  .timeline ul li:nth-child(even) div {
+    left: -289px;
+    /*250+45-6*/
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+</style>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+
+<p><strong>A BRIGA</strong> A briga para ganhar o público jovem no Brasil tem levado duas crescentes redes sociais chinesas, TikTok e Kwai, a uma disputa ferrenha, envolvendo estratégias agressivas de aquisição de novos usuários e acusações de roubo de perfis e conteúdo. O prêmio: um pedaço do mercado no Brasil, um dos maiores do mundo para as redes sociais, com mais de <a href="https://www.statista.com/topics/6949/social-media-usage-in-brazil/">130 milhões</a> de usuários ativos por mês.</p>
+
+<p>No centro dessa disputa estão programas de bonificação que pagam centavos para usuários passarem horas na plataforma ou um pouco mais para indicarem novas pessoas.</p>
+
+<p>Conceder certos benefícios é uma prática comum em aplicativos em geral, mas essas redes chinesas parecem estar levando a estratégia a um novo patamar de concorrência no país, colocando usuários em uma jornada por dinheiro fácil que não é tão fácil assim, mais e mais tempo conectados, em busca de recompensas em dinheiro.</p>
+
+<h5 id="procrastinar-nas-redes-nunca-foi-tão-lucrativo--nem-tão-trabalhoso">Procrastinar nas redes nunca foi tão lucrativo – nem tão trabalhoso.</h5>
+
+<p>A imprensa mordeu a isca. Uma <a href="https://www.google.com/search?q=kwai+bonus+AND+tiktok+bonus&amp;newwindow=1&amp;sxsrf=ALeKk01rwFcuh8XQYiudqukEblEZb3DEtg:1622688745834&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=2ahUKEwjlxprSuvrwAhW0ILkGHdiUDNIQ_AUoAnoECAEQBA&amp;biw=1376&amp;bih=944&amp;dpr=1">busca rápida</a> no Google mostra matérias, inclusive de veículos de renome, descrevendo as benesses desses programas e como fazer para ganhar dinheiro.</p>
+
+<p>Em outras redes, pululam depoimentos de pessoas que alegam terem embolsado centenas de reais em poucas semanas, compartilhando códigos de acesso, dando audiência a vídeos de outros usuários ou convidando pessoas para se juntarem aos programas em uma espécie de esquema pirâmide da influência social.</p>
+
+<p>Menções no Facebook e no Instagram <input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br /><br />Segundo alguns sites especializados, a rede <a href="https://www.businessinsider.com/influencer-news-instagram-reels-payment-spotlight-update-top-agents-2021-5" target="_blank">estuda</a> modelo similar com o Reels.<br /><br /></span> com a combinação dos termos “dinheiro” com “Kwai” e “TikTok” dispararam a partir de abril deste ano, com pessoas compartilhando em peso seus códigos de referência para que novos usuários entrem nas campanhas – com o Kwai levando a melhor no total de menções e interações.</p>
+
+<p>No Twitter, os convites e indicações também <a href="https://twitter.com/search?q=Kwai%20AND%20dinheiro&amp;src=typed_query">comem soltos</a>. Um perfil oficial do Kwai no Brasil, inclusive, foi suspenso do Twitter. Nenhuma das duas empresas especificou à reportagem o motivo do banimento, mas as <a href="https://help.twitter.com/pt/managing-your-account/suspended-twitter-accounts#:~:text=Para%20manter%20um%20ambiente%20seguro,Twitter%20e%20todos%20os%20usu%C3%A1rios.">regras da plataforma determinam</a> que contas podem ser suspensas no caso de spam, colocar segurança de páginas em risco ou comportamentos abusivos.</p>
+
+<div id="content">
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
+<div id="thumb_img" class="cf">
+  <button class="active botao" onclick="changeimg('/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png',this);">Facebook
+  </button>
+  <button class="botao" onclick="changeimg('/img/kwai_tiktok/dinheiro-redes-instagram-kwai-tiktok.png',this);">Instagram
+  </button>
+</div>
+  <div id="featured_img">
+    <img id="img" src="/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png" class="img-destak" />
+  </div>
+</div>
+
+<h3 id="dinheiro-ou-dancinhas">DINHEIRO OU DANCINHAS</h3>
+
+<p>Diferentemente de aplicativos da chamada <a href="https://www.projetodraft.com/verbete-draft-o-que-e-gig-economy/"><em>gig economy</em></a> como Uber, DogHero e Rappi, por exemplo, nos quais as pessoas ganham dinheiro prestando serviços, o maior atrativo de Kwai e TikTok tem sido a possibilidade de ganhar alguns trocados tendo como motivação apenas a preguiça, meramente navegando pelo app.</p>
+
+<p>Afinal, quem não quer ganhar grana pra ver vídeos legais?</p>
+
+<p>Os programas de remuneração, de certa forma, basicamente “compram” novos usuários, já que estimulam um comportamento artificial e não orgânico de utilização das plataformas – ver mais para ganhar mais.</p>
+
+<p>A metodologia é simples e tentadora, além de não exigir <a href="https://www1.folha.uol.com.br/colunas/ronaldolemos/2021/05/da-para-ganhar-dinheiro-postando.shtml">status de influencer</a>: o tempo procrastinado nos aplicativos pode ser convertido em dinheiro de verdade.</p>
+
+<p>Um dos pontos negativos desses programas, no entanto, é que é necessário muito tempo na frente do celular para acumular os valores mínimos de retirada, com regras frequentemente difíceis de achar e burocráticas para ler. Enquanto isso, as plataformas ganham com campanhas publicitárias de anunciantes que pagam bastante dinheiro pela atenção dos usuários.</p>
+
+<p>A prática ganhou força neste ano com o Kwai, concorrente direto do TikTok que, embora tenha sido criado antes, corre atrás para abocanhar o sucesso de seu rival, pertencente à gigante chinesa ByteDance e que <a href="https://screenrant.com/tiktok-billions-downloads-safe-china/">soma mais de</a> 2 bilhões de downloads pelo mundo.</p>
+
+<p>Apresentado como uma plataforma de vídeos curtos e divertidos, o Kwai pertence à empresa chinesa Kuaishou Technology (em chinês, quer dizer algo como “mão rápida”). Assim como seu concorrente, exibe recursos fáceis de edição, como filtros, trilhas sonoras e efeitos especiais. Os dois apps têm interfaces bastante parecidas.</p>
+
+<div class="wrap-collabsible" style="margin: 35px 0;">
+  <input id="collapsible1" class="toggle" type="checkbox" />
+  <label for="collapsible1" class="lbl-toggle" tabindex="0">[SAIBA MAIS] Kwai<i class="far fa-hand-pointer fa"></i> </label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">O Kwai surgiu em 2011,</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;cinco anos antes que o TikTok</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">, originalmente para o compartilhamento de GIFs. O neg&oacute;cio deslanchou quando tornou-se uma rede social de v&iacute;deo, atraindo&nbsp;</span><a href="https://qz.com/1967057/kuaishou-ipo-showcases-a-video-app-for-non-billionaires/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">moradores da &aacute;rea rural chinesa</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">, que passaram a transmitir o estilo de vida local. Posteriormente, caiu no gosto tamb&eacute;m do p&uacute;blico na &Iacute;ndia, de onde tanto o Kwai quanto o TikTok (junto a dezenas de outros app chineses)&nbsp;</span><a href="https://canaltech.com.br/apps/india-bloqueia-tiktok-baidu-e-outro-57-aplicativos-chineses-167229/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">foram banidos</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;no ano passado em meio a&nbsp;</span><a href="https://www.indiatoday.in/india/story/centre-announces-ban-chinese-apps-privacy-issues-1695265-2020-06-29" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">tens&otilde;es</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;com a China e preocupa&ccedil;&otilde;es sobre privacidade. Em fevereiro, a empresa abriu capital em Hong Kong,&nbsp;</span><a href="https://www.wsj.com/articles/chinese-video-app-firm-kuaishou-launches-5-4-billion-ipo-in-hong-kong-11611539631" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">captando</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;US$ 5 bilh&otilde;es</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;-- ent&atilde;o a maior oferta p&uacute;blica inicial de a&ccedil;&otilde;es (IPO) desde 2019.</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Na &Aacute;sia, o Kwai bate seu concorrente em volume levantado pelo chamado&nbsp;</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">shop streaming</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;-- quando &eacute; poss&iacute;vel fazer compras diretamente pelo app de marcas que fazem sua publicidade via streaming. O recurso ainda n&atilde;o est&aacute; dispon&iacute;vel no Brasil, mas em uma&nbsp;</span><a href="https://fastcompanybrasil.com/kwai-aposta-em-shopstreaming-e-conteudo-para-crescer-no-brasil/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">entrevista &agrave; Fast Company</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">, a empresa disse pretender focar em transmiss&otilde;es ao vivo como oportunidades de venda no pa&iacute;s.&nbsp;</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sem opera&ccedil;&otilde;es nos Estados Unidos, a chegada por aqui foi o primeiro passo na estrat&eacute;gia da Kuaishou de expans&atilde;o na Am&eacute;rica Latina: este ano, estreou ainda em Col&ocirc;mbia, Argentina e M&eacute;xico, enquanto ampliou sua atua&ccedil;&atilde;o no Brasil. Pelo LinkedIn, pode-se constatar ao menos 20 profissionais atuando no escrit&oacute;rio em S&atilde;o Paulo, entre brasileiros e chineses, mas a empresa n&atilde;o confirma o n&uacute;mero. Em meados de maio, a companhia&nbsp;</span><a href="https://propmark.com.br/mercado/kwai-reforca-areas-de-marketing-e-conteudo/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">anunciou a contrata&ccedil;&atilde;o</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;de nomes focados no marketing e conte&uacute;do e vem divulgando&nbsp;</span><a href="https://www.linkedin.com/jobs/view/2515307661/?alternateChannel=search&amp;refId=bV1JDn%2F3ryuqTfsfZi1B6Q%3D%3D&amp;trackingId=tRxch3ppf8ZSw4fe108%2BRQ%3D%3D" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">com frequ&ecirc;ncia</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;vagas de trabalho no LinkedIn.&nbsp;</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Recentemente, fechou ainda parcerias com a Band, que inclui&nbsp;</span><a href="https://www.instagram.com/p/CNdcgpUh79v/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">filtros customizados</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;com a canopla da emissora, e com o&nbsp;</span><a href="https://www.lance.com.br/botafogo/chega-kwai-pede-para-torcida-utilizar-codigo.html" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Botafogo</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">. Em abril, lan&ccedil;ou a&nbsp;</span><a href="https://www.instagram.com/p/COQblewrFPT/" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">primeira campanha</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;institucional no Brasil, batizada de &quot;KKKKwai - Baixe o lado divertido da vida&quot;. A publicidade vende a plataforma como um espa&ccedil;o para o compartilhamento do bom-humor cotidiano brasileiro, estrelando dois dos mais populares influenciadores no app at&eacute; agora: o paraibano JP Venancios, que tem&nbsp;</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2,4 milh&otilde;es de seguidores,</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;e a fluminense Tailane Garcia, seguida por&nbsp;</span><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1,6 milh&atilde;o de pessoas.&nbsp;</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Segundo a empresa, o direcionamento de tr&aacute;fego no app favorece contas com um n&uacute;mero mediano de seguidores, permitindo que criadores de conte&uacute;do n&atilde;o t&atilde;o populares tenham visibilidade. Foi isso que provavelmente favoreceu sua expans&atilde;o inicialmente pela China rural e o que n&atilde;o deixa de ser o caso dos agora influencers JP e Tailaine.&nbsp;</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cofundador da companhia, o empres&aacute;rio Cheng Yixiao descreveu o Kwai como um lugar que&nbsp;</span><a href="https://uk.finance.yahoo.com/news/kuaishou-chinas-160-bn-livestreaming-070549648.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAJx2XfUwfLhnQhPqPWWAypHPwRUzDOrH5ommDREXcdt8vrJGupdi_-Z6FG9JYeFCmVrvg98eCew6DmBx2-cBNxHgFO1CKcEe1N2zsVBRwEIdwxw6m2liAP3G5HyjaUfHG6Owv4IUQg43bkSew6gbYB1JbSRQWm3i6of4KSTxZ9Ws" style="text-decoration:none;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&quot;gratifica pessoas ordin&aacute;rias&quot;</span></a><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">. Navegar pela rede social passa justamente essa impress&atilde;o: a est&eacute;tica no geral &eacute; menos glamurosa e dan&ccedil;ante do que tipicamente &eacute; no TikTok. Famosos n&atilde;o chegaram &agrave; rede, v&iacute;deos de gastronomia ensinam a fritar bisnaguinha e casais se multiplicam em contas conjuntas fazendo piadas e simula&ccedil;&otilde;es sobre fases do relacionamento.&nbsp;</span></p>
+<p><br /></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Barlow,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">At&eacute; chegar, mais recentemente, ao Kwai Golds, que funciona no app brasileiro desde fevereiro e consiste numa esp&eacute;cie de desafio para quem navega no aplicativo encontrar um pote de ouro no final, guardadas as devidas propor&ccedil;&otilde;es da distribui&ccedil;&atilde;o de dinheiro em massa. Assistir v&iacute;deos, fazer check-ins di&aacute;rios e convidar pessoas para a plataforma est&atilde;o entre os &quot;desafios&quot; que rendem moedas fict&iacute;cias. A partir de um determinado valor de Kwai Golds, &eacute; poss&iacute;vel convert&ecirc;-las em reais, transferir para qualquer conta via Pix ou carregar celulares pr&eacute;-pagos. </span></p>
+
+    </div>
+  </div>
+</div>
+
+<h3 id="tudo-são-dinheiros">TUDO SÃO DINHEIROS</h3>
+
+<p>Segundo o Wall Street Journal, a Kuaishou <a href="https://www.wsj.com/articles/chinese-video-app-firm-kuaishou-launches-5-4-billion-ipo-in-hong-kong-11611539631">opera com um prejuízo</a> de quase US$ 9 bilhões devido a estratégias de atrair novos usuários. Mas a empresa considera a tática eficaz: no primeiro trimestre deste ano, registrou 26 milhões de usuários ativos no Brasil na média mensal.</p>
+
+<p>Ao menos, parece ter assustado o TikTok, que lançou sua própria campanha de remuneração, o <a href="https://www.tiktok.com/legal/cash-award-withdrawal-terms?lang=pt_BR">TikBônus</a>, anunciada como temporária até o dia 31 de dezembro deste ano. Tal qual no Kwai, o sistema funciona com base no cumprimento de pequenas missões que, uma vez devidamente cumpridas, são recompensadas com rubis, moeda virtual fictícia que pode ser convertida em real (arbitrariamente R$1 = 10.000 rubis).</p>
+
+<p>Para além dos já comuns “códigos-convites”, outras missões remuneradas consistem em assistir a vídeos por períodos determinados de tempo, postar com certa periodicidade ou meramente ler as regras do aplicativo. Para participar, usuários precisam ter mais de 18 anos, serem residentes no Brasil e possuírem uma conta PayPal ou de algum banco brasileiro que possa ser vinculada ao app.</p>
+
+<p>Em fevereiro do ano passado, o TikTok já havia feito um <a href="https://olhardigital.com.br/2020/02/18/noticias/tiktok-oferece-ate-r-100-para-quem-trouxer-novos-usuarios/">aceno à estratégia</a> ao oferecer até R$100 para quem trouxesse novos usuários, incluindo R$40 em créditos para celulares pré-pagos. Além disso, passou a ser possível também enviar gorjetas a influencers – o TikTok fica com metade do valor.</p>
+
+<p>As informações públicas sobre esses programas são escassas. A empresa não quis abrir números de investimento com o TikBônus. Ao <strong>Núcleo</strong>, a assessoria de imprensa do TikTok no Brasil apenas respondeu que o objetivo do programa é “criar uma grande experiência para a nossa comunidade por meio de novos recursos e explorar oportunidades para criar valor para a nossa comunidade e marcas”.</p>
+
+<p>Outra forma de lucrar é pela <a href="https://www.moneytimes.com.br/gorjetas-virtuais-por-apresentacoes-online-viram-negocio-de-us-60-bilhoes-na-china/">prática de gorjeta</a>. Usuários podem receber quantias simbólicas de seus seguidores, em um equivalente virtual do passar o chapéu após uma apresentação artística – um convite à chamada “<a href="https://nucleo.jor.br/reportagem/2021-04-29-pix-redes-sociais-aumento-popularidade">biscoitagem</a>”, ou o ato de ostensivamente buscar atenção.</p>
+
+<p>Conquistar as moedas, porém, não é tão simples como parece: exige algum retorno real para a plataforma.</p>
+
+<p>Não basta convidar um amigo a criar uma conta, por exemplo, é preciso que ele faça isso em até 72 horas e assista três minutos de vídeo por dia no período de três a dez dias. Caso não haja movimentação no app por um mês, o balanço é zerado. As regras, a cotação da moeda e a forma como a pontuação é feita a cada objetivo cumprido não são claras ou explicitadas de maneiras simples aos usuários, o que tem levantado críticas entre aqueles que buscam o dinheiro fácil.</p>
+
+<p>O Kwai foi evasivo ao responder ao <strong>Núcleo</strong> sobre as regras do Kwai Bônus, dizendo que o “mecanismo varia de acordo com a campanha em vigor”. Exige certa diligência para encontrar o detalhamento do desafio no aplicativo - e paciência para ler no celular um conjunto de regras que se estende por várias páginas.</p>
+
+<h3 id="conteúdo-surrupiado">CONTEÚDO SURRUPIADO?</h3>
+
+<p>O Kwai nos últimos meses tem tido que lidar com comentários negativos sobre a qualidade de seu conteúdo e a supostas práticas de “roubo de vídeos”.</p>
+
+<p>A influenciadora Racky Lóng, por exemplo, disse ao <strong>Núcleo</strong> que baixou o app depois de ler depoimentos de pessoas retirando até R$20 por dia. No entanto, não se adaptou à plataforma e seus apelos repetitivos por indicações.</p>
+
+<p>“No início tentei usar as tags que uso em outras redes sociais para procurar o que eu gosto, mas não encontrei nada, só conteúdo muito superficial, gente falando como ganhar dinheiro no app ou vídeos baixados do TikTok”, conta. “Passa um clima muito sufocante com as tais promoções limitadas para ganhar mais e mais.”</p>
+
+<p>No começo de abril, um brasileiro que trabalhou nos escritórios chineses do Kwai <a href="https://www.youtube.com/watch?v=08Xcld4ZECM">divulgou um depoimento no YouTube</a> criticando a política e a cultura da empresa. No vídeo de quase 50 minutos, Edvan Fleury descreve um ambiente de trabalho tóxico e xenofóbico, denuncia a prática de “roubo” de vídeos pela plataforma e argumenta não haver, por parte da empresa, nenhum interesse em qualificar o conteúdo compartilhado em sua rede.</p>
+
+<p>Fleury denuncia ainda a falta de proteção aos dados dos usuários e acusa, inclusive, uma despreocupação da Kuaishou com a exposição de menores de idade. Publicado no dia 1º de abril, o vídeo teve mais de 100 mil visualizações.</p>
+
+<p>Ao <strong>Núcleo</strong>, o assistente de marketing disse ter sido procurado pelo diretor de segurança do usuário do Kwai após seu depoimento ganhar repercussão. “Ele confirmou que algumas dessas estratégias usadas no passado iriam passar por uma reformulação, pois criaram um departamento para cuidar dos usuários”, diz. “Mas infelizmente, pelo que eu vejo, a empresa ainda usa bots para roubar vídeos de outras plataformas e ter um conteúdo diferenciado.”</p>
+
+<p>O Kwai, claro, rebate as críticas. “Questões ligadas a direitos autorais são tratadas com seriedade pelo Kwai. Quando desacordos com a política da plataforma são identificados, eles são removidos do aplicativo, mediante solicitação do detentor dos direitos autorais. Cada caso é cuidadosamente analisado e tratado diretamente com as partes envolvidas”, disse em comunicado por email Mariana Sensini, diretora da plataforma no Brasil.</p>
+
+<p>Fleury atribui ainda ao Kwai Golds parte da responsabilidade pela má qualidade do que é compartilhado na rede social e pelo engajamento artificial na plataforma.</p>
+
+<p><span class="texto-destak-right">“Essa estratégia de dar dinheiro para os usuários vai atrair muita gente, mas não são usuários de qualidade, muito menos criadores de conteúdo interessantes, porque a maioria tá ali só pela suposta forma fácil de ganhar dinheiro.”<br />
+<small class="arquivado" style="color:#222222">- Edvan Fleury, ex-funcionário do Kwai</small>
+</span></p>
+
+<p>O Kwai disse que o desenvolvedor fez parte do quadro de colaboradores da Kuaishou na sede chinesa em 2018 e que, desde então, “houve mudanças expressivas nas estratégias e políticas adotadas pelos times globais e locais da empresa”. Reforçou ainda, sem especificar, que “estabeleceu normas e práticas rígidas no que tange direitos autorais, segurança e proteção de usuários menores de idade e curadoria dos conteúdos disponíveis no aplicativo”.</p>
+
+<h3 id="polêmicas-mais-polêmicas">POLÊMICAS, MAIS POLÊMICAS</h3>
+
+<p>Em maio, a dona de uma papelaria descolada de Belo Horizonte publicou um story também denunciando roubo de conteúdo pela rede. Luisa Dias tem mais de 44 mil seguidores no perfil de <a href="https://www.tiktok.com/@lojacriare?_d=secCgYIASAHKAESMgow8S%2FHtKRws7NBangFf4fz5E0PH06uR%2FN8zZkwyZECl1aBCZ8RlsyYi3eVylD2kveYGgA%3D&amp;_r=1&amp;language=pt&amp;sec_uid=MS4wLjABAAAA7BvUnFpKqK8coFuGfH8wNFVmemzcfHrrtr0PKemkv52_ciSZSGVgiAV2PfnSGFWS&amp;sec_user_id=MS4wLjABAAAA7BvUnFpKqK8coFuGfH8wNFVmemzcfHrrtr0PKemkv52_ciSZSGVgiAV2PfnSGFWS&amp;share_app_id=1233&amp;share_author_id=6805983860032668677&amp;share_link_id=35B20618-540E-49CB-B47D-92B3A2A96202&amp;source=h5_m&amp;tt_from=copy&amp;u_code=dbd1c9437ah0c1&amp;user_id=6805983860032668677&amp;utm_campaign=client_share&amp;utm_medium=ios&amp;utm_source=copy">sua loja no TikTok</a> e <a href="https://www.instagram.com/lojacriare/?hl=pt-br">130 mil no Instagram</a>, mas descobriu que todo o conteúdo feito para vender seus produtos era reproduzido também no tal do Kwai, onde a Loja Criare já amealhou 15 mil possíveis clientes sem conhecimento de sua proprietária.</p>
+
+<p>Segundo Luisa, uma seguidora, ao ver seu story, manifestou ter passado pela mesma situação e compartilhou o contato de Whatsapp de uma alegada funcionária do Kwai no Brasil, que lhe ofereceu, então, acesso ao perfil já existente na rede.</p>
+
+<p>Questionado sobre mais esse caso, o Kwai confirmou ter sido procurado por Luisa, mas afirmou que a própria usuária solicitou a transferência da titularidade da conta, e não seu cancelamento.</p>
+
+<p>A plataforma reiterou também que, “quando perfis em desacordo com suas políticas são identificados, eles são removidos do aplicativo mediante solicitação do detentor dos direitos autorais.”</p>
+
+<h3 id="como-fizemos-isso">COMO FIZEMOS ISSO</h3>
+
+<p>O <strong>Núcleo</strong> reuniu informações já divulgadas em sites nacionais e estrangeiros sobre a criação e atuação do Kwai no exterior e, mais recentemente, no Brasil. Além disso, buscou o termo em outras redes sociais, como o Twitter e o Instagram, para achar o que era comentado sobre o aplicativo pelos usuários. A partir daí, entramos em contato com alguns deles, para saber mais sobre suas experiências. Posteriormente, entramos em contato com as assessorias do Kwai, do TikTok e do Twitter no Brasil, enviando perguntas mais de uma vez, quando se fez necessário.</p>
+
+<p>Os dados de menção ao Facebook e Instagram foram obtidos via CrowdTangle.</p>
+
+<p>O <strong>Núcleo</strong> também baixou os aplicativos do Kwai e do TikTok para entender como funcionam os sistemas de remuneração, mas, infelizmente, não conseguiu acumular moedas para trocar por reais.</p>
+
+<p><img id="img" src="/img/instagram-armas/influencers-armas_decretos.png" class="img-destak" alt="gráfico com aumento na média de posts com hashtags ligadas a armas por mês" /></p>
+
+<div class="wrap-collabsible" style="margin: 35px 0;">
+  <input id="collapsible1" class="toggle" type="checkbox" />
+  <label for="collapsible1" class="lbl-toggle" tabindex="0">[SAIBA MAIS] Manifesto anti-armas<i class="far fa-hand-pointer fa"></i> </label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p><strong>Manifesto dos pesquisadores contra a revogação do Estatuto do Desarmamento</strong></p>
+			<p>Em 21 de setembro de 2016, 56 especialistas brasileiros, em áreas como direito penal, saúde pública, estatística, sociologia e relações internacionais, entre outras, assinaram um manifesto contra a revogação do Estatuto do Desarmamento e listaram dezenas de estudos.</p>
+
+      <p><strong><a href="https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u34/manifesto_contra_a_revogacao_do_estatuto_do_desarmamento.pdf" target="_blank">Acesse o manifesto na íntegra aqui</a></strong></p>
+
+      <p>"Inegavelmente, o apelo à aprovação desse projeto de lei ganha força no rastro da sensação de insegurança que vivemos no Brasil. No entanto, a violência é um fenômeno complexo", disse a carta.</p>
+
+      <p>"Estudos científicos que lograram abordar esse problema de forma estatisticamente adequada geraram evidências empíricas robustas sobre a relação entre armas de fogo e violência. Esses estudos, conduzidos em inúmeras instituições de pesquisa domésticas e internacionais, levam à conclusão inequívoca de que uma maior quantidade de armas em circulação está associada a uma maior incidência de homicídios cometidos com armas de fogo."</p>
+
+    </div>
+  </div>
+</div>
+
+<h3 id="atirar-como-nos-eua">ATIRAR, COMO NOS EUA</h3>
+
+<p>Uma característica marcante dessas postagens é a presença de elementos nacionalistas: a bandeira brasileira (🇧🇷) é o emoji mais utilizado, enquanto um símbolo que remete às cores nacionais (🔰) aparece em quinto lugar.</p>
+
+<p>O segundo emoji mais utilizado é o de telefone (📞), o qual, junto a outros símbolos comuns de telefone celular (📱) e cartão de crédito (💳)  indicam potencial interesse comercial.</p>
+
+<p>Para além do nacionalismo brasileiro, na 10a posição dos emojis mais comuns está a bandeira estadunidense (🇺🇸). Não é à toa: a popularidade da agenda armamentista no Brasil frequentemente tem inspiração na direita dos Estados Unidos e pode ser vista como um “elemento importado” de lá, segundo David Magalhães, coordenador do Observatório da Extrema Direita.</p>
+
+<p>“É uma mescla da ideia de que bandido bom é bandido morto com a visão da defesa da propriedade e da família pela arma. Parte desse armamentismo é importado da direita dos EUA e parte é em reação ao ambiente de caos na segurança pública que se instalou no Brasil”, avaliou Magalhães em entrevista ao <strong>Núcleo</strong>.</p>
+
+<p><img id="img" src="/img/instagram-armas/influencers-armas_emojis.png" class="img-destak" alt="gráfico com os principais emojis" /></p>
+
+<h3 id="atirar-mas-como-policial">ATIRAR, MAS COMO POLICIAL</h3>
+<p>As hashtags mais usadas nessas postagens apontam para outro grupo importante: o de policiais e agentes de segurança pública. Das 10 hashtags que aparecem em mais posts, 7 fazem referência direta ou indireta a esse grupo.</p>
+
+<p>Além disso, o terceiro emoji mais utilizado é um policial (👮). Muitas postagens mostram o cotidiano dos policiais e tudo que os rodeiam: viaturas, fardas, operações e, claro, armas. Outras publicações promovem cursos de tiro ou treinamentos táticos.</p>
+
+<p>Um dos perfis mais ativos identificados na análise do <strong>Núcleo</strong> pertence ao policial federal Danilo Campetti, que tem 37,6 mil seguidores. Além de agente da PF, ele se descreve como professor de tiro e professor de curso para segurança de dignitários. A postagem mais recente de sua conta mostra um #TBT (foto tirada no passado), mais especificamente durante uma operação do Grupo de Pronta Intervenção (GPI) da Polícia Federal, segundo a legenda.</p>
+
+<p>Em 21 de março, Campetti fez uma postagem desejando feliz aniversário a Jair Bolsonaro e divulgou fotos em que aparece junto ao presidente. Em junho de 2020, o policial federal usou sua conta para postar um vídeo sobre as obras de transposição do rio São Francisco, iniciadas na gestão do ex-presidente Lula e concluídas na gestão Bolsonaro.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Ver essa foto no Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CMrCAwcjZ0Q/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Uma publicação compartilhada por Agente Federal Danilo Campetti (@apfcampetti)</a></p></div></blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+
+<p>O uso de redes sociais por policiais é uma questão controversa por utilizar símbolos da polícia – emblema da força, armas, viaturas, farda – para promoção pessoal, pontuou ao <strong>Núcleo</strong> Rafael Alcadipani, professor da Fundação Getúlio Vargas e associado ao Fórum Brasileiro de Segurança Pública.</p>
+
+<p>“Há polícias fora do Brasil - nos EUA, Chile, Inglaterra, por exemplo - que são bastante restritivas em relação àquilo que pode utilizar os símbolos das corporações”, disse.</p>
+
+<p>Há ainda casos em que as redes sociais são usadas por policiais para atividades políticas, o que por si só contraria a ideia da polícia como uma força neutra, explicou Alcapadini. Embora os códigos disciplinares das corporações tenham escopo para punir ou evitar tais comportamentos, falta vontade política. “As polícias são coniventes com isso”, acrescentou o professor.</p>
+
+<p><span class="texto-destak">“É um problema que persiste há muito tempo e que as corregedorias e comandos das polícias deveriam tomar atitudes, mas não tomam porque essas figuras podem se eleger deputados ou senadores e defender a pauta corporativista da polícia.”<br />
+<small class="arquivado" style="color:#222222">- Rafael Alcadipani, da FGV</small>
+</span></p>
+
+<p>O número de policiais militares na política vêm crescendo nos últimos anos. Entre 2010 e 2018, a proporção de agentes de segurança que se candidataram e foram eleitos triplicou, <a href="https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/">segundo dados</a> publicados pelo Fórum Brasileiro de Segurança Pública (FBSP). <input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><br /><br />Cresceu também o incentivo para que policiais busquem cargos, tanto por parte das associações policiais quanto por partidos políticos, escreveram Samira Bueno e Renato Sérgio de Lima <a href="https://piaui.folha.uol.com.br/cresce-forca-de-pms-na-politica/" target="_blank">em texto</a> publicado pela revista piauí em outubro de 2020.<br /><br /></span></p>
+
+<p>Alcapadini defende ainda que se investigue a promoção, nas redes sociais, de clubes de tiro por policiais ou policiais que sejam patrocinados por fabricantes de armas, já que isso configura uma utilização do símbolo público para ganhos privados.</p>
+
+<p>Em seu <a href="https://www.instagram.com/diegoldelrio/">perfil</a>, o policial civil de São Paulo Diego Del Rio, promove para seus 444 mil seguidores os cursos do Projeto Policial, uma plataforma de cursos de armamento e tiro, assim como <a href="https://www.instagram.com/p/CL75yS0BEny/">sorteios</a>.</p>
+
+<p>Apesar de majoritariamente composto por homens <input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><br /><br />87% dos PMs do país são homens, <a href="87% dos PMs do país são homens, segundo dados publicados em 2020 pela Secretaria Nacional de Segurança Pública" target="_blank">segundo dados</a> publicados em 2020 pela Secretaria Nacional de Segurança Pública.<br /><br /></span>, também existe um grupo de postagens voltadas a policiais mulheres. Não por acaso, três das hashtags que mais aparecem são <code class="language-plaintext highlighter-rouge">#mulheresarmadas</code>, <code class="language-plaintext highlighter-rouge">#mulheresdefarda</code> e <code class="language-plaintext highlighter-rouge">#mulheresfardadas</code>.</p>
+
+<p>As postagens mostram as agentes vestindo fardas, sozinhas ou acompanhadas de colegas, dentro ou ao lado de viaturas. Em algumas, elas seguram armas ou as portam no coldre.</p>
+
+<p>Assim como no caso dos homens, há agentes que também promovem cursos ou clubes de tiro esportivo. Uma destas influenciadoras é a policial civil paranaense <a href="https://www.instagram.com/investigadorabianca/?hl=pt-br">Bianca Dal-Cól</a>, que tem 60 mil seguidores. Em uma das postagens, ela veste uma camiseta com a frase <em>“Um povo armado jamais será escravizado”</em>, frase dita pelo presidente Jair Bolsonaro durante a reunião ministerial em abril de 2020.</p>
+
+<p>“Não vejo relação entre meu crescimento e o atual governo. Meu nicho são maior parte seguidores que pretendem seguir carreiras policiais ou que já são policiais. Entusiastas do mundo do tiro são uma parcela muito menor”, disse Dal-Cól em resposta a uma mensagem do <strong>Núcleo</strong> no Instagram.</p>
+
+<p>Além de policiais, a <code class="language-plaintext highlighter-rouge">#mulheresarmadas</code> também inclui posts de civis que são atiradoras esportivas. O nicho de atiradoras também vem sendo explorado por fabricantes de armas: no Dia Internacional das Mulheres, a fabricante brasileira Taurus lançou uma <a href="https://6minutos.uol.com.br/economia/taurus-lanca-revolver-rosa-com-flores-brancas-em-homenagem-ao-dia-da-mulher/">edição especial</a> de um revólver cor-de-rosa com a inscrição mulheres fortes.</p>
+
+<div class="wrap-collabsible" style="margin: 35px 0;">
+  <input id="collapsible" class="toggle" type="checkbox" />
+  <label for="collapsible" class="lbl-toggle" tabindex="0">[Saiba mais] Decretos de Armas<i class="far fa-hand-pointer fa"></i> </label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p><strong>AGENDA DE ARMAS DE BOLSONARO</strong></p>
+			<p>A força da agenda de grupos armamentistas no governo Bolsonaro é materializada nos <a href="https://g1.globo.com/politica/noticia/2021/02/13/veja-o-que-muda-com-os-novos-decretos-de-bolsonaro-sobre-armas-de-fogo.ghtml" target="_blank">decretos editados</a> pelo presidente que flexibilizam regras de comércio e porte de armas. No universo de postagens coletadas, os decretos são mencionados em geral <a href="https://www.instagram.com/p/BxSIPwXnuBP/" target="_blank">para comunicar</a> a mudança de regras. Além disso, o número de postagens tende a aumentar nos dias seguintes à edição dos decretos. </p>
+
+      <p>Na segunda-feira, a ministra do Supremo Tribunal Rosa Weber, em decisão individual, <a href="https://g1.globo.com/politica/noticia/2021/04/12/rosa-weber-suspende-trechos-dos-decretos-de-armas-de-bolsonaro-que-entram-em-vigor-nesta-terca.ghtml" target="_blank">suspendeu parte</a> dos decretos sobre o porte e a posse de armas de fogo editados pelo presidente em fevereiro que entrariam em vigor na terça, dia 13. A decisão será enviada agora ao plenário do Supremo, que pode manter ou rever a determinação da ministra. </p>
+
+      <p>Vários dos pontos dos decretos suspensos pela ministra dizem respeito à categoria CACs, a sigla para Caçadores, Atiradores Esportivos e Colecionadores. Esse grupo de quase 500 mil brasileiros registrou quase 138 mil novas armas em 2020, comparado com pouco mais de 78,3 mil no ano anterior, segundo dados obtidos pelo <strong>Núcleo</strong> junto ao do Exército, jurisdição responsável pelos CACs. </p>
+
+    </div>
+  </div>
+</div>
+
+<h3 id="atirar-mas-por-esporte">ATIRAR, MAS POR ESPORTE</h3>
+
+<p><img src="/img/instagram-armas/arminha.gif" width="10%" style="margin: 0px 15px 15px 0;float:left" /> <strong>PUBLICAÇÕES</strong> de armas no Instagram também têm conexão com o tiro esportivo. Esta foi a hashtag que apareceu no terceiro maior número de posts coletados (quase 6 mil). Os posts analisados pelo <strong>Núcleo</strong> mostraram contas de clubes de tiro, centros de treinamento tático e lojas de tiro esportivo bastante ativas. Elas oferecem orientações para interessados na prática, sorteiam cursos e promovem serviços.</p>
+
+<p>Dentro da sigla CAC<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><br /><br />Caçadores, Atiradores Esportivos e Colecionadores.<br /><br /></span>, os atiradores esportivos são o maior grupo – há 290,3 mil registros ativos de atiradores esportivos no Brasil, <a href="https://drive.google.com/file/d/1fS7nt3Qr416XXZLsCnEkae9VeidnGEgd/view?usp=sharing">indicam dados</a> do Exército obtidos pelo <strong>Núcleo</strong> via Lei de Acesso à Informação. Isso se compara a 135 mil registros de colecionadores e 185,5 mil registros de caçadores.</p>
+
+<p>Em 2020, o número de clubes de tiro espalhados pelo país explodiu. De 151 em 2019, cresceu para 1.345 no ano seguinte, segundo dados do Exército coletados pelo jornal <a href="https://infograficos.oglobo.globo.com/brasil/armas-bolsonaro.html">O Globo</a>. Bolsonaro é entusiasta de tiro esportivo e em abril passado, no início da pandemia do coronavírus, publicou no Facebook um <a href="https://www.facebook.com/jairmessias.bolsonaro/videos/533950383982464/">vídeo</a> em que visitou um estande de tiro e fez disparos.</p>
+
+<p>Além disso, também existem postagens de competições esportivas, como as publicadas pelo Comitê Paralímpico Brasileiro<input type="checkbox" id="cb5" /><label for="cb5"><sup></sup></label><span><br /><br />Nas Olímpiadas de 2016 no Rio de Janeiro, o atleta brasileiro Felipe Wu <a href="https://brasil.elpais.com/brasil/2016/08/06/deportes/1470487115_187427.html" target="_blank">conquistou</a> uma medalha de prata no tiro esportivo, quebrando um jejum de 96 anos sem medalhas para o Brasil nesta modalidade.<br /><br /></span>. O tiro não é um esporte tradicional no Brasil, mas a prática vem ganhando tração nos últimos anos.</p>
+
+<p><img id="img" src="/img/instagram-armas/exercito_certificado_esportivo.png" class="img-destak" alt="gráfico com automento no número de certificados pra tiro esportivo" /></p>
+
+<h3 id="atirar-mas-em-javaporcos">ATIRAR, MAS EM JAVAPORCOS </h3>
+
+<p>Há ainda postagens que se relacionam com temáticas menos urbanas, como caçadas e pesca. São publicações que <a href="https://www.instagram.com/p/B_TOj70FJTI/">mostram essas atividades</a> ou divulgam produtos relacionados a elas, como facas e armas de fogo.</p>
+
+<p>Um dos perfis da temática de caça é o <a href="https://www.instagram.com/homemdomatooficial/">Homem do Mato Oficial</a>, com 124 mil seguidores. A conta publica fotos de animais caçados, de pesca, de armas – rifles, espingardas e pistolas –  e também imagens supostamente de humor. Esta conta ainda está ligada a <a href="https://www.instagram.com/homemdomatotv/">uma outra</a>, visível apenas para quem a segue que traz na descrição: “Natureza nua e crua, vídeos violentos de animais” com o emoji 🔞.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CNoGkLDHu9v/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CNoGkLDHu9v/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Ver essa foto no Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CNoGkLDHu9v/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Uma publicação compartilhada por HOMEMDOMATO OFICIAL (@homemdomatooficial)</a></p></div></blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+
+<p>Historicamente, a cultura pró-armas é mais disseminada no campo, inclusive pela realização de caçadas.</p>
+
+<p>Entre 2014 e 2016, o <a href="https://www.lume.ufrgs.br/handle/10183/159101">antropólogo gaúcho Caetano Sordi</a>fez uma imersão no campo na fronteira sul do Brasil com o Uruguai para acompanhar a implementação de técnicas de manejo do javali selvagem, considerado uma espécie exótica invasora.</p>
+
+<p>Sordi, que é doutor em antropologia social pela Universidade Federal do Rio Grande do Sul (UFRGS), observou a negociação entre diferentes atores: técnicos do ICMBio, proprietários rurais e caçadores de javalis.</p>
+
+<p>Embora estivesse fora do foco de sua pesquisa, Sordi notou que já naquele momento era perceptível uma atmosfera pró-armas e um culto à imagem de Jair Bolsonaro, até então um deputado federal, principalmente entre caçadores.</p>
+
+<p><span class="texto-destak">“Ao mesmo tempo que é uma plataforma de difusão de técnicas de caça, das fotos dos animais abatidos, essa coisa do troféu de caça, também é uma plataforma de extrema direita.”<br />
+<small class="arquivado" style="color:#222222">- Caetano Sordi, doutor em antropologia social pela UFRGS</small>
+</span> <br /></p>
+
+<p>Em 2013, o Ibama <a href="http://g1.globo.com/economia/agronegocios/noticia/2013/06/ibama-autoriza-o-abate-de-javalis-e-de-javaporcos-em-todo-o-pais.html">autorizou</a> a caça do javali selvagem, o que motivou a articulação de redes e grupos de caça, inclusive virtuais. Um exemplo de página que revolve ao redor da caça dos javaporcos é Aqui Tem Javali. O antropológo acompanhou essas redes durante algum tempo.</p>
+
+<p>Segundo o pesquisador, já existia um antipetismo muito forte dentro dessas redes e uma série de argumentos na lógica do “caçamos javalis, mas temos que caçar corruptos também”, disse Sordi em entrevita.</p>
+
+<h3 id="como-fizemos-isso-1">COMO FIZEMOS ISSO</h3>
+
+<p>O <strong>Núcleo</strong> coletou 26.924 posts únicos de Instagram, por meio da API de busca do <a href="https://www.crowdtangle.com/">CrowdTangle</a> a partir de uma lista de hashtags identificadas por exploração manual de postagens sobre armas naquela rede social. As hashtags foram: <code class="language-plaintext highlighter-rouge">#mulheresarmadas</code>, <code class="language-plaintext highlighter-rouge">#campanhadoarmamento</code>, <code class="language-plaintext highlighter-rouge">#glockbrasil</code>, <code class="language-plaintext highlighter-rouge">#glockdobrasil</code>, <code class="language-plaintext highlighter-rouge">#tiroesportivobrasil</code>, <code class="language-plaintext highlighter-rouge">#ipscbrasil</code>, <code class="language-plaintext highlighter-rouge">#mulheresarmadas</code>, <code class="language-plaintext highlighter-rouge">#tiropratico</code>, <code class="language-plaintext highlighter-rouge">#taurusarmas</code>, <code class="language-plaintext highlighter-rouge">#tiroesportivo</code>, <code class="language-plaintext highlighter-rouge">#naoaodesarmamento</code>, <code class="language-plaintext highlighter-rouge">#atiradoras</code>, <code class="language-plaintext highlighter-rouge">#mulheresnotiro</code>.</p>
+
+<p>Não podemos afirmar que essas postagens e contas identificadas são representativas desse universo no Instagram. Elas são uma janela que nos permitiu observar, indutivamente, temas importantes dentro desse conjunto.</p>
+
+<p>Para identificar temas relevantes, nos guiamos pelas hashtags, emojis e palavras mais usados. Também nos guiamos por algumas palavras-chave, como <em>sorteio</em> e <em>venda</em>, que apareciam muitas vezes ao explorarmos os dados.</p>
+
+<p>Os dados do Exército citados na matéria foram <a href="https://drive.google.com/file/d/1fS7nt3Qr416XXZLsCnEkae9VeidnGEgd/view?usp=sharing">obtidos</a> via Lei de Acesso à Informação em janeiro.</p>
+
+<p>O <strong>Núcleo</strong> também entrou em contato com as contas de Instagram citadas nesta matéria. Até o fechamento, além de Bianca Dal-Cól, apenas uma pessoa retornou dizendo que não poderia responder.</p>
+
+<p>O <strong>Núcleo</strong> não entrou em contato com o Instagram por não ter identificado irregularidades que dizem respeito à plataforma.</p>
+
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
+
+}
+</script>
+
+:ET
