@@ -212,7 +212,9 @@ No começo de abril, um brasileiro que trabalhou nos escritórios chineses do Kw
 
 Fleury denuncia ainda a falta de proteção aos dados dos usuários e acusa, inclusive, uma despreocupação da Kuaishou com a exposição de menores de idade. Publicado no dia 1º de abril, o vídeo teve mais de 100 mil visualizações.
 
-Ao **Núcleo**, o assistente de marketing disse ter sido procurado pelo diretor de segurança do usuário do Kwai após seu depoimento ganhar repercussão. "Ele confirmou que algumas dessas estratégias usadas no passado iriam passar por uma reformulação, pois criaram um departamento para cuidar dos usuários", diz. "Mas infelizmente, pelo que eu vejo, a empresa ainda usa bots para roubar vídeos de outras plataformas e ter um conteúdo diferenciado."
+Ao **Núcleo**, o assistente de marketing disse ter sido procurado pelo diretor de segurança do usuário do Kwai após seu depoimento ganhar repercussão.
+
+"Ele confirmou que algumas dessas estratégias usadas no passado iriam passar por uma reformulação, pois criaram um departamento para cuidar dos usuários", diz. "Mas infelizmente, pelo que eu vejo, a empresa ainda usa bots para roubar vídeos de outras plataformas e ter um conteúdo diferenciado."
 
 O Kwai, claro, rebate as críticas. "Questões ligadas a direitos autorais são tratadas com seriedade pelo Kwai. Quando desacordos com a política da plataforma são identificados, eles são removidos do aplicativo, mediante solicitação do detentor dos direitos autorais. Cada caso é cuidadosamente analisado e tratado diretamente com as partes envolvidas", disse em comunicado por email Mariana Sensini, diretora da plataforma no Brasil.
 
@@ -239,6 +241,6 @@ A plataforma reiterou também que, "quando perfis em desacordo com suas polític
 
 O **Núcleo** reuniu informações já divulgadas em sites nacionais e estrangeiros sobre a criação e atuação do Kwai no exterior e, mais recentemente, no Brasil. Além disso, buscou o termo em outras redes sociais, como o Twitter e o Instagram, para achar o que era comentado sobre o aplicativo pelos usuários. A partir daí, entramos em contato com alguns deles, para saber mais sobre suas experiências. Posteriormente, entramos em contato com as assessorias do Kwai, do TikTok e do Twitter no Brasil, enviando perguntas mais de uma vez, quando se fez necessário.
 
-Os dados de menção ao Facebook e Instagram foram obtidos via CrowdTangle.
+Os dados de menção ao Facebook e Instagram foram obtidos via a ferramenta de dados [CrowdTangle](https://www.crowdtangle.com/).
 
 O **Núcleo** também baixou os aplicativos do Kwai e do TikTok para entender como funcionam os sistemas de remuneração, mas, infelizmente, não conseguiu acumular moedas para trocar por reais.
