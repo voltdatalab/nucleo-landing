@@ -8,7 +8,7 @@ titulo_redes: "A treta homérica entre TikTok e Kwai no Brasil"
 subtitle: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
 subtitle_redes: "Redes sociais apelam para campanhas que pagam usuários para passar tempo em suas plataformas"
 excerpt: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
-date: "03/06/2021 00:00"
+date: "03/06/2021 06:01"
 autoria: Juliene Moretti e Beá Sena
 edicao: Sérgio Spagnuolo e Alexandre Orrico
 arte: Rodolfo Almeida
