@@ -5,9 +5,9 @@ layout: especial
 tipo: especial
 title: "A treta homérica entre TikTok e Kwai no Brasil"
 titulo_redes: "A treta homérica entre TikTok e Kwai no Brasil"
-subtitle: 'Redes sociais chinesas apelam para campanhas que efetivamente pagam pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
-subtitle_redes: "Redes sociais chinesas apelam para campanhas que pagam usuários para passar tempo em suas plataformas"
-excerpt: 'Redes sociais chinesas apelam para campanhas que efetivamente pagam pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas '
+subtitle: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
+subtitle_redes: "Redes sociais apelam para campanhas que pagam usuários para passar tempo em suas plataformas"
+excerpt: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
 date: "03/06/2021 00:00"
 autoria: Juliene Moretti e Beá Sena
 edicao: Sérgio Spagnuolo e Alexandre Orrico
@@ -90,15 +90,28 @@ h3{
   crossorigin="anonymous">
 </script>
 
-**A BRIGA** A briga para ganhar o público jovem no Brasil tem levado duas crescentes redes sociais chinesas, TikTok e Kwai, a uma disputa ferrenha, envolvendo estratégias agressivas de aquisição de novos usuários e acusações de roubo de perfis e conteúdo. O prêmio: um pedaço do mercado no Brasil, um dos maiores do mundo para as redes sociais, com mais de [130 milhões](https://www.statista.com/topics/6949/social-media-usage-in-brazil/) de usuários ativos por mês.
+<script>
+function changeimg(url,e) {
+  document.getElementById("img").src = url;
+  let nodes = document.getElementById("thumb_img");
+  let img_child = nodes.children;
+  for (i = 0; i < img_child.length; i++) {
+    img_child[i].classList.remove('active')
+  }
+  e.classList.add('active');
 
-No centro dessa disputa estão programas de bonificação que pagam centavos para usuários passarem horas na plataforma ou um pouco mais para indicarem novas pessoas.
+}
+</script>
+
+**A BRIGA** para ganhar o público jovem no Brasil tem levado duas crescentes redes sociais chinesas, TikTok e Kwai, a uma disputa ferrenha, envolvendo estratégias agressivas de aquisição de novos usuários e acusações de roubo de perfis e conteúdo.
+
+No centro dessa disputa estão programas de bonificação que pagam centavos para usuários passarem horas na plataforma ou um pouco mais para indicarem novas pessoas. O prêmio: um pedaço do mercado no Brasil, um dos maiores do mundo para as redes sociais, com mais de [130 milhões](https://www.statista.com/topics/6949/social-media-usage-in-brazil/) de usuários ativos por mês.
 
 Conceder certos benefícios é uma prática comum em aplicativos em geral, mas essas redes chinesas parecem estar levando a estratégia a um novo patamar de concorrência no país, colocando usuários em uma jornada por dinheiro fácil que não é tão fácil assim, mais e mais tempo conectados, em busca de recompensas em dinheiro.
 
 ##### Procrastinar nas redes nunca foi tão lucrativo -- nem tão trabalhoso.
 
-A imprensa mordeu a isca. Uma [busca rápida](https://www.google.com/search?q=kwai+bonus+AND+tiktok+bonus&newwindow=1&sxsrf=ALeKk01rwFcuh8XQYiudqukEblEZb3DEtg:1622688745834&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjlxprSuvrwAhW0ILkGHdiUDNIQ_AUoAnoECAEQBA&biw=1376&bih=944&dpr=1) no Google mostra matérias, inclusive de veículos de renome, descrevendo as benesses desses programas e como fazer para ganhar dinheiro.
+A imprensa mordeu a isca. Uma [busca rápida](https://www.google.com/search?q=kwai+bonus+AND+tiktok+bonus&newwindow=1&sxsrf=ALeKk01rwFcuh8XQYiudqukEblEZb3DEtg:1622688745834&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjlxprSuvrwAhW0ILkGHdiUDNIQ_AUoAnoECAEQBA&biw=1376&bih=944&dpr=1) no Google mostra matérias, inclusive de veículos de renome, descrevendo as benesses desses programas e como fazer para ganhar dinheiro. Alguns sites, inclusive, ao fim de seus textos tentam convencer o leitor a usar códigos próprios de desconto.
 
 Em outras redes, pululam depoimentos de pessoas que alegam terem embolsado centenas de reais em poucas semanas, compartilhando códigos de acesso, dando audiência a vídeos de outros usuários ou convidando pessoas para se juntarem aos programas em uma espécie de esquema pirâmide da influência social.
 
@@ -106,18 +119,7 @@ Menções no Facebook e no Instagram <input type="checkbox" id="cb1" /><label fo
 
 No Twitter, os convites e indicações também [comem soltos](https://twitter.com/search?q=Kwai%20AND%20dinheiro&src=typed_query). Um perfil oficial do Kwai no Brasil, inclusive, foi suspenso do Twitter. Nenhuma das duas empresas especificou à reportagem o motivo do banimento, mas as [regras da plataforma determinam](https://help.twitter.com/pt/managing-your-account/suspended-twitter-accounts#:~:text=Para%20manter%20um%20ambiente%20seguro,Twitter%20e%20todos%20os%20usu%C3%A1rios.) que contas podem ser suspensas no caso de spam, colocar segurança de páginas em risco ou comportamentos abusivos.
 
-<div id="content">
-<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
-<div id="thumb_img" class="cf">
-  <button class="active botao" onclick="changeimg('{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png',this);">Facebook
-  </button>
-  <button class="botao" onclick="changeimg('{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-instagram-kwai-tiktok.png',this);">Instagram
-  </button>
-</div>
-  <div id="featured_img">
-    <img id="img" src="{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png" class="img-destak">
-  </div>
-</div>
+<img src="{{ site.baseurl }}/img/kwai_tiktok/facebook-mencoes-dia.png" class="img-destak" alt="arte" alt="gráfico mostra crescimento nas menções de Kwai e TikTok no Facebook a partir de janeiro de 2021">
 
 
 ### DINHEIRO OU DANCINHAS
@@ -161,8 +163,6 @@ Apresentado como uma plataforma de vídeos curtos e divertidos, o Kwai pertence 
   </div>
 </div>
 
-<img id="img" src="{{ site.baseurl }}/img/kwai_tiktok/kwai-tiktok-dentro.png" class="img-destak" alt="arte">
-
 ### TUDO SÃO DINHEIROS
 
 Segundo o Wall Street Journal, a Kuaishou [opera com um prejuízo](https://www.wsj.com/articles/chinese-video-app-firm-kuaishou-launches-5-4-billion-ipo-in-hong-kong-11611539631) de quase US$ 9 bilhões devido a estratégias de atrair novos usuários. Mas a empresa considera a tática eficaz: no primeiro trimestre deste ano, registrou 26 milhões de usuários ativos no Brasil na média mensal.
@@ -171,19 +171,32 @@ Ao menos, parece ter assustado o TikTok, que lançou sua própria campanha de re
 
 Para além dos já comuns "códigos-convites", outras missões remuneradas consistem em assistir a vídeos por períodos determinados de tempo, postar com certa periodicidade ou meramente ler as regras do aplicativo. Para participar, usuários precisam ter mais de 18 anos, serem residentes no Brasil e possuírem uma conta PayPal ou de algum banco brasileiro que possa ser vinculada ao app.
 
-{% include monitor_sugestao.html %}
+<div id="content">
+<p style="text-align:center"><i class="far fa-hand-pointer"></i> <small><em>Clique nos botões para trocar o gráfico</em></small></p>
+<div id="thumb_img" class="cf">
+  <button class="active botao" onclick="changeimg('{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png',this);">Facebook
+  </button>
+  <button class="botao" onclick="changeimg('{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-instagram-kwai-tiktok.png',this);">Instagram
+  </button>
+</div>
+  <div id="featured_img">
+    <img id="img" src="{{ site.baseurl }}/img/kwai_tiktok/dinheiro-redes-facebook-kwai-tiktok.png" class="img-destak">
+  </div>
+</div>
 
 Em fevereiro do ano passado, o TikTok já havia feito um [aceno à estratégia](https://olhardigital.com.br/2020/02/18/noticias/tiktok-oferece-ate-r-100-para-quem-trouxer-novos-usuarios/) ao oferecer até R$100 para quem trouxesse novos usuários, incluindo R$40 em créditos para celulares pré-pagos. Além disso, passou a ser possível também enviar gorjetas a influencers -- o TikTok fica com metade do valor.
 
 As informações públicas sobre esses programas são escassas. A empresa não quis abrir números de investimento com o TikBônus. Ao **Núcleo**, a assessoria de imprensa do TikTok no Brasil apenas respondeu que o objetivo do programa é "criar uma grande experiência para a nossa comunidade por meio de novos recursos e explorar oportunidades para criar valor para a nossa comunidade e marcas".
 
-Outra forma de lucrar é pela [prática de gorjeta](https://www.moneytimes.com.br/gorjetas-virtuais-por-apresentacoes-online-viram-negocio-de-us-60-bilhoes-na-china/). Usuários podem receber quantias simbólicas de seus seguidores, em um equivalente virtual do passar o chapéu após uma apresentação artística -- um convite à chamada "[biscoitagem](https://nucleo.jor.br/reportagem/2021-04-29-pix-redes-sociais-aumento-popularidade)", ou o ato de ostensivamente buscar atenção.
+Outra forma de lucrar é pela [prática de gorjeta](https://www.moneytimes.com.br/gorjetas-virtuais-por-apresentacoes-online-viram-negocio-de-us-60-bilhoes-na-china/). Usuários podem receber quantias simbólicas de seus seguidores, em um equivalente virtual do passar o chapéu após uma apresentação artística.
 
 ##### Conquistar as moedas, porém, não é tão simples como parece: exige algum retorno real para a plataforma.
 
 Não basta convidar um amigo a criar uma conta, por exemplo, é preciso que ele faça isso em até 72 horas e assista três minutos de vídeo por dia no período de três a dez dias. Caso não haja movimentação no app por um mês, o balanço é zerado. As regras, a cotação da moeda e a forma como a pontuação é feita a cada objetivo cumprido não são claras ou explicitadas de maneiras simples aos usuários, o que tem levantado críticas entre aqueles que buscam o dinheiro fácil.
 
 O Kwai foi evasivo ao responder ao **Núcleo** sobre as regras do Kwai Bônus, dizendo que o "mecanismo varia de acordo com a campanha em vigor". Exige certa diligência para encontrar o detalhamento do desafio no aplicativo - e paciência para ler no celular um conjunto de regras que se estende por várias páginas.
+
+<img src="{{ site.baseurl }}/img/kwai_tiktok/kwai-tiktok-dentro.png" class="img-destak" alt="arte">
 
 ### CONTEÚDO SURRUPIADO?
 
@@ -194,6 +207,8 @@ A influenciadora Racky Lóng, por exemplo, disse ao **Núcleo** que baixou o app
 "No início tentei usar as tags que uso em outras redes sociais para procurar o que eu gosto, mas não encontrei nada, só conteúdo muito superficial, gente falando como ganhar dinheiro no app ou vídeos baixados do TikTok", conta. "Passa um clima muito sufocante com as tais promoções limitadas para ganhar mais e mais."
 
 No começo de abril, um brasileiro que trabalhou nos escritórios chineses do Kwai [divulgou um depoimento no YouTube](https://www.youtube.com/watch?v=08Xcld4ZECM) criticando a política e a cultura da empresa. No vídeo de quase 50 minutos, Edvan Fleury descreve um ambiente de trabalho tóxico e xenofóbico, denuncia a prática de "roubo" de vídeos pela plataforma e argumenta não haver, por parte da empresa, nenhum interesse em qualificar o conteúdo compartilhado em sua rede.
+
+{% include monitor_sugestao.html %}
 
 Fleury denuncia ainda a falta de proteção aos dados dos usuários e acusa, inclusive, uma despreocupação da Kuaishou com a exposição de menores de idade. Publicado no dia 1º de abril, o vídeo teve mais de 100 mil visualizações.
 
@@ -227,17 +242,3 @@ O **Núcleo** reuniu informações já divulgadas em sites nacionais e estrangei
 Os dados de menção ao Facebook e Instagram foram obtidos via CrowdTangle.
 
 O **Núcleo** também baixou os aplicativos do Kwai e do TikTok para entender como funcionam os sistemas de remuneração, mas, infelizmente, não conseguiu acumular moedas para trocar por reais.
-
-
-<script>
-function changeimg(url,e) {
-  document.getElementById("img").src = url;
-  let nodes = document.getElementById("thumb_img");
-  let img_child = nodes.children;
-  for (i = 0; i < img_child.length; i++) {
-    img_child[i].classList.remove('active')
-  }
-  e.classList.add('active');
-
-}
-</script>
