@@ -22,7 +22,7 @@ tags:
 
 ---
 
-Grupos armamentistas estão usando o Telegram para organizar a ida uma manifestação em Brasília no dia 9 de julho, convocada pela associação Associação Nacional Movimento Pró Armas (AMPA).
+Grupos armamentistas estão usando o Telegram para organizar a ida a uma manifestação em Brasília no dia 9 de julho, convocada pela associação Associação Nacional Movimento Pró Armas (AMPA).
 
 Em diferentes grupos do Telegram -- o **Núcleo** monitorou quatro deles, todos voltados para a temática armamentista -- usuários estão organizando carreatas de Estados brasileiros a fim de participar do protesto. Outras contas promovem pacotes de viagens que incluem estadia e transporte para a capital na data da manifestação.
 
