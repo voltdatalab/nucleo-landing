@@ -24,13 +24,13 @@ tags:
 
 Grupos armamentistas estão usando o Telegram para organizar a ida a uma manifestação em Brasília no dia 9 de julho, convocada pela associação Associação Nacional Movimento Pró Armas (AMPA).
 
-Em diferentes grupos do Telegram -- o **Núcleo** monitorou quatro deles, todos voltados para a temática armamentista -- usuários estão organizando carreatas de Estados brasileiros a fim de participar do protesto. Outras contas promovem pacotes de viagens que incluem estadia e transporte para a capital na data da manifestação.
+Em diferentes grupos do Telegram -- o **Núcleo** monitorou quatro deles, todos voltados para a temática armamentista -- usuários estão organizando carreatas de vários Estados brasileiros a fim de participar do protesto. Outras contas promovem pacotes de viagens que incluem estadia e transporte para a capital na data da manifestação.
 
 {% include monitor_sugestao.html %}
 
 Os canais também vêm sendo utilizados para circular campanhas de arrecadação para o Pro Armas, associação sediada em Campo Grande cujo slogan, segundo seu site, diz: "_A decisão de proteger sua vida, família e patrimônio cabe exclusivamente à você!_ [sic]".
 
-A entidade foi fundada pelo advogado Marcos Pollon, [conhecido](https://www.metropoles.com/brasil/um-dos-novos-advogados-de-sara-winter-e-lider-de-movimento-armamentista) defensor armamentista. Em 2020, ele representou a militante de extrema direita Sara Geromini, conhecida como Sara Winter, investigada na CPI das Fake News e líder do ex-grupo radical "300 do Brasil", que acampou por meses na frente da Esplanada dos Ministérios e basicamente defendia um golpe de estado no país. Ela foi [presa](https://g1.globo.com/df/distrito-federal/noticia/2020/06/15/ativista-sara-winter-e-presa-pela-policia-federal-em-brasilia.ghtml) em 2020 sob a Lei de Segurança Nacional.
+A entidade foi fundada pelo advogado Marcos Pollon, [conhecido](https://www.metropoles.com/brasil/um-dos-novos-advogados-de-sara-winter-e-lider-de-movimento-armamentista) defensor armamentista. Em 2020, ele representou a militante de extrema direita Sara Geromini, conhecida como Sara Winter, investigada na CPI das Fake News e líder do ex-grupo radical "300 do Brasil", que acampou por meses na Esplanada dos Ministérios e basicamente defendia um golpe de estado no país. Ela foi [presa](https://g1.globo.com/df/distrito-federal/noticia/2020/06/15/ativista-sara-winter-e-presa-pela-policia-federal-em-brasilia.ghtml) ano passado sob a Lei de Segurança Nacional.
 
 Além de imagem de QR code acompanhado de uma chave PIX para arrecadar R$ 25 mil para confeccionar faixas, há também uma campanha na plataforma Vakinha que angariou mais de R$ 200 mil, o dobro da meta estipulada.
 
