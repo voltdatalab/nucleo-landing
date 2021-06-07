@@ -10,8 +10,8 @@
 - nome: Ideias
   link: 'ideias'
 
-- nome: Republicamos
+- nome: 'Republicado <i class="fab fa-creative-commons" fa-lg></i>'
   link: 'republica'
 
-- nome: Arquivo
+- nome: Arquivo de matérias
   link: 'arquivo'

@@ -7,9 +7,10 @@
 - nome: Science Pulse
   link: 'sciencepulse'
 
-- nome: Science Pulse (English)
+- nome: Science Pulse
+  desc: English
   link: 'sciencepulse/eng'
 
-- nome: Bot de ciência
+- nome: Bot no Telegram
   link: 'https://t.me/SciencePulseBot'
   externo: sim

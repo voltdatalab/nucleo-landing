@@ -1,8 +1,8 @@
 ---
 layout: pages
 title: 'Newsletter Garimpo'
-desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
-subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos'
+desc: 'Os assuntos mais populares nas redes sociais em menos de três minutos, de 2ª a 6ª no seu inbox, de graça'
+subtitle: 'Os assuntos mais populares nas redes sociais em menos de três minutos, de 2ª a 6ª no seu inbox, de graça'
 background: 'header-garimpo.png'
 link: ''
 subTitle: ''
@@ -49,7 +49,7 @@ img{
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
 
 </form>

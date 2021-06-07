@@ -1,8 +1,8 @@
 ---
 layout: pages
 title: 'Newsletter Polígono'
-desc: 'Os debates mais relevantes de ciência nas redes sociais, por Luiza Caires'
-subtitle: 'Os debates mais relevantes de ciência nas redes sociais, por Luiza Caires'
+desc: 'Os debates mais relevantes de ciência nas redes sociais direto no seu inbox, de graça, por Luiza Caires'
+subtitle: 'Os debates mais relevantes de ciência nas redes sociais direto no seu inbox, de graça, por Luiza Caires'
 background: 'poligono-banner.png'
 link: '{{ site.baseurl }}/newsletters'
 subTitle: ''
@@ -68,7 +68,7 @@ ul.share-buttons i {
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="7C4Hby3cm472FRL3lYo0Hw"/>
   <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÇA"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
 
 </form>

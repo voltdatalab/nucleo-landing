@@ -1,4 +1,4 @@
-I"×<style>
+I"Í<style>
 #newsletter_page{
   margin: 0 auto;
 }
@@ -54,7 +54,7 @@ ul.share-buttons i {
 <div class="revue-form-actions">
   <input type="hidden" name="list" value="7C4Hby3cm472FRL3lYo0Hw" />
   <input type="hidden" name="subform" value="yes" />
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER DE GRAÃ‡A" />
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER" />
   </div>
 
 </form>

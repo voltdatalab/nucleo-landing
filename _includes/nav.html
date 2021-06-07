@@ -19,6 +19,9 @@
               <li>
                   <a href="{{ site.baseurl }}/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
               </li>
+              <li>
+                  <a href="{{ site.baseurl }}/newsletters">NEWSLETTERS</a>
+              </li>
                 <li class="dropdown">
                   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                   style="background:none;padding:0;"
@@ -43,7 +46,11 @@
                                 {% if item.externo %}
                                 <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
                                 {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                  {% if item.desc %}
+                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  {% endif %}
+                                </a>                
                                 {% endif %}
                               </li>
                           {% endfor %}
@@ -55,7 +62,11 @@
                                 {% if item.externo %}
                                 <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
                                 {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                  {% if item.desc %}
+                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  {% endif %}
+                                </a>
                                 {% endif %}
                               </li>
                           {% endfor %}
