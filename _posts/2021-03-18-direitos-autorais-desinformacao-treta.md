@@ -36,9 +36,7 @@ Tamanha é a popularidade desses canais do aplicativo de mensagens que eles vira
 Essa cobertura começou a mudar no fim de fevereiro, quando o Telegram começou a ir atrás desses canais, cada um com centenas de milhares de inscritos, por violações de direitos autorais. Todo conteúdo do BBB pertence à TV Globo, uma força implacável quando o assunto é proteger seu conteúdo.
 
 - O Canal BBB21 [caiu](https://link.estadao.com.br/noticias/cultura-digital,telegram-derruba-maior-grupo-sobre-o-bbb-21-por-direitos-autorais,70003625302) primeiro, dia 23 de fevereiro;
-
 - O [Espiadinha](https://t.me/espiadinha), que já havia sido notificado três vezes, caiu em 6 de março, o que levou o termo "Telegram" ao topo dos trending topics do Twitter Brasil. Voltou logo depois, com cerca de 140 mil inscritos;
-
 - O [Alienadinhos](https://t.me/alienadinhos) (ex-Canal BBB21) caiu em 17 de março e já voltou em outro canal (aparentemente um reserva criado em 17 de fevereiro), com mais de 60 mil inscritos.
 
 ---
@@ -58,11 +56,8 @@ O episódio mostrou como as plataformas podem atuar incisivamente em casos de vi
 Alguns pontos principais da apuração do **Núcleo**:
 
 - Há uma noção mais aceita sobre o que configura violações a direitos autorais do que sobre o que configura desinformação;
-
 - As Big Tech, em geral, possuem alguns esforços contra desinformação, que em geral não contemplam sistematicamente a remoção de conteúdo, e sim medidas como rotulagem de posts ou com penalidade no algoritmo de divulgação;
-
 - Determinar se um conteúdo viola ou não direitos autorais ainda é uma questão delicada;
-
 - Desinformação por vezes se mistura com liberdade de expressão, o que torna difícil coibir certos tipos de conteúdo.
 
 
