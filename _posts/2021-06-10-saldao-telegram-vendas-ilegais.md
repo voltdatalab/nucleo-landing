@@ -14,6 +14,7 @@ edicao: Sérgio Spagnuolo e Alexandre Orrico
 credito_img: "Henrik Sandklef, do Flickr (Creative Commons) | Intervenção de Rodolfo Almeida"
 creditos: "Lais Martins, Alexandre Orrico, Sérgio Spagnuolo"
 background: 'telegram/saldao-telegram/rolo_Teaser.png'
+atualizacao: "Texto atualizado em 10.jun.2021 às 22h23 para remover referência a jargão que denomina a venda de dados de cartões de crédito, com a finalidade, por sugestão de leitor, de não publicizar um termo de busca para a prática irregular."
 categories:
   - "reportagem"
 tags:
@@ -110,7 +111,7 @@ Em um vídeo gravado ao som dos versos de funk "Tenho sonho de ser rico, rico n�
 
 Além da venda de cédulas falsas, o administrador anônimo também vende contas de PagSeguro e Mercado Pago com saldo. Nesse esquema, pagando R$70, o comprador terá acesso a uma conta com R$1.500 de saldo. Com a conta do PagSeguro, o administrador do grupo alega que dá pra realizar saques, pagar boletos e fazer a festa em sites de comércio online que aceitam esse meio de pagamento.
 
-Cartões de créditos físicos também são vendidos com a mesma lógica. Um dos outros grandes negócios deste grupo (e de muitos outros) é a venda de dados completos de cartões de crédito -- _infos cc_ no jargão dos grupos. Mas como ter os dados completos do cartão nem sempre basta, o administrador oferece também cursos para ensinar a fazer aprovações de compra em sites como Mercado Livre, por exemplo.
+Cartões de créditos físicos também são vendidos com a mesma lógica. Um dos outros grandes negócios deste grupo (e de muitos outros) é a venda de dados completos de cartões de crédito. Mas como ter os dados completos do cartão nem sempre basta, o administrador oferece também cursos para ensinar a fazer aprovações de compra em sites como Mercado Livre, por exemplo.
 
 {% include monitor_sugestao.html %}
 
