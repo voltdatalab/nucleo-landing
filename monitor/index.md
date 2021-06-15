@@ -4,7 +4,7 @@ title: 'Monitor Nuclear'
 desc: 'Acompanhe e analise o debate político no Twitter'
 tagline: APLICAÇÃO
 background: 'monitornuclear.jpeg'
-contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação de apresenta tendências e análises sobre perfis dos políticos mais relevantes no Twitter.'
+contexto: 'O <strong>Monitor Nuclear</strong> é uma aplicação que analisa tendências e engajamento de perfis dos políticos mais relevantes no Twitter'
 iframe: '<iframe src="https://nucleojor.shinyapps.io/monitor_twitter/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>'
 brand_top: '
 <p><strong>APOIO:</strong> <a href="https://www.icfj.org/" style="border-bottom: 0px" target="_blank"><img src="https://sciencepulse.org/img/icfj.png" alt="logo ICFJ" width="200px" style="padding-right:8px"></a>
