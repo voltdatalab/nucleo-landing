@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Sorteios no Instagram viram alvo de processos"
-titulo_redes: "Sorteios no Instagram viram alvo de processos"
+title: "Sorteios no Instagram viram alvo de processos e multas"
+titulo_redes: "Sorteios no Instagram viram alvo de processos e multas"
 subtitle: "Ministério da Economia abre processos administrativos contra perfis que fazem sorteios sem autorização prévia, podendo resultar em multas"
 subtitle_redes: "Ministério da Economia abre processos administrativos contra perfis que fazem sorteios sem autorização"
 excerpt: 'Ministério da Economia abre processos administrativos contra perfis que fazem sorteios sem autorização prévia, podendo resultar em multas'
@@ -13,6 +13,7 @@ reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
 creditos: "Lais Martins, Sérgio Spagnuolo, Rodolfo Almeida"
+atualizacao: "Inclui palavra 'multa' no título às 9h54 de 17.jun.2021"
 background: 'instagram/sorteios-me/jackpot-ministerio_Teaser.png'
 categories:
   - "reportagem"
