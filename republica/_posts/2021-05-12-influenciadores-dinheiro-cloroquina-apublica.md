@@ -4,7 +4,7 @@ layout: conteudo
 hidden: true
 tipo: republicação
 title: "Influenciadores digitais receberam R$ 23 mil do governo Bolsonaro para propagandear “atendimento precoce” contra Covid-19"
-titulo_redes: "Influenciadores digitais receberam R$ 23 mil do governo Bolsonaro para propagandear “atendimento precoce” contra Covid-19"
+titulo_redes: "Influenciadores receberam do governo para propagandear “atendimento precoce” contra Covid"
 subtitle: 'Secretaria de Comunicação e Ministério da Saúde gastaram mais de 1,3 milhão de reais em ações de marketing com influenciadores sobre a pandemia'
 subtitle_redes: 'Secretaria de Comunicação e Ministério da Saúde gastaram mais de 1,3 milhão de reais em ações de marketing com influenciadores sobre a pandemia'
 excerpt: 'Secretaria de Comunicação e Ministério da Saúde gastaram mais de 1,3 milhão de reais em ações de marketing com influenciadores sobre a pandemia'
