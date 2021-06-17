@@ -50,7 +50,7 @@ Além de órgão fiscalizador, a Secap é também responsável por [conceder aut
 
 Há um [portal próprio](https://scpc.seae.fazenda.gov.br/scpc/login.jsf) para solicitar a autorização, que deve ser enviada entre 40 a 120 dias antes da data de início da promoção. Há ainda uma taxa de fiscalização que deve ser paga que varia de acordo com o valor dos prêmios oferecidos.
 
-Mas esses prazos dados para se obter uma autorização são incompatível com a velocidade das redes sociais e com o volume de posts que envolvem sorteios. Nos últimos 12 meses, foram ao menos 280 mil posts públicos no Instagram com a palavra "sorteio", com um total de 1,93 bilhão de interações, segundo a ferramenta CrowdTangle.
+Mas esses prazos para se obter uma autorização são incompatíveis com a velocidade das redes sociais e com o volume de posts que envolvem sorteios. Nos últimos 12 meses, foram ao menos 280 mil posts públicos no Instagram com a palavra "sorteio", com um total de 1,93 bilhão de interações, segundo a ferramenta CrowdTangle.
 
 {% include assine_newsletter.html %}
 
