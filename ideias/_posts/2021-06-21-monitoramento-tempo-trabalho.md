@@ -72,6 +72,8 @@ Quando digo que registrei minha rotina profissional “com precisão”, é porq
 
 O primeiro e mais importante dado que eu extraí dessa coleta foi o da jornada diária.
 
+![grafico de horas trabalhadas por semana monitorada]({{ site.baseurl }}/img/ideias/trabalho/trabalho_ghedin1.png)
+
 Em média, trabalho 4 horas e 12 minutos por dia considerando a semana completa. Se reduzirmos a semana a cinco dias úteis, chega-se a 5 horas e 52 minutos. Normalmente, a única coisa que faço aos fins de semana é editar e disparar uma newsletter no sábado de manhã, mas há ocasiões em que mexo num texto ou testo algum novo recurso para o site no sábado ou domingo.
 
 > A minha semana de trabalho tem, pois, 29 horas e 21 minutos. Espalhado pelos cinco dias úteis, isso dá uma média de 5 horas e 52 minutos por dia.
@@ -84,6 +86,8 @@ Minha jornada de trabalho é menor que a dos brasileiros trabalhando em home off
 <br><br>
 Um em cada dez brasileiros, ainda segundo a pesquisa da Oracle, afirmaram que 2020 foi o ano mais estressante de suas vidas. Não parece ser uma boa propaganda para o home office — ao menos não do ponto de vista dos trabalhadores.
 <br><br></span> — trabalho 26,6% menos tempo do que eles. Isso era esperado. Minha expectativa, porém, estava na comparação com os funcionários de escritório nos escritórios.
+
+![grafico de horas trabalhadas por semana monitorada]({{ site.baseurl }}/img/ideias/trabalho/trabalho_ghedin_semanas2.png)
 
 [Uma pesquisa](https://exame.com/carreira/so-39-do-expediente-de-trabalho-e-produtivo-diz-estudo/) da Workfront feita nos Estados Unidos em 2016 com 600 funcionários descobriu que eles eram produtivos em apenas 39% do tempo em que estavam trabalhando. Numa jornada de 8 horas, esse percentual representa pouco mais de 3 horas. As distrações, segundo os próprios funcionários, eram derivadas do próprio trabalho: coisas como reuniões, e-mails e tarefas administrativas, como trocar a senha do computador. A procrastinação raiz, ou seja, distrações não relacionadas ao trabalho, ocupava só 8% do tempo, ou pouco mais de 38 minutos.
 
