@@ -42,34 +42,29 @@
   <div class="container">
     <div class="row">
 			<div class="sidebar col-sm-4">
-				<p style="font-size:0.9em">
+				<p style="font-size:1em">
 					{% if page.bio %}* <em>{{ page.por }}
 					{% if page.contato %}<span><a href="{{ page.contato_link }}" target="_blank">({{ page.contato }})</a></em> {% endif %}</em></span>
 					<em>{{ page.bio }}</em> {% endif %}
 				</p>
 
 		 <br />
-				<small class="arquivado" style="font-weight: 300 !important">
+				<small class="arquivado" style="font-weight: 300 !important;">
 						A seção <a href="{{ baseurl }}/ideias"><strong style="color:#4b31dd;font-weight:700">IDEIAS</strong
 							></a> é um espaço para comentário e opinião sobre tecnologia.
 
-						Se você tem experiências sobre tecnologia para compartilhar, mande um email para<a href="mailto:nucleo@voltdata.info"> nucleo@voltdata.info </a>
+						Se você tem experiências sobre tecnologia para compartilhar, mande um email para<a href="mailto:ideias@nucleo.jor.br"> ideias@nucleo.jor.br </a>
 				</small>
 
 			</div>
-			<div class="main col-sm-7">
+			<div class="main col-sm-8">
 				<span class="arquivado">
-					Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} <br />
-					{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
-					{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
-					{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
-					{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
-					{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
-					{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
-					{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
+					Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }}
+					<br />
 
-					<br />
-					<br />
+					{% assign wordCount = page.content | number_of_words %}
+					<i class="fas fa-pen"></i> Palavras: {{ wordCount }} <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}--> &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:250 }} min
+					<br /><br />
 					{% assign currentYear = site.time | date: '%Y' %}
 					{% assign postYear = page.date | date: '%Y' %}
 					{% assign postAge = currentYear | minus: postYear | minus: 0 %}
@@ -85,21 +80,34 @@
 					</div>
 					{% endif %}
 
+					<ul class="share-buttons">
+					<li><i class="fas fa-share-alt"></i> <a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
+					<li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
+					<li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
+					<li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
+					<li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
+				</ul>
 					</span>
+
         <div class="texto_post">
 
-				<ul class="share-buttons">
-				<li><i class="fas fa-share-alt"></i> <a href="whatsapp://send?text={{ page.titulo_redes }} - {{ site.url | replace: 'br/', 'br' }}{{ page.url }}" target="_blank" title="Compartilhar no Whatsapp"><i class="fab fa-whatsapp-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span></a></li>
-				<li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" target="_blank" title="Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><i class="fab fa-facebook-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Facebook</span></a></li>
-				<li><a href="https://twitter.com/intent/tweet?source={{ page.url }}%2F&via=nucleojor" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)) + ' via @nucleojor'; return false;"><i class="fab fa-twitter-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Tweet</span></a></li>
-				<li><a href="http://www.reddit.com/submit?url={{ page.url }}" target="_blank" title="Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-reddit-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Reddit</span></a></li>
-				<li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-				<li><a href="mailto:?subject=&body=:%20{{ page.url }}" target="_blank" title="Mandar email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fas fa-envelope-square fa-lg" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only">Mandar email</span></a></li>
-			</ul>
 		  <br />
         {{ content }}
 
-				<h5 class="arquivado"><a href="{{ site.baseurl }}/ideias">LEIA TODOS OS IDEIAS AQUI >></a></h5>
+				<br />
+				<span class="arquivado">
+				{% if page.reportagem %} Reportagem <span>{{ page.reportagem }}</span><br /> {% else %} {% endif %}
+				{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
+				{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
+				{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
+				{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
+				{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
+				{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
+				<br />
+				<a href="{{ site.baseurl }}/ideias">LEIA TODOS OS IDEIAS AQUI >></a>
+				</span>
+
 				<p>
 					{% if page.atualizacao %}<em>{{ page.atualizacao }}</em> {% endif %}
 				</p>
