@@ -33,7 +33,7 @@ Antes da pandemia, quando alguém falava que trabalhava em casa, era comum as pe
 
 Outro contra é que no ambiente doméstico as distrações comuns no escritório, como o cafezinho com os colegas ou aquela enrolada para dar a hora de bater o ponto, inexistem. Há também a ânsia de mostrar serviço feito, que passou a ser a única “prova” de que se está trabalhando. Parece que acabamos nos dedicando mais ao trabalho, o que se reflete, nos números frios, em aumento de produtividade, algo percebido pelos gestores.
 
-“O que a gente tem percebido é que a produtividade dos seus funcionários tem aumentado com o home office. Isso é nítido”, diz Márcia Giubertoni, consultora do Sebrae-PR. A observação dela, balizada no próprio Sebrae e nas empresas atendidas pela entidade, vai de encontro a opiniões subjetivas que se ouvem facilmente nas videochamadas e redes sociais há pouco mais de um ano. Ganhamos mai
+“O que a gente tem percebido é que a produtividade dos seus funcionários tem aumentado com o home office. Isso é nítido”, diz Márcia Giubertoni, consultora do Sebrae-PR. A observação dela, balizada no próprio Sebrae e nas empresas atendidas pela entidade, vai de encontro a opiniões subjetivas que se ouvem facilmente nas videochamadas e redes sociais há pouco mais de um ano. Ganhamos mais tempo ao nos livrarmos dos deslocamentos, mas parece que nunca trabalhamos tanto.
 
 > Eu sempre tive curiosidade em relação a isso, às horas trabalhadas.
 
