@@ -17,7 +17,9 @@ Por motivos fiscais e legais, ainda estamos avaliando uma nova composição de u
 ## QUEM FINANCIA
 Em outubro de 2020, o **Núcleo** foi selecionado para participar de um [processo de aceleração](https://nucleo.jor.br/institucional/2020-10-29-anuncio-nucleo-google) do Google News Initiative, que inclui um grant de US$20.000. Antes disso, os recursos vinham dos fundadores.
 
-A Volt Data Lab também faz investimentos, especialmente na parte de infraestrutura e desenvolvimento do site e de aplicações.
+Em maio de 2021, recebemos uma [doação](https://nucleo.jor.br/institucional/2021-05-26-nucleo-apoio-serrapilheira) de R$71.000 do Instituto Serrapilheira no âmbito do nosso projeto [Science Pulse](https://nucleo.jor.br/sciencepulse/).
+
+A Volt Data Lab também faz investimentos, especialmente na parte de infraestrutura e desenvolvimento do site, pessoal e de aplicações.
 
 ## TRANSPARÊNCIA EDITORIAL
 Nossa política editorial é de transparência de processos. Dentro do possível, nos comprometemos a explicar 1. por que achamos que um assunto é importante; 2. a forma como apuramos as informações e como chegamos a tais resultados; 3. a divulgação de códigos e dados utilizados e 4. atribuir referências, em forma de citações e links, sempre que utilizarmos conhecimento adquirido diretamente de terceiros.
