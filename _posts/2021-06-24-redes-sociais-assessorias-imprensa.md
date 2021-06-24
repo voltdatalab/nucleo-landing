@@ -99,7 +99,7 @@ A resposta foi essa:
 
 <div style="border:1px solid #0fb872;padding: 15px;font-size:1.2em;margin-bottom:30px">
 <i class="far fa-envelope"></i>
-<em>Estamos investigando os perfis citados na matéria. No link abaixo você pode encontrar mais detalhes sobre as regras do Instagram para sorteios e outros tipos de promoção na plataforma - [link](https://www.facebook.com/help/instagram/179379842258600). E [aqui](https://help.instagram.com/477434105621119) estão as Diretrizes da Comunidade do Instagram que devem ser respeitadas em todo conteúdo publicado.</em></div>
+<em>Estamos investigando os perfis citados na matéria. No link abaixo você pode encontrar mais detalhes sobre as regras do Instagram para sorteios e outros tipos de promoção na plataforma - <a href="https://www.facebook.com/help/instagram/179379842258600" target="_blank">link</a>. E <a href="https://help.instagram.com/477434105621119" target="_blank">aqui</a> estão as Diretrizes da Comunidade do Instagram que devem ser respeitadas em todo conteúdo publicado.</em></div>
 
 A primeira pergunta foi respondida com um link, mas as outras duas certamente não.
 
