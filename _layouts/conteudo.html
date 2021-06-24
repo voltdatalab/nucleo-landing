@@ -94,6 +94,7 @@
 				<div class="sidebar col-sm-4">
 					<span class="arquivado creditos_alt">
 
+						{% if page.autoria %} Por <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.autoria }}</a></span><br /> {% else %} {% endif %}
 					{% if page.reportagem %} Reportagem <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.reportagem }}</a></span><br /> {% else %} {% endif %}
 						{% if page.analise %} Análise <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_analise }}">{{ page.analise }}</a></span><br /> {% endif %}
 						{% if page.texto %} Texto <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_texto }}">{{ page.texto }}</a></span><br /> {% endif %}

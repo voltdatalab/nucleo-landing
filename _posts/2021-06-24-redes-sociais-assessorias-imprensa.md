@@ -9,7 +9,7 @@ subtitle: "Como plataformas bilionárias usam respostas evasivas para fugir de p
 subtitle_redes: "Como plataformas bilionárias usam respostas evasivas para fugir de perguntas incômodas"
 excerpt: 'Como plataformas bilionárias usam respostas evasivas para fugir de perguntas incômodas'
 date: "24/06/2021 06:38"
-por: Sérgio Spagnuolo
+autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: "Rodolfo Almeida"
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
