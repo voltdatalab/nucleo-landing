@@ -8,7 +8,7 @@ titulo_redes: "O silêncio das redes sociais para a imprensa"
 subtitle: "Como plataformas bilionárias usam respostas evasivas para fugir de perguntas incômodas de jornalistas"
 subtitle_redes: "Como plataformas bilionárias usam respostas evasivas para fugir de perguntas incômodas"
 excerpt: 'Como plataformas bilionárias usam respostas evasivas para fugir de perguntas incômodas'
-date: "23/06/2021 06:38"
+date: "24/06/2021 06:38"
 por: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: "Rodolfo Almeida"
