@@ -77,12 +77,10 @@ Na última terça-feira (22/6), o senador Marcos Rogério (DEM-RO) chegou aos Tr
 
 ###### É importante porque...
 
-- *Núcleo republica reportagem em vista da CPI da Covid-19 no Senado*
-- *Caso é relevante para mostrar campanha do governo por tratamentos alternativos que não funcionam contra Covid-19*
+- *Disputa por espaço nas redes sociais deve reverberar nas eleições de 2020*
+- *Senador já disseminou desinformação sobre a pandemia*
 
 ---
-
-https://apublica.org/wp-content/webp-express/webp-images/uploads/2021/06/01-02-scaled.jpg.webp 2403w, https://apublica.org/wp-content/webp-express/webp-images/uploads/2021/06/01-02-563x600.jpg.webp 563w, https://apublica.org/wp-content/webp-express/webp-images/uploads/2021/06/01-02-1127x1200.jpg.webp 1127w, https://apublica.org/wp-content/webp-express/webp-images/uploads/2021/06/01-02-1442x1536.jpg.webp
 
 Mas essa não foi a primeira vez que o senador virou assunto nas redes sociais por sua participação na CPI. Marcos Rogério é o senador governista que mais cresceu nas redes sociais desde sua instalação, em 27 de abril. Apenas em maio, o parlamentar recebeu 316% mais reações e comentários em sua página no Facebook quando comparado ao mês anterior. Seu número de seguidores na rede mais que dobrou, deixando de ser o integrante menos seguido da comissão para ocupar o 14º lugar no ranking.
 
@@ -111,6 +109,8 @@ De todas essas publicações, pelo menos 98 falavam diretamente sobre a CPI ou s
 <figcaption>Um dos tuítes mais populares de Marcos Rogério</figcaption>
 
 O senador se destaca também por ser o único governista entre os mais ativos na rede – Rodrigues, Carvalho e Costa são todos oposicionistas.  
+
+{% include assine_newsletter.html %}
 
 “A gente passou a usar realmente o Twitter de forma mais significativa com o início da CPI”, afirmou à Pública Ludmila Tavares, auxiliar parlamentar plena e uma das responsáveis pela comunicação do senador. Ela explica que a rede é importante “para comunicar mais de forma mais rápida”, já que “todo mundo está acompanhando [a CPI], e o Marcos é muito atuante”. 
 
