@@ -65,7 +65,7 @@ body{background-color:#fff !important}
 }
 </style>
 
-_Esta é uma reprodução de reportagem da Agência Publica originalmente publicada em 31/03/2021_
+_Esta é uma reprodução de reportagem da Agência Publica_
 
 Na última terça-feira (22/6), o senador Marcos Rogério (DEM-RO) chegou aos Trending Topics – assuntos mais comentados – do Twitter no Brasil após mostrar vídeo [descontextualizado](https://www.oantagonista.com/brasil/marcos-rogerio-distorce-video-de-drauzio-varella-e-chama-senadores-de-aloprados/) do médico Drauzio Varella durante sessão da CPI da Pandemia, cuja intenção é [apurar](https://legis.senado.leg.br/comissoes/comissao?codcol=2441) “as ações e omissões do Governo Federal” no enfrentamento à Covid-19. 
 
