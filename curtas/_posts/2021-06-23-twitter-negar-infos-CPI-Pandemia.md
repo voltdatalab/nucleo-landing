@@ -26,7 +26,7 @@ tags:
 
 O Twitter Brasil se recusou a fornecer dados para a CPI da Pandemia sobre contas deletadas pela plataforma em meados de junho, alegando que a solicitação feita pelo senador Randolfe Rodrigues não possui relação com o inquérito da comissão e que a cessão dessas informações poderia violar a privacidade e proteção de dados pessoais de usuários.
 
-O [ofício](https://legis.senado.leg.br/sdleg-getter/documento/download/908a96d9-2d86-4380-b111-8cc1c9fc2954) data de 28 de junho e foi enviado para o **Núcleo** por uma leitora.
+O [ofício](https://legis.senado.leg.br/sdleg-getter/documento/download/908a96d9-2d86-4380-b111-8cc1c9fc2954) data de 28 de junho e a sugestão para acessar o documento público foi enviada para o **Núcleo** por uma leitora.
 
 A rede social informou pelos seus advogados do escritório Pinheiro Neto que tem fornecido "com frequência" informações e dados sigilosos de usuários do Twitter e removido conteúdos ilegais por conta de determinações da justiça.
 
