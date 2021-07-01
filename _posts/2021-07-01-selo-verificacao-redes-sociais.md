@@ -6,7 +6,7 @@ tipo: reportagem
 title: "Conceder selo de verificação nas redes sociais continua uma bagunça"
 titulo_redes: "O selo de verificação nas redes sociais continua uma bagunça"
 subtitle: "Os cobiçados selinhos azuis chegam a ser negados para jornalistas, mas podem ser concedidos a páginas e perfis que espalham desinformação"
-subtitle_redes: "Os cobiçados selinhos chegam a ser negados para jornalistas, mas podem ser dado a quem espalha desinformação"
+subtitle_redes: "Os cobiçados selinhos chegam a ser negados para jornalistas, mas podem ser dados a quem espalha desinformação"
 excerpt: 'Os cobiçados selinhos azuis chegam a ser negados para jornalistas, mas podem ser concedidos a páginas e perfis que espalham desinformação'
 date: "01/07/2021 06:01"
 reportagem: Laís Martins
