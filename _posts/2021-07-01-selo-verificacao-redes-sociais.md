@@ -14,6 +14,7 @@ edicao: Sérgio Spagnuolo e Samira Menezes
 credito_img: "Rodolfo Almeida"
 creditos: "Sérgio Spagnuolo, Laís Martins, Samira Menezes"
 background: 'outros/verificacao.png'
+atualizado: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
 categories:
   - "reportagem"
 tags:
@@ -26,7 +27,7 @@ tags:
 
 ---
 
- 
+
 Com mais de 1,5 milhão de seguidores no Facebook, o Jornal da Cidade Online se descreve em seu site como "extremamente respeitado pelo seu público leitor por seu comprometimento com a análise dos fatos, material opinativo, pluralidade e compromisso com a verdade". A página ganhou neste ano o selo de verificação azul da rede social.
 
 Na prática, o jogo é outro. Desde as eleições presidenciais de 2018, agências com [certificação internacional](https://www.facebook.com/journalismproject/ifcn-fighting-misinformation?locale=pt_BR) de checagem de fatos, como [Comprova](https://projetocomprova.com.br/), [Aos Fatos](https://www.aosfatos.org/) e [Lupa](https://lupa.news/) -- as duas últimas parte do [programa](https://www.aosfatos.org/noticias/aos-fatos-adere-iniciativa-de-verificacao-de-noticias-do-facebook/) de checagem [independente](https://piaui.folha.uol.com.br/lupa/2018/05/10/verificacao-de-noticias-lupa-facebook/) do Facebook -- vêm sinalizando o papel do Jornal da Cidade Online na disseminação de conteúdos falsos e na participação de ataques direcionados contra políticos e jornalistas.
@@ -35,7 +36,7 @@ Na prática, o jogo é outro. Desde as eleições presidenciais de 2018, agênci
 
 ###### É importante porque...
 
-- *Selos de verificação são considerado sinal de status nas redes sociais, atribuindo importância aos perfis que os possuem*
+- *Selos de verificação são considerados sinal de status nas redes sociais, atribuindo importância aos perfis que os possuem*
 - *Perfis que espalham desinformação podem possuir selo de verificado, ajudando sua popularidade*
 
 ---
@@ -123,7 +124,7 @@ Já na visão de Archegas, a solução passa por estabelecer parâmetros mais cl
 
 ### posicionamento
 
-O **Núcleo** enviou perguntas para Facebook, Twitter e Instagram sobre as políticas de verificação. YouTube foi incluído de última hora, e suas políticas de verificação [estão neste link](https://support.google.com/youtube/answer/3046484?hl=pt-BR).
+O **Núcleo** enviou perguntas para Facebook, Twitter, YouTube e Instagram sobre as políticas de verificação. 
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -167,6 +168,8 @@ O **Núcleo** enviou perguntas para Facebook, Twitter e Instagram sobre as polí
 </div>
 
 A rede social também esclareceu por meio da assessoria de imprensa que contas verificadas não têm qualquer privilégio de distribuição de conteúdo e que se reserva ao direito de remover selos de contas verificadas a qualquer momento, penalizando coisas como venda ou transferência do selo, tentar verificar a conta via terceiros ou alternar muitas vezes entre conta pública e privada.
+
+**YOUTUBE**: A rede de vídeos respondeu apenas (íntegra): "Para essas questões, sugiro a você que acesse [essa página](https://support.google.com/youtube/answer/3046484). Por lá temos o detalhamento de como funcionam os selos de autenticidade."
 
 **TWITTER**: por email, informou que ”o selo azul é uma forma de ajudar as pessoas a identificar a autenticidade de contas de grande interesse público” e que contas verificadas não são privilegiadas em relação a outras. A plataforma acrescentou ainda que cada solicitação é analisada por uma equipe de agentes treinados que utilizam como base a Política para contas verificadas e que o Twitter pode remover o selo e status de verificação de uma conta a qualquer momento e sem aviso prévio.
 
