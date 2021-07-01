@@ -26,7 +26,7 @@ tags:
 
 ---
 
-
+ 
 Com mais de 1,5 milhão de seguidores no Facebook, o Jornal da Cidade Online se descreve em seu site como "extremamente respeitado pelo seu público leitor por seu comprometimento com a análise dos fatos, material opinativo, pluralidade e compromisso com a verdade". A página ganhou neste ano o selo de verificação azul da rede social.
 
 Na prática, o jogo é outro. Desde as eleições presidenciais de 2018, agências com [certificação internacional](https://www.facebook.com/journalismproject/ifcn-fighting-misinformation?locale=pt_BR) de checagem de fatos, como [Comprova](https://projetocomprova.com.br/), [Aos Fatos](https://www.aosfatos.org/) e [Lupa](https://lupa.news/) -- as duas últimas parte do [programa](https://www.aosfatos.org/noticias/aos-fatos-adere-iniciativa-de-verificacao-de-noticias-do-facebook/) de checagem [independente](https://piaui.folha.uol.com.br/lupa/2018/05/10/verificacao-de-noticias-lupa-facebook/) do Facebook -- vêm sinalizando o papel do Jornal da Cidade Online na disseminação de conteúdos falsos e na participação de ataques direcionados contra políticos e jornalistas.
