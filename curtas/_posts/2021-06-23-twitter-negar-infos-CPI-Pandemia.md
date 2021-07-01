@@ -18,9 +18,9 @@ background: 'curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:
-  - "Ricardo Salles, "
-  - "Meio Ambiente, "
-  - "Covaxin"
+  - "Twitter, "
+  - "CPI da Pandemia, "
+  - "Privacidade de dados"
 
 ---
 
