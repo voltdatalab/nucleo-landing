@@ -12,7 +12,8 @@ date: "01/07/2021 06:01"
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo e Samira Menezes
 credito_img: "Rodolfo Almeida"
-creditos: "Sérgio Spagnuolo, Laís Martins, Samira Menezes"
+arte: "Rodolfo Almeida"
+creditos: "Sérgio Spagnuolo, Laís Martins, Samira Menezes, Rodolfo Almeida"
 background: 'outros/verificacao.png'
 atualizacao: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
 categories:
@@ -243,6 +244,6 @@ A rede social também esclareceu por meio da assessoria de imprensa que contas v
 
 O **Núcleo** entrevistou pessoas que tiveram verificação negada pelas plataformas e notou que alguns perfis que espalham desinformação possuem selo em diversas plataformas.
 
-Entramos em contato com Facebook, Instagram e Twitter para ilustrar essa pauta, embora diversas outras possuam selo de verificação também.
+Entramos em contato com Facebook, Instagram, YouTube e Twitter para ilustrar essa pauta, embora diversas outras possuam selo de verificação também.
 
 Os dados de engajamento foram obtidos e analisados a partir do Science Pulse, projeto do **Núcleo**.
