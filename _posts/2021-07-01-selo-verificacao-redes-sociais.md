@@ -14,7 +14,7 @@ edicao: Sérgio Spagnuolo e Samira Menezes
 credito_img: "Rodolfo Almeida"
 creditos: "Sérgio Spagnuolo, Laís Martins, Samira Menezes"
 background: 'outros/verificacao.png'
-atualizado: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
+atualizacao: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
 categories:
   - "reportagem"
 tags:
@@ -124,7 +124,7 @@ Já na visão de Archegas, a solução passa por estabelecer parâmetros mais cl
 
 ### posicionamento
 
-O **Núcleo** enviou perguntas para Facebook, Twitter, YouTube e Instagram sobre as políticas de verificação. 
+O **Núcleo** enviou perguntas para Facebook, Twitter, YouTube e Instagram sobre as políticas de verificação.
 
 <div class="wrap-collabsible" style="margin: 35px 0;">
   <input id="collapsible" class="toggle" type="checkbox">
