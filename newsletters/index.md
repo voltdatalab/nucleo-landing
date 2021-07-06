@@ -22,6 +22,28 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 <hr>
 
+## [Termômetro]({{ site.baseurl }}/newsletters/termometro)
+
+Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar.
+
+<div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
+<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
+  <div class="revue-form-group">
+  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
+<br/>
+<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
+</div>
+<div class="revue-form-actions">
+  <input type="hidden" name="list" value="cFhoBifxEI3nFU892QjGbgvw"/>
+  <input type="hidden" name="subform" value="yes"/>
+  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
+  </div>
+
+</form>
+</div>
+
+<hr>
+
 ## [Polígono]({{ site.baseurl }}/newsletters/poligono)
 
 **Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates sobre ciência que estão acontecendo nas redes sociais, parte do nosso projeto [Science Pulse]({{ site.baseurl }}/sciencepulse).
