@@ -127,7 +127,7 @@ A ideia é fazer algo útil e não encher seu inbox com emails desnecessários.
 
 - **Arte**: [Rodolfo Almeida]({{ site.baseurl }}/equipe/rodolfoalmd)
 
-- **Edição**: [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico) e [Saminera Menezes]({{ site.baseurl }}/equipe/sergiospagnuolo)
+- **Edição**: [Alexandre Orrico]({{ site.baseurl }}/equipe/alexorrico) e [Samira Menezes]({{ site.baseurl }}/equipe/SamiraMenez)
 
 
 <hr>
