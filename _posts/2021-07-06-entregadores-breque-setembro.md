@@ -16,6 +16,7 @@ credito_img: "Foto de Rowan Freeman/Unsplash | Intervenção de Rodolfo Almeida"
 arte: "Rodolfo Almeida"
 creditos: "Victor Silva, Alexandre Orrico, Samira Menezes, Rodolfo Almeida"
 background: 'motociata/breque-setembro.png'
+atualizacao: "Texto atualizado às 10h31 de 6.jul.2021 para refletir a seguinte correção: no penúltimo parágrafo do texto, substitui 'bloqueios sem acidente' por 'bloqueios sem defesa'."
 categories:
   - "reportagem"
 tags:
@@ -72,8 +73,7 @@ Entregadores da iFood também organizaram uma paralisação em Campo Grande (bai
 
 Apesar da heterogeneidade das reivindicações locais, existe uma clara articulação e coordenação entre as mobilizações que acontecem nas capitais e um direcionamento para que haja uma nova mobilização nacional no dia 11 de setembro. Essa já conta com a adesão de Goiânia, Curitiba, Campo Grande e São Paulo e Paraíba.
 
-De acordo com Ralf Mt, as principais reivindicações nacionais no ano passado eram: melhores taxas, seguro acidente e fim dos bloqueios sem acidentes. Hoje são: código de verificação do pedido e fim da entrega com dia e hora marcada.
-
+De acordo com Ralf Mt, as principais reivindicações nacionais no ano passado eram: melhores taxas, seguro acidente e fim dos bloqueios sem defesa. Hoje são, além das do ano passado: código de verificação do pedido e fim da entrega com ida e hora marcada.
 
 ### COMO FIZEMOS ISSO
 
