@@ -21,6 +21,8 @@ COMPARTILHE:
 '
 ---
 
+{% include alerta_carregamento.html %}
+
 <small>Sinta-se livre para utilizar nossos dados e gráficos. Pedimos apenas que citem a referência `Monitor de Twitter, do Núcleo Jornalismo` ou `Monitor Nuclear`, se possível com link para `www.nucleo.jor.br/monitor`.</small>
 
 ### SOBRE O PROJETO
