@@ -4,7 +4,7 @@ visible: 1
 layout: especial
 tipo: especial
 title: "Como a política mudou o uso do WhatsApp no Brasil"
-titulo_redes: "Política mudou radicalmente a forma como brasileiros usam WhatsApp"
+titulo_redes: "Política mudou radicalmente como brasileiros usam WhatsApp"
 subtitle: 'Desconfiança com informações, regras próprias em grupos e até divisão em subgrupos. Seria esse um aprendizado para 2022?'
 subtitle_redes: "Receio com informações, regras próprias em grupos e até divisão em subgrupos. Seria um aprendizado para 2022?"
 excerpt: 'Conversas em grupos contam com regras próprias e até subgrupos, mostra pesquisa do InternetLab e Rede Conhecimento Social. Seria um aprendizado para 2022?'
