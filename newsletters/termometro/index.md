@@ -104,13 +104,14 @@ A ideia é fazer algo útil e não encher seu inbox com emails desnecessários.
 <div style="margin-bottom: 50px">
 <div class="row">
 <div class="col-md-6">
-<img src="{{ site.baseurl }}/img/termometro-banner.png" alt="img garimpo" width="100%">
+<img src="{{ site.baseurl }}/img/termometro.gif" alt="img garimpo" width="100%">
 </div>
 
 <div class="col-md-6">
 <br>
 <p>Veja as últimas edições:</p>
 
+<script src="https://feeds.feedburner.com/termmetro-campaignsrss?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/termmetro-campaignsrss"></a><br/>Powered by FeedBurner</p> </noscript>
 
 </div>
 </div>

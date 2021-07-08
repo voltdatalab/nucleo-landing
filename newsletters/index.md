@@ -14,6 +14,17 @@ icone: '<i class="far fa-envelope fa-lg"></i>'
 #newsletter_page label{
   font-size: 1em;
 }
+
+img{
+  max-width:100%;
+}
+
+h5{
+  font-family: "Roboto Mono", monospace;
+  color: #4b31dd;
+  text-transform: uppercase;
+  margin-bottom: 20px
+}
 </style>
 
 O **Núcleo** quer chegar a seus leitores e leitoras onde quer que eles estejam, seja pelo nosso canal no [Telegram](https://t.me/nucleojor), seja pelas redes sociais ou por outras mídias.
@@ -22,36 +33,13 @@ Email é uma das formas mais simples e acessíveis, e queremos levar apenas o es
 
 <hr>
 
-## [Termômetro]({{ site.baseurl }}/newsletters/termometro)
+{% for newsletter in site.data.newsletters %}
 
-Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar.
+[![{{ newsletter.nome }}]({{ site.baseurl }}/img/{{ newsletter.img-header }})]({{ site.baseurl }}/newsletters/{{ newsletter.link }})
 
-<div id="newsletter_page" style="margin: 0 auto 20px;max-width: 65%">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="cFhoBifxEI3nFU892QjGbgvw"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
+##### **Tags**: {% if newsletter.tags %}{{ newsletter.tags }} {% endif %}
 
-</form>
-</div>
-
-<hr>
-
-## [Polígono]({{ site.baseurl }}/newsletters/poligono)
-
-**Polígono** é uma newsletter semanal e gratuita do **Núcleo**, que traz os principais assuntos e debates sobre ciência que estão acontecendo nas redes sociais, parte do nosso projeto [Science Pulse]({{ site.baseurl }}/sciencepulse).
-
-A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jornal da USP.
-
-É enviada toda terça-feira, por volta das 10h.
-
+{{ newsletter.desc }}
 
 <div id="newsletter_page">
 <form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
@@ -61,7 +49,7 @@ A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jorna
 <input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
 </div>
 <div class="revue-form-actions">
-  <input type="hidden" name="list" value="7C4Hby3cm472FRL3lYo0Hw"/>
+  <input type="hidden" name="list" value="{{ newsletter.idn }}"/>
   <input type="hidden" name="subform" value="yes"/>
   <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
   </div>
@@ -71,59 +59,7 @@ A curadoria do conteúdo é feita pela jornalista Luiza Caires, editora do Jorna
 
 <hr>
 
-## [GARIMPO]({{ site.baseurl }}/newsletters/garimpo)
-
-O **Garimpo** é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse. [Saiba mais]({{ site.baseurl }}/newsletters/garimpo).
-
-<div id="newsletter_page">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="v5zrQ3RithV9C1HMZZgCeg"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
-
-</form>
-</div>
-
-<hr>
-
-## [Despachos]({{ site.baseurl }}/newsletters/despachos)
-
-Os **Despachos** são newsletters automatizadas e gratuitas do **Núcleo**, que trazem as principais publicações da comunidade científica, parte do nosso projeto [Science Pulse](www.sciencepulse.org).
-
-São duas newsletters: uma diária e uma semanal.
-
-[Para receber, clique aqui]({{ site.baseurl }}/newsletters/despachos)
-
-<hr>
-
-## [MATÉRIA DA SEMANA]({{ site.baseurl }}/newsletters/semanal)
-
-Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
-
-<div id="newsletter_page">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
-
-</form>
-</div>
-
-<hr>
+{% endfor %}
 
 <small>O uso de seus dados é regido pelo nossa [política de privacidade]({{ site.baseurl }}/privacidade).</small>
 
