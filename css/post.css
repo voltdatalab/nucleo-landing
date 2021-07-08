@@ -535,6 +535,12 @@ h2.subheading-special {
   font-family: 'Source Serif Pro', monospace;
 }
 
+.texto_post_special h3{
+  color: #4b31dd;
+  text-transform: uppercase;
+  margin-top: 35px
+}
+
 .texto_post_special h5{
   color: #4b31dd;
   text-transform: uppercase;
