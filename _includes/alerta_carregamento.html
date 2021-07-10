@@ -15,7 +15,7 @@ body, html, root, document{
     padding: 0;
     background-color: none;
     opacity: 0.8;
-    z-index: 50;
+    z-index: -1050;
 }
 .popUp{
     box-sizing: border-box;
@@ -32,7 +32,7 @@ body, html, root, document{
     font-family: 'Barlow', sans-serif;
     color: #4b31dd;
     border-style:none;
-    z-index: 999;
+    z-index: -100;
     overflow: hidden;
     text-align: center;
 }
@@ -129,7 +129,7 @@ janelaPopUp.abre = function(id, classes, titulo, corpo, functionCancelar, functi
         }
     });
     var popFundo = '<div id="popFundo_' + id + '" class="popUpFundo ' + classesFundo + '"></div>'
-    var janela = '<div id="' + id + '" class="popUp ' + classes + '"><h1>' + titulo + "</h1></div>";
+    var janela = '<div id="' + id + '" class="popUp ' + classes + '" style="z-index:-100000"><h1>' + titulo + "</h1></div>";
     $("window, body").css('overflow', 'hidden');
 
     //$("body").append(popFundo);
@@ -146,7 +146,7 @@ janelaPopUp.fecha = function(id){
     if(id !== undefined){
         $("#" + id).removeClass("popUpEntrada").addClass("popUpSaida");
 
-            $("#popFundo_" + id).fadeOut(1000, function(){
+            $("#popFundo_" + id).fadeOut(5000, function(){
                 $("#popFundo_" + id).remove();
                 $("#" + $(this).attr("id") + ", #" + id).remove();
                 if (!($(".popUp")[0])){
@@ -173,6 +173,6 @@ $("button").on("click", function(){
   janelaPopUp.abre( "asdf", $("#size").val() + " "  + $(this).html() + ' ' + $("#mode").val(),  $("#title").val() ,  myText)
 });
 janelaPopUp.abre( "example", 'p blue', 'A aplicação pode demorar uns segundos para carregar');
-setTimeout(function(){janelaPopUp.fecha('example');}, 1300);
+setTimeout(function(){janelaPopUp.fecha('example');}, 5000);
 
 </script>
