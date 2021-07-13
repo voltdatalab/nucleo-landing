@@ -24,6 +24,6 @@ retorno_nome: Newsletters
 }
 </style>
 
-O **Núcleo** possui uma gama de newsletters para sua marca anunciar com destaque e engajamento. Abaixo, nossa kit de mídia com detalhes sobre nossos números, valores e o que oferecemos.
+O **Núcleo** possui uma gama de newsletters para sua marca anunciar com destaque e engajamento. Abaixo, nosso kit de mídia com detalhes sobre números, valores e o que oferecemos.
 
 <a class="garimpo" href="https://docs.google.com/presentation/d/1IIbOw36LuQKAJ_9RKgPeajmgnYIY9_aQwFsODSe7aiw/export/pdf" target="_blank"><span>Kit em PDF aqui (< 1MB)</span></a>
