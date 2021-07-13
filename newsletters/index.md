@@ -25,11 +25,27 @@ h5{
   text-transform: uppercase;
   margin-bottom: 20px
 }
+
+.garimpo{
+  padding:10px 17px;
+  background-color:#4b31dd;
+  color:#fff;
+  border-radius:5px;
+  font-size: 0.95em;
+  margin-top: 50px !important;
+}
+
+.garimpo:hover{
+  background-color:#0fb872;
+}
+
 </style>
 
 O **Núcleo** quer chegar a seus leitores e leitoras onde quer que eles estejam, seja pelo nosso canal no [Telegram](https://t.me/nucleojor), seja pelas redes sociais ou por outras mídias.
 
 Email é uma das formas mais simples e acessíveis, e queremos levar apenas o essencial (novidades que publicamos ou anúncios), sem _spam_, sem forçar a barra com um monte de emails.
+
+<a class="garimpo" href="{{ site.baseurl }}/newsletters/media-kit" target="_blank"><span>Veja nosso media kit</span></a>
 
 <hr>
 
