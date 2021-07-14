@@ -4,7 +4,7 @@ title: 'Transparência do Núcleo Jornalismo'
 desc: 'Saiba de equipe, financiamento, missão, ética e nosso manual'
 tagline: Transparência
 icone: '<i class="fas fa-book-open fa-lg"></i>'
-atualizacao: 27/04/2021
+atualizacao: 14/07/2021
 ---
 
 O **Núcleo** é uma iniciativa que explica, com jornalismo, o impacto da tecnologia e das redes sociais nas vidas das pessoas. Estamos organizados em dois grandes pilares: o de _conteúdo_ (reportagens, artigos, newsletters) e o de _aplicações_ (chatbots, monitores, algoritmos de curadoria). Toda nossa operação é guiada pela transparência, mesmo princípio que cobramos de Big Techs, do governo e de quaisquer outras instituições.
@@ -15,9 +15,11 @@ O **Núcleo** foi fundado pelos jornalistas Sérgio Spagnuolo e Alexandre Orrico
 Por motivos fiscais e legais, ainda estamos avaliando uma nova composição de um CNPJ próprio para o **Núcleo**.
 
 ## QUEM FINANCIA
-Em outubro de 2020, o **Núcleo** foi selecionado para participar de um [processo de aceleração](https://nucleo.jor.br/institucional/2020-10-29-anuncio-nucleo-google) do Google News Initiative, que inclui um grant de US$20.000. Antes disso, os recursos vinham dos fundadores.
+Em outubro de 2020, o **Núcleo** foi selecionado para participar de um [processo de aceleração](https://nucleo.jor.br/institucional/2020-10-29-anuncio-nucleo-google) do Google News Initiative, que inclui um grant de US$20.000 (R$106.000 convertidos). Antes disso, os recursos vinham dos fundadores.
 
 Em maio de 2021, recebemos uma [doação](https://nucleo.jor.br/institucional/2021-05-26-nucleo-apoio-serrapilheira) de R$71.000 do Instituto Serrapilheira no âmbito do nosso projeto [Science Pulse](https://nucleo.jor.br/sciencepulse/).
+
+Também trabalhamos com o apoio de nossos leitores e leitoras, que voluntariamente doam dinheiro para apoiar nosso jornalismo. [Veja aqui todas as doações via PIX](https://docs.google.com/spreadsheets/d/10np9u-A6L9MB8qdbmMLPHykEo86nAsRoG_I1s4LzyLk/edit#gid=0), atualizada regularmente.
 
 A Volt Data Lab também faz investimentos, especialmente na parte de infraestrutura e desenvolvimento do site, pessoal e de aplicações.
 
