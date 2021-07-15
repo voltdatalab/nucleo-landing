@@ -137,6 +137,8 @@ O **Núcleo** vasculhou contas, perfis e grupos no Instagram, Facebook e Telegra
 
 Algumas delas saíram do ar desde então. As pessoas citadas na reportagem responderam pelas próprias redes sociais ou por Whatsapp. Também enviamos quatro perguntas às assessorias de imprensa do Instagram e do Facebook, que responderam apenas com o parágrafo reproduzido no texto.
 
+--- 
+
 #### Resposta na íntegra do Facebook:
 
 **Perguntas enviadas por email em 22.jun.2021:**
@@ -157,6 +159,7 @@ Algumas delas saíram do ar desde então. As pessoas citadas na reportagem respo
 
 Essas duas perguntas foram ignoradas, não houve resposta.
 
+---
 
 #### Resposta na íntegra do Instagram
 
