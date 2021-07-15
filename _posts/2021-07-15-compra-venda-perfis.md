@@ -41,7 +41,7 @@ Não é difícil encontrar ofertas. Na [ig.disponivel](https://www.instagram.com
 
 - *Há pessoas que podem transformar seu like em lucro sem você saber*
 - *Por trás do mundo de interações orgânicas há também muito interesse financeiro e ações manipuladas*
-- *Apesar de contra os termos de uso da maioria das redes, prática não é crime e ajuda a fazer um troco*
+- *Apesar de ser contra os termos de uso da maioria das redes, prática não é crime e ajuda a fazer um troco*
 
 ---
 
