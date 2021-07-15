@@ -106,7 +106,7 @@ Questionados pelo **Núcleo** sobre o mercado de perfis, o Facebook e o Instagra
 
 Até o fechamento da reportagem, havia dois perfis disponíveis para venda na página: @beatriz_safadinha, que soma mais de 500 mil seguidores, e @joicee.top, com seus 150 mil.
 
-Não é preciso dizer que ambas as contas são alimentadas exclusivamente com as mesmas fotos eróticas de mulheres não identificadas. Os pagamentos para os perfis falsos podem ser feitos por Ted, Pix, até 12x no cartão de crédito, PicPay, Mercado Pago e PayPal, oferece o anúncio.
+Não é preciso dizer que ambas as contas são alimentadas exclusivamente com as mesmas fotos eróticas de mulheres não identificadas. Os pagamentos podem ser feitos por Ted, Pix, até 12x no cartão de crédito, PicPay, Mercado Pago e PayPal, oferece o anúncio.
 
 Às vezes, as postagens de mulheres viram um negócio duplamente lucrativo: meninas em busca de seguidores pagam para saírem e serem tagueadas em páginas já populares. É assim que ganha dinheiro, por exemplo, Ludiana, proprietária do [wpfollow_](https://www.instagram.com/wpfollow_/), página de divulgação de contas à venda.
 
@@ -137,7 +137,7 @@ O **Núcleo** vasculhou contas, perfis e grupos no Instagram, Facebook e Telegra
 
 Algumas delas saíram do ar desde então. As pessoas citadas na reportagem responderam pelas próprias redes sociais ou por Whatsapp. Também enviamos quatro perguntas às assessorias de imprensa do Instagram e do Facebook, que responderam apenas com o parágrafo reproduzido no texto.
 
---- 
+---
 
 #### Resposta na íntegra do Facebook:
 
