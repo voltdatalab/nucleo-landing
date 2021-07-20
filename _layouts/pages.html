@@ -24,8 +24,11 @@
 									{% endif %}
 									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 10px" />
 
+									{% if page.retorno_nome %}
+										{% include breadcrumb.html %}
+											{% else %}
 										{% include counter.html %}
-
+									{% endif %}
 								</div>
 							</div>
 

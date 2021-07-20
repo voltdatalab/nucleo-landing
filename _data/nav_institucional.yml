@@ -1,0 +1,17 @@
+- nome: Sobre o Núcleo
+  link: 'sobre'
+
+- nome: Nossa equipe
+  link: 'equipe'
+
+- nome: Notas institucionais
+  link: 'institucional'
+
+- nome: Trabalhe conosco
+  link: 'pautas'
+
+- nome: Use nossas matérias
+  link: 'republique'
+
+- nome: Política de privacidade
+  link: 'privacidade'

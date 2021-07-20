@@ -1,0 +1,38 @@
+- nome: "Termômetro"
+  link: "termometro"
+  img-header: "termometro-header.png"
+  tags: "Política, análise de dados"
+  desc: "Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar."
+  idn: "cFhoBifxEI3nFU892QjGbgvw"
+  ordem: 1
+
+- nome: "Polígono"
+  link: "poligono"
+  img-header: "poligono-header.png"
+  tags: "Ciência, divulgação científica"
+  desc: "Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar."
+  idn: "7C4Hby3cm472FRL3lYo0Hw"
+  ordem: 2
+
+- nome: "Garimpo"
+  link: "garimpo"
+  img-header: "garimpo.png"
+  tags: "Assuntos virais, memes, cotidiano"
+  desc: "O Garimpo é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse."
+  idn: "v5zrQ3RithV9C1HMZZgCeg"
+  ordem: 3
+
+- nome: "Matéria da Semana"
+  link: "semanal"
+  img-header: "semanal.png"
+  tags: "Reportagens, investigações, conteúdo especial"
+  desc: "Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno."
+  idn: "ntTZYrZ892fUdG4t9EX1OtdQ"
+  ordem: 4
+
+- nome: "Despachos"
+  link: "despachos"
+  img-header: "pulse_newshead_logo.png"
+  tags: "Ciência, newsletter automatizada"
+  desc: "Os Despachos são newsletters automatizadas e gratuitas do Núcleo, que trazem as principais publicações da comunidade científica, parte do nosso projeto Science Pulse."
+  ordem: 5

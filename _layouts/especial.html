@@ -126,9 +126,9 @@
 										{% if page.analise %} Análise <span>{{ page.analise }}</span><br /> {% endif %}
 										{% if page.texto %} Texto <span>{{ page.texto }}</span><br /> {% endif %}
 										{% if page.colaboracao %} Colaboração <span>{{ page.colaboracao }}</span><br /> {% endif %}
-										{% if page.dados %} dados <span>{{ page.dados }}</span><br /> {% endif %}
 										{% if page.graficos %} Gráficos <span>{{ page.graficos }}</span><br /> {% endif %}
 										{% if page.arte %} Arte <span>{{ page.arte }}</span><br /> {% endif %}
+										{% if page.dados %} dados <span>{{ page.dados }}</span><br /> {% endif %}
 										{% if page.edicao %} Edição <span>{{ page.edicao }}</span>{% else %} Publicado por Equipe Núcleo {% endif %}
 
 									</span>
@@ -147,20 +147,30 @@
 								{% assign wordCount = page.content | number_of_words %}
 								<h4 class="arquivado creditos_alt" style="margin-top:20px;text-align:center"><i class="fas fa-pen"></i> <u>Palavras</u>: {{ wordCount }}</h4>
 								<h4 class="arquivado creditos_alt" style="text-align:center"><i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}</h4>
-								<h4 class="arquivado creditos_alt" style="text-align:center"><i class="far fa-clock"></i> Leitura estimada: {{ wordCount | divided_by:180 }} minutos</h4>
+								<h4 class="arquivado creditos_alt" style="text-align:center"><i class="far fa-clock"></i> Leitura estimada: {{ wordCount | divided_by:250 }} minutos</h4>
 								<br /><br />
 										{{ content }}
 
 										<hr>
+
+										{% if page.atualizacao %}
+										<h4>
+											<i class="fas fa-exclamation-circle fa-sm"></i> <small><em>{{ page.atualizacao }}</em></small>
+										</h4>
+										<hr />
+										{% endif %}
+
+										{% include apoie_o_nucleo.html %}
+									 </hr>
 										<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
 								</div>
 
 								<hr>
-
-								{% include sugestoes_artigos.html %}
-								
 								      </div>
+											<div style="max-width: 600px;margin: 0 auto">
+												{% include sugestoes_artigos.html %}
 
+											</div>
 
 	</section>
 

@@ -6,7 +6,7 @@ tagline: PAUTAS E CVS
 subtitle: 'Buscamos colaboradores interessados em produzir jornalismo e compartilhar ideias sobre tecnologia'
 link: impacto
 icone: '<i class="fas fa-laptop-house fa-lg"></i>'
-atualizacao: 24/02/2021
+atualizacao: 14/07/2021
 ---
 
 O **Núcleo** está em busca de colaboradores freelancers para trazerem pautas sobre o impacto da tecnologia na vida das pessoas, assim como debates e discussões de redes sociais.
@@ -19,7 +19,7 @@ Os textos da seção [IDEIAS]({{ site.baseurl }}/ideias) possuem valor fixo, con
 | Valor              | Elementos de peso na avaliação                                                                                                                                                                                                                                      |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mínimo R$800                 | Podem interessar, mas: não tenham tanto apelo imediato no ciclo noticioso; não tragam conhecimento novo ou muito relevante; venham ainda no início da apuração (o que nos dá mais trabalho interno); não tenham dados ou ideias de recursos além do texto. |
-| Média R$1.500                | Em geral, essas pautas:  têm dados ou ideias de recursos além do texto; vêm quase prontas, pendentes apenas de edição e alguns detalhes; trazem assuntos relevantes e atuais no ciclo noticioso.                                                              |
+| Média R$1.000 a R$1.500                | Em geral, essas pautas:  têm dados ou ideias de recursos além do texto; vêm quase prontas, pendentes apenas de edição e alguns detalhes; trazem assuntos relevantes e atuais no ciclo noticioso.                                                              |
 | Acima de R$2000 (negociação) | Essas pautas:  apresentam novos conhecimentos ou informações muito quentes e relevantes (furos, investigações, análises aprofundadas); vêm preferencialmente avançadas na apuração e no desenvolvimento; trazem ideas e dados para recursos além do texto     |
 | Texto Ideias R$300           | Valor fixo, o texto precisa:  trazer um ponto interessante sobre tecnologia; colaborar com o debate do assunto; ser bem escrito e apurado; não se basear somente em opinião, mas também em observação (exceto quanto solicitado)                            |
 

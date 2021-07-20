@@ -2,11 +2,16 @@
   margin-bottom: 5px;
   margin-top: 10px;
   background-attachment: scroll;
-  background-repeat: no-repeat;
   background-position: center;
   position: relative;
+  /*
+  background-repeat: no-repeat;
+  height: 850px;
+  background-size: cover; */
+  height: 960px;
   background-size: cover;
-  height: 800px
+  background-repeat: repeat;
+
 }
 
 .masthead-curta{
@@ -63,6 +68,7 @@
 
 .conteudo-curtas img{
   max-width: 100%;
+  margin: 10px 0 20px;
 }
 
 h2.subheading {
@@ -470,10 +476,9 @@ td{
 
 h2.subheading-special {
   font-weight: 300;
-  color: #555555;
+  color: #444444;
   font-size: 1.4em;
-  line-height: 2.3em;
-  text-transform: uppercase;
+  line-height: 1.8em;
   padding: 7px;
   background-color: none;
   display: inline;
@@ -528,6 +533,12 @@ h2.subheading-special {
   font-size: 1.1em;
   font-weight: 400;
   font-family: 'Source Serif Pro', monospace;
+}
+
+.texto_post_special h3{
+  color: #4b31dd;
+  text-transform: uppercase;
+  margin-top: 35px
 }
 
 .texto_post_special h5{
@@ -665,7 +676,6 @@ input[type='checkbox'] {
 input[type=checkbox]:checked ~ label {
     color: #ffffff;
     text-decoration: none;
-    background-color: #f33872
 }
 
 .lbl-toggle::before {
@@ -910,7 +920,8 @@ PIX
     }
 
     .texto-destak{
-      max-width: 300px;
+      max-width: 100% !important;
+      width: 100% !important;
       overflow: visible;
       position: relative;
       left: 0 !important;
@@ -921,7 +932,8 @@ PIX
     }
 
     .texto-destak-right{
-      max-width: 300px;
+      max-width: 100% !important;
+      width: 100% !important;
       position: relative;
       right: 0 !important;
       float: right;

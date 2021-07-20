@@ -9,8 +9,9 @@ icone: '<i class="fas fa-basketball-ball fa-lg"></i>'
 <div class="container" style="padding: 0 5% 50px;max-width:850px">
           <div class="row">
 
-            {% for post in site.posts %}
-            {% if post.tipo contains 'curtas' %}
+            {% assign posts = site.posts | where_exp: "post", "post.tipo == 'curtas'"  %}
+
+            {% for post in posts offset:0 limit: 30 %}
 
         <div class="col-sm-6 col-lg-6">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -23,7 +24,7 @@ icone: '<i class="fas fa-basketball-ball fa-lg"></i>'
                   </span>
                   <br /><br />
           </div>
-                {% endif %}
+
                 {% endfor %}
                 </div>
 

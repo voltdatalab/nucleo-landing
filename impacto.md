@@ -35,6 +35,15 @@ Após solicitação de comentários ao Facebook, a assessoria de imprensa da red
 
 <hr>
 
+## &#8594; Exército Brasileiro retira do ar exposição indevida de dados de generais
+
+[Nossa apuração](https://nucleo.jor.br/curtas/2021-05-14-exposica-dados-generais) sobre a exposição indevida de dados pessoais de aparentemente todos os generais do Exército Brasileiro levou a corporação a retirar de acesso público o documento com esses dados.
+
+#### Como soubemos disso?
+O **Núcleo** notificou o Exército de que um livrete de acesso restrito com dados de generais estava publicamente acessível em uma rede externa, o que levou a corporação a retirar o documento do ar. No mesmo dia da notificação o link do livrete ficou inacessível.
+
+<hr>
+
 ## &#8594; CPI sobre Óleo do Nordeste
 
 [Nossa reportagem](https://nucleo.jor.br/ecossistema/2020-01-11-ibama-alertas-ministerio-documentos) sobre como o Ministério do Meio-Ambiente foi alertado constantemente pelo Ibama sobre falta de recursos no combate contra o derramamento de óleo no Nordeste serviu para subsidiar relatório para a [CPI na Câmara](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/externas/56a-legislatura/derramamento-de-oleo-no-nordeste) que analisa o tema.

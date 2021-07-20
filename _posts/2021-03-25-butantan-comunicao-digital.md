@@ -5,8 +5,8 @@ layout: conteudo
 tipo: reportagem
 title: "De cobras a funk: a guinada na comunicação do Butantan"
 titulo_redes: "De cobras a funk: a guinada nas redes do Butantan"
-subtitle: "Instituto intensifica presença nas redes, interação com os usuários e aumenta engajamento na esteira do desenvolvimento da Coronovac no Brasil"
-subtitle_redes: "Maior presença nas redes, interação com os usuários e engajamento -- na esteira da Coronovac"
+subtitle: "Instituto intensifica presença nas redes, interação com os usuários e aumenta engajamento na esteira do desenvolvimento da Coronavac no Brasil"
+subtitle_redes: "Maior presença nas redes, interação com os usuários e engajamento -- na esteira da Coronavac"
 excerpt: 'Histórico de processos e delimitação mais clara do que configura violação favorecem atuação mais rápida de plataformas em casos de direitos autorais'
 date: "25/03/2021 09:48"
 reportagem: Laís Martins

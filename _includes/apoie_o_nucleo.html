@@ -17,3 +17,16 @@
     </h4>
     <!-- <h4 class="arquivado creditos_alt" style="max-width:90%">Fale conosco: <a href="mailto:comunidade@nucleo.jor.br" target="_blank">comunidade@nucleo.jor.br</a></h4> -->
 </div>
+
+
+<script>
+  document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
+async function clipboardCopy() {
+let text = document.querySelector("#myPix").value;
+await navigator.clipboard.writeText(text);
+
+alert("Chave Pix ALEATÓRIA copiada");
+}
+
+
+</script>

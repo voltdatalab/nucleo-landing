@@ -16,9 +16,15 @@
   twitter: jade_dru
   email: jade@nucleo.jor.br
 
+- nome: Samira Menezes
+  post: Deputy Editor
+  posicao: Editora-adjunta
+  twitter: SamiraMenez
+  email: samira@nucleo.jor.br
+
 - nome: Felippe Mercurio
   post: CTO
-  posicao: Coordenador de tecnologia
+  posicao: Coordenador de tech
   twitter: ztock
   email: felippe@nucleo.jor.br
 
@@ -39,11 +45,6 @@
   posicao: Analista de dados
   twitter: lgelape
   email: lucas@nucleo.jor.br
-
-- nome: Raphael Evangelista
-  post: Writer
-  posicao: Redator do Garimpo
-  twitter: raphaevanges
 
 - nome: Renata Hirota
   post: Data analyst

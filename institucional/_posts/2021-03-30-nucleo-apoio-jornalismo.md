@@ -24,7 +24,7 @@ tags:
 
 ---
 
-[Transparência]({{ site.baseurl }}/transparencia) é um princípio importante do Núcleo. Com ela construímos credibilidade e reputação, e também confiança com nossa comunidade. Para manter nosso conteúdo aberto, colaborativo e acessível, estamos desenvolvendo um modelo de negócio que não envolve *paywall* (site fechado) ou venda de dados (dos poucos que coletamos) das pessoas. Parte desse modelo envolve o apoio de leitores e leitoras.
+[Transparência]({{ site.baseurl }}/transparencia) é um princípio importante do **Núcleo**. Com ela construímos credibilidade e reputação, e também confiança com nossa comunidade. Para manter nosso conteúdo aberto, colaborativo e acessível, estamos desenvolvendo um modelo de negócio que não envolve *paywall* (site fechado) ou venda de dados (dos poucos que coletamos) das pessoas. Parte desse modelo envolve o apoio de leitores e leitoras.
 
 Por isso, lançamos uma nova forma para sustentar o trabalho que fazemos: **uma contribuição financeira voluntária e direta de quem nos acompanha**.
 

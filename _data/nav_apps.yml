@@ -1,0 +1,16 @@
+- nome: Tecnologia Pulse
+  link: pulse-tech
+
+- nome: Monitor Nuclear
+  link: monitor
+
+- nome: Science Pulse
+  link: 'sciencepulse'
+
+- nome: Science Pulse
+  desc: English
+  link: 'sciencepulse/eng'
+
+- nome: Bot no Telegram
+  link: 'https://t.me/SciencePulseBot'
+  externo: sim

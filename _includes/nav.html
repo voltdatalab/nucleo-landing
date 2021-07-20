@@ -1,3 +1,5 @@
+{% include google_tag_manager_body.html %}
+
 <!-- Navigation -->
 <nav class="navbar navbar-default" role="navigation">
     <div class="container">
@@ -17,44 +19,91 @@
               <li>
                   <a href="{{ site.baseurl }}/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
               </li>
+              <li>
+                  <a href="{{ site.baseurl }}/newsletters">NEWSLETTERS</a>
+              </li>
                 <li class="dropdown">
                   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                   style="background:none;padding:0;"
                   ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
                       <ul class="dropdown-menu">
+
                         <li class="dropdown-header">SEÇÕES</li>
-                        <li>  <a href="{{ site.baseurl }}/especiais">ESPECIAIS</a></li>
-                        <li><a href="{{ site.baseurl }}/ideias">JOGO RÁPIDO</a></li>
-                        <li>  <a href="{{ site.baseurl }}/arquivo">ARQUIVO</a></li>
-                        <li><a href="{{ site.baseurl }}/ideias">IDEIAS</a></li>
-                        <li><a href="{{ site.baseurl }}/monitor">MONITOR NUCLEAR</a></li>
+                          {% for item in site.data.nav_secoes %}
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
+                          {% endfor %}
+
                         <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">NEWSLETTERS</li>
-                        <li>  <a href="{{ site.baseurl }}/newsletters/garimpo">GARIMPO</a></li>
-                        <li><a href="{{ site.baseurl }}/newsletters">MATÉRIA DA SEMANA</a></li>
+                          <li class="dropdown-header">APLICAÇÕES</li>
+                          {% for item in site.data.nav_apps %}
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                  {% if item.desc %}
+                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  {% endif %}
+                                </a>                
+                                {% endif %}
+                              </li>
+                          {% endfor %}
+
+                        <li role="separator" class="divider"></li>
+                          <li class="dropdown-header">NEWSLETTERS</li>
+                          {% for item in site.data.nav_newsletters %}
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                  {% if item.desc %}
+                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  {% endif %}
+                                </a>
+                                {% endif %}
+                              </li>
+                          {% endfor %}
+
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">COMUNIDADE</li>
-                        <li><a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh">LIXO ELETRÔNICO</a></li>
-                        <li><a href="{{ site.baseurl }}/transparencia">TRANSPARÊNCIA</a></li>
-                        <li><a href="{{ site.baseurl }}/cobertura">COBERTURA DE TECH</a></li>
+                          {% for item in site.data.nav_comunidade %}
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+
+                              </li>
+                          {% endfor %}
+
+
                         <li role="separator" class="divider"></li>
                         <li class="dropdown-header">INSTITUCIONAL</li>
-                        <li><a href="{{ site.baseurl }}/sobre">SOBRE O NÚCLEO</a></li>
-                        <li><a href="{{ site.baseurl }}/equipe">NOSSA EQUIPE</a></li>
-                        <li><a href="{{ site.baseurl }}/pautas">COLABORE CONOSCO</a></li>
-                        <li><a href="{{ site.baseurl }}/republique">REPUBLICAÇÕES</a></li>
-                        <li><a href="{{ site.baseurl }}/impacto">NOSSO IMPACTO</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">POLÍTICAS</li>
-                        <li><a href="{{ site.baseurl }}/privacidade">PRIVACIDADE</a></li>
-                        <li role="separator" class="divider"></li>
+                          {% for item in site.data.nav_institucional %}
+                              <li>
+                                {% if item.externo %}
+                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                                {% else %}
+                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                {% endif %}
+                              </li>
+                          {% endfor %}
+
                         </ul>
               </li>
               <li class="dropdown">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                 style="background:none;padding:0;"
                 ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
-                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px">
+                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px;">
                   <li>
                 <form action="{{ site.baseurl }}/busca.html" method="get">
                 <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">

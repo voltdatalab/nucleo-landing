@@ -13,9 +13,14 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {% if page.title %}
+    <title>{{ page.title }} | Núcleo Jornalismo</title>
+    {% else %}
+    <title>{{ site.title }}</title>
+    {% endif %}
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.8.6/umd/popper.min.js" integrity="sha512-jbqFEuvOwSwKyG+POu/cFuLrOaMjIjYO4NVGzs2+h3fidvrLOQ7LLc1yf+LIKmm9SfEP+ZTpbLlu41jmILbRyw==" crossorigin="anonymous"></script>
+    {% include google_tag_manager_head.html %}
+
     <!-- Bootstrap Core CSS -->
     <link href="{{site.baseurl}}/css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,19 +35,16 @@
 
     <meta name="keywords" content="jornalismo, jornalismo de dados, análise de dados, transparêcia pública, políticas públicas, gastos públicos"/>
     <meta property="og:site_name" content="Núcleo Jornalismo">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Núcleo Jornalismo{% endif %}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | Núcleo Jornalismo{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.title %} {{ page.desc }} {% else %} Investigações a partir de dados públicos {% endif %}" />
 
     <!-- FACEBOOK -->
     <meta property="og:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png{% endif %}"/>
-    <meta property="og:image:type" content="image/jpg" />
+    <meta property="og:image:type" content="{% if page.background contains == '.jpeg' %}image/jpeg{% else %}image/png{% endif %}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 
     <!-- Whatsapp -->
-    <meta property="og:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_whatsapp-shareimg_f.png{% endif %}" />
-    <meta property="og:image" content="" />
-    <meta property="og:image:type" content="image/jpg" />
     <meta property="og:image:width" content="300" />
     <meta property="og:image:height" content="300" />
 
@@ -52,47 +54,20 @@
     <meta name="twitter:creator" content="@nucleojor" />
     <meta name="twitter:image" content="{% if page.background %}https://nucleo.jor.br/img/{{ page.background }}{% else %}https://nucleo.jor.br/img/landing-nucleo_facebook-header_f.png{% endif %}">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104963816-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    {% include google_analytics.html %}
 
-      gtag('config', 'UA-104963816-3');
+    {% if page.redirect %}
+    <meta http-equiv="refresh" content="1;url={{ page.redirect }}"/>
+    <link rel="canonical" href="{{ page.redirect }}"/>
+    <script type="text/javascript">
+            window.location.href = "{{ page.redirect }}"
     </script>
-    <script>
-      gtag('event','100%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 100 ,
-    'non_interaction' : true
-  });
-    </script>
-    <script>
-      gtag('event','75%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 75 ,
-    'non_interaction' : true
-});
-    </script>
-    <script>
-      gtag('event','50%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 50 ,
-    'non_interaction' : true
-});
-    </script>
-    <script>
-      gtag('event','25%', {
-    'event_category': 'NTG article milestone',
-    'event_label': '{{ page.title }}',
-    'event_value': 25 ,
-    'non_interaction' : true
-});
-    </script>
+    {% endif %}
 
-
+    <script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+   </script>
+   <meta name="google-site-verification" content="0xAvmbLT7c8hpUqmr6NZEFZ3QddTlkRk3LFLFQsHZB8" />
 </head>

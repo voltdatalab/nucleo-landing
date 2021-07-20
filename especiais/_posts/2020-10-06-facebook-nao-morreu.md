@@ -16,12 +16,9 @@ creditos: Alexandre Orrico, Sérgio Spagnuolo, Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 dados_abertos: "Dados sobre usuários do Facebook - via Statista"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit?usp=sharing"
-dados_abertos2: ""
-dados_abertos_link2: ""
 gif: 'social-fb/facebook.gif'
 background: 'social-fb/facebook_imagem_2.jpeg'
-atualizacao: ""
-nota_abertura: ""
+atualizacao: 'Texto atualizado às 10h34 de 16 de outubro para esclarecer no 5o parágrafo sob o intertítulo "OS GRUPOS" que não temos análise de que usuários do Facebook são de direita, mas sim que a conversa gira em torno de termos atribuídos à direita.'
 tags:
   - "Facebook, "
   - "Política Digital, "
@@ -400,8 +397,6 @@ Por fim, também utilizamos dados da plataforma Statista, cujos links estão no 
 Também fizemos uma enquete no Twitter. 👇
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Qual é a sua relação com o Facebook nos últimos anos?<br><br>*Saiba o motivo da enquete amanhã</p>&mdash; Núcleo Jornalismo (@nucleojor) <a href="https://twitter.com/nucleojor/status/1316098906153979905?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-**Texto atualizado às 10h34 de 16 de outubro para esclarecer no 5o parágrafo sob o intertítulo "OS GRUPOS" que não temos análise de que usuários do Facebook são de direita, mas sim que a conversa gira em torno de termos atribuídos à direita.**
 
 
 <!-- faz aparecer os gráficos -->

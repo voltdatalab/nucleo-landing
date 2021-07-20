@@ -1,0 +1,17 @@
+- nome: Especiais
+  link: 'especiais'
+
+- nome: Reportagens
+  link: 'reportagem'
+
+- nome: Jogo Rápido
+  link: 'curtas'
+
+- nome: Ideias
+  link: 'ideias'
+
+- nome: 'Republicado <i class="fab fa-creative-commons" fa-lg></i>'
+  link: 'republica'
+
+- nome: Arquivo de matérias
+  link: 'arquivo'

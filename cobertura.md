@@ -4,7 +4,7 @@ title: 'Cobertura de tecnologia'
 desc: 'Sites que acompanham o assunto de tecnologia, no Brasil e no Exterior'
 tagline: PAUTAS E CVS
 subtitle: 'Sites que acompanham o assunto de tecnologia'
-atualizacao: 08/03/2021
+atualizacao: 26/05/2021
 ---
 
 

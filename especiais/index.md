@@ -10,10 +10,9 @@ atualizacao: 05/04/2020
 
 <div class="container" style="padding: 0 5% 0px;max-width:850px">
           <div class="row">
-{% for post in site.posts offset:0 limit:20 %}
-{% if post.tipo contains 'especial' %}
-{% unless post.tipo contains 'draft' %}
-{% unless post.tipo contains 'institucional' %}
+          {% assign posts = site.posts | where_exp: "post", "post.tipo == 'especial'"  %}
+
+          {% for post in posts offset:0 limit: 30 %}
           <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
@@ -25,9 +24,7 @@ atualizacao: 05/04/2020
                   </span><br /><br />
 
                 </div>
-                {% endunless %}
-                {% endunless %}
-                {% endif %}
+
                 {% endfor %}
               </div>
       </div>

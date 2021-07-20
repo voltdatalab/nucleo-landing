@@ -31,7 +31,7 @@
 
 
 				{% assign wordCount = page.content | number_of_words %}
-				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }} <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}--> &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:180 }} minutos</h4>
+				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }} <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}--> &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:250 }} min</h4>
 
 				<br />
 
@@ -94,10 +94,12 @@
 				<div class="sidebar col-sm-4">
 					<span class="arquivado creditos_alt">
 
+						{% if page.autoria %} Por <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.autoria }}</a></span><br /> {% else %} {% endif %}
 					{% if page.reportagem %} Reportagem <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.reportagem }}</a></span><br /> {% else %} {% endif %}
 						{% if page.analise %} Análise <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_analise }}">{{ page.analise }}</a></span><br /> {% endif %}
 						{% if page.texto %} Texto <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_texto }}">{{ page.texto }}</a></span><br /> {% endif %}
 						{% if page.colaboracao %} Colaboração <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_colaboracao }}">{{ page.colaboracao }}</a></span><br /> {% endif %}
+						{% if page.dados %} Dados <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_dados }}">{{ page.dados }}</a></span><br /> {% endif %}
 						{% if page.graficos %} Gráficos <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_grafico }}">{{ page.graficos }}</a></span><br /> {% endif %}
 						{% if page.arte %} Arte <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_arte }}">{{ page.arte }}</a></span><br /> {% endif %}
 						{% if page.edicao %} Edição <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_edicao }}">{{ page.edicao }}</a></span>{% else %} Publicado por Equipe Núcleo {% endif %}
@@ -129,17 +131,6 @@
 
 				{% include apoie_o_nucleo.html %}
 
-				<script>
-					document.getElementById('clipboardCopy').addEventListener('click', clipboardCopy);
-async function clipboardCopy() {
-let text = document.querySelector("#myPix").value;
-await navigator.clipboard.writeText(text);
-
-	alert("Chave Pix ALEATÓRIA copiada");
-}
-
-
-				</script>
 
 				<hr class="hrtop"/>
 
