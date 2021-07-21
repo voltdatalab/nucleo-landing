@@ -21,6 +21,7 @@ markdown: kramdown
 permalink: /:categories/:year-:month-:day-:title
 plugins:
   - jekyll-paginate
+  - jekyll-feed
 
 paginate:           20
 paginate_path:      "/arquivo/p:num/"
