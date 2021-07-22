@@ -31,7 +31,7 @@ tags:
 
 Com o movimento nas ruas diminuído no último ano devido à pandemia da Covid-19, sem mencionar os problemas econômicos do Brasil, as redes sociais se transformaram nos novos cruzamentos entre vias para quem pede doações em dinheiro contando apenas com a caridade de desconhecidos e uma chave Pix.
 
-Análise do **Núcleo** de centenas de posts no Instagram e no Twitter durante apenas quatro dias em junho de 2021 elaborou um panorama sobre principais motivações dos perfis que decidem pôr a cara na rede para pedir por auxílio financeiro, encontrando nessas plataformas um novo tipo de "semáforo" no qual podem pedir dinheiro para o máximo de pessoas possível.
+Análise do **Núcleo** de centenas de posts no Instagram e no Twitter durante apenas quatro dias em junho de 2021 elaborou um panorama sobre as principais motivações dos perfis que decidem pôr a cara na rede para pedir por auxílio financeiro, encontrando nessas plataformas um novo tipo de "semáforo" no qual podem pedir dinheiro para o máximo de pessoas possível.
 
 Ali são feitos pedidos de doações para compra de comida ou de remédio, para auxílio com animais abandonados ou para levantar recursos para causas e projetos. Interessados em ajudar nem precisam sair do sofá: é só fazer um Pix – o formato de transferência e pagamento instantâneos que funciona a qualquer dia e hora entre bancos diferentes.
 
