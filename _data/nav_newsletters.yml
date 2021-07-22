@@ -1,17 +1,21 @@
 - nome: Conheça as news
   link: 'newsletters'
 
-- nome: Polígono
-  desc: ciência
-  link: 'newsletters/poligono'
+- nome: Despachos
+  desc: automatizadas
+  link: 'newsletters/despachos'
 
 - nome: Garimpo
   desc: redes sociais
   link: 'newsletters/garimpo'
 
-- nome: Despachos
-  desc: automatizadas
-  link: 'newsletters/despachos'
+- nome: Polígono
+  desc: ciência
+  link: 'newsletters/poligono'
 
 - nome: Reportagem da semana
   link: 'newsletters/semanal'
+
+- nome: Termômetro
+  desc: política
+  link: 'newsletters/termometro'

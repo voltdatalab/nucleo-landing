@@ -1,8 +1,8 @@
+- nome: Arquivo de matérias
+  link: 'arquivo'
+
 - nome: Especiais
   link: 'especiais'
-
-- nome: Reportagens
-  link: 'reportagem'
 
 - nome: Jogo Rápido
   link: 'curtas'
@@ -10,8 +10,12 @@
 - nome: Ideias
   link: 'ideias'
 
-- nome: 'Republicado <i class="fab fa-creative-commons" fa-lg></i>'
+- nome: Reportagens
+  link: 'reportagem'
+
+- nome: 'Republicamos <i class="fab fa-creative-commons" fa-lg></i>'
   link: 'republica'
 
-- nome: Arquivo de matérias
-  link: 'arquivo'
+- nome: Feed RSS <i class="fas fa-rss"></i>
+  link: "https://nucleo.jor.br/feed"
+  externo: sim
