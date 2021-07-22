@@ -13,7 +13,7 @@ reportagem: Jacqueline Lafloufa
 edicao: Samira Menezes e Sérgio Spagnuolo
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Beatriz Montesanti, Samira Menezes, Rodolfo Almeida, Sérgio Spagnuolo"
+creditos: "Jacqueline Lafloufa, Samira Menezes, Rodolfo Almeida, Sérgio Spagnuolo"
 dados_abertos: "Tags - dados para Twitter"
 dados_abertos_link: "https://tags.hawksey.info/"
 dados_abertos2: "CrowdTangle - dados para Instagram"
@@ -50,7 +50,7 @@ Em abril, o **Núcleo** [mostrou como](https://nucleo.jor.br/reportagem/2021-04-
 
 Agora, no entanto, é abordando um aspecto mais triste e delicado do assunto, que, de um lado, envolve pessoas potencialmente em situação de vulnerabilidade que perderam emprego, auxílio médico ou até mesmo segurança alimentar. E, de outro, usuários de redes sociais que podem não confiar em pedidos de desconhecidos a ponto de ajudar.
 
-<iframe src="{{ site.baseurl }}/img/pix/interativo-pedintes" width="100%" height="350px" frameborder="no" scrolling="no" seamless></iframe>
+<iframe src="{{ site.baseurl }}/img/pix/interativo-pedintes" width="100%" height="450px" frameborder="no" scrolling="no" seamless></iframe>
 
 ### Na rabeira de posts mais populares
 
