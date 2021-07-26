@@ -8,13 +8,14 @@ titulo_redes: "Telegram cresce no Brasil, mas opera no escuro"
 subtitle: "Dificuldade de contatar representantes da plataforma afeta não só jornalistas e usuários, como também o judiciário"
 subtitle_redes: "Dificuldade de contatar representantes da plataforma de jornalistas ao judiciário"
 excerpt: 'Dificuldade de contatar representantes da plataforma afeta jornalistas e até o judiciário.'
-date: "26/07/2021 00:01"
+date: "26/07/2021 06:01"
 reportagem: Laís Martins
 edicao: Samira Menezes e Sérgio Spagnuolo
 arte: "Unsplash | Intervenção de Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
 creditos: "Laís Martins, Samira Menezes, Sérgio Spagnuolo"
 background: 'telegram/telegram-sombras.png'
+atualizacao: "Atualiza no primeiro parágrafo para esclarecer que dos 30% de uso no Brasil são entre aqueles maiores de 16 anos com acesso à internet"
 categories:
   - "reportagem"
 tags:
@@ -23,7 +24,7 @@ tags:
 
 ---
 
-Mais de [30% dos brasileiros](https://nucleo.jor.br/especiais/2021-07-08-whatsapp-politica-mudanca) já utilizam o Telegram, segundo pesquisa do InternetLab em parceria com a Rede Conhecimento Social, mas ainda assim a presença do aplicativo de mensagens no país é um vácuo.
+Mais de [30% dos brasileiros](https://nucleo.jor.br/especiais/2021-07-08-whatsapp-politica-mudanca) acima de 16 anos com acesso à internet já utilizam o Telegram, segundo pesquisa do InternetLab em parceria com a Rede Conhecimento Social, mas ainda assim a presença corporativa do aplicativo de mensagens no país é um vácuo.
 
 Mesmo após assegurar um financiamento de [US$1 bilhão](https://www.reuters.com/article/mubadala-inv-telegram-int-idUSKBN2BF0UP) junto investidores, o que colocaria a empresa em um patamar avançado de profissionalização organizacional e corporativa, o Telegram segue sem representação no país e basicamente ignora questionamentos da imprensa e até do judiciário.
 

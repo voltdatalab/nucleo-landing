@@ -1,0 +1,19 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "O **Núcleo** é uma iniciativa que cobre o impacto das redes sociais nas vidas das pessoas, explorando desde os meios tradicionais de produção jornalística até novos formatos de conteúdo e tecnologia.",
+  "main": "/js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltdatalab/nucleo-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voltdatalab/nucleo-landing/issues"
+  },
+  "homepage": "https://github.com/voltdatalab/nucleo-landing#readme"
+}
