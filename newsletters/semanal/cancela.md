@@ -1,8 +1,8 @@
 ---
 layout: pages
 title: 'Matéria da Semana'
-desc: 'Nossa reportagem semanal direto na sua caixa de email'
-subtitle: 'Nossa reportagem semanal direto na sua caixa de email'
+desc: 'Confirma cancelamento de newsletter'
+subtitle: 'Esperamos que você volte!'
 link: ''
 subTitle: ''
 icone: '<i class="far fa-envelope fa-lg"></i>'
@@ -31,41 +31,8 @@ img{
 
 </style>
 
-Toda quinta-feira, receba na sua caixa de entrada uma newsletter curtinha com a nossa publicação da semana, recém saída do forno.
+Vamos sentir sua falta aqui no Termômetro. Se puder, indique para nós no formulário abaixo o motivo de sua saída.
 
-**BÔNUS**: é comum incluirmos algumas informações extras e a perspectiva dos jornalistas envolvidos na apuração, análise ou edição da matéria.
+Mudou de ideia? Não tem problema, [assine aqui de novo]({{ site.baseurl }}/newsletters/semanal).
 
-É de graça.
-
-<div id="newsletter_page" style="max-width: 65%">
-<form action="https://sendy.voltdata.info/subscribe" method="POST" accept-charset="utf-8">
-  <div class="revue-form-group">
-  <input style="max-width:100%" class="revue-form-field" type="email" name="email" id="email" placeholder="EMAIL"/>
-<br/>
-<input style="max-width:100%" class="revue-form-field" type="text" name="name" id="name" placeholder="NOME" style="max-width:100%"/>
-</div>
-<div class="revue-form-actions">
-  <input type="hidden" name="list" value="ntTZYrZ892fUdG4t9EX1OtdQ"/>
-  <input type="hidden" name="subform" value="yes"/>
-  <input style="max-width:100%" type="submit" name="submit" id="submit" value="RECEBER"/>
-  </div>
-
-</form>
-</div>
-
-
-<hr>
-
-<small>O uso de seus dados é regido pelo nossa [política de privacidade]({{ site.baseurl }}/privacidade).</small>
-
-<small>Veja abaixo os principais pontos cobertos por essa política:</small>
-
-* <small>Caso você escolha assinar nossa newsletter, seu email será usado somente para comunicação enviada pelo Science Pulse ou pelo Volt Data Lab;</small>
-
-* <small>Nós não venderemos seu endereço de email para ninguém, mas reservamos o direito de compartilhá-lo com certos parceiros de nossa confiança;</small>
-
-* <small>Não enviaremos, de forma nenhuma, spam ou conteúdo nocivo para você;</small>
-
-* <small>Por questões estratégicas, podemos integrar seu email a outras newsletters do Volt Data Lab. Você será avisado disso;</small>
-
-* <small>Fazemos um compromisso de tratar sua informação com zelo.</small>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJbmNDIhvCedmEj8g6hrBQd00Mse7w08pT8qYTik-aIO-Z7Q/viewform?embedded=true" width="100%" height="635" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
