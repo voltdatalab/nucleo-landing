@@ -10,10 +10,16 @@ subtitle_redes: "Por dentro dos esquemas que bombam e vendem contas de Facebook 
 excerpt: 'Conheça pessoas especializadas em bombar e vender contas em redes sociais para quem paga centenas ou até milhares de reais'
 date: "15/07/2021 06:01"
 reportagem: Beatriz Montesanti
-edicao: Samira Menezes e Alexandre Orrico
+edicao:
+  - "Samira Menezes"
+  - "Alexandre Orrico"
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Beatriz Montesanti, Samira Menezes, Rodolfo Almeida, Alexandre Orrico"
+creditos:
+  - "Beatriz Montesanti"
+  - "Samira Menezes"
+  - "Rodolfo Almeida"
+  - "Alexandre Orrico"
 background: 'instagram/venda-contas_Teaser.png'
 categories:
   - "reportagem"

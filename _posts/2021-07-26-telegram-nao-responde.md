@@ -9,11 +9,16 @@ subtitle: "Dificuldade de contatar representantes da plataforma afeta não só j
 subtitle_redes: "Dificuldade de contatar representantes da plataforma de jornalistas ao judiciário"
 excerpt: 'Dificuldade de contatar representantes da plataforma afeta jornalistas e até o judiciário.'
 date: "26/07/2021 06:01"
-reportagem: Laís Martins
-edicao: Samira Menezes e Sérgio Spagnuolo
-arte: "Unsplash | Intervenção de Sérgio Spagnuolo"
-credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Samira Menezes, Sérgio Spagnuolo"
+reportagem: "Laís Martins"
+edicao:
+  - "Samira Menezes"
+  - "Sérgio Spagnuolo"
+credito_img: "Unsplash | Intervenção de Sérgio Spagnuolo"
+creditos:
+  - "Laís Martins"
+  - "Samira Menezes"
+  - "Sérgio Spagnuolo"
+thumbs: sim
 background: 'telegram/telegram-sombras.png'
 atualizacao: "Atualiza no primeiro parágrafo para esclarecer que dos 30% de uso no Brasil são entre aqueles maiores de 16 anos com acesso à internet"
 categories:

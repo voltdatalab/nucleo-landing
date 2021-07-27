@@ -10,10 +10,16 @@ subtitle_redes: "Os cobiçados selinhos chegam a ser negados para jornalistas, m
 excerpt: 'Os cobiçados selinhos azuis chegam a ser negados para jornalistas, mas podem ser concedidos a páginas e perfis que espalham desinformação'
 date: "01/07/2021 06:01"
 reportagem: Laís Martins
-edicao: Sérgio Spagnuolo e Samira Menezes
+edicao:
+  - "Sérgio Spagnuolo"
+  - "Samira Menezes"
 credito_img: "Rodolfo Almeida"
 arte: "Rodolfo Almeida"
-creditos: "Sérgio Spagnuolo, Laís Martins, Samira Menezes, Rodolfo Almeida"
+creditos:
+  - "Laís Martins"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
+  - "Samira Menezes"
 background: 'outros/verificacao.png'
 atualizacao: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
 categories:

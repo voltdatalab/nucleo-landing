@@ -9,13 +9,24 @@ subtitle: 'Análise do Núcleo mostra aumento expressivo de publicações com ha
 subtitle_redes: "Análise do Núcleo mostra aumento expressivo de publicações com hashtags ligadas ao movimento de armas no Brasil"
 excerpt: 'Análise do Núcleo mostra aumento expressivo de publicações com hashtags ligadas ao movimento de armas no Brasil'
 date: "15/04/2021 06:00"
-autoria: Laís Martins e Lucas Gelape
-edicao: Sérgio Spagnuolo e Alexandre Orrico
+autoria:
+  - "Laís Martins"
+  - "Lucas Gelape"
+edicao:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 analise: Lucas Gelape
 colaboracao: Renata Hirota
 graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Sérgio Spagnuolo, Alexandre Orrico, Renata Hirota, Felippe Mercurio, Rodolfo Almeida, Lucas Gelape"
+creditos:
+  - "Laís Martins"
+  - "Lucas Gelape"
+  - "Renata Hirota"
+  - "Rodolfo Almeida"
+  - "Felippe Mercurio"
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 gif: 'instagram-armas/header-animado.gif'
 background: 'instagram-armas/header-estatico.png'
 atualizacao: "Reportagem atualizada em 18.abr.2021 às 10h58 para corrigir erro de digitação na grafia do sobrenome do entrevistado Rafael Alcadipani."

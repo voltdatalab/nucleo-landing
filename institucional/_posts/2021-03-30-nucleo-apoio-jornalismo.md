@@ -11,7 +11,9 @@ excerpt: 'Leitores poderão contribuir com qualquer valor via PIX'
 date: "30/03/2021 17:38"
 texto: Jade Drummond
 edicao:  Sérgio Spagnuolo
-creditos:  Sérgio Spagnuolo, Jade Drummond, Rodolfo Almeida
+creditos:  
+  - "Jade Drummond"
+  - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
 background: 'nucleo-geral-fit.png'
 categories:

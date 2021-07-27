@@ -9,9 +9,14 @@ subtitle: 'Após um ano de vida, entendemos que nosso espaço é na intersecçã
 subtitle_redes: 'Após um ano de vida, entendemos que nosso espaço é na intersecção entre jornalismo e tecnologia.'
 excerpt: 'Após um ano de vida, entendemos que nosso espaço é na intersecção entre jornalismo e tecnologia.'
 date: "15/01/2021 14:22"
-edicao:  Sérgio Spagnuolo, Alexandre Orrico e Jade Drummond
-arte:
-creditos:  Sérgio Spagnuolo, Alexandre Orrico, Jade Drummond, Rodolfo Almeida
+texto: "Jade Drummond"
+edicao:  
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico" 
+creditos:  
+  - "Jade Drummond"
+  - "Alexandre Orrico"
+  - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
 background: 'nucleo-geral-fit.png'
 atualizacao: ""

@@ -9,11 +9,17 @@ subtitle: "Quatro brasileiros dominam o ranking de interações da rede com prom
 subtitle_redes: "Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos"
 excerpt: 'Quatro brasileiros dominam o ranking de interações da rede com promessas de presentear os seguidores com carros e motos; postagens chegam a ter milhões de comentários '
 date: "22/04/2021 11:42"
-reportagem: Alexandre Orrico e Laís Martins
+reportagem:
+  - "Alexandre Orrico"
+  - "Laís Martins"
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Alexandre Orrico"
+  - "Laís Martins"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
 background: 'instagram/jackpot_Teaser.png'
 dados_abertos: "Código da análise"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"

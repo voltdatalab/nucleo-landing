@@ -11,7 +11,9 @@ excerpt: 'Foram 20 semanas de treinamentos, palestras e mentorias, além de apoi
 date: "14/05/2021 09:28"
 texto: Jade Drummond
 edicao:  Sérgio Spagnuolo
-creditos:  Sérgio Spagnuolo, Jade Drummond
+creditos:  
+  - "Jade Drummond"
+  - "Sérgio Spagnuolo"
 background: 'nucleo-geral-fit.png'
 categories:
   - "institucional"

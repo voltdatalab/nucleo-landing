@@ -89,8 +89,18 @@ h2.subheading {
   font-size: 0.8em !important;
 }
 
+.arquivado strong{
+  font-family: 'Roboto Mono', monospace;
+  text-transform: uppercase;
+  font-weight: 700
+}
+
 .arquivado span{
   color: #4b31dd;
+}
+
+.arquivado span a{
+  text-decoration: underline;
 }
 
 .meta{
@@ -108,7 +118,7 @@ h2.subheading {
 }
 
 .creditos{
-  margin-bottom: 30px;
+
 }
 
 .creditos_alt{
@@ -129,7 +139,8 @@ h2.subheading {
 
 .texto_post{
   font-size: 1em;
-  color: #231f20
+  color: #231f20;
+  margin-top: 30px
 }
 
 .texto_post p{
@@ -330,9 +341,13 @@ blockquote.twitter-tweet a:focus {
 
 .sidebar-left .main{
   float:right;
+  margin: 30px 0 50px 0;
+  padding: 0 20px 20px;
 }
 .sidebar-left .sidebar{
   float:left;
+  margin: 30px 0 50px 0;
+  padding: 0 20px 20px;
 }
 
 .sidebar-right .main{
@@ -340,7 +355,7 @@ blockquote.twitter-tweet a:focus {
 }
 
 .sidebar-right .sidebar{
-  margin: 30px 0 50px 0;
+  margin: 0 0 50px 0;
   float:right;
   border-radius: 5px;
   padding: 0 20px 20px;
@@ -982,4 +997,8 @@ PIX
       width: 100% !important
     }
 
+}
+
+.thumb-equipe{
+  max-width: 80px
 }

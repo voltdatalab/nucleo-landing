@@ -13,7 +13,10 @@ reportagem: Laís Martins
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo"
+creditos:
+  - "Laís Martins"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
 background: 'remocao-conteudo/direitosautorais-fakenews-01.png'
 dados_abertos: "Dados de remoções tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1v9JT8W28gLemUMCWU6o4_d1ejM74Ba6bIi_3rvss0Xo/edit?usp=sharing"

@@ -12,9 +12,15 @@ date: "29/04/2021 07:00"
 reportagem: Laís Martins
 arte: Rodolfo Almeida
 dados: Sérgio Spagnuolo
-edicao: Juliene Moretti e Sérgio Spagnuolo
+edicao:
+  - "Juliene Moretti"
+  - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Alexandre Orrico, Juliene Moretti"
+creditos:
+  - "Laís Martins"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
+  - "Juliene Moretti"
 background: 'pix/pix_Teaser.png'
 dados_abertos: "CrowdTangle (acesso depende de pré-aprovação)"
 dados_abertos_link: "https://crowdtangle.com/"

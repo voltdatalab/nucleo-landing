@@ -10,9 +10,14 @@ subtitle_redes: "App de mensagens é usado para venda de dados pessoais roubados
 excerpt: 'App de mensagens é usado para venda de dados pessoais roubados, golpes e fraudes financeiras há anos'
 date: "10/06/2021 06:01"
 reportagem: Laís Martins
-edicao: Sérgio Spagnuolo e Alexandre Orrico
+edicao:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 credito_img: "Henrik Sandklef, do Flickr (Creative Commons) | Intervenção de Rodolfo Almeida"
-creditos: "Lais Martins, Alexandre Orrico, Sérgio Spagnuolo"
+creditos:
+  - "Lais Martins"
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 background: 'telegram/saldao-telegram/rolo_Teaser.png'
 atualizacao: "Texto atualizado em 10.jun.2021 às 22h23 para remover referência a jargão que denomina a venda de dados de cartões de crédito, com a finalidade, por sugestão de leitor, de não publicizar um termo de busca para a prática irregular."
 categories:

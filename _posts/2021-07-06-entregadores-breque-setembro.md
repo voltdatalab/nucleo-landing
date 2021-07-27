@@ -10,11 +10,17 @@ subtitle_redes: "Entregadores de vários estados usam grupos de zap e canais no 
 excerpt: 'Entregadores de vários estados usam grupos de zap e canais no YouTube para articular nova paralisação nacional; mobilização pela morte de Vinícius Oliveira, motoqueiro de 21 anos, fortaleceu a articulação interestadual'
 date: "06/07/2021 06:01"
 reportagem: Victor Silva
-edicao: Alexandre Orrico e Samira Menezes
+edicao:
+  - "Alexandre Orrico"
+  - "Samira Menezes"
 arte: Rodolfo Almeida
 credito_img: "Foto de Rowan Freeman/Unsplash | Intervenção de Rodolfo Almeida"
 arte: "Rodolfo Almeida"
-creditos: "Victor Silva, Alexandre Orrico, Samira Menezes, Rodolfo Almeida"
+creditos:
+  - "Victor Silva"
+  - "Alexandre Orrico"
+  - "Samira Menezes"
+  - "Rodolfo Almeida"
 background: 'motociata/breque-setembro.png'
 atualizacao: "Texto atualizado às 10h31 de 6.jul.2021 para refletir a seguinte correção: no penúltimo parágrafo do texto, substitui 'bloqueios sem acidente' por 'bloqueios sem defesa'."
 categories:

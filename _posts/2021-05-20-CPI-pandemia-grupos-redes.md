@@ -10,9 +10,14 @@ subtitle_redes: "Organizados no Telegram e no Discord e ativos no Twitter, volun
 excerpt: 'Organizados no Telegram e no Discord e ativos no Twitter, voluntários arquivam, organizam e disponibilizam evidências sobre depoentes para compartilhar com senadores em tempo real'
 date: "20/05/2021 05:01"
 reportagem: Laís Martins
-edicao: Sérgio Spagnuolo e Juliene Moretti
+edicao:
+  - "Sérgio Spagnuolo"
+  - "Juliene Moretti"
 credito_img: "Edilson Rodrigues/Agência Senado | Intervenção de Rodolfo Almeida"
-creditos: "Lais Martins, Sérgio Spagnuolo, Juliene Moretti"
+creditos:
+  - "Lais Martins"
+  - "Sérgio Spagnuolo"
+  - "Juliene Moretti"
 background: 'outros/cpi-pandemia_Teaser.png'
 atualizacao: "Texto atualizando às 10h08 para esclarecer que o perfil 'Desmentindo Bolsonaro' vai além do Telegram, presente também em outras plataformas."
 categories:

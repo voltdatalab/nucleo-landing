@@ -12,7 +12,9 @@ date: "27/05/2021 06:01"
 reportagem: Victor Silva
 edicao: Alexandre Orrico
 credito_img: "Allan Santos/PR (Agência Brasil) | Intervenção de Rodolfo Almeida"
-creditos: "Alexandre Orrico, Victor Silva"
+creditos:
+  - "Victor Silva"
+  - "Alexandre Orrico"
 background: 'motociata/bolsonaro-motoqueiro_Teaser.png'
 atualizacao: "Texto atualizado às 9h32 do dia 27.mai.2021 para corrigir nome do grupo 'Rolezinho 100 limites', que numa primeira versão estava 'Rolezinho 100grau'. Texto atualizado em 28.mai.2021 às 12h20 para esclarecer informação no 8º parágrafo sobre um post apagado no grupo de motoboys no Facebook: onde se lia 'A mensagem com essa sugestão foi apagada' agora se lê 'O post no Facebook foi apagado'."
 categories:

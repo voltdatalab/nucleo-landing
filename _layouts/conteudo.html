@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ptbr">
 	{% include head_post.html %}
 	<body>
 		{% include nav.html %}
@@ -14,26 +14,10 @@
         {% if page.subtitle %}
         <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
-        <span class="arquivado">
-          <i class="far fa-calendar-alt"></i> Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} </span></a></u>
 
-        </span>
-
-				<h4 class="arquivado creditos_alt">
-				<i class="fas fa-list-alt"></i> Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
-				</h4>
-
-				{% if page.atualizacao %}
-				<h4 class="arquivado creditos_alt">
-					<i class="fas fa-exclamation-circle fa-sm"></i> Conteúdo modificado após publicação (detalhes no fim da página)
-				</h4>
-				{% endif %}
-
-
-				{% assign wordCount = page.content | number_of_words %}
-				<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }} <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}--> &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:250 }} min</h4>
-
-				<br />
+				<span class="arquivado">
+					<i class="far fa-calendar-alt"></i> Publicado em {{ page.date | date: '%d/%m/%Y %H:%M' }} </span></a></u>
+				</span>
 
 				{% assign currentYear = site.time | date: '%Y' %}
 				{% assign postYear = page.date | date: '%Y' %}
@@ -90,22 +74,30 @@
 <div class="container wrap sidebar-right box_conteudo">
   <div class="container">
     <div class="row">
-			<div class="creditos">
 				<div class="sidebar col-sm-4">
-					<span class="arquivado creditos_alt">
 
-						{% if page.autoria %} Por <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.autoria }}</a></span><br /> {% else %} {% endif %}
-					{% if page.reportagem %} Reportagem <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_reportagem }}">{{ page.reportagem }}</a></span><br /> {% else %} {% endif %}
-						{% if page.analise %} Análise <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_analise }}">{{ page.analise }}</a></span><br /> {% endif %}
-						{% if page.texto %} Texto <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_texto }}">{{ page.texto }}</a></span><br /> {% endif %}
-						{% if page.colaboracao %} Colaboração <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_colaboracao }}">{{ page.colaboracao }}</a></span><br /> {% endif %}
-						{% if page.dados %} Dados <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_dados }}">{{ page.dados }}</a></span><br /> {% endif %}
-						{% if page.graficos %} Gráficos <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_grafico }}">{{ page.graficos }}</a></span><br /> {% endif %}
-						{% if page.arte %} Arte <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_arte }}">{{ page.arte }}</a></span><br /> {% endif %}
-						{% if page.edicao %} Edição <span><a href="{{ site.baseurl }}/equipe/{{ page.tt_edicao }}">{{ page.edicao }}</a></span>{% else %} Publicado por Equipe Núcleo {% endif %}
-					</span>
 					<br />
-					<br />
+
+					<h4 class="arquivado creditos_alt">
+					<i class="fas fa-list-alt"></i> Arquivado em <u><a href="{{ site.baseurl}}/{{ page.categories }}"><span>{% if page.cat %}{{ page.cat }} {% else %} {{ page.categories }}{% endif %}</span></a></u>
+					</h4>
+
+					{% if page.atualizacao %}
+					<h4 class="arquivado creditos_alt">
+						<i class="fas fa-exclamation-circle fa-sm"></i> Conteúdo modificado após publicação (detalhes no fim da página)
+					</h4>
+					{% endif %}
+
+
+					{% assign wordCount = page.content | number_of_words %}
+					<h4 class="arquivado creditos_alt"><i class="fas fa-pen"></i> Palavras: {{ wordCount }} <!-- &middot; <i class="fas fa-i-cursor"></i> Caracteres: {{ page.content | size }}--> &middot; <i class="far fa-clock"></i> Leitura: {{ wordCount | divided_by:250 }} min</h4>
+
+					{% if page.dados_abertos %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h4> {% endif %}
+					{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
+					{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
+
+					<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
+
 
 					<!--
 					<ul class="share-buttons">
@@ -127,12 +119,10 @@
 						<small>{{ page.nota_abertura }}</span><br /> </small>
 					</span>
 				</p>
+								<hr class="hrtop"/>
 				{% endif %}
 
-				{% include apoie_o_nucleo.html %}
 
-
-				<hr class="hrtop"/>
 
 				<!-- Floating Social Media bar Starts -->
 <div class="float-sm" style="background: #000 !important; width:100%">
@@ -155,25 +145,201 @@
     <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}" target="_blank" title="LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><i class="fab fa-linkedin fa-2x" aria-hidden="true" style="color:#4b31dd"></i><span class="sr-only"></span> </a>
   </div>
 </div>
-<!-- Floating Social Media bar Ends -->
+
+<!-- LADO DO CONTEUDO -->
 
 			</div>
-		</div>
+
 			<div class="main col-sm-7">
+				<span class="arquivado creditos_alt">
+					<!-- IMAGENS -->
+					{% for colaborador in page.creditos %}
+					<a href='{{ site.baseurl }}/equipe/{{ colaborador | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'><img class="thumb-equipe" src='{{ site.baseurl }}/img/artes-equipe/{{ colaborador | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}.png' alt= "" onerror="this.style.opacity='0'"/></a>
+					{% endfor %}
+
+					<br />
+
+					<!-- AUTORIA -->
+					{% assign n_autores = page.autoria | size %}
+						{% if n_autores == 0 %}
+							{% elsif n_autores == 1 %}
+							<strong>Por</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.autoria | first | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ page.autoria | first }}</a></span>
+							{% else %}
+							{% for autor in page.autoria %}
+							{% if forloop.first %}
+							<strong>Por</strong> <span><a href='{{ site.baseurl }}/equipe/{{ autor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ autor }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ autor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ autor }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ autor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ autor }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+
+				<!-- REPORTAGEM -->
+				{% assign n_reporteres = page.reportagem | size %}
+					{% if n_reporteres == 0 %}
+						{% elsif n_reporteres == 1 %}
+						<strong>Reportagem</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.reportagem | first | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u"}}'>{{ page.reportagem | first }}</a></span>
+						<br />
+						{% else %}
+						{% for reporter in page.reportagem %}
+						{% if forloop.first %}
+						<strong>Reportagem</strong> <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
+						{% elsif forloop.last %}
+										e <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
+								{% else %}
+										, <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
+								{% endif %}
+						{% endfor %}
+						<br />
+				{% endif %}
+
+					<!-- ANÁLISE -->
+					{% assign n_analistas = page.analise | size %}
+						{% if n_analistas == 0 %}
+							{% elsif n_analistas == 1 %}
+							<strong>Análise</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.analise | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u"}}'>{{ page.analise | first }}</a></span>
+							<br />
+							{% else %}
+							{% for analista in page.analise %}
+							{% if forloop.first %}
+							<strong>Análise</strong> <span><a href='{{ site.baseurl }}/equipe/{{ analista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ analista }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ analista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ analista }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ analista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ analista }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+					<!-- COLABORACAO -->
+					{% assign n_escritores = page.texto | size %}
+						{% if n_escritores == 0 %}
+							{% elsif n_escritores == 1 %}
+							<strong>Texto</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.texto | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u"}}'>{{ page.texto | first }}</a></span>
+							<br />
+							{% else %}
+							{% for escritor in page.texto %}
+							{% if forloop.first %}
+							<strong>Texto <span><a href='{{ site.baseurl }}/equipe/{{ escritor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ escritor }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ escritor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ escritor }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ escritor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ escritor }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+					<!-- COLABORACAO -->
+					{% assign n_colabs = page.colaboracao | size %}
+						{% if n_colabs == 0 %}
+							{% elsif n_colabs == 1 %}
+							<strong>Colaboração</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.colaboracao | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u"}}'>{{ page.colaboracao | first }}</a></span>
+							<br />
+							{% else %}
+							{% for colab in page.colaboracao %}
+							{% if forloop.first %}
+							<strong>Colaboração</strong> <span><a href='{{ site.baseurl }}/equipe/{{ colab | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ colab }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ colab | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ colab }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ colab | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ colab }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+					<!-- DADOS -->
+					{% assign n_dadistas = page.dados | size %}
+						{% if n_dadistas == 0 %}
+							{% elsif n_dadistas == 1 %}
+							<strong>Dados</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.dados | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u"}}'>{{ page.dados | first }}</a></span>
+							<br />
+							{% else %}
+							{% for dadista in page.dados %}
+							{% if forloop.first %}
+							<strong>Dados</strong> <span><a href='{{ site.baseurl }}/equipe/{{ dadista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ dadista }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ dadista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ dadista }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ dadista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ dadista }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+					<!-- GRÁFICOS -->
+					{% assign n_grafistas = page.graficos | size %}
+						{% if n_grafistas == 0 %}
+							{% elsif n_grafistas == 1 %}
+							<strong>Gráficos</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.graficos | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ page.graficos | first }}</a></span>
+							<br />
+							{% else %}
+							{% for grafista in page.graficos %}
+							{% if forloop.first %}
+							<strong>Gráficos</strong> <span><a href='{{ site.baseurl }}/equipe/{{ grafista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ grafista }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ grafista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ grafista }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ grafista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ grafista }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+					<!-- ARTE -->
+					{% assign n_artistas = page.arte | size %}
+						{% if n_artistas == 0 %}
+							{% elsif n_artistas == 1 %}
+							<strong>Arte</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.arte | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ page.arte | first }}</a></span>
+							<br />
+							{% else %}
+							{% for artista in page.arte %}
+							{% if forloop.first %}
+							<strong>Arte</strong> <span><a href='{{ site.baseurl }}/equipe/{{ artista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ artista }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ artista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ artista }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ artista | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ artista }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+
+
+					<!-- EDICAO -->
+					{% assign n_editores = page.edicao | size %}
+						{% if n_editores == 0 %}
+						Publicado por Equipe Núcleo
+							{% elsif n_editores == 1 %}
+							<strong>Edição</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.edicao | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ page.edicao | first }}</a></span>
+							<br />
+							{% else %}
+							{% for editor in page.edicao %}
+							{% if forloop.first %}
+							<strong>Edição</strong> <span><a href='{{ site.baseurl }}/equipe/{{ editor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ editor }}</a></span>
+							{% elsif forloop.last %}
+											e <span><a href='{{ site.baseurl }}/equipe/{{ editor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ editor }}</a></span>
+									{% else %}
+											, <span><a href='{{ site.baseurl }}/equipe/{{ editor | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ editor }}</a></span>
+									{% endif %}
+							{% endfor %}
+							<br />
+					{% endif %}
+				</span>
         <div class="texto_post">
 
         {{ content }}
 
         </div>
         <hr>
-				<h4 class="tags"><i class="fas fa-tags"></i> <u>Tags</u>: {{ page.tags }}</h4>
 
 				<div style="margin: 0 auto;max-width:300px">
-
-
-								{% if page.dados_abertos %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos }} &middot; <a href="{{ page.dados_abertos_link }}"  target="_blank">Link</a></h4> {% endif %}
-								{% if page.dados_abertos2 %} <h4 class="links_dados arquivado"> <i class="fas fa-database"></i> {{ page.dados_abertos2 }} (2) &middot; <a href="{{ page.dados_abertos_link2 }}"  target="_blank">Link</a></h4> {% endif %}
-								{% if page.dados_abertos3 %} <h4 class="links_dados arquivado"><i class="fas fa-database"></i> {{ page.dados_abertos3 }} (3) &middot; <a href="{{ page.dados_abertos_link3 }}"  target="_blank">Link</a></h4> {% endif %}
 
 								{% if page.atualizacao %}
 								<br />
@@ -181,6 +347,12 @@
 									<i class="fas fa-exclamation-circle fa-sm"></i> <small><em>{{ page.atualizacao }}</em></small>
 								</h4>
 								{% endif %}
+
+								<br />
+
+								{% include apoie_o_nucleo.html %}
+
+
 
 					</div>
 

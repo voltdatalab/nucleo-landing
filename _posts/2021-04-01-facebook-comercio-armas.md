@@ -14,7 +14,11 @@ analise: Lucas Gelape
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Lucas Gelape"
+creditos:
+  - "Laís Martins"
+  - "Lucas Gelape"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
 background: 'facebook-armas/venda-armas-01.png'
 dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1Ubk45hD-_EQGvR159ckOdwSbCiTGUfKMgbqdEZG5Y6w/edit?usp=sharing"

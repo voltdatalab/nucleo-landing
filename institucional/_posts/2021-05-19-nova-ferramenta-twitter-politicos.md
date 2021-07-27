@@ -11,7 +11,9 @@ excerpt: 'Monitor Nuclear permite tendências e engajamento de mais de 500 perfi
 date: "19/05/2021 08:00"
 texto: Jade Drummond
 edicao:  Sérgio Spagnuolo
-creditos:  Sérgio Spagnuolo, Jade Drummond
+creditos:  
+  - "Jade Drummond"
+  - "Sérgio Spagnuolo"
 background: 'monitor_destaque1.jpeg'
 categories:
   - "institucional"

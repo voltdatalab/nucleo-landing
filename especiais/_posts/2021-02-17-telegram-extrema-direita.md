@@ -11,11 +11,21 @@ excerpt: 'Aplicativo de mensagens vira rota de fuga para políticos radicais e s
 date: "18/02/2021 09:00"
 autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
-analise: Renata Hirota e Sérgio Spagnuolo
-dados:  'Felippe Mercurio e Lucas Gelape'
+analise:
+  - "Renata Hirota"
+  - "Sérgio Spagnuolo"
+dados:
+ - "Felippe Mercurio"
+ - "Lucas Gelape"
 graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Sérgio Spagnuolo, Alexandre Orrico, Renata Hirota, Felippe Mercurio, Rodolfo Almeida, Lucas Gelape"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Renata Hirota"
+  - "Rodolfo Almeida"
+  - "Felippe Mercurio"
+  - "Lucas Gelape"
+  - "Alexandre Orrico"
 gif: 'telegram/telegram-direita.gif'
 background: 'telegram/telegram-direita-02.png'
 atualizacao: "Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais. Texto atualizado em 22.fev.2021 às 13h23 para acrescentar detalhes sobre o canal de Telegram de Ciro Gomes, a pedido de um leitor."

@@ -19,36 +19,51 @@
 								<div class="post-heading">
 									<br />
 									<div class="row gy-5">
-										<h1 style="text-transform:uppercase;margin-left:13px">{{ page.title }}</h1>
-										<div class="col-sm-9 col-lg-9">
+
+										<div class="col-sm-7 col-md-7 col-lg-8">
+												<h1 style="text-transform:uppercase;">{{ page.title }}</h1>
 												{% if page.subtitle %}
 												<p>{{ page.subtitle }}</p>
 												{% endif %}
 										</div>
-											<div class="col-sm-3 col-lg-3">
-
-
-													{% if page.email %}
-													<span class="arquivado"><i class="far fa-envelope"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a></span>
+											<div class="col-sm-5 col-md-5 col-lg-4">
+													{% if page.background %}
+													<img src="{{ site.baseurl }}/img/artes-equipe/{{ page.background }}" width="100%">
 													<br />
 													{% endif %}
 
-													{% if page.twitter %}
-													<span class="arquivado"><i class="fab fa-twitter"></i> <a class="social" href="https://twitter.com/{{ page.twitter }}" target="_blank"> {{ page.twitter }}</a></span>
-													<br />
-													{% endif %}
 
-													{% if page.linkedin_nome %}
-													<span class="arquivado"><i class="fab fa-linkedin"></i> <a class="social" href="{{ page.linkedin_link }}" target="_blank"> {{ page.linkedin_nome }}</a></span>
-													<br />
-													{% endif %}
-
-													{% assign total = posts | size %}
-													{% if total > 1 %}
-													<i class="fas fa-pen fa-sm"></i> <small class="social">{{ total }} publicações</small>
-													{% endif %}
 												</div>
+
 									</div>
+									<div class="row gy-5">
+									{% if page.email %}
+									<div class="col-sm-2 col-md-4 col-lg-3">
+									<span class="arquivado"><i class="far fa-envelope fa-lg"></i> <a href="mailto:{{ page.email }}?subject=Olá!">{{ page.email }} </a></span>
+									<br />
+									</div>
+									{% endif %}
+
+									{% if page.twitter %}
+									<div class="col-sm-2 col-md-3 col-lg-3">
+									<span class="arquivado"><i class="fab fa-twitter fa-lg"></i> <a class="social" href="https://twitter.com/{{ page.twitter }}" target="_blank"> {{ page.twitter }}</a></span>
+									<br />
+									</div>
+									{% endif %}
+
+									{% if page.linkedin_nome %}
+									<div class="col-sm-2 col-md-4 col-lg-3">
+									<span class="arquivado"><i class="fab fa-linkedin fa-lg"></i> <a class="social" href="{{ page.linkedin_link }}" target="_blank"> {{ page.linkedin_nome }}</a></span>
+									</div>
+									{% endif %}
+
+									{% assign total = posts | size %}
+									{% if total > 1 %}
+									<div class="col-sm-2 col-md-4 col-lg-3">
+									<i class="fas fa-pen fa-sm"></i> <small class="social">{{ total }} publicações</small>
+									</div>
+									{% endif %}
+								</div>
 									<hr style="height:2px;background-color:#4b31dd;margin: 20px 0 3px" />
 									<span style="font-family:'Roboto Mono';font-size:0.8em;margin-bottom:30px">
 									<a href="{{ site.baseurl }}/equipe"><< Voltar para equipe</a>
@@ -63,9 +78,8 @@
 									</p>
 									 {% endif %}
 								</div>
-							</div>
 
-									<div style="margin:0 auto;padding-left:13px;max-width:850px">
+
 									          <div class="row">
 
 									{% for post in posts %}
@@ -85,7 +99,6 @@
 														{% endunless %}
 									          {% endfor %}
 									                </div>
-
 									              </div>
 																<br />
 

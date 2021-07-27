@@ -12,7 +12,9 @@ date: "24/06/2021 06:38"
 autoria: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 credito_img: "Rodolfo Almeida"
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 background: 'outros/entrevistas-redes_Teaser.png'
 categories:
   - "reportagem"

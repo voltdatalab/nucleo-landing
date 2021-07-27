@@ -14,7 +14,12 @@ analise: Sérgio Spagnuolo e Lucas Gelape
 arte: Rodolfo Almeida
 edicao: Alexandre Orrico
 credito_img: "Rodolfo Almeida"
-creditos: "Laís Martins, Rodolfo Almeida, Sérgio Spagnuolo, Lucas Gelape, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Laís Martins"
+  - "Lucas Gelape"
+  - "Rodolfo Almeida"
+  - "Alexandre Orrico"
 background: 'tabata/tabata-01.png'
 dados_abertos: "Dados tabulados de tweets"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"

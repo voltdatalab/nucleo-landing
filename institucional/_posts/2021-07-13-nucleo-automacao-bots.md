@@ -11,7 +11,9 @@ excerpt: 'Ferramentas gratuitas facilitam monitoramento de políticos e de ciên
 date: "13/07/2021 17:09"
 texto: Jade Drummond
 edicao: Sérgio Spagnuolo
-creditos:  Sérgio Spagnuolo, Jade Drummond
+creditos:  
+  - "Jade Drummond"
+  - "Sérgio Spagnuolo"
 background: 'nucleo-geral-fit.png'
 categories:
   - "institucional"

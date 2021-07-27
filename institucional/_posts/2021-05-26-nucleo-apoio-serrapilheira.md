@@ -10,7 +10,10 @@ subtitle_redes: 'Parceria permitirá a criação de novos produtos e recursos do
 excerpt: 'A parceria permite a criação de novos produtos e projetos do Science Pulse'
 date: "26/05/2021 08:00"
 texto: Jade Drummond
-creditos:  Sérgio Spagnuolo, Jade Drummond
+edicao: "Sérgio Spagnuolo"
+creditos:  
+  - "Jade Drummond"
+  - "Sérgio Spagnuolo"
 background: 'nucleo-geral-fit.png'
 categories:
   - "institucional"

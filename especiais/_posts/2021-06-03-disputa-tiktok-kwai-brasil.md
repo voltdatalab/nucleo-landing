@@ -9,11 +9,19 @@ subtitle: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pe
 subtitle_redes: "Redes sociais apelam para campanhas que pagam usuários para passar tempo em suas plataformas"
 excerpt: 'Redes sociais chinesas apelam para campanhas que pagam em dinheiro pela atenção de usuários, a fim de aumentar tempo gasto em suas plataformas'
 date: "03/06/2021 06:01"
-autoria: Juliene Moretti e Beá Sena
-edicao: Sérgio Spagnuolo e Alexandre Orrico
+autoria:
+  - "Juliene Moretti"
+  - "Beá Sena"
+edicao:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Juliene Moretti, Beá Sena, Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Juliene Moretti"
+  - "Beá Sena"
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 gif: 'kwai_tiktok/header.gif'
 background: 'kwai_tiktok/kwai-tiktok-banner.png'
 tags:

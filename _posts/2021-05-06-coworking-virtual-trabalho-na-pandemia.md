@@ -11,9 +11,15 @@ excerpt: 'Enquanto muitos sofrem com a estafa do Zoom após mais de um ano de pa
 date: "06/05/2021 09:30"
 reportagem: Beatriz Montesanti
 arte: Rodolfo Almeida
-edicao: Juliene Moretti e Sérgio Spagnuolo
+edicao:
+  - "Juliene Moretti"
+  - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
-creditos: "Beatriz Montesanti, Juliene Moretti, Rodolfo Almeida, Sérgio Spagnuolo"
+creditos:
+  - "Beatriz Montesanti"
+  - "Rodolfo Almeida"
+  - "Juliene Moretti"
+  - "Sérgio Spagnuolo"
 background: 'twitch/lofi-03.png'
 categories:
   - "reportagem"

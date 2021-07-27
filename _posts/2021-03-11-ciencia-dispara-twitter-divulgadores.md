@@ -14,7 +14,11 @@ analise: Lucas Gelape
 arte: Rodolfo Almeida
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "Lucas Gelape, Alexandre Orrico, Rodolfo Almeida, Sérgio Spagnuolo"
+creditos:
+  - "Lucas Gelape"
+  - "Alexandre Orrico"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
 background: 'cientistas_engajamento/destaque.png'
 dados_abertos: "Código da análise"
 dados_abertos_link: "https://gist.github.com/lgelape/d854f7f23a900531e3fd4977d574e492"

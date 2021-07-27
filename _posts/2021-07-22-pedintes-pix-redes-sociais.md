@@ -10,10 +10,16 @@ subtitle_redes: "Redes sociais se transformaram nas novas vias para quem pede di
 excerpt: 'Com o movimento nas ruas diminuído devido à pandemia da Covid-19, mídias sociais se transformaram nos novos cruzamentos para quem quer pedir doações em dinheiro contando com a caridade de desconhecidos e uma chave-Pix.'
 date: "22/07/2021 06:01"
 reportagem: Jacqueline Lafloufa
-edicao: Samira Menezes e Sérgio Spagnuolo
+edicao:
+  - "Samira Menezes"
+  - "Sérgio Spagnuolo"
 arte: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
-creditos: "Beatriz Montesanti, Samira Menezes, Rodolfo Almeida, Sérgio Spagnuolo"
+creditos:
+  - "Samira Menezes"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo"
+  - "Jacqueline Lafloufa"
 dados_abertos: "Tags - dados para Twitter"
 dados_abertos_link: "https://tags.hawksey.info/"
 dados_abertos2: "CrowdTangle - dados para Instagram"

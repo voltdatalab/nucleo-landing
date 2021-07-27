@@ -9,12 +9,22 @@ subtitle: 'Desconfiança com informações, regras próprias em grupos e até di
 subtitle_redes: "Receio com informações, regras próprias em grupos e até divisão em subgrupos. Seria um aprendizado para 2022?"
 excerpt: 'Conversas em grupos contam com regras próprias e até subgrupos, mostra pesquisa do InternetLab e Rede Conhecimento Social. Seria um aprendizado para 2022?'
 date: "08/07/2021 06:01"
-autoria: Sérgio Spagnuolo e Laís Martins
-edicao: Alexandre Orrico e Samira Menezes
-dados: InternetLab e Rede Conhecimento Social
+autoria:
+  - "Sérgio Spagnuolo"
+  - "Laís Martins"
+edicao:
+  - "Alexandre Orrico"
+  - "Samira Menezes"
+dados:
+  - "InternetLab"
+  - "Rede Conhecimento Social"
 graficos: Rodolfo Almeida
-credito_img: "Laís Martins, Sérgio Spagnuolo, Rodolfo Almeida, Alexandre Orrico e Samira Menezes"
-creditos: "Laís Martins, Sérgio Spagnuolo"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Laís Martins"
+  - "Rodolfo Almeida"
+  - "Alexandre Orrico"
+  - "Samira Menezes"
 #gif: '/header.gif'
 background: 'zap-politica/zap_Teaser.png'
 tags:

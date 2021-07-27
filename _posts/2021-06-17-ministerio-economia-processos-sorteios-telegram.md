@@ -12,7 +12,10 @@ date: "17/06/2021 06:38"
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 credito_img: "Rodolfo Almeida"
-creditos: "Lais Martins, Sérgio Spagnuolo, Rodolfo Almeida"
+creditos:
+  - "Lais Martins"
+  - "Rodolfo Almeida"
+  - "Sérgio Spagnuolo" 
 atualizacao: "Inclui palavra 'multa' no título às 9h54 de 17.jun.2021"
 background: 'instagram/sorteios-me/jackpot-ministerio_Teaser.png'
 categories:
