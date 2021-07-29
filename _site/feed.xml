@@ -1,5 +1,188 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-07-29T02:00:04-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Telegram cresce no Brasil, mas empresa opera no escuro</title><link href="https://nucleo.jor.br//reportagem/2021-07-26-telegram-nao-responde" rel="alternate" type="text/html" title="Telegram cresce no Brasil, mas empresa opera no escuro" /><published>2021-07-26T06:01:00-03:00</published><updated>2021-07-26T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/telegram-nao-responde</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-07-26-telegram-nao-responde">&lt;p&gt;Mais de &lt;a href=&quot;https://nucleo.jor.br/especiais/2021-07-08-whatsapp-politica-mudanca&quot;&gt;30% dos brasileiros&lt;/a&gt; acima de 16 anos com acesso à internet já utilizam o Telegram, segundo pesquisa do InternetLab em parceria com a Rede Conhecimento Social, mas ainda assim a presença corporativa do aplicativo de mensagens no país é um vácuo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-07-29T08:35:03-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Médicos usam Telegram e Google Forms para receitar, de graça, ivermectina e cloroquina</title><link href="https://nucleo.jor.br//reportagem/2021-07-29-medicos-receitam-cloroquina-telegram" rel="alternate" type="text/html" title="Médicos usam Telegram e Google Forms para receitar, de graça, ivermectina e cloroquina" /><published>2021-07-29T06:01:00-03:00</published><updated>2021-07-29T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/medicos-receitam-cloroquina-telegram</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-07-29-medicos-receitam-cloroquina-telegram">&lt;p&gt;“Bom dia, alguém sabe dosagem correta de cloroquina pra quem tem problemas de pressão alta e diabetes?”&lt;/p&gt;
+
+&lt;p&gt;Perguntas como essas são enviadas e respondidas todos os dias em grupos no Telegram, onde milhares de partidários do chamado “tratamento precoce” compartilham contatos e conversam com médicos dispostos a receitar o “tratamento”, além de trocarem dicas sobre como evitar a vacinação contra Covid-19.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h6 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;A Organização Mundial de Saúde já confirmou que cloroquina e ivermectina são ineficazes tanto para evitar quanto para tratar a doença. Não há tratamento precoce para Covid-19.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Até o momento, a principal forma de combater a doença é com vacinação.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Telegram não veta a disseminação de desinformação em relação à doença.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Pressionados pela opinião pública e, em alguns casos, pela Justiça, Google e Facebook começaram a derrubar conteúdos desinformativos sobre Covid em suas redes. Então médicos, pacientes e lobistas do tratamento precoce, bem como agitadores políticos, encontraram no Telegram uma espécie de refúgio sem moderação.&lt;/p&gt;
+
+&lt;p&gt;O movimento é parecido com o que fez a extrema-direita, que viu no aplicativo russo uma &lt;a href=&quot;https://nucleo.jor.br/especiais/2021-02-18-telegram-extrema-direita&quot;&gt;rota de fuga&lt;/a&gt; para políticos radicais e apoiadores que sofreram sanções em outras plataformas digitais.&lt;/p&gt;
+
+&lt;p&gt;A migração começou em fevereiro e se intensificou em abril de 2021. Hoje dá para encontrar grupos com dezenas de milhares de usuários, que funcionam sem incômodo algum, como, por exemplo, o “Tratamento preventivo temprano” com mais de  22 mil membros.&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Receba nossas matérias por email, toda quinta-feira. &lt;br /&gt;
+  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
+  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
+  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
+    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
+     &lt;div class=&quot;footer-form-actions&quot;&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;ntTZYrZ892fUdG4t9EX1OtdQ&quot; /&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
+       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
+       &lt;/div&gt;
+  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
+
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;O grupo foi criado e gerido por Graciela Schorr, tecnóloga em gestão financeira, administradora e proprietária de uma pequena pensão em Imbituba, Santa Catarina. O grupo começou do zero, em meados de março de 2021, e engordou a partir da migração de grupos de WhatsApp que discutiam ivermectina.&lt;/p&gt;
+
+&lt;p&gt;Graciela não tem formação na área da saúde. No entanto, ela se identifica como responsável pela maior parte dos conteúdos do canal que falam sobre Covid, vacinas, uso de medicamentos &lt;em&gt;off label&lt;/em&gt; etc.&lt;/p&gt;
+
+&lt;p&gt;Procurada pela reportagem, Graciela se recusou a dar entrevista. Em um dos posts, ela descreve o conteúdo do Tratamento preventivo temprano como “salvador de vidas”.&lt;/p&gt;
+
+&lt;p&gt;Em outra publicação, ela indica explicitamente remédios para uma pessoa que diz estar tomando dexametasona, um corticoide. Não é a única ocasião em que ela responde a um pedido de ajuda ou indicação de remédio no canal.&lt;/p&gt;
+
+&lt;p&gt;Outro grupo, o “Tratamento Preventivo Br”, com 9 mil usuários, tem uma trajetória um pouco diferente da mobilização mais discreta e orgânica de Graciela Schorr. Ele foi lançado em fevereiro de 2021 pela Frente Conservadora de Goiânia, que usou o Telegram como parte da estrutura de comunicação do grupo para disseminar o tratamento precoce.&lt;/p&gt;
+
+&lt;p&gt;O responsável direto pelo site e pelo canal é Jeniffer Roni Crecci, presidente da Frente Conservadora de Goiás. Apesar de gerir e orientar pessoas que discutem conteúdos de saúde, Jennifer também não tem qualificação na área. Ele se &lt;a href=&quot;https://www.instagram.com/jeniffercrecci/&quot;&gt;apresenta&lt;/a&gt; no seu Instagram como Bacharel em Teologia, Pastor e Capelão.&lt;/p&gt;
+
+&lt;p&gt;Em seu canal, há mensagens que ensinam “evitar legalmente a vacinação” e disseminação de informações falsas sobre remédios específicos a serem tomados durante o “tratamento precoce”. Há inclusive orientações sobre “protocolos” perigosos como a nebulização de hidroxicloroquina, um procedimento que foi &lt;a href=&quot;https://portal.cfm.org.br/noticias/resolucao-do-cfm-define-como-experimental-uso-da-hidroxicloroquina-e-cloroquina-por-inalacao/&quot;&gt;restrito&lt;/a&gt; pelo Conselho Federal de Medicina desde 12 de maio de 2021.&lt;input type=&quot;checkbox&quot; id=&quot;cb1&quot; /&gt;&lt;label for=&quot;cb1&quot;&gt;&lt;sup&gt;&lt;/sup&gt;&lt;/label&gt;&lt;span&gt;&lt;br /&gt;&lt;br /&gt;O CFM considerou o uso por inalação somente como experimental, após o procedimento ter sido utilizado como tentativa (sem sucesso) de reduzir o risco de eventos adversos e aumentar eficácia no tratamento contra a covid-19.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recrutamento-de-pacientes-via-google-forms&quot;&gt;Recrutamento de pacientes via Google Forms&lt;/h3&gt;
+
+&lt;p&gt;Chama a atenção em ambos os grupos a disseminação de um formulário para quem tem interesse em ter acesso gratuito ao “tratamento precoce”, oferecido pelo grupo “Médicos Voluntários do Brasil”.&lt;/p&gt;
+
+&lt;p&gt;É uma lista de perguntas excruciante (cerca de 50 perguntas) e detalhada. Para se ter uma ideia de sua dimensão e do nível de dados pessoais solicitados, clique abaixo.&lt;/p&gt;
+
+&lt;div class=&quot;wrap-collabsible&quot; style=&quot;margin: 35px 0;&quot;&gt;
+  &lt;input id=&quot;collapsible&quot; class=&quot;toggle&quot; type=&quot;checkbox&quot; /&gt;
+  &lt;label for=&quot;collapsible&quot; class=&quot;lbl-toggle&quot; tabindex=&quot;0&quot;&gt;Itens do formulário&lt;i class=&quot;far fa-hand-pointer fa&quot;&gt;&lt;/i&gt; &lt;/label&gt;
+  &lt;div class=&quot;collapsible-content&quot;&gt;
+    &lt;div class=&quot;content-inner&quot;&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Email&lt;/li&gt;
+    &lt;li&gt;Número de telefone (para contato de WhatsApp)&lt;/li&gt;
+    &lt;li&gt;Há quantos dias iniciaram os seus sintomas?&lt;/li&gt;
+    &lt;li&gt;O paciente é menor de idade ou dependente? Se sim qual o nome e telefone do responsável legal?&lt;/li&gt;
+    &lt;li&gt;Nome completo do paciente&lt;/li&gt;
+    &lt;li&gt;Idade do paciente&lt;/li&gt;
+    &lt;li&gt;Profissão&lt;/li&gt;
+    &lt;li&gt;Peso do paciente&lt;/li&gt;
+    &lt;li&gt;Altura do paciente&lt;/li&gt;
+    &lt;li&gt;Telefone Fixo ou uma segunda opção de celular&lt;/li&gt;
+    &lt;li&gt;CPF do paciente&lt;/li&gt;
+    &lt;li&gt;Qual o nome da mãe do paciente?&lt;/li&gt;
+    &lt;li&gt;Cidade&lt;/li&gt;
+    &lt;li&gt;Estado&lt;/li&gt;
+    &lt;li&gt;CEP&lt;/li&gt;
+    &lt;li&gt;Endereço&lt;/li&gt;
+    &lt;li&gt;Como soube do atendimento voluntário?&lt;/li&gt;
+    &lt;li&gt;Possui plano de saúde? Se sim, qual o nome?&lt;/li&gt;
+    &lt;li&gt;Sintomas em 1ª e 2ª triagem&lt;/li&gt;
+    &lt;li&gt;Você mediu sua saturação de oxigênio?&lt;/li&gt;
+    &lt;li&gt;Já está sendo atendido por algum médico? Se sim qual o nome e telefone?&lt;/li&gt;
+    &lt;li&gt;Você foi vacinado? Se sim, marque a vacina que tomou&lt;/li&gt;
+    &lt;li&gt;Com relação a vacina tomou quantas doses?&lt;/li&gt;
+    &lt;li&gt;Com relação a SEGUNDA dose da vacina, os sintomas começaram quando?&lt;/li&gt;
+    &lt;li&gt;Se realizou o teste para Coronavírus, qual foi o resultado&lt;/li&gt;
+    &lt;li&gt;Você está com falta de ar?&lt;/li&gt;
+    &lt;li&gt;Você está com febre?&lt;/li&gt;
+    &lt;li&gt;Você está com tosse frequente?&lt;/li&gt;
+    &lt;li&gt;Você está com alguma confusão mental?&lt;/li&gt;
+    &lt;li&gt;Você está com sensação de desmaio?&lt;/li&gt;
+    &lt;li&gt;Você é calvo (careca)?&lt;/li&gt;
+    &lt;li&gt;Existe a possibilidade de estar grávida?&lt;/li&gt;
+    &lt;li&gt;Você tem bebê que mama no peito?&lt;/li&gt;
+    &lt;li&gt;Qual a idade do bebê?&lt;/li&gt;
+    &lt;li&gt;Você mediu sua saturação? Se sim, qual o resultado?&lt;/li&gt;
+    &lt;li&gt;Temperatura média&lt;/li&gt;
+    &lt;li&gt;Quais sintomas da lista abaixo você apresenta? &lt;em&gt;(Dor no corpo, Dor de cabeça, Dor de garganta, Tosse seca, Tosse com catarro, Dificuldade para respirar, Cansaço, Náusea, Nenhuma dessas opções)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Além dos sintomas anteriores você apresenta algum da lista abaixo? &lt;em&gt;(Boca ou ponta dos dedos roxa, Dor no peito, Dor nas articulações, Dificuldade para respirar, Olhos inchados, Palidez, Pressão baixa, Respiração curta e rápida, Tosse com sangue, Nenhuma dessas opções)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Tem alguma deficiência? &lt;em&gt;(Física, Auditiva, Visual, Mental, Não tenho nenhuma deficiência)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Possui alguma doença crônica? &lt;em&gt;(Cardiopatia, Câncer, Diabetes, Doença Respiratória Crônica, Doença Renal Crônica, Doença Hepática Crônica, Imunodeficiência, Pressão alta, Obesidade/ Gordura Abdominal, Não tenho doenças crônicas)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Você é alérgico a algum medicamento? Se sim, Qual?&lt;/li&gt;
+    &lt;li&gt;Com quantas pessoas você teve contato nos últimos 10 dias?&lt;/li&gt;
+    &lt;li&gt;Já realizou algum tratamento preventivo?&lt;/li&gt;
+    &lt;li&gt;Se realizou o tratamento preventivo, como foi que você tomou as medicações ? Quais tomou? Quanto tomou? Durante quanto tempo?&lt;/li&gt;
+    &lt;li&gt;Você está em uso de algum medicamento da lista abaixo? Se sim, marque quais &lt;em&gt;(Ivermectina, Azitromicina, Hidroxicloroquina, Vitamina D, Zinco, Nitazoxanida, Nenhuma dessas opções)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Se está em uso de algum desses medicamentos, há quanto tempo está tomando?&lt;/li&gt;
+    &lt;li&gt;Você deseja receber a orientação do médico sobre a prevenção do Covid-19 ?&lt;/li&gt;
+    &lt;li&gt;Termo de Ciência e Consentimento Hidroxicloroquina/Cloroquina em associação com Azitromicina para Covid 19&lt;/li&gt;
+    &lt;li&gt;Termo de consentimento livre e esclarecido para o uso não estabelecido em bula, de drogas (off label) na vigência de infecção suspeita ou confirmada pelo Covid-19 (SARS COV2) conforme critério médico.&lt;/li&gt;
+    &lt;li&gt;Caso não faça o cadastro no Doctor8, precisaremos realizar o seu cadastro no site &lt;a href=&quot;https://doctor8.com.br/&quot;&gt;https://doctor8.com.br/&lt;/a&gt; para que o médico possa atendê-lo. Clique em &amp;quot;Sim, entendi&amp;quot; para autorizar esse cadastro.&lt;/li&gt;
+    &lt;li&gt;Você autorizou o compartilhamento dos dados?&lt;/li&gt;
+    &lt;li&gt;Você autoriza o compartilhamento dos dados inseridos neste formulário? Digite sim abaixo caso concorde.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/telegram/medicos-receitas-gform/medicos-voluntarios.png&quot; alt=&quot;print de tela de formulário&quot; /&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;Reprodução de tela de Google Forms mantido pelo grupo &quot;Médicos Voluntários do Brasil&quot;. Data do print: 28/07/2021. Acesse &lt;a href=&quot;https://github.com/voltdatalab/nucleo-landing/tree/gh-pages/img/telegram/medicos-receitas-gform&quot; target=&quot;_blank&quot;&gt;neste link&lt;/a&gt; as reproduções de tela em PDF do formulário.&lt;/figcaption&gt;
+
+&lt;p&gt;Após preencher o formulário com dados pessoais e médicos, é solicitado que o interessado assine dois “termos de consentimento” no próprio sistema do Google antes de acessar a área que apresenta os médicos. Um diz respeito especificamente à hidroxicloroquina e outro termo diz respeito a um conjunto de remédios experimentais.&lt;/p&gt;
+
+&lt;p&gt;De acordo com o professor Bruno Caramelli, da USP, esses documentos não têm nenhuma validade, pois um termo de consentimento deve ser aprovado pela Comissão Nacional de Ética em Pesquisa, a &lt;a href=&quot;http://conselho.saude.gov.br/comissoes-cns/conep/&quot;&gt;Conep&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Caso contrário, o nome disso é coação. “Não adianta fazer um acordo cheio de palavras que o paciente não entende. Você pega um paciente desesperado e coloca um papel na frente dele que diz que ele vai tomar qualquer coisa. Isso não é termo de consentimento”, diz Bruno.&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Tá osso acompanhar as redes sociais? Chega mais na newsletter Garimpo. É de graça. &lt;br /&gt;
+  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
+  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
+  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
+    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
+     &lt;div class=&quot;footer-form-actions&quot;&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;v5zrQ3RithV9C1HMZZgCeg&quot; /&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
+       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
+       &lt;/div&gt;
+  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
+
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;E o procedimento no grupo Médicos Voluntários do Brasil não termina aí. Após assinar os documentos, é pedido que o interessado em receber tratamento precoce faça  um cadastro na plataforma &lt;a href=&quot;https://doctor8.com.br/&quot;&gt;Doctor8&lt;/a&gt;, com seu próprio &lt;a href=&quot;https://docs.google.com/document/d/1i_-hQXcuPfCH48fUNvC-GN60zZas8eqSjrzoHPZtnPc/edit&quot;&gt;termo de consentimento&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Além disso, a plataforma não conta com certificação do Sistema de Registro Eletrônico de Saúde (&lt;a href=&quot;http://sbis.org.br/certificacao-sbis/&quot;&gt;S-RES BIS&lt;/a&gt;), o que daria alguma garantia pública da segurança de dados da empresa, de acordo com Renato Sabbatini, professor da Unicamp e fundador da Sociedade Brasileira de Informática em Saúde. Consultada, a Doctor8 não quis se manifestar sobre a reportagem.&lt;/p&gt;
+
+&lt;div style=&quot;border: 2px solid #f33872; padding: 10px 35px 15px;margin-bottom:30px; font-size:1em&quot;&gt;
+
+&lt;h3 style=&quot;font-size:1.4em&quot;&gt;Repórter faz uma consulta&lt;/h3&gt; &lt;br /&gt;
+
+&lt;p&gt;Experimentei mandar meus dados e assinar todos os termos com um sintoma que eu estava sentindo no dia: tosse leve.&lt;/p&gt;
+
+&lt;p&gt;No mesmo dia em que fiz o cadastro, fui contactado por ligação de Whatsapp por uma pessoa que se identificou como voluntária do projeto e confirmou meu peso, idade e sintoma. A voluntária me alertou para ficar próximo ao telefone e aguardar uma ligação pois iriam me ajudar.&lt;/p&gt;
+&lt;p&gt;Poucas horas depois recebi uma ligação por WhatsApp de Jussara Locatelli, médica ginecologista de Santa Catarina. Ela perguntou se eu estava com tosse e se eu iria tomar os remédios mesmo. Caso contrário, ela “nem iria perder  tempo”. A médica me passou uma receita assinada digitalmente por e-mail e mandou uma mensagem me pedindo para fazer um exame.&lt;/p&gt;
+&lt;p&gt;Fazendo um rápido orçamento das receitas indicadas para uma tosse leve, sem nenhum outro sintoma, só de ivermectina daria um gasto de, no mínimo, R$ 65. Com as indicações de vitamina D, cloroquina, azitromicina e zinco a conta chegaria a R$150,00.&lt;/p&gt;
+&lt;p&gt;Jussara não quis dar esclarecimentos sobre a receita e qual a fundamentação para o protocolo, uma vez que não existe comprovação científica da eficácia para nenhum dos medicamentos indicados para Covid-19.&lt;/p&gt;
+&lt;p&gt;Não houve nenhum esclarecimento sobre a política de descarte ou posterior utilização dos meus dados coletados durante essa interação com o Médicos Voluntários do Brasil.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;tratamento-de-dados&quot;&gt;Tratamento de dados&lt;/h3&gt;
+
+&lt;p&gt;Existem problemas sérios na forma como os dados da consulta e da receita foram coletados e tratados nessa interação. De acordo com Sabbatini, os dados de pacientes jamais poderiam ser coletados pelo Google Forms, já que o Google tem acesso irrestrito e secreto aos dados coletados via formulário.&lt;/p&gt;
+
+&lt;p&gt;Segundo ele, o formulário deveria estar seguro dentro de um Prontuário Eletrônico do Paciente, com criptografia de dados pessoais. Da maneira como é feito nos Médicos Voluntários do Brasil, qualquer um que conseguir acessar o endereço da planilha na nuvem consegue roubar os dados.&lt;/p&gt;
+
+&lt;p&gt;O estrago pode ser ainda maior se alguém roubar a senha ou o dispositivo móvel que o médico ou operador usa para acessar a planilha. Nesse caso, o ladrão “consegue facilmente todos os dados de uma vez só”.&lt;/p&gt;
+
+&lt;p&gt;“É necessário consentimento livre e esclarecido por parte do paciente (registrado e por escrito, no prontuário) sem o qual os dados não podem ser coletados e tratados. E o paciente precisa saber quem vai usar os dados, para que, como e onde, e qual é a política de apagamento dos dados uma vez não sejam mais necessários (respeitando o disposto no Código de Ética Médica)”, completa Sabbatini.&lt;/p&gt;
+
+&lt;p&gt;Sem isso, o guardião dos dados, ou o médico (operador) ou o controlador (nesse caso, os Médicos Voluntários ou o Doctor8) pode responder por qualquer violação, mesmo com o consentimento.&lt;/p&gt;
+
+&lt;h3 id=&quot;como-fizemos-isso&quot;&gt;Como fizemos isso&lt;/h3&gt;
+
+&lt;p&gt;O repórter acompanhou grupos de médicos e pessoas que se passam por especialistas em saúde no Telegram. Ele encontrou e entrou nesses grupos pesquisando por palavras como &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cloroquina&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ivermectina&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tratamento precoce&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tratamento preventivo&lt;/code&gt;. A partir dessa pesquisa, ele entrou nos grupos e conseguiu inclusive uma “consulta”, com direito a receita médica e pedido de exame.&lt;/p&gt;
+
+&lt;p&gt;Alguns links para grupos e formulários podem ter sido omitidos de propósito para evitar espalhar práticas e informações sem respaldo científico.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Telegram, " /><category term="Cloroquina, " /><category term="Pandemia, " /><category term="Google Forms, " /><category term="Tratamento precoce" /><summary type="html">Grupos pró-&quot;tratamento precoce&quot; têm dezenas de milhares de usuários e funcionam livremente. Pacientes são recrutados por startup obscura de saúde.</summary></entry><entry><title type="html">Telegram cresce no Brasil, mas empresa opera no escuro</title><link href="https://nucleo.jor.br//reportagem/2021-07-26-telegram-nao-responde" rel="alternate" type="text/html" title="Telegram cresce no Brasil, mas empresa opera no escuro" /><published>2021-07-26T06:01:00-03:00</published><updated>2021-07-26T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/telegram-nao-responde</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-07-26-telegram-nao-responde">&lt;p&gt;Mais de &lt;a href=&quot;https://nucleo.jor.br/especiais/2021-07-08-whatsapp-politica-mudanca&quot;&gt;30% dos brasileiros&lt;/a&gt; acima de 16 anos com acesso à internet já utilizam o Telegram, segundo pesquisa do InternetLab em parceria com a Rede Conhecimento Social, mas ainda assim a presença corporativa do aplicativo de mensagens no país é um vácuo.&lt;/p&gt;
 
 &lt;p&gt;Mesmo após assegurar um financiamento de &lt;a href=&quot;https://www.reuters.com/article/mubadala-inv-telegram-int-idUSKBN2BF0UP&quot;&gt;US$1 bilhão&lt;/a&gt; junto investidores, o que colocaria a empresa em um patamar avançado de profissionalização organizacional e corporativa, o Telegram segue sem representação no país e basicamente ignora questionamentos da imprensa e até do judiciário.&lt;/p&gt;
 
@@ -1040,52 +1223,4 @@ Eles denunciam que foram impedidos de continuar o breque por multas de trânsito
 
 &lt;p&gt;Entramos em contato com Facebook, Instagram, YouTube e Twitter para ilustrar essa pauta, embora diversas outras possuam selo de verificação também.&lt;/p&gt;
 
-&lt;p&gt;Os dados de engajamento foram obtidos e analisados a partir do Science Pulse, projeto do &lt;strong&gt;Núcleo&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Redes sociais, " /><category term="Instagram, " /><category term="Facebook, " /><category term="Twitter, " /><category term="YouTube, " /><category term="Selo de verificação" /><summary type="html">Os cobiçados selinhos azuis chegam a ser negados para jornalistas, mas podem ser concedidos a páginas e perfis que espalham desinformação</summary></entry><entry><title type="html">Twitter nega pedido da CPI da Pandemia para revelar perfis removidos</title><link href="https://nucleo.jor.br//curtas/2021-06-30-twitter-negar-infos-CPI-Pandemia" rel="alternate" type="text/html" title="Twitter nega pedido da CPI da Pandemia para revelar perfis removidos" /><published>2021-06-30T20:32:00-03:00</published><updated>2021-06-30T20:32:00-03:00</updated><id>https://nucleo.jor.br//curtas/twitter-negar-infos-CPI-Pandemia</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-06-30-twitter-negar-infos-CPI-Pandemia">&lt;p&gt;O Twitter Brasil se recusou a fornecer dados para a CPI da Pandemia sobre contas deletadas pela plataforma em meados de junho, alegando que a solicitação feita pelo senador Randolfe Rodrigues não possui relação com o inquérito da comissão e que a cessão dessas informações poderia violar a privacidade e proteção de dados pessoais de usuários.&lt;/p&gt;
-
-&lt;p&gt;O &lt;a href=&quot;https://legis.senado.leg.br/sdleg-getter/documento/download/908a96d9-2d86-4380-b111-8cc1c9fc2954&quot;&gt;ofício&lt;/a&gt; data de 28 de junho e a sugestão para acessar o documento público foi enviada para o &lt;strong&gt;Núcleo&lt;/strong&gt; por uma leitora.&lt;/p&gt;
-
-&lt;p&gt;A rede social informou pelos seus advogados do escritório Pinheiro Neto que tem fornecido “com frequência” informações e dados sigilosos de usuários do Twitter e removido conteúdos ilegais por conta de determinações da justiça.&lt;/p&gt;
-
-&lt;p&gt;Nesse caso, contudo, a solicitação feita por Randolfe foi genérica e ampla demais para ser cumprida, além de não ter nada a ver com a pandemia. “As abrangentes requisições formuladas por meio do r. ofício aparentam extrapolar o escopo da investigação dessa CPI”, disse a rede social.&lt;/p&gt;
-
-&lt;p&gt;O que foi solicitado :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A relação de todas as contas excluídas, dos respectivos dados utilizados para o cadastro da conta e o motivo para a exclusão;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A preservação de todo o conteúdo disponível em cada conta, ou eventualmente apagado, num container forense (com cálculo de hash) e disponibilização para coleta/download, dentro dos parâmetros do Marco Civil da Internet;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Todo histórico de login efetuado, contendo o horário (timestamp) completo com fuso horário e os endereços IPs utilizados para esses logins com a porta lógica de origem (source port).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os advogados do Twitter deram também uma carteirada constitucional na CPI, afirmando as informações solicitadas, mesmo que relacionadas a desinformação na pandemia, “são constitucionalmente protegidas pela inviolabilidade da intimidade e da vida privada, pelo sigilo da correspondência e das comunicações, além da proteção de dados pessoais (artigo 5o, incisos X e XII, da Constituição Federal)”.&lt;/p&gt;
-
-&lt;p&gt;Caso a requisição seja refeita e permita “análise individualizada” em cumprimento ao &lt;a href=&quot;http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm&quot;&gt;Marco Civil da Internet&lt;/a&gt;, o Twitter disse que poderá fornecer os dados.&lt;/p&gt;
-
-&lt;p&gt;O número de processos judiciais que têm o Twitter como réu &lt;a href=&quot;https://nucleo.jor.br/curtas/2021-06-02-twitter-tjsp-processos-2020&quot;&gt;disparou&lt;/a&gt; nos últimos anos na justiça de São Paulo, e o Twitter tem, por vezes, desafiado fornecer informações sobre seus usuários, como mostrou &lt;a href=&quot;https://nucleo.jor.br/reportagem/2021-05-13-twitter-tjsp-processo-criminal&quot;&gt;investigação&lt;/a&gt; do &lt;strong&gt;Núcleo&lt;/strong&gt; publicada em maio.&lt;/p&gt;
-
-&lt;h3 id=&quot;contexto&quot;&gt;CONTEXTO&lt;/h3&gt;
-&lt;p&gt;Em 14 de junho, bolsonaristas reclamaram de terem perdido milhares de seguidores no Twitter, acusando a rede social de censura. O &lt;strong&gt;Núcleo&lt;/strong&gt; publicou &lt;a href=&quot;https://nucleo.jor.br/curtas/2021-06-14-twitter-direita-perdem-seguidores&quot;&gt;uma reportagem&lt;/a&gt; mostrando que não foram tantos os seguidores subtraídos, e que até a esquerda também perdeu.&lt;/p&gt;
-
-&lt;p&gt;Na verdade, o Twitter revelou ter se tratado de uma medida corriqueira para solicitar que contas consideradas suspeitas validassem suas informações de acesso, como senha e número do celular, “a fim de comprovar a existência de pessoas por trás dessas contas e proteger e a integridade e legitimidade das conversas”.&lt;/p&gt;
-
-&lt;p&gt;A rede informou que não bloqueou perfis em razão do conteúdo que publicavam.&lt;/p&gt;
-
-&lt;p&gt;“Importante destacar que tais medidas levam em consideração comportamentos possivelmente inautênticos de determinadas contas, e não a natureza do conteúdo postado, conforme informado publicamente pelo perfil oficial do Twitter sobre assuntos envolvendo conselhos de segurança e atualizações”, disse o ofício.&lt;/p&gt;
-
-&lt;p&gt;Três dias depois da exclusão das contas, em 17 de junho, por sugestão do youtuber Felipe Neto e com a suspeita de que a remoção dos perfis estivesse conectada à difusão de desinformação sobre a pandemia de covid-19, Randolfe &lt;a href=&quot;https://www1.folha.uol.com.br/colunas/painelsa/2021/06/senador-acata-dica-de-felipe-neto-e-pede-que-twitter-entregue-dados-de-usuario-suspeito-a-cpi.shtml&quot;&gt;fez o pedido&lt;/a&gt; ao Twitter para que fornecesse diversas informações a respeito das contas deletadas.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;O Twitter tem enfrentado solicitações por informações&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Bolsonaristas alegaram que exclusão de contas e perdas de seguidores foi “censura”&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Twitter, " /><category term="CPI da Pandemia, " /><category term="Privacidade de dados" /><summary type="html">Em ofício datado de 28.jun, plataforma diz que solicitação extrapola investigação da comissã</summary></entry></feed>
+&lt;p&gt;Os dados de engajamento foram obtidos e analisados a partir do Science Pulse, projeto do &lt;strong&gt;Núcleo&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Redes sociais, " /><category term="Instagram, " /><category term="Facebook, " /><category term="Twitter, " /><category term="YouTube, " /><category term="Selo de verificação" /><summary type="html">Os cobiçados selinhos azuis chegam a ser negados para jornalistas, mas podem ser concedidos a páginas e perfis que espalham desinformação</summary></entry></feed>

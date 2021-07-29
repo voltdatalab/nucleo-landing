@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Médicos usam Telegram e Google Forms para receitar ivermectina e cloroquina"
-titulo_redes: "Médicos receitam ivermectina e cloroquina via Telegram e Google Forms"
+title: "Médicos usam Telegram e Google Forms para receitar, de graça, ivermectina e cloroquina"
+titulo_redes: "Médicos receitam, de graça, ivermectina e cloroquina via Telegram e Google Forms"
 subtitle: 'Grupos pró-"tratamento precoce" têm dezenas de milhares de usuários e funcionam livremente. Pacientes são recrutados por startup obscura de saúde.'
 subtitle_redes: 'Grupos pró-"tratamento precoce" têm dezenas de milhares de usuários e funcionam livremente. Pacientes são recrutados por startup obscura de saúde.'
 excerpt: 'Grupos pró-"tratamento precoce" têm dezenas de milhares de usuários e funcionam livremente. Pacientes são recrutados por startup obscura de saúde.'
