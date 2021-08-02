@@ -5,7 +5,7 @@ layout: conteudo
 tipo: reportagem
 title: "Ministério da Saúde camuflou dezenas de tweets sobre 'tratamento precoce'"
 titulo_redes: "Ministério da Saúde camuflou dezenas de tweets sobre 'tratamento precoce'"
-subtitle: 'Desde fev.2021 foram publicados 37 tweets explícitos em alusão a práticas ineficazes contra Covid-19, mas mascarou diversos outros com termos indiretos. Todos foram na gestão de Pazuello.'
+subtitle: 'Desde fev.2021 foram publicados 37 tweets explícitos em alusão a práticas ineficazes contra Covid-19, mas foram mascarados diversos outros com termos indiretos. Todos foram na gestão de Pazuello.'
 subtitle_redes: 'Gabinete mascarou diversas menções com termos indiretos. Todos foram na gestão de Pazuello.'
 excerpt: 'Gabinete mascarou diversas menções com termos indiretos. Todos foram na gestão de Pazuello.'
 date: "02/08/2021 09:06"
@@ -34,7 +34,7 @@ tags:
   - "Ivermectina, "
   - "Tratamento precoce, "
   - "Fiquem Sabendo"
-
+atualizacao: "Texto modificado às 12h01 de 2.08.2021 para corrige erro de digitação na linha fina e retirar menção ao termo 'precoce' no gráfico, que entrou inadvertidamente entre os pontos plotados."
 ---
 
 O Ministério da Saúde fez 37 publicações explícitas sobre "tratamento precoce" para Covid-19 em seu perfil no Twitter desde o início da pandemia, e mascarou dezenas de outras publicações com expressões alternativas que remetem a protocolos ineficazes no combate à doença.
