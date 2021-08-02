@@ -18,7 +18,7 @@ dados_abertos: "Acesse o código para extração de Tweets via API"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Acesse os dados do Google Trends"
 dados_abertos_link2: 'https://trends.google.com/trends/explore?date=now%207-d&geo=BR&q=cloroquina'
-background: 'corona-twitter/bolsonaro_cloroquina.jpeg'
+image: 'corona-twitter/bolsonaro_cloroquina.jpeg'
 atualizacao: ""
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-interesse-sobre-cloroquina-disparou-apos-video-de-bolsonaro-220342444.html' target='_blank'>Yahoo Brasil</a>"
 categories:

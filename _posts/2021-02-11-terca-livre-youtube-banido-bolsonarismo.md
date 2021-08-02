@@ -19,7 +19,7 @@ creditos:
   - "Rodolfo Almeida"
 dados_abertos: "Dados do YouTube tabulados<br> pela Novelo Data"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1vtCLy5Y7Qu5jnYSh5M_U6ID75PJ6gLYSZriufiZXDjo/edit?usp=sharing"
-background: '/tercalivre/tl.png'
+image: '/tercalivre/tl.png'
 atualizacao:
 nota_abertura:
 categories:

@@ -15,7 +15,7 @@ credito_img: Rodolfo Almeida
 creditos: Gabriela Sá Pessoa, Rodolfo Almeida, Sérgio Spagnuolo
 dados_abertos: "Baixe aqui os documentos do Ibama obtidos via LAI"
 dados_abertos_link: 'https://www.dropbox.com/sh/fpc38eitgvnvmnf/AADSd6AcBawT_vYMB2_LmDkGa?dl=0'
-background: 'ibama-files/oleo_-teaser.jpeg'
+image: 'ibama-files/oleo_-teaser.jpeg'
 atualizacao: "Gráfico atualizado para ajuste melhorado a telas de celulares, sem alteração de informações. Texto atualizado às 15h28 de 15.jan.2020 para esclarecer que apenas o Ministério do Meio Ambiente foi procurado pela reportagem e para acrescentar link e créditos na metodologia. Publicação atualizada em 17.jan.2020 às 12h19 para incluir gráfico sobre avistamentos."
 categories:
   - ecossistema

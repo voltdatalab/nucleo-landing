@@ -18,7 +18,7 @@ creditos:
   - "Lais Martins"
   - "Sérgio Spagnuolo"
   - "Juliene Moretti"
-background: 'outros/cpi-pandemia_Teaser.png'
+image: 'outros/cpi-pandemia_Teaser.png'
 atualizacao: "Texto atualizando às 10h08 para esclarecer que o perfil 'Desmentindo Bolsonaro' vai além do Telegram, presente também em outras plataformas."
 categories:
   - "reportagem"

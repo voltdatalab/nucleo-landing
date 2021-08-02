@@ -19,7 +19,7 @@ creditos:
   - "Samira Menezes"
   - "Sérgio Spagnuolo"
 thumbs: sim
-background: 'telegram/telegram-sombras.png'
+image: 'telegram/telegram-sombras.png'
 atualizacao: "Atualiza no primeiro parágrafo para esclarecer que dos 30% de uso no Brasil são entre aqueles maiores de 16 anos com acesso à internet"
 categories:
   - "reportagem"

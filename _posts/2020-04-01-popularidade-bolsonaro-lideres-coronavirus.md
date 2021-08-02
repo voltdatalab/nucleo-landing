@@ -20,7 +20,7 @@ dados_abertos2: "Acesse os dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit?usp=sharing"
 dados_abertos3: "Acesse o PDF com pesquisa da Quaest"
 dados_abertos_link3: "../img/bolsonaro-aprovacao/Quaest_RelatorioNacional_Mar2020_1_Avaliação.pdf"
-background: 'bolsonaro-aprovacao/bolsonaro-aprovacao-destaque.jpeg'
+image: 'bolsonaro-aprovacao/bolsonaro-aprovacao-destaque.jpeg'
 atualizacao: "Texto atualizado em 2 de abril de 2020 para incluir nota sobre comparabilidade de percentuais de pesquisas entre países."
 categories:
   - "pesquisas"

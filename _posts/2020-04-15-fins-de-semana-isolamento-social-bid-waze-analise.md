@@ -17,7 +17,7 @@ dados_abertos: "Acesse o código para extração e análise dos dados"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/d76f1c41fea201c926bf141afc140dc4'
 dados_abertos2: "Dados originais do BID/Waze"
 dados_abertos_link2: "https://www.iadb.org/en/topics-effectiveness-improving-lives/coronavirus-impact-dashboard"
-background: 'covid/transito_covid3.jpeg'
+image: 'covid/transito_covid3.jpeg'
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-fins-de-semana-colocam-isolamento-social-a-prova-no-brasil-202636598.html' target='_blank'>Yahoo Brasil</a>"
 atualizacao: "Atualiza às 20h02 de 15 de abril para esclarecer, na seção de metodologia, que primeiro dia da semana é segunda-feira de acordo com padronização da ISO."
 categories:

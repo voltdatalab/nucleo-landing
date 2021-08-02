@@ -21,7 +21,7 @@ dados_abertos2: "Código da análise"
 dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/c9fde498d827905f9ad91a5fef0bf4b3"
 dados_abertos3: "Dados tabulados pelo Núcleo"
 dados_abertos_link3: "https://docs.google.com/spreadsheets/d/1Afon_4MW1xg9ploShrszEHMkNc2OMz6_RMF-M2z_MYM/edit?usp=sharing"
-background: 'covid/transito-normal/arte.png'
+image: 'covid/transito-normal/arte.png'
 atualizacao: "Análise atualizada às 14h21 para incluir gráfico 'Retomada do trânsito em 24 cidades'"
 nota_abertura: ""
 categories:

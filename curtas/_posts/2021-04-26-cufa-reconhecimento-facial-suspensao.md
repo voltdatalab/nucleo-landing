@@ -12,7 +12,7 @@ reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Laís Martins"
 como_fizemos: "O Núcleo acompanhou a repercussão do caso no Twitter e procurou a CUFA para comentários."
-background: 'curtas/redes_padroes/twitter.png'
+image: 'curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:

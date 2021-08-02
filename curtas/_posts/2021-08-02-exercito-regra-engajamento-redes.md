@@ -18,7 +18,7 @@ dados_abertos: "Boletim do Exército de 31/07/2021"
 dados_abertos_link: "http://www.sgex.eb.mil.br/sistemas/boletim_do_exercito/copiar.php?codarquivo=1907&act=bre"
 dados_abertos: "Boletim do Exército de 12/07/2019 (via Estadão)"
 dados_abertos_link: "https://arte.estadao.com.br/politica/exercito/boletim-exercito-tuites/boletim-exercito-tuites-2019.pdf"
-background: 'curtas/redes_padroes/twitter.png'
+image: 'curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:

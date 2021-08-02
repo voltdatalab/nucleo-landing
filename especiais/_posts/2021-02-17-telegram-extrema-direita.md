@@ -27,7 +27,7 @@ creditos:
   - "Lucas Gelape"
   - "Alexandre Orrico"
 gif: 'telegram/telegram-direita.gif'
-background: 'telegram/telegram-direita-02.png'
+image: 'telegram/telegram-direita-02.png'
 atualizacao: "Texto atualizado em 18.fev.2021 às 12h43 para consertar erros de digitação no texto e tirar nota de rodapé do segundo gráfico, referente ao outro gráfico. Nenhuma informação relevante foi alterada. Texto atualizado em 18.fev.2021 às 14h35 para explicar que o zero rating depende do plano de celular e da operadora. Texto atualizado em 18.fev.2021 às 18h34 para esclarecer que tentamos contato com o Telegram, mas não com os canais. Texto atualizado em 22.fev.2021 às 13h23 para acrescentar detalhes sobre o canal de Telegram de Ciro Gomes, a pedido de um leitor."
 nota_abertura: ""
 tags:

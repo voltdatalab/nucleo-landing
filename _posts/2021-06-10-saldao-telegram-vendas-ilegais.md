@@ -18,7 +18,7 @@ creditos:
   - "Lais Martins"
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
-background: 'telegram/saldao-telegram/rolo_Teaser.png'
+image: 'telegram/saldao-telegram/rolo_Teaser.png'
 atualizacao: "Texto atualizado em 10.jun.2021 às 22h23 para remover referência a jargão que denomina a venda de dados de cartões de crédito, com a finalidade, por sugestão de leitor, de não publicizar um termo de busca para a prática irregular."
 categories:
   - "reportagem"

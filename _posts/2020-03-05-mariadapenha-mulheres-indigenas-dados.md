@@ -15,7 +15,7 @@ credito_img: Maria Fernanda Ribeiro
 dados_abertos: "Acesse os dados do Ministério da Saúde (Datasus - Tabnet)"
 dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=02'
 nota_abertura: "Esta reportagem foi originalmente publicada na <a href='https://azmina.com.br/' target='_blank'>Revista AzMina</a> em parceria com o <a href='https://www.voltdata.info/' target='_blank'>Volt Data Lab</a>, a empresa por trás do <strong>Núcleo</strong> || link aqui para a <a href='https://azmina.com.br/especiais/mulheres-indigenas-e-a-lei-maria-da-penha/' target='_blank'>reportagem original</a>"
-background: 'mulheres-indigenas/Mariquinha_MariaFernandaRibeiro.jpeg'
+image: 'mulheres-indigenas/Mariquinha_MariaFernandaRibeiro.jpeg'
 atualizacao: ""
 categories:
   - "direitos"

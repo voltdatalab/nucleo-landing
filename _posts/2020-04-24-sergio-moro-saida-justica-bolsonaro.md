@@ -17,7 +17,7 @@ dados_abertos: "Acesse o código da análise temporal"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Acesse o código da análise de sentimentos"
 dados_abertos_link2: "https://github.com/rmhirota/tw_sent'/edit?usp=sharing"
-background: 'corona-twitter/moro_saida_tt.jpeg'
+image: 'corona-twitter/moro_saida_tt.jpeg'
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://brazilian.report/tech/2020/04/24/twitter-noise-moro-exit-drowned-out-previous-political-crises/' target='_blank'>Brazilian Report</a>"
 atualizacao:
 categories:

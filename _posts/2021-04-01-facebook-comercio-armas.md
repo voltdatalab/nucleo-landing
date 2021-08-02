@@ -19,7 +19,7 @@ creditos:
   - "Lucas Gelape"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-background: 'facebook-armas/venda-armas-01.png'
+image: 'facebook-armas/venda-armas-01.png'
 dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1Ubk45hD-_EQGvR159ckOdwSbCiTGUfKMgbqdEZG5Y6w/edit?usp=sharing"
 dados_abertos2: "Registro de novas armas (Polícia Federal)"

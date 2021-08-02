@@ -16,7 +16,7 @@ credito_img: Rodolfo Almeida
 creditos: Renata Hirota, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://dados.nucleo.jor.br/politicos_inscritos_pgfn'
-background: 'devedores-pgfn/devedores-pf.jpeg'
+image: 'devedores-pgfn/devedores-pf.jpeg'
 atualizacao: ""
 categories:
   - "governo"

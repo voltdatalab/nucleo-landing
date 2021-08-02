@@ -20,7 +20,7 @@ creditos:
   - "Lucas Gelape"
   - "Rodolfo Almeida"
   - "Alexandre Orrico"
-background: 'tabata/tabata-01.png'
+image: 'tabata/tabata-01.png'
 dados_abertos: "Dados tabulados de tweets"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"
 atualizacao: "Um trecho da reportagem foi alterado em 9.abr.2021 às 9h41 para esclarecer a posição de Tabata sobre ensino domiciliar. O trecho original dizia que ela 'já sinalizou ser favorável' ao método, baseado em post dela no Facebook. Após reconsideração da equipe do Núcleo, alteramos para 'já sinalizou em 2019 não ser contra, desde que regulamentada'."

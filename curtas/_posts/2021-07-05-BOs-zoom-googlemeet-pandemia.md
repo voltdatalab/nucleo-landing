@@ -16,7 +16,7 @@ dados_abertos: "Newsletter Don't LAI to Me"
 dados_abertos_link: "https://fiquemsabendo.substack.com/p/soldados-foram-detidos-por-pedir"
 dados_abertos2: "Tabela (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1hddgNsZXwEhyL7xOnxkxWFJPjUVV2x1O2AVFrHjsYzA/edit#gid=0"
-background: 'curtas/redes_padroes/outras.png'
+image: 'curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:

@@ -11,7 +11,7 @@ date: 06/04/2021 10:37
 analise: Lucas Gelape
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
-background: 'curtas/redes_padroes/twitter.png'
+image: 'curtas/redes_padroes/twitter.png'
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1__OsjGBOurxT4MnjquHebmqHG1xFKCc70I_mTRSRnrY/edit#gid=1527690829'
 dados_abertos2: "Acesse o código da análise"

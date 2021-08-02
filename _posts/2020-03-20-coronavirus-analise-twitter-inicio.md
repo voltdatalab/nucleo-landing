@@ -18,7 +18,7 @@ dados_abertos: "Acesse o código para extração de Tweets via API"
 dados_abertos_link: 'https://gist.github.com/voltdatalab/a342c1179284deafa5c508dad33373f5'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo sobre trending topics"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1BqoLRA_MXGCfRWgCr-601BSAVRXu6x_RIaAV7Zxi7zY/edit?usp=sharing'
-background: 'corona-twitter/corona_twitter.jpeg'
+image: 'corona-twitter/corona_twitter.jpeg'
 atualizacao: "Adiciona esclarecimento sobre metodologia utilizada"
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/no-twitter-coronavirus-so-ganhou-forca-apos-contaminacao-de-autoridades-022439916.html' target='_blank'>Yahoo Brasil</a>"
 categories:

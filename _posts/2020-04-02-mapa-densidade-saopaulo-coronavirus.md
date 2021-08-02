@@ -14,7 +14,7 @@ dados_abertos: "Mapa interativo em tela cheia"
 dados_abertos_link: 'https://bernardol.carto.com/builder/187fc2a1-f439-4f2f-b67c-a2a882e52b83/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-24.769278450595255%2C-48.72161865234375%5D%2C%22sw%22%3A%5B-22.418645732760517%2C-44.60723876953125%5D%2C%22center%22%3A%5B-23.599542792889448%2C-46.6644287109375%5D%2C%22zoom%22%3A9%7D%7D'
 dados_abertos2: "Dados do Censo 2010 (IBGE)"
 dados_abertos_link2: "https://censo2010.ibge.gov.br/"
-background: 'covid/capa_mapas.jpg'
+image: 'covid/capa_mapas.jpg'
 nota_abertura: "Esta análise foi originalmente publicada pelo <a href='https://medium.com/@medidasp/mapa-mostra-limita%C3%A7%C3%B5es-do-isolamento-vertical-nas-periferias-1c514d104ba5' target='_blank'>Medida SP</a>, e gentilmente cedida para publicação no Núcleo."
 atualizacao: ""
 categories:

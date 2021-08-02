@@ -12,7 +12,7 @@ texto: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 creditos: "Alexandre Orrico, Sérgio Spagnuolo"
 como_fizemos: "O jornalista teve a inglória missão de fazer um perfil no app e ficar buscando esses médicos."
-background: 'curtas/redes_padroes/outras.png'
+image: 'curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:
@@ -216,7 +216,7 @@ No primeiro dia de lançamento, a rede criada por Jason Miller, empresário e um
 <!-- End Slide Image gallery -->
 Um deles é Ricardo Ariel Zimerman, médico defensor da cloroquina e crítico às vacinas, recentemente convocado pela CPI da Pandemia. No Gettr, Ricardo já tem mais de 2 mil seguidores. No Instagram, plataforma que não deixa mais o médico [realizar lives](https://www.instagram.com/p/CQ6JAITN7IQ/?utm_medium=copy_link), ele acumula mais de 80 mil.
 
-Dr. Marcus Pompeu, que segundo o [LinkedIn](https://www.linkedin.com/in/marcus-pompeu-69742269/?originalSubdomain=br) é pediatra na Santa Casa Anna Cintra, em Amparo (SP), encontrou no Gettr um local para destilar desinformação médica e homofobia. Ele já teve diversas contas suspensas no Twitter. 
+Dr. Marcus Pompeu, que segundo o [LinkedIn](https://www.linkedin.com/in/marcus-pompeu-69742269/?originalSubdomain=br) é pediatra na Santa Casa Anna Cintra, em Amparo (SP), encontrou no Gettr um local para destilar desinformação médica e homofobia. Ele já teve diversas contas suspensas no Twitter.
 
 O conteúdo dos médicos serve de combustível para desinformação e posts de exaltação à medicamentos como ivermectina e azitromicina. O senador Flávio Bolsonaro e a deputada federal Carla Zambelli anunciaram que estão na Gettr. Flávio tem 1,2 milhão de seguidores e já ganhou o selinho de verificação da rede.  
 

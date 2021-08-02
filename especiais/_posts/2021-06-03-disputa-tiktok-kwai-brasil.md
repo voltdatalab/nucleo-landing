@@ -23,7 +23,7 @@ creditos:
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
 gif: 'kwai_tiktok/header.gif'
-background: 'kwai_tiktok/kwai-tiktok-banner.png'
+image: 'kwai_tiktok/kwai-tiktok-banner.png'
 tags:
   - "Kwai, "
   - "TikTok, "

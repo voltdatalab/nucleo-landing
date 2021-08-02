@@ -28,7 +28,7 @@ creditos:
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
 gif: 'instagram-armas/header-animado.gif'
-background: 'instagram-armas/header-estatico.png'
+image: 'instagram-armas/header-estatico.png'
 atualizacao: "Reportagem atualizada em 18.abr.2021 às 10h58 para corrigir erro de digitação na grafia do sobrenome do entrevistado Rafael Alcadipani."
 tags:
   - "Instagram, "

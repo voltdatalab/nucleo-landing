@@ -19,7 +19,7 @@ creditos:
   - "Lucas Gelape"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-background: 'butantan/cover.png'
+image: 'butantan/cover.png'
 dados_abertos: "Dados tabulados pelo Núcleo"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1dbt-Nez3u1EUaPy9cC27ENCXl-oBEmIcM9MHD1QEcqo/edit?usp=sharing"
 dados_abertos2: "Código de análise"

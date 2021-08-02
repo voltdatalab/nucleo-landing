@@ -17,7 +17,7 @@ creditos:
   - "Laís Martins"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-background: 'moderacao/parler-01.png'
+image: 'moderacao/parler-01.png'
 categories:
   - "redes"
 tags:

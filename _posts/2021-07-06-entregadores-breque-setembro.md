@@ -21,7 +21,7 @@ creditos:
   - "Alexandre Orrico"
   - "Samira Menezes"
   - "Rodolfo Almeida"
-background: 'motociata/breque-setembro.png'
+image: 'motociata/breque-setembro.png'
 atualizacao: "Texto atualizado às 10h31 de 6.jul.2021 para refletir a seguinte correção: no penúltimo parágrafo do texto, substitui 'bloqueios sem acidente' por 'bloqueios sem defesa'."
 categories:
   - "reportagem"

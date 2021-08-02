@@ -21,7 +21,7 @@ creditos:
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
   - "Juliene Moretti"
-background: 'pix/pix_Teaser.png'
+image: 'pix/pix_Teaser.png'
 dados_abertos: "CrowdTangle (acesso depende de pré-aprovação)"
 dados_abertos_link: "https://crowdtangle.com/"
 categories:

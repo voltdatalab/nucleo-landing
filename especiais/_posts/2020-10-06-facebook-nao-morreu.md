@@ -20,7 +20,7 @@ credito_img: "Rodolfo Almeida"
 dados_abertos: "Dados sobre usuários do Facebook - via Statista"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ue3mr7L3gEsFiyyHsbsdMhFMmwAvKYtJIKSbgozHYcc/edit?usp=sharing"
 gif: 'social-fb/facebook.gif'
-background: 'social-fb/facebook_imagem_2.jpeg'
+image: 'social-fb/facebook_imagem_2.jpeg'
 atualizacao: 'Texto atualizado às 10h34 de 16 de outubro para esclarecer no 5o parágrafo sob o intertítulo "OS GRUPOS" que não temos análise de que usuários do Facebook são de direita, mas sim que a conversa gira em torno de termos atribuídos à direita.'
 tags:
   - "Facebook, "

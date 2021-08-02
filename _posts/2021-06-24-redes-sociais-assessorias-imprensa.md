@@ -15,7 +15,7 @@ credito_img: "Rodolfo Almeida"
 creditos:
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
-background: 'outros/entrevistas-redes_Teaser.png'
+image: 'outros/entrevistas-redes_Teaser.png'
 categories:
   - "reportagem"
 tags:

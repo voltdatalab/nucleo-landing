@@ -17,7 +17,7 @@ dados_abertos: "Acesse o código da análise"
 dados_abertos_link: 'https://github.com/rmhirota/tw_sent'
 dados_abertos2: "Agregações tabuladas pelo Núcleo (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/133o1ViurOcQUIiE21l2lMRCCEvvp6W_tCxya6hiioFY/edit?usp=sharing"
-background: 'corona-twitter/mandetta_capa.jpeg'
+image: 'corona-twitter/mandetta_capa.jpeg'
 nota_abertura:
 atualizacao:
 categories:

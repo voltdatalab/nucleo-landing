@@ -18,7 +18,7 @@ dados_abertos: "Acesse os dados do Ministério da Saúde (Datasus - Tabnet)"
 dados_abertos_link: 'http://www2.datasus.gov.br/DATASUS/index.php?area=0204'
 dados_abertos2: "Acesse os dados tabulados pelo Núcleo"
 dados_abertos_link2: 'https://docs.google.com/spreadsheets/d/1cH946D-cYEu9Uu9_Z0wvm3tsSXwUpc_R2out3MnEtxU/edit?usp=sharing'
-background: 'capacidade-hospitalar/medicos-intensivistas.jpeg'
+image: 'capacidade-hospitalar/medicos-intensivistas.jpeg'
 atualizacao: ""
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/brasil-pode-ter-falta-de-medicos-de-ut-is-para-combate-ao-coronavirus-213144441.html' target='_blank'>Yahoo Brasil</a>"
 categories:
