@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: 'Ministério da Saúde camuflou dezenas de tweets sobre "tratamento precoce"'
-titulo_redes: 'Ministério da Saúde camuflou dezenas de tweets sobre "tratamento precoce"'
+title: "Ministério da Saúde camuflou dezenas de tweets sobre 'tratamento precoce'"
+titulo_redes: "Ministério da Saúde camuflou dezenas de tweets sobre 'tratamento precoce'"
 subtitle: 'Desde fev.2021 foram publicados 37 tweets explícitos em alusão a práticas ineficazes contra Covid-19, mas mascarou diversos outros com termos indiretos. Todos foram na gestão de Pazuello.'
 subtitle_redes: 'Gabinete mascarou diversas menções com termos indiretos. Todos foram na gestão de Pazuello.'
 excerpt: 'Gabinete mascarou diversas menções com termos indiretos. Todos foram na gestão de Pazuello.'
