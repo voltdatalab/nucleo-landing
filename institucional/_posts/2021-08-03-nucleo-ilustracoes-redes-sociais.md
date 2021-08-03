@@ -29,7 +29,7 @@ tags:
 
 O **Núcleo** lança nesta terça-feira uma série de ilustrações personalizadas que refletem as redes sociais que cobrimos. Essas artes serão utilizadas na seção de notas e análises rápidas [Jogo Rápido]({{ site.baseurl }}/curtas).
 
-O objetivo é facilitar a identificação da principal rede social mencionada no texto, com artes específicas para cada plataforma: Twitter, Facebook, Instagram, Reddit, WhatsApp, Telegram, Google, YouTube, além de uma arte mais genérica para outros assuntos outras.
+O objetivo é facilitar a identificação da principal rede social mencionada no texto, com artes específicas para cada plataforma: Twitter, Facebook, Instagram, Reddit, WhatsApp, Telegram, Google, YouTube, além de uma arte mais genérica para outros assuntos.
 
 O trabalho foi feito pela artista visual [Layla Cruz](https://www.instagram.com/laylacruz.arte/), que pesquisou sobre a estética, o comportamento e as práticas mais frequentes dos usuários de cada mídia social durante o processo de criação.
 
