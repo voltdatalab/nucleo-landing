@@ -10,7 +10,9 @@ excerpt: 'SP registra quase 400 BOs que mencionam as principais plataformas de c
 date: 05/07/2021 10:56
 reportagem: Laís Martins
 edicao: Samira Menezes
-creditos: "Samira Menezes, Laís Martins"
+creditos:
+  - "Laís Martins"
+  - "Samira Menezes"
 como_fizemos: "O Núcleo utilizou dados disponibilizados pelo Fiquem Sabendo."
 dados_abertos: "Newsletter Don't LAI to Me"
 dados_abertos_link: "https://fiquemsabendo.substack.com/p/soldados-foram-detidos-por-pedir"

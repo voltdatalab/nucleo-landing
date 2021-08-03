@@ -10,7 +10,9 @@ excerpt: "Ação já resultou em mais de 33 mil assinaturas em carta aberta a ch
 date: 06/04/2021 10:37
 analise: Lucas Gelape
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 image: 'img/curtas/redes_padroes/twitter.png'
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1__OsjGBOurxT4MnjquHebmqHG1xFKCc70I_mTRSRnrY/edit#gid=1527690829'

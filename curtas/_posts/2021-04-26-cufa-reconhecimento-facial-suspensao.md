@@ -10,7 +10,9 @@ excerpt: 'A Central Única das Favelas (CUFA) suspendeu o cadastro de cidadãos 
 date: 26/04/2021 11:54
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Laís Martins"
+creditos:
+  - "Laís Martins"
+  - "Sérgio Spagnuolo"
 como_fizemos: "O Núcleo acompanhou a repercussão do caso no Twitter e procurou a CUFA para comentários."
 image: 'img/curtas/redes_padroes/twitter.png'
 categories:

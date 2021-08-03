@@ -10,7 +10,9 @@ excerpt: 'Rede social Frank Speech, criada por empresário apoiador de Donald Tr
 date: 21/04/2021 12:11
 texto: Sérgio Spagnuolo
 edicao: Alexandre Orrico
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 image: 'img/curtas/redes_padroes/outras.png'
 categories:
   - "curtas"

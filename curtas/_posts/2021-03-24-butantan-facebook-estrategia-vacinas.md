@@ -10,7 +10,9 @@ excerpt: "Média de menções ao termo dispararam em 6x em relação aos dias an
 date: 24/03/2021 10:57
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Laís Martins, Sérgio Spagnuolo"
+creditos:
+  - "Laís Martins"
+  - "Sérgio Spagnuolo"
 image: 'img/curtas/redes_padroes/facebook.png'
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1QK39Va5sHPc-6eprVB0fqrO3CZ5AD_Zoj3vFGXy-2g0/edit?usp=sharing'

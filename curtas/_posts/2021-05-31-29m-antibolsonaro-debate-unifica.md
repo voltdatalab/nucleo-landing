@@ -11,7 +11,10 @@ date: 31/05/2021 08:14
 texto: Sérgio Spagnuolo
 analise: Pedro Barciela
 edicao: Alexandre Orrico
-creditos: "Sérgio Spagnuolo, Alexandre Orrico, Pedro Barciela"
+creditos:
+  - "Pedro Barciela"
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 como_fizemos: "Análise de redes e debates via dados coletados do Twitter."
 image: 'img/curtas/redes_padroes/twitter.png'
 categories:

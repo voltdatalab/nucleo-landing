@@ -10,7 +10,9 @@ excerpt: "Pesquisa do ITS identificou ao menos três trechos sem tradução ou c
 date: 07/04/2021 09:26
 texto: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Laís Martins"
+creditos:
+ - "Laís Martins"
+ - "Sérgio Spagnuolo"
 image: 'img/curtas/redes_padroes/facebook.png'
 dados_abertos: "Acesse o relatório do ITS"
 dados_abertos_link: 'https://itsrio.org/pt/publicacoes/redes-sociais-e-moderacao-de-conteudo/'

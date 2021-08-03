@@ -10,9 +10,11 @@ excerpt: 'Usuários organizam carreatas e promovem pacotes de viagens para ato e
 date: 07/06/2021 12:56
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Laís Martins"
+creditos:
+  - "Laís Martins"
+  - "Sérgio Spagnuolo"
 como_fizemos: "O Núcleo acompanhou quatro grupos abertos de Telegram com a temática armamentista."
-image: 'img/curtas/redes_padroes/outras.png'
+image: 'img/curtas/redes_padroes/telegram.png'
 categories:
   - "curtas"
 tags:

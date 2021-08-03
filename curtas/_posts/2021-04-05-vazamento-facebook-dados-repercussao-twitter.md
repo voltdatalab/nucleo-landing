@@ -10,7 +10,9 @@ excerpt: "Tweets em inglês chegaram a superar 3.500 menções por hora. Em port
 date: 05/04/2021 11:51
 analise: Sérgio Spagnuolo
 edicao: Alexandre Orrico
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 image: 'img/curtas/redes_padroes/twitter.png'
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1vRPs424A84gBHrYu9-2ctFU7RzcTYKt3lo6JdtSiuVE/edit?usp=sharing'

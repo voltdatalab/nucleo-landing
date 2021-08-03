@@ -10,7 +10,9 @@ excerpt: 'Rede social Gettr, feita por conselheiros de Trump, vira refúgio para
 date: 06/07/2021 15:07
 texto: Alexandre Orrico
 edicao: Sérgio Spagnuolo
-creditos: "Alexandre Orrico, Sérgio Spagnuolo"
+creditos:
+  - "Alexandre Orrico"
+  - "Sérgio Spagnuolo"
 como_fizemos: "O jornalista teve a inglória missão de fazer um perfil no app e ficar buscando esses médicos."
 image: 'img/curtas/redes_padroes/outras.png'
 categories:

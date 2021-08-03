@@ -10,7 +10,9 @@ excerpt: 'Queda do ministro reforça cenário de um campo anti-bolsonarista que 
 date: 23/06/2021 20:24
 analise: Pedro Barciela
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Pedro Barciela"
+creditos: 
+  - "Pedro Barciela"
+  - "Sérgio Spagnuolo"
 como_fizemos: "Análise de redes e debates via dados coletados do Twitter."
 image: 'img/curtas/redes_padroes/twitter.png'
 categories:

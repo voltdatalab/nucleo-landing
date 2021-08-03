@@ -10,7 +10,9 @@ excerpt: "Média de menções ao termo dispararam em 6x em relação aos dias an
 date: 22/03/2021 14:33
 analise: Sérgio Spagnuolo
 edicao: Alexandre Orrico
-creditos: "Sérgio Spagnuolo, Alexandre Orrico"
+creditos:
+  - "Sérgio Spagnuolo"
+  - "Alexandre Orrico"
 dados_abertos: "Acesse os dados"
 dados_abertos_link: 'https://docs.google.com/spreadsheets/d/1QK39Va5sHPc-6eprVB0fqrO3CZ5AD_Zoj3vFGXy-2g0/edit?usp=sharing'
 dados_abertos2: "Acesse o código da análise"

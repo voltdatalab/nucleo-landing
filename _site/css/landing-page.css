@@ -58,6 +58,10 @@ h6 {
   text-transform: uppercase;
 }
 
+.chapeu a{
+  color: #fff;
+}
+
 .lead a{
   text-decoration: underline;
   color: #4b31dd

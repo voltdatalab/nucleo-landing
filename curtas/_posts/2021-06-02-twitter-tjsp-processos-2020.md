@@ -10,7 +10,9 @@ excerpt: 'Números de processos envolvendo a rede social na jurisdição mais do
 date: 02/06/2021 12:21
 texto: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Laís Martins"
+creditos:
+  - "Laís Martins"
+  - "Sérgio Spagnuolo"
 dados_abertos: "Dados tabelados no Google Sheets"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1tKt2L7_m9envyabF4aH61260aqgFR1OpVX_GuSxvSCw/edit?usp=sharing"
 como_fizemos: "O Núcleo solicitou informações para a assessoria de imprensa do TJ-SP."

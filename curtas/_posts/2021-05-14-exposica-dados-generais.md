@@ -10,7 +10,9 @@ excerpt: 'Um documento sensível de acesso restrito ficou indevidamente aberto e
 date: 14/05/2021 08:14
 reportagem: Lucas Lago
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Lucas Lago"
+creditos:
+  - "Lucas Lago"
+  - "Sérgio Spagnuolo"
 como_fizemos: "O Núcleo obteve a dica de que o arquivo estava exposto a partir de uma fonte."
 image: 'img/curtas/redes_padroes/outras.png'
 categories:

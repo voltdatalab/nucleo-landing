@@ -10,7 +10,9 @@ excerpt: 'Desde março, buscamos - sem sucesso - informações sobre um contrato
 date: 04/05/2021 15:02
 reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
-creditos: "Sérgio Spagnuolo, Laís Martins"
+creditos:
+  - "Laís Martins"
+  - "Sérgio Spagnuolo"
 como_fizemos: "O Núcleo tem buscado informações via LAI sobre contrato do Butantan com empresa que faz gestão de redes sociais."
 image: 'img/curtas/redes_padroes/outras.png'
 atualizacao: "Texto atualizado em 6.mai.2021 às 13h02 para incluir comunicado do Instituto Butantan. Por a Fundação Butantan ser privada, tiramos referências a 'dinheiro público' até termos mais clareza sobre a fonte dos recursos, embora a maior parte venha de vendas ao Ministério da Saúde."
