@@ -20,7 +20,7 @@ creditos:
   - "Samira Menezes"
   - "Rodolfo Almeida"
   - "Alexandre Orrico"
-image: 'instagram/venda-contas_Teaser.png'
+image: 'img/instagram/venda-contas_Teaser.png'
 categories:
   - "reportagem"
 tags:

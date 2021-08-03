@@ -11,7 +11,7 @@ date: 21/04/2021 12:11
 texto: Sérgio Spagnuolo
 edicao: Alexandre Orrico
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
-image: 'curtas/redes_padroes/outras.png'
+image: 'img/curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:

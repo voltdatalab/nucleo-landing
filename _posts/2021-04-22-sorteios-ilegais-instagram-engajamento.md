@@ -20,7 +20,7 @@ creditos:
   - "Laís Martins"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-image: 'instagram/jackpot_Teaser.png'
+image: 'img/instagram/jackpot_Teaser.png'
 dados_abertos: "Código da análise"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1_gEbrbwnP-oeIYmxMbT8L7AlS_pD5F0Kj81AjbuhHMg/edit?usp=sharing"
 atualizacao: "Texto atualizado às 14h02 de 22.abr.2021 para acrescentar posicionamento do Instagram."

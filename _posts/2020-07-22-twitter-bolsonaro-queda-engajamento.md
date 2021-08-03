@@ -17,7 +17,7 @@ dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1nxpQMtSrusPWxQrRDw5RzsuWtFDljWYsPu10ykhEcSY/edit?usp=sharing"
 dados_abertos2: "Monitor Nuclear"
 dados_abertos_link2: "../monitor"
-image: 'twitter-files/bolsonaro_twitter.jpg'
+image: 'img/twitter-files/bolsonaro_twitter.jpg'
 atualizacao: ""
 categories:
   - "redes"

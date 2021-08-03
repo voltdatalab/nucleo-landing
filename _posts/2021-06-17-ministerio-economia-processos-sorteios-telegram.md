@@ -17,7 +17,7 @@ creditos:
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
 atualizacao: "Inclui palavra 'multa' no título às 9h54 de 17.jun.2021"
-image: 'instagram/sorteios-me/jackpot-ministerio_Teaser.png'
+image: 'img/instagram/sorteios-me/jackpot-ministerio_Teaser.png'
 categories:
   - "reportagem"
 tags:

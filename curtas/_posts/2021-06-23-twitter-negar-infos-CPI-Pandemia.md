@@ -14,7 +14,7 @@ creditos: "Sérgio Spagnuolo, Alexandre Orrico"
 como_fizemos: "Extraímos as informações de ofício enviado pelo Twitter à CPI da Pandemia. Não entramos em contato com o Senado nem com o Twitter antes de publicar."
 dados_abertos: "Site do Senado"
 dados_abertos_link: "https://legis.senado.leg.br/sdleg-getter/documento/download/908a96d9-2d86-4380-b111-8cc1c9fc2954"
-image: 'curtas/redes_padroes/twitter.png'
+image: 'img/curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:

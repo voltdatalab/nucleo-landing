@@ -16,7 +16,7 @@ dados_abertos: "Acesse a tabela do Ministério da Saúde"
 dados_abertos_link: 'https://www.saude.gov.br/contratos-coronavirus'
 dados_abertos2: "Dados classificados pelo Núcleo (Google Sheets)"
 dados_abertos_link2: "https://docs.google.com/spreadsheets/d/1MDVoKIhWKDTISC5u5skEbcvYZ2R12Bw6Bm-mLoySyTk/edit?usp=sharing"
-image: 'covid/compras_ms.jpeg'
+image: 'img/covid/compras_ms.jpeg'
 nota_abertura: "Esta reportagem foi originalmente publicada em parceria com o <a href='https://br.noticias.yahoo.com/coronavirus-contratos-sem-licitacao-do-ministerio-da-saude-superam-r-27-bilhoes-210946831.html' target='_blank'>Yahoo Brasil</a>"
 atualizacao:
 categories:

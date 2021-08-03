@@ -18,7 +18,7 @@ creditos:
   - "Victor Silva"
   - "Samira Menezes"
   - "Alexandre Orrico"
-image: 'telegram/receitas_Teaser.png'
+image: 'img/telegram/receitas_Teaser.png'
 categories:
   - "reportagem"
 tags:

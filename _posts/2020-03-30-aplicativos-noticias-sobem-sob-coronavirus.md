@@ -13,7 +13,7 @@ texto: Sérgio Spagnuolo
 creditos: Sérgio Spagnuolo
 dados_abertos: "Acesse o estudo da RankMyAPP feito a pedido do Núcleo"
 dados_abertos_link: '../img/covid/ESTUDO_RankMyAPP.pdf'
-image: 'covid/apps_noticias_cover.jpg'
+image: 'img/covid/apps_noticias_cover.jpg'
 atualizacao: "Texto alterado às 18h08 de 30 de março de 2020 para incluir informação no terceiro parágrafo, relativa à Apple Store."
 categories:
   - "media"

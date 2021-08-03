@@ -9,7 +9,7 @@
 {% unless post.tipo contains 'draft' %}
 {% unless post.tipo contains 'institucional' %}
       <div class="col-sm-6 col-lg-6">
-          <div class="indexpost" style="background: url('../img/{{ site.baseurl }}{{ post.image }}') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
+          <div class="indexpost" style="background: url('{{ site.baseurl }}/{{ post.image }}') rgba(0, 0, 0, 0.4);background-position: center; /* Center the image */;
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
   height: 300px;">

@@ -16,7 +16,7 @@ bio: "é cientista de dados, fellow da Fundação Alexander von Humboldt, e pesq
 contato: '@voigtjessica'
 contato_link: https://www.linkedin.com/in/voigtjessica/
 credito_img: "Rodolfo Almeida"
-background: 'ideias/lock-privacidade.png'
+image: 'img/ideias/lock-privacidade.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

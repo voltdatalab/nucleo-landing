@@ -14,7 +14,7 @@ creditos: "Sérgio Spagnuolo, Alexandre Orrico"
 como_fizemos: "O Núcleo analisou dados captados pelo projeto Monitor Nuclear."
 dados_abertos: Dados tabulados pelo Núcleo
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1qhWw3-jdjFSzf82aFA8ej3HGAqJoQ5xbj_Y1XSiP-Yw/edit?usp=sharing"
-image: 'curtas/redes_padroes/twitter   .png'
+image: 'img/curtas/redes_padroes/twitter   .png'
 categories:
   - "curtas"
 tags:

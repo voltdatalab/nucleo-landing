@@ -20,7 +20,7 @@ creditos:
   - "Rodolfo Almeida"
   - "Juliene Moretti"
   - "Sérgio Spagnuolo"
-image: 'twitch/lofi-03.png'
+image: 'img/twitch/lofi-03.png'
 categories:
   - "reportagem"
 tags:

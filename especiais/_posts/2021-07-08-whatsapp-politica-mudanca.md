@@ -26,7 +26,7 @@ creditos:
   - "Alexandre Orrico"
   - "Samira Menezes"
 #gif: '/header.gif'
-image: 'zap-politica/zap_Teaser.png'
+image: 'img/zap-politica/zap_Teaser.png'
 tags:
   - "WhatsApp, "
   - "Política, "

@@ -18,7 +18,7 @@ dados_abertos: "Atlas da Notícia"
 dados_abertos_link: "https://www.atlas.jor.br/plataforma/dados/"
 dados_abertos2: "Código da análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/0a2d39d95d011a65911211ce691c8c7d"
-image: 'atlas-partidos/desertos_vereadores.png'
+image: 'img/atlas-partidos/desertos_vereadores.png'
 atualizacao: "Texto atualizado às 15h08 de 10/11/2020 no 4o parágrafo para tornar a explicação mais clara. Nenhum dado foi alterado."
 nota_abertura: ""
 categories:

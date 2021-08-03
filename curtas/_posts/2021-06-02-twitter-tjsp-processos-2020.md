@@ -14,7 +14,7 @@ creditos: "Sérgio Spagnuolo, Laís Martins"
 dados_abertos: "Dados tabelados no Google Sheets"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1tKt2L7_m9envyabF4aH61260aqgFR1OpVX_GuSxvSCw/edit?usp=sharing"
 como_fizemos: "O Núcleo solicitou informações para a assessoria de imprensa do TJ-SP."
-image: 'curtas/redes_padroes/twitter.png'
+image: 'img/curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:

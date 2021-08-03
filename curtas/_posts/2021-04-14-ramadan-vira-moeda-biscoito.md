@@ -11,7 +11,7 @@ date: 12/04/2021 12:11
 texto: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Alexandre Orrico"
-image: 'curtas/redes_padroes/instagram.png'
+image: 'img/curtas/redes_padroes/instagram.png'
 dados_abertos: "CrowdTangle"
 dados_abertos_link: 'https://www.crowdtangle.com/'
 como_fizemos: "Consultamos a ferramenta CrowdTangle e observamos posts de influenciadores em redes sociais - tanto que utilizaram a data para ter mais engajamento quanto os que criticaram a prática."

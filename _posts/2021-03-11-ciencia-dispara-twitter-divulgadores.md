@@ -19,7 +19,7 @@ creditos:
   - "Alexandre Orrico"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-image: 'cientistas_engajamento/destaque.png'
+image: 'img/cientistas_engajamento/destaque.png'
 dados_abertos: "Código da análise"
 dados_abertos_link: "https://gist.github.com/lgelape/d854f7f23a900531e3fd4977d574e492"
 dados_abertos2: "Dados agregados"

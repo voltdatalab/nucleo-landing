@@ -12,7 +12,7 @@ reportagem: Laís Martins
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Laís Martins"
 como_fizemos: "O Núcleo acompanhou quatro grupos abertos de Telegram com a temática armamentista."
-image: 'curtas/redes_padroes/outras.png'
+image: 'img/curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:

@@ -20,7 +20,7 @@ creditos:
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
   - "Samira Menezes"
-image: 'outros/verificacao.png'
+image: 'img/outros/verificacao.png'
 atualizacao: "Texto atualizado às 13h55 de 1.jul.2021 para incluir posicionamento do YouTube no fim da matéria."
 categories:
   - "reportagem"

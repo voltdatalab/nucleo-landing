@@ -21,7 +21,7 @@ dados_abertos: "Atlas da Notícia"
 dados_abertos_link: "https://www.atlas.jor.br"
 dados_abertos2: "Código da análise"
 dados_abertos_link2: "https://gist.github.com/sergiospagnuolo/bb04821154646e78ccb097ea4fc3bb4a"
-image: 'atlas-2021.png'
+image: 'img/atlas-2021.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

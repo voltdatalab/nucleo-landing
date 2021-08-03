@@ -27,8 +27,8 @@ creditos:
   - "Felippe Mercurio"
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
-gif: 'instagram-armas/header-animado.gif'
-image: 'instagram-armas/header-estatico.png'
+gif: 'img/instagram-armas/header-animado.gif'
+image: 'img/instagram-armas/header-estatico.png'
 atualizacao: "Reportagem atualizada em 18.abr.2021 às 10h58 para corrigir erro de digitação na grafia do sobrenome do entrevistado Rafael Alcadipani."
 tags:
   - "Instagram, "

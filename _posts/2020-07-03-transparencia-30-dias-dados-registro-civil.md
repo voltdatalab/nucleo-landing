@@ -17,7 +17,7 @@ dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1ha4_-Bm9hdWpZi7TPmI2XVNcXgweX3MEygZDNI4L8ts/edit?usp=sharing"
 dados_abertos2: "Portal de Transparência do Registro Civil"
 dados_abertos_link2: "https://transparencia.registrocivil.org.br/inicio"
-image: 'covid/registro_civil.jpg'
+image: 'img/covid/registro_civil.jpg'
 atualizacao: ""
 categories:
   - "transparência"

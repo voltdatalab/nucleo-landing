@@ -20,7 +20,7 @@ dados_abertos2: "Código da análise"
 dados_abertos_link2: "https://gist.github.com/lgelape/6c9015ffb234f0b68f2e568d1e636e19"
 dados_abertos3: "Dados tabulados pelo Núcleo"
 dados_abertos_link3: "https://docs.google.com/spreadsheets/d/1me8Q7Y2QZAeeYDbOjxnWh_QxQNYk07o4koAQ1FBKdtA/edit?usp=sharing"
-image: 'vereadores-jovens/arte-vereadores.png'
+image: 'img/vereadores-jovens/arte-vereadores.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

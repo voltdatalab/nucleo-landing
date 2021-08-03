@@ -14,7 +14,7 @@ creditos: "Sérgio Spagnuolo, Laís Martins"
 dados_abertos: "Biblioteca de Anúncios do Facebook"
 dados_abertos_link: 'https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=BR'
 como_fizemos: "O Núcleo fez pesquisas por palavras-chave na Biblioteca de Anúncios do Facebook por 'cloroquina' e 'ivermectina', no Brasil. Ao encontrar resultados, pediu esclarecimentos à rede social."
-image: 'curtas/redes_padroes/facebook.png'
+image: 'img/curtas/redes_padroes/facebook.png'
 categories:
   - "curtas"
 tags:

@@ -18,7 +18,7 @@ creditos:
   - "Laís Martins"
   - "Rodolfo Almeida"
   - "Sérgio Spagnuolo"
-image: 'twitter-files/inquerito_Teaser.png'
+image: 'img/twitter-files/inquerito_Teaser.png'
 atualizacao: "Texto atualizado em 13.05.2021 às 10h37 para acrescentar posicionamento do Twitter."
 categories:
   - "reportagem"

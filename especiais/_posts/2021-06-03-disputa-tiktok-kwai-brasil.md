@@ -22,8 +22,8 @@ creditos:
   - "Beá Sena"
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
-gif: 'kwai_tiktok/header.gif'
-image: 'kwai_tiktok/kwai-tiktok-banner.png'
+gif: 'img/kwai_tiktok/header.gif'
+image: 'img/kwai_tiktok/kwai-tiktok-banner.png'
 tags:
   - "Kwai, "
   - "TikTok, "

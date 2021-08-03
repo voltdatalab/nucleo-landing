@@ -13,7 +13,7 @@ analise: Pedro Barciela
 edicao: Alexandre Orrico
 creditos: "Sérgio Spagnuolo, Alexandre Orrico, Pedro Barciela"
 como_fizemos: "Análise de redes e debates via dados coletados do Twitter."
-image: 'curtas/redes_padroes/twitter.png'
+image: 'img/curtas/redes_padroes/twitter.png'
 categories:
   - "curtas"
 tags:

@@ -15,7 +15,7 @@ credito_img: Rodolfo Almeida
 creditos: Lucas Lago, Sérgio Spagnuolo, Rodolfo Almeida
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
-image: 'twitter-files/twitter_destaque.jpeg'
+image: 'img/twitter-files/twitter_destaque.jpeg'
 destaque: 'twitter-files/twitter_destaque.jpeg'
 atualizacao: "Texto atualizado em 9.jan.2020 às 19h41 para incluir link para explicação sobre trending topics"
 categories:

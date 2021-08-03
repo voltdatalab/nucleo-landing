@@ -17,7 +17,7 @@ bio: 'é jornalista freelancer, produtora de conteúdo, ghostwriter, podcaster e
 contato: '@jacquelinee'
 contato_link: https://twitter.com/jacquelinee
 credito_img: "Rodolfo Almeida"
-background: 'ideias/terapia-robos-01.png'
+image: 'img/ideias/terapia-robos-01.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

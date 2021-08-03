@@ -21,7 +21,7 @@ creditos:
   - "Lucas Gelape"
   - "Laís Martins"
   - "Sérgio Spagnuolo"
-image: 'twitter-files/cover-tratamento-precoce-ms.png'
+image: 'img/twitter-files/cover-tratamento-precoce-ms.png'
 categories:
   - "reportagem"
 dados_abertos: "Tabela do Fiquem Sabendo"

@@ -24,7 +24,7 @@ dados_abertos: "Tags - dados para Twitter"
 dados_abertos_link: "https://tags.hawksey.info/"
 dados_abertos2: "CrowdTangle - dados para Instagram"
 dados_abertos_link2: "https://www.crowdtangle.com/"
-image: 'pix/pedidos-pix-header.png'
+image: 'img/pix/pedidos-pix-header.png'
 categories:
  - "reportagem"
 tags:

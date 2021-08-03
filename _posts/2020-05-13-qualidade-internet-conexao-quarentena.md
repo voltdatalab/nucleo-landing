@@ -18,7 +18,7 @@ dados_abertos: "Acesse os dados da Ookla"
 dados_abertos_link: 'https://ookla.d.pr/hUtTwq'
 dados_abertos2: "Acesse o painel da SpeedTest sobre Brasil"
 dados_abertos_link2: "https://www.speedtest.net/insights/blog/tracking-covid-19-impact-global-internet-performance/#/Brazil"
-image: 'covid/capa_internet.jpeg'
+image: 'img/covid/capa_internet.jpeg'
 atualizacao: ""
 categories:
   - "urbe"

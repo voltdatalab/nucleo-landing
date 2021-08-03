@@ -17,7 +17,7 @@ bio: "é jornalista, mestre em ciências da comunicação na USP e especialista 
 contato: '@lubodenmuller'
 contato_link: https://twitter.com/lubodenmuller
 credito_img: "Rodolfo Almeida"
-background: 'ideias/redes-03.png'
+image: 'img/ideias/redes-03.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

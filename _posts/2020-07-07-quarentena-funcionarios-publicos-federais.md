@@ -19,7 +19,7 @@ dados_abertos2: "Dados no Portal de Dados Abertos"
 dados_abertos_link2: "http://dados.gov.br/dataset/gestao-de-pessoas-executivo-federal-quarentena-ex-dirigentes-das-agencias-reguladoras"
 dados_abertos3: "Código de extração e agrupamento"
 dados_abertos_link3: "https://gist.github.com/sergiospagnuolo/02c56403e455c19d8c6ee25ec1fd582f"
-image: 'transparencia/quarentena_servidores.jpeg'
+image: 'img/transparencia/quarentena_servidores.jpeg'
 atualizacao: ""
 categories:
   - "governo"

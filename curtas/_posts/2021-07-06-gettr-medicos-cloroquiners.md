@@ -12,7 +12,7 @@ texto: Alexandre Orrico
 edicao: Sérgio Spagnuolo
 creditos: "Alexandre Orrico, Sérgio Spagnuolo"
 como_fizemos: "O jornalista teve a inglória missão de fazer um perfil no app e ficar buscando esses médicos."
-image: 'curtas/redes_padroes/outras.png'
+image: 'img/curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:

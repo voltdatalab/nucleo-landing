@@ -12,7 +12,7 @@ reportagem: Lucas Lago
 edicao: Sérgio Spagnuolo
 creditos: "Sérgio Spagnuolo, Lucas Lago"
 como_fizemos: "O Núcleo obteve a dica de que o arquivo estava exposto a partir de uma fonte."
-image: 'curtas/redes_padroes/outras.png'
+image: 'img/curtas/redes_padroes/outras.png'
 categories:
   - "curtas"
 tags:

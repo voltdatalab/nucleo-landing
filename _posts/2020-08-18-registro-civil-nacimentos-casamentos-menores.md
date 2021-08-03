@@ -17,7 +17,7 @@ dados_abertos: "Dados tabulados pelo Núcleo (Google Sheets)"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1m4WxKCZo_zDMWTLKI3Hrg-Uj6E9BCYWqBsliI7ZzCTw/edit?usp=sharing"
 dados_abertos2: "Estatísticas do Registro Civil 2018 (IBGE)"
 dados_abertos_link2: "https://sidra.ibge.gov.br/pesquisa/registro-civil/quadros/brasil/2018"
-image: 'registrocivil/capa_pauta_casamento_infantil.jpeg'
+image: 'img/registrocivil/capa_pauta_casamento_infantil.jpeg'
 atualizacao: "Texto atualizado às 18h04 de 18/08/2020 para incluir comentários de advogada. Atualiza às 11h17 de 19/08/2020 para acrescentar esclarecimento no 5o parágrafo de que o IBGE não divulga a idade exata para menores de 15 anos."
 nota_abertura: "Publicado em parceria com a <a href='https://azmina.com.br/reportagens/lei-permitiu-1-284-casamentos-de-meninas-menores-de-15-anos-desde-2014/' target='_blank'>Revista AzMina</a>"
 categories:

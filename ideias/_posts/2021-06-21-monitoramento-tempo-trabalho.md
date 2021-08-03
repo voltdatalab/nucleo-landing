@@ -15,7 +15,7 @@ bio: 'é jornalista, 30 e poucos anos e mora em Curitiba (PR). Fundou e edita o 
 contato: 'site pessoal'
 contato_link: https://rodrigo.ghed.in
 credito_img: "Foto Unsplash | Intervenção do Núcleo por Sérgio Spagnuolo"
-background: 'ideias/trabalho-relogio.jpg'
+image: 'img/ideias/trabalho-relogio.jpg'
 atualizacao: ""
 nota_abertura: ""
 categories:
