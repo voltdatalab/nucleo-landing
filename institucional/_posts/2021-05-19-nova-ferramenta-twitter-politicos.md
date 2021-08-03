@@ -14,7 +14,7 @@ edicao:  Sérgio Spagnuolo
 creditos:  
   - "Jade Drummond"
   - "Sérgio Spagnuolo"
-background: 'monitor_destaque1.jpeg'
+image: 'img/monitor_destaque1.jpeg'
 categories:
   - "institucional"
 tags:

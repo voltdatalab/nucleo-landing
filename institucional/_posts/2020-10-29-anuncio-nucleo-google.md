@@ -22,7 +22,7 @@ dados_abertos: "Google Startup Lab"
 dados_abertos_link: "https://sites.google.com/view/gnistartuplab/startup-lab"
 dados_abertos2: "Anúncio no blog do Google"
 dados_abertos_link2: "https://brasil.googleblog.com/2020/10/conheca-as-startups-de-jornalismo.html"
-background: 'outros/nucleo-gni.png'
+image: 'img/outros/nucleo-gni.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

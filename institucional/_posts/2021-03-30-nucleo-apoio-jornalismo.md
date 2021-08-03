@@ -15,7 +15,7 @@ creditos:
   - "Jade Drummond"
   - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
-background: 'nucleo-geral-fit.png'
+image: 'img/nucleo-geral-fit.png'
 categories:
   - "institucional"
 tags:

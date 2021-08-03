@@ -12,13 +12,13 @@ date: "15/01/2021 14:22"
 texto: "Jade Drummond"
 edicao:  
   - "Sérgio Spagnuolo"
-  - "Alexandre Orrico" 
+  - "Alexandre Orrico"
 creditos:  
   - "Jade Drummond"
   - "Alexandre Orrico"
   - "Sérgio Spagnuolo"
 credito_img: "Rodolfo Almeida"
-background: 'nucleo-geral-fit.png'
+image: 'img/nucleo-geral-fit.png'
 atualizacao: ""
 nota_abertura: ""
 categories:

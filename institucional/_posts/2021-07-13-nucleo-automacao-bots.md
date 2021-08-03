@@ -14,7 +14,7 @@ edicao: Sérgio Spagnuolo
 creditos:  
   - "Jade Drummond"
   - "Sérgio Spagnuolo"
-background: 'nucleo-geral-fit.png'
+image: 'img/nucleo-geral-fit.png'
 categories:
   - "institucional"
 tags:
