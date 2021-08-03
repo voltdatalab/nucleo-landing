@@ -8,7 +8,7 @@ titulo_redes: "Núcleo lança série de ilustrações sobre redes sociais"
 subtitle: 'Artes produzidas por artista visual Layla Cruz serão usadas na nossa seção Jogo Rápido'
 subtitle_redes: 'Artes produzidas por artista visual Layla Cruz serão usadas na nossa seção Jogo Rápido'
 excerpt: 'Artes produzidas por artista visual Layla Cruz serão usadas na nossa seção Jogo Rápido'
-date: "13/07/2021 17:09"
+date: "03/08/2021 17:29"
 texto: Jade Drummond
 edicao: Sérgio Spagnuolo
 creditos:  
