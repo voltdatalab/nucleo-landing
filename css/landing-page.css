@@ -691,7 +691,7 @@ td{
 	 margin: 0;
 	 background-color: rgba(75, 49, 221, 1);
 	 border-radius: 0;
-	 z-index: 1000;
+	 z-index: 10500;
 	 overflow: scroll;
 }
  .sub-menu.oppenned {
@@ -732,7 +732,7 @@ td{
 	 padding: 0;
 	 width: 36px;
 	 height: 36px;
-	 z-index: 1200;
+	 z-index: 12000;
 	 font-size: 0;
 	 text-indent: -9999px;
 	 -webkit-appearance: none;
