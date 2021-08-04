@@ -24,7 +24,7 @@ tags:
 
 ---
 
-Pelo menos 4 dos 6 membros do Conselho Consultivo de Segurança do TikTok se uniram para cobrar esclarecimentos da rede social após o [suicídio](https://vejasp.abril.com.br/cidades/filho-walkyria-santos-se-matou-mensagens-odio-internet/) de Lucas Santos, de apena 16 anos, atribuído a uma onda de mensagens de ódio que recebeu após publicar um vídeo na rede.
+Pelo menos 4 dos 6 membros do Conselho Consultivo de Segurança do TikTok se uniram para cobrar esclarecimentos da rede social após o [suicídio](https://vejasp.abril.com.br/cidades/filho-walkyria-santos-se-matou-mensagens-odio-internet/) de Lucas Santos, de apenas 16 anos, atribuído a uma onda de mensagens de ódio que recebeu após publicar um vídeo na rede.
 
 [Mariana Valente](https://twitter.com/mrnvlnt/status/1422959249047572483?s=20),  [Thiago Amparo](https://twitter.com/thiamparo/status/1422924639685255172), [Nina da Hora](https://twitter.com/ninadhora/status/1422959461837180932?s=20) e [Yasodara Cordova](https://twitter.com/yaso/status/1422927014953197574?s=20) expressaram, via Twitter, revolta com o caso. Os outros membros são o professor da UFMG Fabrício Benevenuto e o diretor do ITS Carlos Affonso Souza.
 
