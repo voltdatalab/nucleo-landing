@@ -2,8 +2,8 @@
 published: TRUE
 layout: curtas
 tipo: curtas
-title: "Facebook e TikTok lideram downloads de aplicativos"
-titulo_redes: "Facebook e TikTok lideram downloads de aplicativos"
+title: "Facebook e TikTok lideram buscas de aplicativos"
+titulo_redes: "Facebook e TikTok lideram buscas de aplicativos"
 subtitle: 'Relatório da RankMyApp mostra Facebook, TikTok e Twitter na liderança na loja do Google. Snapchat fica em 6º lugar.'
 subtitle_redes: 'Relatório da RankMyApp mostra Facebook, TikTok e Twitter na liderança na loja do Google. Snapchat fica em 6º lugar.'
 excerpt: 'Relatório da RankMyApp mostra Facebook, TikTok e Twitter na liderança na loja do Google. Snapchat fica em 6º lugar.'
@@ -29,7 +29,7 @@ tags:
 
 O TikTok foi o segundo aplicativo de rede social mais buscado no primeiro semestre de 2021 na loja brasileira do Google no Brasil, cujo sistema operacional para celulares, o Android, é o [mais popular](https://www.teleco.com.br/sist_operacional.asp) no país. O app chinês fica apenas atrás do Facebook.
 
-Os dados são de um [relatório](https://pages.rankmyapp.com/infografico-principais-apps-de-2021-1-semestre) da empresa de RankMyApp, que promove a visibilidade de aplicativos em lojas online. 
+Os dados são de um [relatório](https://pages.rankmyapp.com/infografico-principais-apps-de-2021-1-semestre) da empresa de RankMyApp, que promove a visibilidade de aplicativos em lojas online.
 
 O relatório é bem magro e não traz muitas informações, mas mostra que o aplicativo chinês é mais popular até que o Instagram, seu concorrente direto e propriedade do Facebook. O TikTok [liderou](https://pages.rankmyapp.com/infografico-top-apps-2020) as buscas em 2020.
 
