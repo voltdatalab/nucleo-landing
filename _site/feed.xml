@@ -1,5 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-03T18:14:14-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Núcleo lança série de ilustrações sobre redes sociais</title><link href="https://nucleo.jor.br//institucional/2021-08-03-nucleo-ilustracoes-redes-sociais" rel="alternate" type="text/html" title="Núcleo lança série de ilustrações sobre redes sociais" /><published>2021-08-03T17:29:00-03:00</published><updated>2021-08-03T17:29:00-03:00</updated><id>https://nucleo.jor.br//institucional/nucleo-ilustracoes-redes-sociais</id><content type="html" xml:base="https://nucleo.jor.br//institucional/2021-08-03-nucleo-ilustracoes-redes-sociais">&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; lança nesta terça-feira uma série de ilustrações personalizadas que refletem as redes sociais que cobrimos. Essas artes serão utilizadas na seção de notas e análises rápidas &lt;a href=&quot;/curtas&quot;&gt;Jogo Rápido&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-04T16:04:49-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Facebook e TikTok lideram downloads de aplicativos</title><link href="https://nucleo.jor.br//curtas/2021-08-04-facebook-tiktok-apps-downloads" rel="alternate" type="text/html" title="Facebook e TikTok lideram downloads de aplicativos" /><published>2021-08-04T15:59:00-03:00</published><updated>2021-08-04T15:59:00-03:00</updated><id>https://nucleo.jor.br//curtas/facebook-tiktok-apps-downloads</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-04-facebook-tiktok-apps-downloads">&lt;p&gt;O TikTok foi o segundo aplicativo de rede social mais buscado no primeiro semestre de 2021 na loja brasileira do Google no Brasil, cujo sistema operacional para celulares, o Android, é o &lt;a href=&quot;https://www.teleco.com.br/sist_operacional.asp&quot;&gt;mais popular&lt;/a&gt; no país. O app chinês fica apenas atrás do Facebook.&lt;/p&gt;
+
+&lt;p&gt;Os dados são de um &lt;a href=&quot;https://pages.rankmyapp.com/infografico-principais-apps-de-2021-1-semestre&quot;&gt;relatório&lt;/a&gt; da empresa de RankMyApp, que promove a visibilidade de aplicativos em lojas online.&lt;/p&gt;
+
+&lt;p&gt;O relatório é bem magro e não traz muitas informações, mas mostra que o aplicativo chinês é mais popular até que o Instagram, seu concorrente direto e propriedade do Facebook. O TikTok &lt;a href=&quot;https://pages.rankmyapp.com/infografico-top-apps-2020&quot;&gt;liderou&lt;/a&gt; as buscas em 2020.&lt;/p&gt;
+
+&lt;p&gt;O Snapchat ficou em 6º lugar. A empresa tem registrado &lt;a href=&quot;https://www.forbes.com/sites/abrambrown/2021/07/23/we-left-snapchat-for-dead-instead-its-thriving/?sh=140772c73445&quot;&gt;bons resultados&lt;/a&gt; nos EUA, mas anda meio sumida no Brasil.&lt;/p&gt;
+
+&lt;h3 id=&quot;downloads-de-apps-de-redes-sociais-por-loja-online&quot;&gt;Downloads de apps de redes sociais por loja online&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;lugar&lt;/th&gt;
+      &lt;th&gt;Google Play Store&lt;/th&gt;
+      &lt;th&gt;App Store&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Facebook&lt;/td&gt;
+      &lt;td&gt;WhatsApp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;TikTok&lt;/td&gt;
+      &lt;td&gt;Telegram&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Twitter&lt;/td&gt;
+      &lt;td&gt;Discord&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Instagram&lt;/td&gt;
+      &lt;td&gt;Messenger&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Facebook Lite&lt;/td&gt;
+      &lt;td&gt;Facebook&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Snapchat&lt;/td&gt;
+      &lt;td&gt;Reports+ para Instagram&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Bolsa Família&lt;/td&gt;
+      &lt;td&gt;Seguidores no Instagram&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Helo&lt;/td&gt;
+      &lt;td&gt;Rave&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Caixa Trabalhador&lt;/td&gt;
+      &lt;td&gt;Reports: Followers Tracker&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;Instagram Lite&lt;/td&gt;
+      &lt;td&gt;Instant Save&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figcaption&gt;
+Dados tabelados a partir de infográfico do RankMyApp
+&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Mostra como está a concorrência no mercado de redes sociais&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;TikTok e Facebook/Instagram travam dura batalha por mercado&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Facebook, " /><category term="TikTok, " /><category term="Snapchat, " /><category term="Downloads, " /><category term="RankMyApp" /><summary type="html">Relatório da RankMyApp mostra Facebook, TikTok e Twitter na liderança na loja do Google. Snapchat fica em 6º lugar.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/facebook.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/facebook.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Núcleo lança série de ilustrações sobre redes sociais</title><link href="https://nucleo.jor.br//institucional/2021-08-03-nucleo-ilustracoes-redes-sociais" rel="alternate" type="text/html" title="Núcleo lança série de ilustrações sobre redes sociais" /><published>2021-08-03T17:29:00-03:00</published><updated>2021-08-03T17:29:00-03:00</updated><id>https://nucleo.jor.br//institucional/nucleo-ilustracoes-redes-sociais</id><content type="html" xml:base="https://nucleo.jor.br//institucional/2021-08-03-nucleo-ilustracoes-redes-sociais">&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; lança nesta terça-feira uma série de ilustrações personalizadas que refletem as redes sociais que cobrimos. Essas artes serão utilizadas na seção de notas e análises rápidas &lt;a href=&quot;/curtas&quot;&gt;Jogo Rápido&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O objetivo é facilitar a identificação da principal rede social mencionada no texto, com artes específicas para cada plataforma: Twitter, Facebook, Instagram, Reddit, WhatsApp, Telegram, Google, YouTube, além de uma arte mais genérica para outros assuntos.&lt;/p&gt;
 
@@ -1034,215 +1119,4 @@
   &lt;p&gt;Esta pesquisa foi realizada de forma independente pelo InternetLab e pela Rede Conhecimento Social, com apoio de doação financeira realizada pela empresa. Seguindo a política de financiamento do InternetLab e de acordo com disposição contratual, o WhatsApp não teve nenhuma ingerência sobre o desenho da pesquisa, a coleta e análise dos dados, e a organização dos resultados.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A pesquisa e os dados de amostragem podem ser acessados &lt;a href=&quot;https://www.internetlab.org.br/wp-content/uploads/2021/07/Os-Vetores-da-Comunicacao-Politica-em-Aplicativos-de-Mensagem.pdf&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="WhatsApp, " /><category term="Política, " /><category term="Redes Sociais, " /><category term="Eleições 2022, " /><category term="Pesquisa" /><summary type="html">Conversas em grupos contam com regras próprias e até subgrupos, mostra pesquisa do InternetLab e Rede Conhecimento Social. Seria um aprendizado para 2022?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/zap-politica/zap_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/zap-politica/zap_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Médicos cloroquiners infestam clone do Twitter</title><link href="https://nucleo.jor.br//curtas/2021-07-06-gettr-medicos-cloroquiners" rel="alternate" type="text/html" title="Médicos cloroquiners infestam clone do Twitter" /><published>2021-07-06T15:07:00-03:00</published><updated>2021-07-06T15:07:00-03:00</updated><id>https://nucleo.jor.br//curtas/gettr-medicos-cloroquiners</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-07-06-gettr-medicos-cloroquiners">&lt;style&gt;
-/** Begin Slide Iamge Gallery **/
-
-.slides {
-    padding: 0;
-    width: 350px;
-    min-height: 510px;
-    display: block;
-    margin: 0 auto;
-    position: relative;
-}
-
-.slides * {
-    user-select: none;
-    -ms-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    -webkit-touch-callout: none;
-}
-
-.slides input { display: none; }
-
-.slide-container { display: block; }
-
-.slide {
-    top: 0;
-    opacity: 0;
-    width: 350px;
-    height: 400px;
-    display: block;
-    position: absolute;
-
-    transform: scale(0);
-
-    transition: all .7s ease-in-out;
-}
-
-.slide img {
-    width: 100%;
-/**    height: 100%; **/
-}
-
-.nav label {
-    width: 50px;
-    height: 100%;
-    display: none;
-    position: absolute;
-
-	  opacity: 0;
-    z-index: 9;
-    cursor: pointer;
-
-    transition: opacity .2s;
-
-    color: #FFF;
-    font-size: 156pt;
-    text-align: center;
-    line-height: 350px;
-    font-family: &quot;Varela Round&quot;, sans-serif;
-    background-color: rgba(255, 255, 255, .3);
-    text-shadow: 0px 0px 15px rgb(119, 119, 119);
-}
-
-.slide:hover + .nav label { opacity: 0.5; }
-
-.nav label:hover { opacity: 1; }
-
-.nav .next { right: 0; }
-
-input:checked + .slide-container  .slide {
-    opacity: 1;
-
-    transform: scale(1);
-
-    transition: opacity 1s ease-in-out;
-}
-
-input:checked + .slide-container .nav label { display: block; }
-
-.nav-dots {
-	width: 100%;
-	bottom: 9px;
-	height: 11px;
-	display: block;
-	position: absolute;
-	text-align: center;
-}
-
-.nav-dots .nav-dot {
-	top: -5px;
-	width: 11px;
-	height: 11px;
-	margin: 0 4px;
-	position: relative;
-	border-radius: 100%;
-	display: inline-block;
-	background-color: rgba(0, 0, 0, 0.6);
-}
-
-.nav-dots .nav-dot:hover {
-	cursor: pointer;
-	background-color: rgba(0, 0, 0, 0.8);
-}
-
-input#img-1:checked ~ .nav-dots label#img-dot-1,
-input#img-2:checked ~ .nav-dots label#img-dot-2,
-input#img-3:checked ~ .nav-dots label#img-dot-3,
-input#img-4:checked ~ .nav-dots label#img-dot-4,
-input#img-5:checked ~ .nav-dots label#img-dot-5,
-input#img-6:checked ~ .nav-dots label#img-dot-6 {
-	background: rgba(0, 0, 0, 0.8);
-}
-
-/** End Slide Iamge Gallery **/
-&lt;/style&gt;
-
-&lt;p&gt;Um lugar onde Roger Moreira é livre para combater o comunismo, Jair Bolsonaro é idolatrado sem ressalvas e médicos defensores do tratamento precoce contra covid-19 promovem desinformação sem serem incomodados. Este paraíso é o Gettr, clone do Twitter lançado no último domingo que se define como “uma rede social não tendenciosa para pessoas de todo o mundo”.&lt;/p&gt;
-
-&lt;p&gt;No primeiro dia de lançamento, a rede criada por Jason Miller, empresário e um dos conselheiros do ex-presidente Trump, registrou 500 mil inscrições. No Brasil a plataforma parece ser inicialmente atrativa para médicos cloroquiners, que com frequência têm postagens e contas suspensas em outros serviços por espalharem desinformação sobre “tratamento precoce” para covid.&lt;/p&gt;
-
-&lt;!-- Begin Slide Image gallery --&gt;
-
-&lt;ul class=&quot;slides&quot;&gt;
-   &lt;input type=&quot;radio&quot; name=&quot;radio-btn&quot; id=&quot;img-1&quot; checked=&quot;&quot; /&gt;
-   &lt;li class=&quot;slide-container&quot;&gt;
-   &lt;div class=&quot;slide&quot;&gt;
-     &lt;img src=&quot;/img/curtas/prints/cloroquiners4.jpg&quot; /&gt;
-       &lt;/div&gt;
-   &lt;div class=&quot;nav&quot;&gt;
-     &lt;label for=&quot;img-6&quot; class=&quot;prev&quot;&gt;&amp;#x2039;&lt;/label&gt;
-     &lt;label for=&quot;img-2&quot; class=&quot;next&quot;&gt;&amp;#x203a;&lt;/label&gt;
-   &lt;/div&gt;
-   &lt;/li&gt;
-
-   &lt;input type=&quot;radio&quot; name=&quot;radio-btn&quot; id=&quot;img-2&quot; /&gt;
-   &lt;li class=&quot;slide-container&quot;&gt;
-       &lt;div class=&quot;slide&quot;&gt;
-         &lt;img src=&quot;/img/curtas/prints/cloroquiners1.jpg&quot; /&gt;
-       &lt;/div&gt;
-   &lt;div class=&quot;nav&quot;&gt;
-     &lt;label for=&quot;img-1&quot; class=&quot;prev&quot;&gt;&amp;#x2039;&lt;/label&gt;
-     &lt;label for=&quot;img-3&quot; class=&quot;next&quot;&gt;&amp;#x203a;&lt;/label&gt;
-   &lt;/div&gt;
-   &lt;/li&gt;
-
-   &lt;input type=&quot;radio&quot; name=&quot;radio-btn&quot; id=&quot;img-3&quot; /&gt;
-   &lt;li class=&quot;slide-container&quot;&gt;
-       &lt;div class=&quot;slide&quot;&gt;
-         &lt;img src=&quot;/img/curtas/prints/cloroquiners2.jpg&quot; /&gt;
-       &lt;/div&gt;
-   &lt;div class=&quot;nav&quot;&gt;
-     &lt;label for=&quot;img-2&quot; class=&quot;prev&quot;&gt;&amp;#x2039;&lt;/label&gt;
-     &lt;label for=&quot;img-4&quot; class=&quot;next&quot;&gt;&amp;#x203a;&lt;/label&gt;
-   &lt;/div&gt;
-   &lt;/li&gt;
-
-   &lt;input type=&quot;radio&quot; name=&quot;radio-btn&quot; id=&quot;img-4&quot; /&gt;
-   &lt;li class=&quot;slide-container&quot;&gt;
-       &lt;div class=&quot;slide&quot;&gt;
-         &lt;img src=&quot;/img/curtas/prints/cloroquiners3.jpg&quot; /&gt;
-       &lt;/div&gt;
-   &lt;div class=&quot;nav&quot;&gt;
-     &lt;label for=&quot;img-3&quot; class=&quot;prev&quot;&gt;&amp;#x2039;&lt;/label&gt;
-     &lt;label for=&quot;img-5&quot; class=&quot;next&quot;&gt;&amp;#x203a;&lt;/label&gt;
-   &lt;/div&gt;
-   &lt;/li&gt;
-   &lt;input type=&quot;radio&quot; name=&quot;radio-btn&quot; id=&quot;img-5&quot; /&gt;
-   &lt;li class=&quot;slide-container&quot;&gt;
-       &lt;div class=&quot;slide&quot;&gt;
-         &lt;img src=&quot;/img/curtas/prints/cloroquiners5.jpg&quot; /&gt;
-       &lt;/div&gt;
-   &lt;div class=&quot;nav&quot;&gt;
-     &lt;label for=&quot;img-4&quot; class=&quot;prev&quot;&gt;&amp;#x2039;&lt;/label&gt;
-     &lt;label for=&quot;img-6&quot; class=&quot;next&quot;&gt;&amp;#x203a;&lt;/label&gt;
-   &lt;/div&gt;
-   &lt;/li&gt;
-
-
-
-   &lt;li class=&quot;nav-dots&quot;&gt;
-     &lt;label for=&quot;img-1&quot; class=&quot;nav-dot&quot; id=&quot;img-dot-1&quot;&gt;&lt;/label&gt;
-     &lt;label for=&quot;img-2&quot; class=&quot;nav-dot&quot; id=&quot;img-dot-2&quot;&gt;&lt;/label&gt;
-     &lt;label for=&quot;img-3&quot; class=&quot;nav-dot&quot; id=&quot;img-dot-3&quot;&gt;&lt;/label&gt;
-     &lt;label for=&quot;img-4&quot; class=&quot;nav-dot&quot; id=&quot;img-dot-4&quot;&gt;&lt;/label&gt;
-     &lt;label for=&quot;img-4&quot; class=&quot;nav-dot&quot; id=&quot;img-dot-5&quot;&gt;&lt;/label&gt;
-   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- End Slide Image gallery --&gt;
-&lt;p&gt;Um deles é Ricardo Ariel Zimerman, médico defensor da cloroquina e crítico às vacinas, recentemente convocado pela CPI da Pandemia. No Gettr, Ricardo já tem mais de 2 mil seguidores. No Instagram, plataforma que não deixa mais o médico &lt;a href=&quot;https://www.instagram.com/p/CQ6JAITN7IQ/?utm_medium=copy_link&quot;&gt;realizar lives&lt;/a&gt;, ele acumula mais de 80 mil.&lt;/p&gt;
-
-&lt;p&gt;Dr. Marcus Pompeu, que segundo o &lt;a href=&quot;https://www.linkedin.com/in/marcus-pompeu-69742269/?originalSubdomain=br&quot;&gt;LinkedIn&lt;/a&gt; é pediatra na Santa Casa Anna Cintra, em Amparo (SP), encontrou no Gettr um local para destilar desinformação médica e homofobia. Ele já teve diversas contas suspensas no Twitter.&lt;/p&gt;
-
-&lt;p&gt;O conteúdo dos médicos serve de combustível para desinformação e posts de exaltação à medicamentos como ivermectina e azitromicina. O senador Flávio Bolsonaro e a deputada federal Carla Zambelli anunciaram que estão na Gettr. Flávio tem 1,2 milhão de seguidores e já ganhou o selinho de verificação da rede.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/curtas/prints/cloroquiners6.png&quot; alt=&quot;print e perfil de Marcus Pompeu&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A festa deve durar pouco. David Nemer, pesquisador e professor da Universidade de Virgínia, nos EUA, estuda consumo de desinformação em aplicativos de mensagem e diz que o Gettr já nasce sob pressão de Apple e Google. “Temos o episódio do Parler, em que o aplicativo foi removido das duas lojas online. Se eles não cumprirem com os termos de serviço, eles serão banidos”, completa.&lt;/p&gt;
-
-&lt;p&gt;O Tilt publicou uma &lt;a href=&quot;https://www.uol.com.br/tilt/noticias/redacao/2021/07/05/o-que-e-gettr-a-nova-rede-social-pro-trump.htm&quot;&gt;reportagem&lt;/a&gt; explicando mais sobre a nova rede social - que inclusive já foi até hackeada.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Trumpistas estão em busca de espaço na internet após o ex-presidente ser desplataformizado em várias serviços&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;No Brasil, pessoas anticiência e que difundem desinformação também estão perdendo lugar nas redes tradicionais&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Gettr, " /><category term="Rede social, " /><category term="Direita, " /><category term="Cloroquina, " /><category term="Pandemia" /><summary type="html">Rede social Gettr, feita por conselheiros de Trump, vira refúgio para extrema-direita e defensores do tratamento precoce</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;A pesquisa e os dados de amostragem podem ser acessados &lt;a href=&quot;https://www.internetlab.org.br/wp-content/uploads/2021/07/Os-Vetores-da-Comunicacao-Politica-em-Aplicativos-de-Mensagem.pdf&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="WhatsApp, " /><category term="Política, " /><category term="Redes Sociais, " /><category term="Eleições 2022, " /><category term="Pesquisa" /><summary type="html">Conversas em grupos contam com regras próprias e até subgrupos, mostra pesquisa do InternetLab e Rede Conhecimento Social. Seria um aprendizado para 2022?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/zap-politica/zap_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/zap-politica/zap_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

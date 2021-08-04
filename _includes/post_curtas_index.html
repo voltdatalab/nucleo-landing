@@ -4,18 +4,18 @@
 <div class="row">
  <div style="margin-top:20px">
 
-   <div class="col-sm-6 col-lg-6" style="min-height:50px">
+   <div class="col-sm-6 col-lg-6">
   <h5 class="chapeu"><i class="fas fa-basketball-ball"></i> JOGO RÁPIDO</h5>
   <br />
   <br />
           <div class="row">
             {% assign curtas = site.posts | where_exp: "post", "post.tipo == 'curtas'"  %}
-            {% for post in curtas offset:0 limit:2 %}
+            {% for post in curtas offset:0 limit:4 %}
             {% unless post.tipo contains 'draft' %}
             {% unless post.tipo contains 'institucional' %}
 
 
-        <div class="col-sm-6 col-lg-6" style="min-height:50px">
+        <div class="col-sm-6 col-lg-6" style="min-height:100px">
 
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
@@ -31,20 +31,19 @@
                 {% endfor %}
                 </div>
                 <h5 class="arquivado"><a href="{{ site.baseurl }}/curtas">Acesse o arquivo do JOGO RÁPIDO >></a></h5>
-                <br />
               </div>
 
-              <div class="col-sm-6 col-lg-6" style="min-height:50px">
+              <div class="col-sm-6 col-lg-6">
                 <h5 class="chapeu"><i class="far fa-lightbulb"></i> IDEIAS</h5>
                 <br />
                 <br />
                 <div class="row">
                 {% assign ideias = site.posts | where_exp: "post", "post.tipo == 'ideias'"  %}
-                {% for post in ideias offset:0 limit:2 %}
+                {% for post in ideias offset:0 limit:4 %}
                 {% unless post.tipo contains 'draft' %}
                 {% unless post.tipo contains 'institucional' %}
 
-            <div class="col-sm-6 col-lg-6" style="min-height:50px">
+            <div class="col-sm-6 col-lg-6" style="min-height:100px">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                       <h3 class="page-tttt">{{ post.titulo_redes }}</h3></a>
                       <br />

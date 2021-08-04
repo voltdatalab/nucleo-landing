@@ -610,10 +610,11 @@ td{
 }
 
 
-/* MENU */
+/* MENU ANTIGO */
 
 .dropdown{
-  margin-left: 15px;
+  margin-left: 12px;
+  margin-right: 12px;
   margin-top:13px;
   background: none !important;
   padding: 0 !important;
@@ -621,10 +622,9 @@ td{
 
 .dropdown-menu>li
 {	position:relative;
-	-webkit-user-select: none; /* Chrome/Safari */
-	-moz-user-select: none; /* Firefox */
-	-ms-user-select: none; /* IE10+ */
-	/* Rules below not implemented in browsers yet */
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
 	-o-user-select: none;
 	user-select: none;
 	cursor:pointer;
@@ -657,8 +657,14 @@ td{
 {	border-right: 5px solid #ffaf46;
 }
 
-.dropdown-header{
-  color: #0fb872
+
+
+.nav-item-header{
+  color: #0fb872;
+  font-size: 0.9em;
+  border-bottom: 2px solid white;
+  font-weight: 700;
+  margin-top: 20px
 }
 
 .arquivado{
@@ -670,4 +676,164 @@ td{
 
 .arquivado span{
   color: #4b31dd;
+}
+
+/* NOVO MENU HAMBURGUER */
+ .sub-menu {
+	 padding: 0 2%;
+	 float: right;
+	 left: -310px;
+	 top: 0;
+	 transition: all 0.3s ease;
+	 height: 100%;
+	 width: 100%;
+	 position: fixed;
+	 margin: 0;
+	 background-color: rgba(75, 49, 221, 1);
+	 border-radius: 0;
+	 z-index: 1000;
+	 overflow: scroll;
+}
+ .sub-menu.oppenned {
+	 left: 0;
+}
+ .sub-menu ul {
+	 margin: 0;
+}
+ .sub-menu li {
+	 display: flex;
+	 list-style: none;
+	 height: auto;
+	 margin-left: 0;
+	 transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+ .sub-menu li:first-child {
+	 margin-top: 80px;
+}
+ .sub-menu li a {
+	 color: #fff !important;
+	 font-size: 1.5em;
+   font-weight: 400;
+	 width: 100%;
+	 display: block;
+	 float: left;
+	 text-transform: uppercase;
+	 line-height: 30px;
+}
+ .sub-menu li a:hover {
+	 font-weight: bold;
+	 text-decontarion: none;
+}
+ .c-hamburger {
+	 display: block;
+	 position: relative;
+	 overflow: hidden;
+	 margin: 5px;
+	 padding: 0;
+	 width: 36px;
+	 height: 36px;
+	 z-index: 1200;
+	 font-size: 0;
+	 text-indent: -9999px;
+	 -webkit-appearance: none;
+	 -moz-appearance: none;
+	 appearance: none;
+	 background: transparent;
+	 box-shadow: none;
+	 border-radius: none;
+	 border: none;
+	 cursor: pointer;
+	 -webkit-transition: background 0.3s;
+	 transition: background 0.3s;
+}
+ .c-hamburger:focus {
+	 outline: none;
+}
+ .c-hamburger span {
+	 display: block;
+	 position: absolute;
+	 top: 20px;
+	 left: 0;
+	 right: 0;
+	 height: 2px;
+	 background: #231f20;
+}
+ .c-hamburger span:before, .c-hamburger span:after {
+	 position: absolute;
+	 display: block;
+	 left: 0;
+	 width: 100%;
+	 height: 2px;
+   background-color: #231f20;
+	 content: "";
+}
+ .c-hamburger span:before {
+	 top: -10px;
+}
+ .c-hamburger span:after {
+	 bottom: -10px;
+}
+ .c-hamburger--htx span {
+	 -webkit-transition: background 0s 0.3s;
+	 transition: background 0s 0.3s;
+}
+ .c-hamburger--htx span:before, .c-hamburger--htx span:after {
+	 -webkit-transition-duration: 0.3s, 0.3s;
+	 transition-duration: 0.3s, 0.3s;
+	 -webkit-transition-delay: 0.3s, 0s;
+	 transition-delay: 0.3s, 0s;
+}
+ .c-hamburger--htx span:before {
+	 -webkit-transition-property: top, -webkit-transform;
+	 transition-property: top, transform;
+}
+ .c-hamburger--htx span:after {
+	 -webkit-transition-property: bottom, -webkit-transform;
+	 transition-property: bottom, transform;
+}
+ .c-hamburger--htx.is-active span {
+	 background: none;
+}
+ .c-hamburger--htx.is-active span:before, .c-hamburger--htx.is-active span:after {
+	 -webkit-transition-delay: 0s, 0.3s;
+	 transition-delay: 0s, 0.3s;
+}
+ .c-hamburger--htx.is-active span:before {
+	 top: 0;
+	 -webkit-transform: rotate(45deg);
+	 -ms-transform: rotate(45deg);
+	 transform: rotate(45deg);
+}
+ .c-hamburger--htx.is-active span:after {
+	 bottom: 0;
+	 -webkit-transform: rotate(-45deg);
+	 -ms-transform: rotate(-45deg);
+	 transform: rotate(-45deg);
+}
+
+.item-nav-desc{
+  font-weight:300;
+  font-size: 0.7em
+}
+
+.burg-nav-mobile{
+  float: right;
+  margin-top: 25px;
+}
+
+@media(min-width:960px) {
+  .hide-mobile{
+    display: none;
+  }
+  .sub-menu {
+ 	 max-width: 410px;
+   left: -405px;
+  }
+  .sub-menu li a {
+ 	 font-size: 1em;
+ }
+  .sub-menu li:first-child {
+ 	 margin-top: 30px;
+ }
+
 }

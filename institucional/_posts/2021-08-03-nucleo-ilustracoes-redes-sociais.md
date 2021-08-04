@@ -39,32 +39,32 @@ Veja as artes incríveis que vão ilustrar a seção Jogo Rápido a partir desta
 
 ### Twitter
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/twitter.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/twitter.png)
 
 ### Facebook
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/facebook.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/facebook.png)
 
 ### Instagram
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/instagram.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/instagram.png)
 
 ### Telegram
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/telegram.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/telegram.png)
 
 ### YouTube
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/youtube.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/youtube.png)
 
 ### Google
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/google.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/google.png)
 
 ### Reddit
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/reddit.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/reddit.png)
 
 ### Outras redes
 
-![arte de Layla Cruz]({{ site/baseurl }}/img/curtas/redes_padroes/outras.png)
+![arte de Layla Cruz]({{ site.baseurl }}/img/curtas/redes_padroes/outras.png)

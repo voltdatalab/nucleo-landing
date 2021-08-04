@@ -3,153 +3,135 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default" role="navigation">
     <div class="container">
+
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Navegação mobile</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+        <div class="navbar-header page-scroll ">
+          <button type="button" class="collapsed c-hamburger c-hamburger--htx hide-mobile burg-nav-mobile" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Navegação mobile</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
             <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/"><img id="logotipo" src="{{site.baseurl}}/img/landing-nucleo_logo-header.png" width="240px"/> </a>
+
         </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a href="{{ site.baseurl }}/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
+            </li>
+            <li>
+                <a href="{{ site.baseurl }}/newsletters">NEWSLETTERS</a>
+            </li>
+            <li class="dropdown">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              style="background:none;padding:0;"
+              ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
+                  <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px;">
+                        <li>
+                          <form action="{{ site.baseurl }}/busca.html" method="get">
+                          <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                          <!-- <input type="submit" value="search"> -->
+                          </form>
+                        </li>
+                  </ul>
+              </li>
+              <li>
+                <button class="c-hamburger c-hamburger--htx" style="float:right">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                                </button>
+                </li>
+              </ul>
+
+          </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+        <div type="button" class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+
             <ul class="nav navbar-nav navbar-right">
-              <li>
-                  <a href="{{ site.baseurl }}/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
-              </li>
-              <li>
-                  <a href="{{ site.baseurl }}/newsletters">NEWSLETTERS</a>
-              </li>
-                <li class="dropdown">
-                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                  style="background:none;padding:0;"
-                  ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
-                      <ul class="dropdown-menu">
 
-                        <li class="dropdown-header">SEÇÕES</li>
-                          {% for item in site.data.nav_secoes %}
-                              <li>
-                                {% if item.externo %}
-                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
-                                {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
-                                {% endif %}
-                              </li>
-                          {% endfor %}
-
-                        <li role="separator" class="divider"></li>
-                          <li class="dropdown-header">APLICAÇÕES</li>
-                          {% for item in site.data.nav_apps %}
-                              <li>
-                                {% if item.externo %}
-                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
-                                {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                <nav class="sub-menu open">
+                  <ul class="list-unstyled">
+                      <li class="nav-item-header">SEÇÕES</li>
+                        {% for item in site.data.nav_secoes %}
+                            <li>
+                              {% if item.externo %}
+                              <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                              {% else %}
+                              <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
                                   {% if item.desc %}
-                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  <span class="item-nav-desc">({{ item.desc }})</span>
                                   {% endif %}
-                                </a>                
-                                {% endif %}
-                              </li>
-                          {% endfor %}
+                              {% endif %}
+                            </li>
+                        {% endfor %}
 
-                        <li role="separator" class="divider"></li>
-                          <li class="dropdown-header">NEWSLETTERS</li>
-                          {% for item in site.data.nav_newsletters %}
-                              <li>
-                                {% if item.externo %}
-                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
-                                {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                        <li class="nav-item-header">APLICAÇÕES</li>
+                        {% for item in site.data.nav_apps %}
+                            <li>
+                              {% if item.externo %}
+                              <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                              {% else %}
+                              <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                {% if item.desc %}
+                                <span class="item-nav-desc">({{ item.desc }})</span>
+                                {% endif %}
+                              </a>
+                              {% endif %}
+                            </li>
+                        {% endfor %}
+
+                        <li class="divisor"></li>
+                        <li class="nav-item-header">NEWSLETTERS</li>
+                        {% for item in site.data.nav_newsletters %}
+                            <li>
+                              {% if item.externo %}
+                              <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                              {% else %}
+                              <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}
+                                {% if item.desc %}
+                                <span class="item-nav-desc">({{ item.desc }})</span>
+                                {% endif %}
+                              </a>
+                              {% endif %}
+                            </li>
+                        {% endfor %}
+
+                      <li class="nav-item-header">COMUNIDADE</li>
+                        {% for item in site.data.nav_comunidade %}
+                            <li>
+                              {% if item.externo %}
+                              <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                              {% else %}
+                              <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
                                   {% if item.desc %}
-                                  <span style="font-weight:300">({{ item.desc }})</span>
+                                  <span class="item-nav-desc">({{ item.desc }})</span>
                                   {% endif %}
-                                </a>
-                                {% endif %}
-                              </li>
-                          {% endfor %}
+                              {% endif %}
 
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">COMUNIDADE</li>
-                          {% for item in site.data.nav_comunidade %}
-                              <li>
-                                {% if item.externo %}
-                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
-                                {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
-                                {% endif %}
+                            </li>
+                        {% endfor %}
 
-                              </li>
-                          {% endfor %}
-
-
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">INSTITUCIONAL</li>
-                          {% for item in site.data.nav_institucional %}
-                              <li>
-                                {% if item.externo %}
-                                <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
-                                {% else %}
-                                <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
-                                {% endif %}
-                              </li>
-                          {% endfor %}
-
-                        </ul>
-              </li>
-              <li class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                style="background:none;padding:0;"
-                ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
-                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px;">
-                  <li>
-                <form action="{{ site.baseurl }}/busca.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
-                <!-- <input type="submit" value="search"> -->
-                </form>
-                </li>
-                </ul>
-
-                </li>
-                <!--
-                <li>
-                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
-                </li>
-
-                {% for social in site.social %}
-                <li>
-                  <a href="{{ social.url }}" style="border:0px"><i class="fab fa-{{ social.title }} fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                {% endfor %}
-
-                <li>
-                    <a href="{{ site.baseurl }}/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li> -->
+                      <li class="nav-item-header">INSTITUCIONAL</li>
+                        {% for item in site.data.nav_institucional %}
+                            <li>
+                              {% if item.externo %}
+                              <a href="{{ item.link }}" target="_blank">{{ item.nome }}</a>
+                              {% else %}
+                              <a href="{{ site.baseurl }}/{{ item.link }}">{{ item.nome }}</a>
+                                  {% if item.desc %}
+                                  <span class="item-nav-desc">({{ item.desc }})</span>
+                                  {% endif %}
+                              {% endif %}
+                            </li>
+                        {% endfor %}
+                  </ul>
+                </nav>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>
-
-<script>
-  $(function(){
-  	$(".dropdown-menu > li > a.trigger").on("click",function(e){
-  		var current=$(this).next();
-  		var grandparent=$(this).parent().parent();
-  		if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
-  			$(this).toggleClass('right-caret left-caret');
-  		grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
-  		grandparent.find(".sub-menu:visible").not(current).hide();
-  		current.toggle();
-  		e.stopPropagation();
-  	});
-  	$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
-  		var root=$(this).closest('.dropdown');
-  		root.find('.left-caret').toggleClass('right-caret left-caret');
-  		root.find('.sub-menu:visible').hide();
-  	});
-  });
-</script>

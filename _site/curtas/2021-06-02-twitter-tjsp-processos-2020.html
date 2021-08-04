@@ -108,347 +108,312 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Navigation -->
 <nav class="navbar navbar-default" role="navigation">
     <div class="container">
+
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Navegação mobile</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+        <div class="navbar-header page-scroll ">
+          <button type="button" class="collapsed c-hamburger c-hamburger--htx hide-mobile burg-nav-mobile" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Navegação mobile</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
             <a class="navbar-brand page-scroll" href="/"><img id="logotipo" src="/img/landing-nucleo_logo-header.png" width="240px"/> </a>
+
         </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a href="/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
+            </li>
+            <li>
+                <a href="/newsletters">NEWSLETTERS</a>
+            </li>
+            <li class="dropdown">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              style="background:none;padding:0;"
+              ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
+                  <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px;">
+                        <li>
+                          <form action="/busca.html" method="get">
+                          <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
+                          <!-- <input type="submit" value="search"> -->
+                          </form>
+                        </li>
+                  </ul>
+              </li>
+              <li>
+                <button class="c-hamburger c-hamburger--htx" style="float:right">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                                </button>
+                </li>
+              </ul>
+
+          </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+        <div type="button" class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+
             <ul class="nav navbar-nav navbar-right">
-              <li>
-                  <a href="/apoie"><span class="btn-apoie">APOIE O NÚCLEO</span></a>
-              </li>
-              <li>
-                  <a href="/newsletters">NEWSLETTERS</a>
-              </li>
-                <li class="dropdown">
-                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                  style="background:none;padding:0;"
-                  ><i class="fas fa-bars fa-lg"></i> <span class="caret"></span></button>
-                      <ul class="dropdown-menu">
 
-                        <li class="dropdown-header">SEÇÕES</li>
-                          
-                              <li>
-                                
-                                <a href="/arquivo">Arquivo de matérias</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/especiais">Especiais</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/curtas">Jogo Rápido</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/ideias">Ideias</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/reportagem">Reportagens</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/republica">Republicamos <i class="fab fa-creative-commons" fa-lg></i></a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="https://nucleo.jor.br/feed" target="_blank">Feed RSS <i class="fas fa-rss"></i></a>
-                                
-                              </li>
-                          
-
-                        <li role="separator" class="divider"></li>
-                          <li class="dropdown-header">APLICAÇÕES</li>
-                          
-                              <li>
-                                
-                                <a href="/pulse-tech">Tecnologia Pulse
+                <nav class="sub-menu open">
+                  <ul class="list-unstyled">
+                      <li class="nav-item-header">SEÇÕES</li>
+                        
+                            <li>
+                              
+                              <a href="/arquivo">Arquivo de matérias</a>
                                   
-                                </a>                
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/monitor">Monitor Nuclear
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/especiais">Especiais</a>
                                   
-                                </a>                
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/sciencepulse">Science Pulse
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/curtas">Jogo Rápido</a>
                                   
-                                </a>                
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/sciencepulse/eng">Science Pulse
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/ideias">Ideias</a>
                                   
-                                  <span style="font-weight:300">(English)</span>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/reportagem">Reportagens</a>
                                   
-                                </a>                
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="https://t.me/SciencePulseBot" target="_blank">Bot no Telegram</a>
-                                
-                              </li>
-                          
-
-                        <li role="separator" class="divider"></li>
-                          <li class="dropdown-header">NEWSLETTERS</li>
-                          
-                              <li>
-                                
-                                <a href="/newsletters">Conheça as news
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/republica">Republicamos <i class="fab fa-creative-commons" fa-lg></i></a>
                                   
-                                </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="https://nucleo.jor.br/feed" target="_blank">Feed RSS <i class="fas fa-rss"></i></a>
+                              
+                            </li>
+                        
+
+                        <li class="nav-item-header">APLICAÇÕES</li>
+                        
+                            <li>
+                              
+                              <a href="/pulse-tech">Tecnologia Pulse
                                 
-                              </li>
-                          
-                              <li>
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/monitor">Monitor Nuclear
                                 
-                                <a href="/newsletters/despachos">Despachos
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/sciencepulse">Science Pulse
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/sciencepulse/eng">Science Pulse
+                                
+                                <span class="item-nav-desc">(English)</span>
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="https://t.me/SciencePulseBot" target="_blank">Bot no Telegram</a>
+                              
+                            </li>
+                        
+
+                        <li class="divisor"></li>
+                        <li class="nav-item-header">NEWSLETTERS</li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters">Conheça as news
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters/despachos">Despachos
+                                
+                                <span class="item-nav-desc">(automatizadas)</span>
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters/garimpo">Garimpo
+                                
+                                <span class="item-nav-desc">(redes sociais)</span>
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters/poligono">Polígono
+                                
+                                <span class="item-nav-desc">(ciência)</span>
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters/semanal">Reportagem da semana
+                                
+                              </a>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/newsletters/termometro">Termômetro
+                                
+                                <span class="item-nav-desc">(política)</span>
+                                
+                              </a>
+                              
+                            </li>
+                        
+
+                      <li class="nav-item-header">COMUNIDADE</li>
+                        
+                            <li>
+                              
+                              <a href="/transparencia">Transparência</a>
                                   
-                                  <span style="font-weight:300">(automatizadas)</span>
+                              
+
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/impacto">Nosso impacto</a>
                                   
-                                </a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/newsletters/garimpo">Garimpo
+                              
+
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/audiencia">Dados de Audiência</a>
                                   
-                                  <span style="font-weight:300">(redes sociais)</span>
+                              
+
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank">Lixo Eletrônico</a>
+                              
+
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="https://twitter.com/nucleojor" target="_blank">Siga no Twitter</a>
+                              
+
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/cobertura">Outros sites legais</a>
                                   
-                                </a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/newsletters/poligono">Polígono
+                              
+
+                            </li>
+                        
+
+                      <li class="nav-item-header">INSTITUCIONAL</li>
+                        
+                            <li>
+                              
+                              <a href="/sobre">Sobre o Núcleo</a>
                                   
-                                  <span style="font-weight:300">(ciência)</span>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/equipe">Nossa equipe</a>
                                   
-                                </a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/newsletters/semanal">Reportagem da semana
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/institucional">Notas institucionais</a>
                                   
-                                </a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/newsletters/termometro">Termômetro
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/pautas">Trabalhe conosco</a>
                                   
-                                  <span style="font-weight:300">(política)</span>
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/republique">Use nossas matérias</a>
                                   
-                                </a>
-                                
-                              </li>
-                          
-
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">COMUNIDADE</li>
-                          
-                              <li>
-                                
-                                <a href="/transparencia">Transparência</a>
-                                
-
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/impacto">Nosso impacto</a>
-                                
-
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/audiencia">Dados de Audiência</a>
-                                
-
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="https://t.me/joinchat/YfgEgDLRjDQyOTZh" target="_blank">Lixo Eletrônico</a>
-                                
-
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="https://twitter.com/nucleojor" target="_blank">Siga no Twitter</a>
-                                
-
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/cobertura">Outros sites legais</a>
-                                
-
-                              </li>
-                          
-
-
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">INSTITUCIONAL</li>
-                          
-                              <li>
-                                
-                                <a href="/sobre">Sobre o Núcleo</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/equipe">Nossa equipe</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/institucional">Notas institucionais</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/pautas">Trabalhe conosco</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/republique">Use nossas matérias</a>
-                                
-                              </li>
-                          
-                              <li>
-                                
-                                <a href="/privacidade">Política de privacidade</a>
-                                
-                              </li>
-                          
-
-                        </ul>
-              </li>
-              <li class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                style="background:none;padding:0;"
-                ><i class="fas fa-search fa-lg"></i> <span class="caret"></span></button>
-                <ul class="dropdown-menu" style="list-style-type:none;margin:0;padding:0;border-radius:5px;">
-                  <li>
-                <form action="/busca.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="busca por palavra" style="font-family: 'Roboto Mono', monospace;">
-                <!-- <input type="submit" value="search"> -->
-                </form>
-                </li>
-                </ul>
-
-                </li>
-                <!--
-                <li>
-                    <a href="https://twitter.com/nucleojor"><i class="fab fa-twitter"></i> <span class="network-name"></span></a>
-                </li>
-
-                
-                <li>
-                  <a href="https://twitter.com/nucleojor" style="border:0px"><i class="fab fa-twitter fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://www.facebook.com/Nucleojor-103656567831757" style="border:0px"><i class="fab fa-facebook fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://github.com/voltdatalab" style="border:0px"><i class="fab fa-github fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://www.instagram.com/nucleojornalismo/" style="border:0px"><i class="fab fa-instagram fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://www.linkedin.com/company/71866321" style="border:0px"><i class="fab fa-linkedin fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://wa.me/5511934441844" style="border:0px"><i class="fab fa-whatsapp fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-                <li>
-                  <a href="https://t.me/nucleojor" style="border:0px"><i class="fab fa-telegram fa-lg"></i> <span class="network-name"></span></a>
-                </li>
-                
-
-                <li>
-                    <a href="/en"><small style="font-size:0.7em">ENGLISH <i class="fas fa-flag-usa"></i></small></a>
-                </li> -->
+                              
+                            </li>
+                        
+                            <li>
+                              
+                              <a href="/privacidade">Política de privacidade</a>
+                                  
+                              
+                            </li>
+                        
+                  </ul>
+                </nav>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>
-
-<script>
-  $(function(){
-  	$(".dropdown-menu > li > a.trigger").on("click",function(e){
-  		var current=$(this).next();
-  		var grandparent=$(this).parent().parent();
-  		if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
-  			$(this).toggleClass('right-caret left-caret');
-  		grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
-  		grandparent.find(".sub-menu:visible").not(current).hide();
-  		current.toggle();
-  		e.stopPropagation();
-  	});
-  	$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
-  		var root=$(this).closest('.dropdown');
-  		root.find('.left-caret').toggleClass('right-caret left-caret');
-  		root.find('.sub-menu:visible').hide();
-  	});
-  });
-</script>
 
 
 		<!-- índice simples de matérias  -->
@@ -863,6 +828,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													<div class="col-sm-6 col-lg-6" style="max-height:50px;padding-bottom:130px">
 														<span class="arquivado" style="color:#000">
 
+															<i class="far fa-calendar-alt"></i> 04/08/2021</a>
+
+														</span>
+																	<a href="/curtas/2021-08-04-facebook-tiktok-apps-downloads">
+																		<!--<img src="/img/img/curtas/redes_padroes/facebook.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>-->
+																		<h3 class="page-tttt" >Facebook e TikTok lideram downloads de aplicativos</h3></a>
+																		<br />
+																		<br /><br />
+																</div>
+																			
+
+													<div class="col-sm-6 col-lg-6" style="max-height:50px;padding-bottom:130px">
+														<span class="arquivado" style="color:#000">
+
 															<i class="far fa-calendar-alt"></i> 02/08/2021</a>
 
 														</span>
@@ -897,20 +876,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<a href="/curtas/2021-07-05-BOs-zoom-googlemeet-pandemia">
 																		<!--<img src="/img/img/curtas/redes_padroes/outras.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>-->
 																		<h3 class="page-tttt" >Na pandemia, estelionato lidera número de denúncias em videochamadas</h3></a>
-																		<br />
-																		<br /><br />
-																</div>
-																			
-
-													<div class="col-sm-6 col-lg-6" style="max-height:50px;padding-bottom:130px">
-														<span class="arquivado" style="color:#000">
-
-															<i class="far fa-calendar-alt"></i> 30/06/2021</a>
-
-														</span>
-																	<a href="/curtas/2021-06-30-twitter-negar-infos-CPI-Pandemia">
-																		<!--<img src="/img/img/curtas/redes_padroes/twitter.png" alt="imagem de destaque" width="100%" style="margin:5px 0 8px"/>-->
-																		<h3 class="page-tttt" >Twitter nega pedido da CPI da Pandemia para revelar perfis removidos</h3></a>
 																		<br />
 																		<br /><br />
 																</div>
@@ -1036,8 +1001,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="/js/searchjs/search.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.8.6/umd/popper.min.js" integrity="sha512-jbqFEuvOwSwKyG+POu/cFuLrOaMjIjYO4NVGzs2+h3fidvrLOQ7LLc1yf+LIKmm9SfEP+ZTpbLlu41jmILbRyw==" crossorigin="anonymous"></script>
+
 <!-- faz aparecer os gráficos -->
-<script>
+<script type="text/javascript">
 $(document).ready(function() {
 
     /* Every time the window is scrolled ... */
@@ -1060,6 +1026,35 @@ $(document).ready(function() {
 
     });
 
+});
+
+
+</script>
+
+<!-- NOVO MENU -->
+<script type="text/javascript">
+  var toggles = document.querySelectorAll(".c-hamburger");
+
+for (var i = toggles.length - 1; i >= 0; i--) {
+  var toggle = toggles[i];
+  toggleHandler(toggle);
+};
+
+function toggleHandler(toggle) {
+  toggle.addEventListener("click", function(e) {
+    e.preventDefault();
+    if (this.classList.contains("is-active") === true) {
+      this.classList.remove("is-active");
+      $('.open').removeClass('oppenned');
+    } else {
+      this.classList.add("is-active");
+      $(".open").addClass('oppenned');
+    }
+  });
+}
+$(".sub-menu li a").click(function(event) {
+  $(".open").removeClass('oppenned');
+  $(".c-hamburger").removeClass('is-active');
 });
 </script>
 

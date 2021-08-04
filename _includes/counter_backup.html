@@ -5,9 +5,9 @@
   {% assign prevyear = post.previous.date | date: "%Y" %}
   {% assign counter = counter | plus: 1 %}
   {% if thisyear != prevyear %}
-    {{ counter }} matérias em {{ thisyear }} |
+    {{ counter }} matérias em {{ thisyear }} | 
     {% assign counter = 0 %}
   {% endif %}
 {% endfor %}
-<a href="{{"/arquivo" | relative_url }}"><i class="far fa-list-alt"></i> Veja o arquivo &rarr;</a>
+<a href="{{"/arquivo" | relative_url }}"><i class="far fa-list-alt"></i> &rarr;</a>
 </small>
