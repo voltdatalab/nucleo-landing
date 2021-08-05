@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-05T13:10:29-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Redes sociais recusam pedidos mal feitos de senadores na CPI da Pandemia</title><link href="https://nucleo.jor.br//reportagem/2021-08-05-CPI-Pandemia-despreparo-senadores-requerimentos" rel="alternate" type="text/html" title="Redes sociais recusam pedidos mal feitos de senadores na CPI da Pandemia" /><published>2021-08-05T06:01:00-03:00</published><updated>2021-08-05T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/CPI-Pandemia-despreparo-senadores-requerimentos</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-08-05-CPI-Pandemia-despreparo-senadores-requerimentos">&lt;p&gt;Requerimentos mal formulados pela CPI da Pandemia têm se tornado um empecilho para que a comissão obtenha dados necessários para sua apuração, facilitando para que as empresas se recusem fornecer informações com base em solicitações genéricas e amplas, que fogem do escopo dos trabalhos da comissão, podem ser complexos de processar e analisar ou quase impossíveis de cumprir.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-05T19:29:54-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico</title><link href="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon" rel="alternate" type="text/html" title="Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico" /><published>2021-08-05T19:19:00-03:00</published><updated>2021-08-05T19:19:00-03:00</updated><id>https://nucleo.jor.br//curtas/bolsonaro-links-mastodon</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon">&lt;p&gt;Na noite de 4 de agosto, o presidente Jair Bolsonaro &lt;a href=&quot;https://www.facebook.com/jairmessias.bolsonaro/posts/2516129801869324&quot;&gt;publicou&lt;/a&gt; no Facebook quatro documentos que, segundo ele, comprovam fraude eleitoral – na verdade não &lt;a href=&quot;https://www1.folha.uol.com.br/poder/2021/08/especialistas-e-investigador-dizem-nao-haver-prova-de-fraude-ou-mudanca-em-codigo-fonte-de-urnas-em-2018-como-alega-bolsonaro.shtml&quot;&gt;comprovam&lt;/a&gt; isso, e sim mostram que o site do TSE foi invadido, são sistemas separados.&lt;/p&gt;
+
+&lt;p&gt;Um dos aspectos curiosos dessa divulgação bizarra foi a escolha da rede social &lt;a href=&quot;https://brasileiros.social/&quot;&gt;Brasileiros&lt;/a&gt;, construída sobre a &lt;a href=&quot;https://manualdousuario.net/mastodon-alternativa-twitter/&quot;&gt;plataforma&lt;/a&gt; de código aberto &lt;a href=&quot;https://mastodon.social/about&quot;&gt;Mastodon&lt;/a&gt;, para hospedar os documentos linkados no Facebook.&lt;/p&gt;
+
+&lt;p&gt;Nessa obscura rede social, há um perfil com o nome Bolsonaro com apenas 88 seguidores, 26 posts e basicamente nenhum engajamento. Não está claro se é o oficial ou apócrifo, mas os links divulgados nas contas oficiais do presidente no Facebook e em outras redes, no entanto, direcionam para PDFs nessa rede social.&lt;/p&gt;
+
+&lt;p&gt;Recentemente, Bolsonaro entrou &lt;a href=&quot;https://www.poder360.com.br/internet/gettr-apesar-da-falta-de-moderacao-bolsonaro-aproveita-conteudo-de-outras-redes/&quot;&gt;oficialmente&lt;/a&gt; na rede social de extrema-direita Gettr, onde pode tentar fugir de moderação em seus posts. Ele tem mais de &lt;a href=&quot;https://gettr.com/user/jairmbolsonaro&quot;&gt;160 mil seguidores&lt;/a&gt; lá.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Mostra uma intricada rede obscura de apoio online do presidente&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Mastodon, " /><category term="Bolsonaro, " /><category term="Gettr, " /><category term="Voto Eletrônico" /><summary type="html">Na rede Brasileiros, construída sobre plataforma Mastodon, Bolsonaro tem 88 seguidores e zero engajamento</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Redes sociais recusam pedidos mal feitos de senadores na CPI da Pandemia</title><link href="https://nucleo.jor.br//reportagem/2021-08-05-CPI-Pandemia-despreparo-senadores-requerimentos" rel="alternate" type="text/html" title="Redes sociais recusam pedidos mal feitos de senadores na CPI da Pandemia" /><published>2021-08-05T06:01:00-03:00</published><updated>2021-08-05T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/CPI-Pandemia-despreparo-senadores-requerimentos</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-08-05-CPI-Pandemia-despreparo-senadores-requerimentos">&lt;p&gt;Requerimentos mal formulados pela CPI da Pandemia têm se tornado um empecilho para que a comissão obtenha dados necessários para sua apuração, facilitando para que as empresas se recusem fornecer informações com base em solicitações genéricas e amplas. Esses pedidos fogem do escopo dos trabalhos da comissão, podem ser complexos de processar e analisar ou até quase impossíveis de cumprir.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -132,6 +148,10 @@
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mrnvlnt/status/1422959249047572483?s=20&quot;&gt;Mariana Valente&lt;/a&gt;,  &lt;a href=&quot;https://twitter.com/thiamparo/status/1422924639685255172&quot;&gt;Thiago Amparo&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ninadhora/status/1422959461837180932?s=20&quot;&gt;Nina da Hora&lt;/a&gt; e &lt;a href=&quot;https://twitter.com/yaso/status/1422927014953197574?s=20&quot;&gt;Yasodara Cordova&lt;/a&gt; expressaram, via Twitter, revolta com o caso. Os outros membros são o professor da UFMG Fabrício Benevenuto e o diretor do ITS Carlos Affonso Souza.&lt;/p&gt;
 
 &lt;p&gt;Mensagens de ódio e bullying não são exclusividade do TikTok, da chinesa ByteDance, mas a rede tem crescido em popularidade no Brasil e atraído muitos jovens. O conselho consultivo da rede foi &lt;a href=&quot;https://newsroom.tiktok.com/pt-br/tiktok-apresenta-seu-conselho-consultivo-de-seguranca-do-brasil&quot;&gt;criado&lt;/a&gt; em março deste ano.&lt;/p&gt;
+
+&lt;p&gt;Em nota via assessoria de imprensa, o TikTok disse:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Estamos profundamente tristes com esta tragédia. Temos como nossa principal prioridade dar apoio ao bem-estar da nossa comunidade e fomentar um ambiente acolhedor e inclusivo, onde todos se sintam seguros para se expressar de forma autêntica. Comentários de ódio, que violam nossas políticas e prejudicam nossa comunidade, são removidos da nossa plataforma. Também trabalhamos com especialistas, como o CVV, para dar apoio e oferecer recursos para qualquer pessoa que possa estar passando por um momento difícil. Enviamos nossos sentimentos mais sinceros para a família e amigos do Lucas.&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -891,196 +911,4 @@ Dados tabelados a partir de infográfico do RankMyApp
 
 &lt;p&gt;No Instagram, foram analisadas 185 postagens, entre os dias 14 e 15 de junho de 2021. Para o levantamento no Twitter, foram analisados 3.607 tuítes entre os dias 27 e 28 de junho de 2021.&lt;/p&gt;
 
-&lt;p&gt;Para manter a brevidade da análise, foram consultadas apenas essas duas redes. Elas não foram contatadas para comentários sobre o assunto por não envolver políticas ou ações diretas dessas plataformas.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="PIX, " /><category term="Instagram, " /><category term="Twitter, " /><category term="Esmola virtual" /><summary type="html">Com o movimento nas ruas diminuído devido à pandemia da Covid-19, mídias sociais se transformaram nos novos cruzamentos para quem quer pedir doações em dinheiro contando com a caridade de desconhecidos e uma chave-Pix.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" /><media:content medium="image" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Crise e vaidade fazem fervilhar mercado de compra e venda de perfis nas redes</title><link href="https://nucleo.jor.br//reportagem/2021-07-15-compra-venda-perfis" rel="alternate" type="text/html" title="Crise e vaidade fazem fervilhar mercado de compra e venda de perfis nas redes" /><published>2021-07-15T06:01:00-03:00</published><updated>2021-07-15T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/compra-venda-perfis</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-07-15-compra-venda-perfis">&lt;p&gt;Nas redes sociais existe um movimentado mercado de compra e venda de perfis – uma prática que, embora não respeite os termos das plataformas, está abertamente disponível.&lt;/p&gt;
-
-&lt;p&gt;São contas com milhares de seguidores que valem centenas ou até milhares de reais, negociados dentro das próprias redes. Os atores participantes dessas transações são principalmente três:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pessoas em busca de uma renda extra&lt;/li&gt;
-  &lt;li&gt;Gente atrás de validação social &lt;/li&gt;
-  &lt;li&gt;Trambiqueiros com intenção de passar a perna nos outros.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não é difícil encontrar ofertas. Na &lt;a href=&quot;https://www.instagram.com/ig.disponivel/&quot;&gt;ig.disponivel&lt;/a&gt;, por exemplo, um perfil com mais de 50 mil seguidores é anunciado por R$500 à vista. Outros, sem preço evidenciado, &lt;a href=&quot;https://www.instagram.com/p/CM5nnXgDJ7M/&quot;&gt;detalham o público&lt;/a&gt;: 92,9% mulheres, 7,1% homens.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h6 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h6&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Há pessoas que podem transformar seu like em lucro sem você saber&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Por trás do mundo de interações orgânicas há também muito interesse financeiro e ações manipuladas&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Apesar de ser contra os termos de uso da maioria das redes, prática não é crime e ajuda a fazer um troco&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Uma página mais eclética, a &lt;a href=&quot;https://www.instagram.com/admodes/&quot;&gt;admodes&lt;/a&gt;, anuncia uma conta de 11,5 mil seguidores no TikTok entre posts com opções de &lt;a href=&quot;https://www.instagram.com/p/CQoxlzIDfEk/&quot;&gt;peças de roupa do Brás&lt;/a&gt; e &lt;a href=&quot;https://www.instagram.com/p/CQrFcG6jpgL/&quot;&gt;chips da Vivo&lt;/a&gt;. Interessados, chamem no direct.&lt;/p&gt;
-
-&lt;p&gt;O mercado vai além: no Facebook &lt;a href=&quot;https://www.facebook.com/groups/519237752765840/&quot;&gt;as negociações são feitas em grupos&lt;/a&gt;, alguns deles abertos. “Alguém vendendo conta do Instagram com 10k ou mais?”, questiona um integrante do &lt;a href=&quot;https://www.facebook.com/groups/519237752765840/&quot;&gt;Vendas e trocas de Instagram 2021&lt;/a&gt;, que tem mais de 250 membros - não é necessário ser um, no entanto, para interagir. Um perfil mais modesto, que não chega a 2.000 fãs, vale R$50 por ali, mas tem poucos interessados. Outra promoção oferece 500 seguidores por meros R$5.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; encontrou ofertas sendo feitas também no Telegram e &lt;a href=&quot;https://lista.mercadolivre.com.br/vendo-perfil-instagram&quot;&gt;até mesmo no Mercado Livre&lt;/a&gt;, onde pacotes de Gerenciadores de Negócios, uma &lt;a href=&quot;https://web.facebook.com/business/news/gerenciador-de-negocios-do-facebook&quot;&gt;ferramenta&lt;/a&gt; usada para operar páginas comerciais, são vendidos entre R$50 e R$ 800.&lt;/p&gt;
-
-&lt;p&gt;A prática não é restrita ao Brasil. Em 2019, &lt;a href=&quot;https://www.bbc.com/portuguese/internacional-48937251&quot;&gt;a BBC News Brasil&lt;/a&gt; publicou uma reportagem em que mostra como entregadores imigrantes compram contas falsas de aplicativos para poderem trabalhar em Londres.&lt;/p&gt;
-
-&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
-  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Receba nossas matérias por email, toda quinta-feira. &lt;br /&gt;
-  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
-  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
-  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
-    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
-     &lt;div class=&quot;footer-form-actions&quot;&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;ntTZYrZ892fUdG4t9EX1OtdQ&quot; /&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
-       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
-       &lt;/div&gt;
-  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
-
-  &lt;/form&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Por aqui, no entanto, o maior atrativo parece não ser a conta em si, mas o número de seguidores. Quanto mais alto, maior é a popularidade do usuário e, consequentemente, mais chances de lucros através de venda de produto, serviço ou posts patrocinados – os famosos #publi.&lt;/p&gt;
-
-&lt;p&gt;No Instagram, por exemplo, a “magia” acontece com o recurso “arrasta pra cima”, ao qual o usuário tem acesso quando ultrapassa a barreira dos&lt;a href=&quot;https://canaltech.com.br/redes-sociais/como-colocar-link-stories-instagram-conta-comercial/&quot;&gt;  mais de 10 mil seguidores&lt;/a&gt;  ou tem sua&lt;a href=&quot;https://nucleo.jor.br/reportagem/2021-07-01-selo-verificacao-redes-sociais&quot;&gt;  conta verificada&lt;/a&gt;  com o selinho azul.&lt;/p&gt;
-
-&lt;h3 id=&quot;o-preço-de-um-arrasta-pra-cima&quot;&gt;O preço de um “arrasta pra cima”&lt;/h3&gt;
-
-&lt;p&gt;“Muitos sonham com o famoso arrasta pra cima, né?”, explica Wiliam Oliveira, comprador e vendedor de perfis. Desempregado, ele descobriu na negociata social uma forma de garantir uma grana. Usa a tática de alimentar uma conta com fotos e stories de bolos e brigadeiros ao longo de seis meses, antes de vendê-la.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Não é algo simples, que você ganha dinheiro rápido e fácil em quantidade exorbitante. Mas, com dedicação, vai ganhando o suficiente para ter uma vida equilibrada” - &lt;strong&gt;Wiliam, que trampa com compra e venda de perfis&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Wiliam chegou a esse mundo justamente atraído por anúncios que prometiam tais quantias exorbitantes em pouco tempo.&lt;/p&gt;
-
-&lt;p&gt;“Quando entrei, vi que não era tudo isso, era mais trabalhoso, cansativo e frustrante. No começo, nada sai como você quer. Mas, passado o tempo, fui estudando e me aprofundando no assunto, comecei a ter algum tipo de retorno”. Hoje, como atalho, ele compra contas com um número já razoável de seguidores, e vende quando ultrapassam os 10 mil.&lt;/p&gt;
-
-&lt;p&gt;O comerciante espera receber o pagamento e, então, cede a senha do email de criação, que é atrelado à conta. O novo proprietário altera o código, o avatar, o nome e, se quiser, todo o caráter de seu conteúdo, passando a usar o perfil da forma que lhe convier.&lt;/p&gt;
-
-&lt;p&gt;É o que vai fazer, por exemplo, Beatriz Aranha, professora concursada de educação infantil que, quando falou à reportagem, havia acabado de adquirir por R$400 uma página sobre cursos de gastronomia. O plano é aproveitar os 20 mil seguidores, público majoritariamente feminino, para vender produtos de emagrecimento, vitaminas para o cabelo e detox, todos naturais e aprovados pela Anvisa, garante.&lt;/p&gt;
-
-&lt;p&gt;Ela adotou o bico no começo da pandemia como forma de fechar as contas. De cara, vendeu bem os produtos no boca a boca, mas com a queda de arrecadação no mês seguinte buscou outras formas de divulgar os artefatos.&lt;/p&gt;
-
-&lt;p&gt;Descobriu a possibilidade de comprar perfis em um &lt;a href=&quot;https://www.youtube.com/watch?v=zNu8VpgJWTk&quot;&gt;vídeo no YouTube&lt;/a&gt; sobre como ficar rico na internet.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Quando você vê que a página tem bastante seguidores, dá mais credibilidade. Eu mesma reparo nisso quando vou comprar algo. Comprei hoje, vamos ver se vai dar certo para bombar mais minhas vendas no Instagram.” - &lt;strong&gt;Beatriz, que entrou nessa como bico&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Outro vendedor que falou ao &lt;strong&gt;Núcleo&lt;/strong&gt;, mas preferiu não se identificar, faz dinheiro essencialmente comprando e revendendo contas, sem sequer mudar o conteúdo. “O ideal é continuar alimentando, para não perder o engajamento”, escreveu pelo Facebook à reportagem.&lt;/p&gt;
-
-&lt;p&gt;A conta se torna lucrativa quando direciona os seguidores para os blogs e páginas de venda de &lt;em&gt;infoprodutos&lt;/em&gt;, como cursos, ebooks e clubes de assinaturas.&lt;/p&gt;
-
-&lt;p&gt;“Lucro com visualizações, cliques e vendas”, diz.&lt;/p&gt;
-
-&lt;p&gt;Questionados pelo &lt;strong&gt;Núcleo&lt;/strong&gt; sobre o mercado de perfis, o Facebook e o Instagram apenas responderam que “a compra ou venda de recursos como contas, funções administrativas, permissão para publicar, páginas, grupos ou curtidas não são permitidas” e que “contas envolvidas neste tipo de atividade podem ser removidas por violação de nossas políticas.”&lt;/p&gt;
-
-&lt;div style=&quot;border: 2px solid #f33872; padding: 10px 35px 25px; font-size:1em&quot;&gt;
-
-&lt;h3 style=&quot;font-size:1.4em&quot;&gt;Por que as pessoas compram contas?&lt;/h3&gt; &lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;#8594; Atalho para ter muitos seguidores&lt;/li&gt;
-
-&lt;li&gt;&amp;#8594; Começar um negócio nas redes sociais já com público garantido&lt;/li&gt;
-
-&lt;li&gt;&amp;#8594; Revender por um preço maior&lt;/li&gt;
-
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;12x-no-crédito&quot;&gt;12x no crédito&lt;/h3&gt;
-
-&lt;p&gt;“Você está falando com o tubarão que entende tudo dessa área”, respondeu ao &lt;strong&gt;Núcleo&lt;/strong&gt; pelo Instagram o responsável pelo &lt;a href=&quot;https://www.instagram.com/engajeigram/&quot;&gt;Engajeigram&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Até o fechamento da reportagem, havia dois perfis disponíveis para venda na página: @beatriz_safadinha, que soma mais de 500 mil seguidores, e @joicee.top, com seus 150 mil.&lt;/p&gt;
-
-&lt;p&gt;Não é preciso dizer que ambas as contas são alimentadas exclusivamente com as mesmas fotos eróticas de mulheres não identificadas. Os pagamentos podem ser feitos por Ted, Pix, até 12x no cartão de crédito, PicPay, Mercado Pago e PayPal, oferece o anúncio.&lt;/p&gt;
-
-&lt;p&gt;Às vezes, as postagens de mulheres viram um negócio duplamente lucrativo: meninas em busca de seguidores pagam para saírem e serem tagueadas em páginas já populares. É assim que ganha dinheiro, por exemplo, Ludiana, proprietária do &lt;a href=&quot;https://www.instagram.com/wpfollow_/&quot;&gt;wpfollow_&lt;/a&gt;, página de divulgação de contas à venda.&lt;/p&gt;
-
-&lt;p&gt;Ela faz os perfis ali divulgados bombarem com a ajuda de sua conta mais popular, &lt;a href=&quot;https://www.instagram.com/tumblr1975/?hl=pt-br&quot;&gt;o @tumblr1975&lt;/a&gt;, que hoje soma 500 mil followers em busca de selfies femininas. Cada menina paga R$75 para sair no feed e ter sua arroba tagueada.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Quando comprei a conta ela já estava nesse nicho, eu só continuei. Paguei R$1.500 por ela e divulguei as meninas para pagar esse valor. Saldei em cinco meses” - &lt;strong&gt;Ludiana, da wpfollow_&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Com 19 anos, Ludiana estava grávida e sem emprego, “porque grávida ninguém contrata, né”. Foi então atrás de uma conta no Instagram para abrir uma loja de roupas e se deparou com um mercado mais atraente do que o têxtil. Hoje tira entre R$5 mil e R$8 mil por mês. “Na época ninguém me apoiou, nem minha mãe, nem meu namorado, todo mundo achou loucura. Hoje eles me aplaudem kkkkk!”&lt;/p&gt;
-
-&lt;h3 id=&quot;golpes-inclusos-no-balanço&quot;&gt;Golpes inclusos no balanço&lt;/h3&gt;
-
-&lt;p&gt;Tornar lucrativa a prática de vender perfis não é simples como tudo se faz parecer nas redes. A começar pelo trabalho de conquistar seguidores, o que exige realizar postagens diárias e interagir constantemente, sem contar a curadoria de conteúdo. Por vezes, é necessário um investimento inicial, impulsionando os posts.&lt;/p&gt;
-
-&lt;p&gt;Mas vendedores que falaram ao &lt;strong&gt;Núcleo&lt;/strong&gt; destacaram como principal ponto de risco da carreira os golpes: transações que retornam ou comprovantes falsos de transferência são alguns dos recursos mais comuns para levar os seguidores sem pagar o proprietário da conta. De tão frequentes que são, fazem parte do balanço mensal da fatura.&lt;/p&gt;
-
-&lt;p&gt;“Eu trabalho com venda de um perfil por vez e fecho quando sinto segurança, então não gera muito risco de golpe”, diz Wiliam Oliveira. “Mas para as pessoas que vendem mais perfis é clássico levar golpes e ainda assim compensar, pois a cada dez perfis vendidos, um ou dois são golpes.”&lt;/p&gt;
-
-&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
-  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Tá osso acompanhar as redes sociais? Chega mais na newsletter Garimpo. É de graça. &lt;br /&gt;
-  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
-  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
-  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
-    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
-     &lt;div class=&quot;footer-form-actions&quot;&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;v5zrQ3RithV9C1HMZZgCeg&quot; /&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
-       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
-       &lt;/div&gt;
-  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
-
-  &lt;/form&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Para se prevenir, Wiliam diz nunca comprar perfis sem o e-mail de criação, nunca passar a senha antes do pagamento cair na conta e buscar referências do comprador interessado.&lt;/p&gt;
-
-&lt;p&gt;Esse é o caso de Ludiana, por exemplo, que hoje se sustenta fazendo as transações. Ela diz que a perda com ciladas faz parte da contabilidade. “Até acertar, perdi uns R$ 5 mil. Mas aí vendi uma conta grande e isso foi me dando um gás. Agora não paro de crescer. Já vendi 150 perfis, cuido do meu filho em casa e vendo as contas. As pessoas compram comigo porque têm segurança, tenho um monte de referência, dou garantia.”&lt;/p&gt;
-
-&lt;h3 id=&quot;como-fizemos-isso&quot;&gt;Como fizemos isso&lt;/h3&gt;
-
-&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; vasculhou contas, perfis e grupos no Instagram, Facebook e Telegram para observar como são feitas as transações de compra e venda de perfis. Tentamos contato com onze dessas páginas no Instagram e outras 22 no Facebook.&lt;/p&gt;
-
-&lt;p&gt;Algumas delas saíram do ar desde então. As pessoas citadas na reportagem responderam pelas próprias redes sociais ou por Whatsapp. Também enviamos quatro perguntas às assessorias de imprensa do Instagram e do Facebook, que responderam apenas com o parágrafo reproduzido no texto.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;resposta-na-íntegra-do-facebook&quot;&gt;Resposta na íntegra do Facebook:&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Perguntas enviadas por email em 22.jun.2021:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A prática infringe alguma norma da rede?&lt;/li&gt;
-  &lt;li&gt;Se sim, quais são as medidas para coibir essas transações?&lt;/li&gt;
-  &lt;li&gt;Há algum levantamento que mostre a dimensão em que isso acontece e se é restrito ao uso do Facebook no Brasil?&lt;/li&gt;
-  &lt;li&gt;Como a empresa avalia o impacto desse comportamento no funcionamento da rede?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Resposta por email em 25.jun.2021&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“A compra ou venda de recursos como contas, funções administrativas, permissão para publicar, Páginas, Grupos ou curtidas não são permitidas em nossas plataformas, assim como também não permitimos interações falsas. Contas envolvidas neste tipo de atividade podem ser removidas por violação de nossas políticas” - Facebook Inc.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Novas perguntas enviadas por email em 25.jun.2021:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Há algum levantamento que mostre a dimensão em que isso acontece e se é restrito ao uso do Facebook no Brasil?&lt;/li&gt;
-  &lt;li&gt;Como a empresa avalia o impacto desse comportamento no funcionamento da rede?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Essas duas perguntas foram ignoradas, não houve resposta.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;resposta-na-íntegra-do-instagram&quot;&gt;Resposta na íntegra do Instagram&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Perguntas enviadas por email em 22.jun.2021:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A prática infringe alguma norma da rede?&lt;/li&gt;
-  &lt;li&gt;Se sim, quais são as medidas para coibir essas transações?&lt;/li&gt;
-  &lt;li&gt;Há algum levantamento que mostre a dimensão em que isso acontece e se é restrito ao uso do Facebook no Brasil?&lt;/li&gt;
-  &lt;li&gt;Como a empresa avalia o impacto desse comportamento no funcionamento da rede?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Resposta por email em 25.jun.2021&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;O posicionamento enviado pelo Facebook também é válido para o Instagram.&lt;/em&gt;&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Facebook, " /><category term="Instagram, " /><category term="Mercado Livre, " /><category term="Compra e venda de perfis" /><summary type="html">Conheça pessoas especializadas em bombar e vender contas em redes sociais para quem paga centenas ou até milhares de reais</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/instagram/venda-contas_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/instagram/venda-contas_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Para manter a brevidade da análise, foram consultadas apenas essas duas redes. Elas não foram contatadas para comentários sobre o assunto por não envolver políticas ou ações diretas dessas plataformas.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="PIX, " /><category term="Instagram, " /><category term="Twitter, " /><category term="Esmola virtual" /><summary type="html">Com o movimento nas ruas diminuído devido à pandemia da Covid-19, mídias sociais se transformaram nos novos cruzamentos para quem quer pedir doações em dinheiro contando com a caridade de desconhecidos e uma chave-Pix.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" /><media:content medium="image" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
