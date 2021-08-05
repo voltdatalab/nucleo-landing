@@ -141,4 +141,6 @@ Ambos os especialistas ouvidos pelo **Núcleo** avaliam que o envolvimento das p
 
 Construímos uma [aplicação](https://nucleojor.shinyapps.io/docsCPI/) que puxa todos os requerimentos feitos pela CPI da Pandemia e fizemos uma busca pelos nomes das redes sociais.
 
-Entramos em contato com as assessorias dos senadores Randolfe Rodrigues, Renan Calheiros e Omar Aziz, mas não obtivemos resposta, e entrevistamos dois especialistas em direito e tecnologia.
+A partir da busca pelos nomes das redes, analisamos os pedidos dos senadores e as respostas das plataformas aos requerimentos. Consultamos especialistas para entender os pedidos e tentar pensar o que poderá ser feito para render respostas mais efetivas por parte das redes.
+
+Também entramos em contato com as assessorias dos senadores Randolfe Rodrigues, Renan Calheiros e Omar Aziz, mas não obtivemos resposta. Também entrevistamos dois especialistas em direito e tecnologia.
