@@ -5,8 +5,8 @@ layout: conteudo
 tipo: reportagem
 title: "Redes sociais recusam pedidos mal feitos de senadores na CPI da Pandemia"
 titulo_redes: "Redes sociais recusam pedidos mal feitos de senadores em CPI"
-subtitle: 'Requerimentos da CPI da Pandemia para redes sociais são mal formulados e toscos; Renan Calheiros, por exemplo, pediu oficialmente informações do Telegram ao Facebook'
-subtitle_redes: 'Requerimentos da CPI da Pandemia para redes sociais são mal formulados.'
+subtitle: 'Requerimentos às empresas são mal formulados e toscos; Renan Calheiros, por exemplo, pediu oficialmente informações do Telegram ao Facebook'
+subtitle_redes: 'Requerimentos às empresas são mal formulados e toscos.'
 excerpt: 'Requerimentos da CPI da Pandemia para redes sociais são mal formulados.'
 date: "05/08/2021 06:01"
 reportagem:
@@ -51,7 +51,7 @@ Requerimentos mal formulados pela CPI da Pandemia têm se tornado um empecilho p
 
 ---
 
-As grandes plataformas -- notavelmente Google/YouTube, Facebook/WhatsApp e Twitter -- entraram no radar dos senadores. No fim de junho, a CPI aprovou a [convocação](https://www.cnnbrasil.com.br/politica/2021/06/23/cpi-aprova-convocacao-de-representantes-de-facebook-google-e-twitter) de representantes das 'big techs' com o objetivo de esclarecer quais ações foram tomadas pelas plataformas para conter a disseminação de notícias falsas. Os depoimentos ainda não têm data.
+As grandes plataformas -- notavelmente Google/YouTube, Facebook/WhatsApp e Twitter -- entraram no radar dos senadores. No fim de junho, a CPI aprovou a [convocação](https://www.cnnbrasil.com.br/politica/2021/06/23/cpi-aprova-convocacao-de-representantes-de-facebook-google-e-twitter) de representantes das _big techs_ com o objetivo de esclarecer quais ações foram tomadas pelas plataformas para conter a disseminação de notícias falsas. Os depoimentos ainda não têm data.
 
 Senadores também estão acionando essas empresas em busca de informações sobre pessoas de interesse da investigação. Mas com [pedidos](https://legis.senado.leg.br/comissoes/reqsCPI?0&codcol=2441&aprc=false&prej_retir=false&susp=false) pouco razoáveis, de certa forma jogam a favor das plataformas, que têm sido frequentemente criticadas pela forma como lidaram com perfis que espalham desinformação sobre a pandemia.
 
