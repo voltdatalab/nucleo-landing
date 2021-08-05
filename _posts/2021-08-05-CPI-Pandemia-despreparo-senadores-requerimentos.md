@@ -38,7 +38,7 @@ tags:
   - "Covid-19"
 ---
 
-Requerimentos mal formulados pela CPI da Pandemia têm se tornado um empecilho para que a comissão obtenha dados necessários para sua apuração, facilitando para que as empresas se recusem fornecer informações com base em solicitações genéricas e amplas, que fogem do escopo dos trabalhos da comissão, podem ser complexos de processar e analisar ou quase impossíveis de cumprir.
+Requerimentos mal formulados pela CPI da Pandemia têm se tornado um empecilho para que a comissão obtenha dados necessários para sua apuração, facilitando para que as empresas se recusem fornecer informações com base em solicitações genéricas e amplas, que fogem do escopo dos trabalhos da comissão, podem ser complexas de processar e analisar ou quase impossíveis de cumprir.
 
 
 ---
