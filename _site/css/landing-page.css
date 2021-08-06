@@ -821,7 +821,7 @@ td{
   margin-top: 25px;
 }
 
-@media(min-width:960px) {
+@media(min-width:760px) {
   .hide-mobile{
     display: none;
   }
