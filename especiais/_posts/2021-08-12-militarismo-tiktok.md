@@ -35,7 +35,7 @@ tags:
 
 **ENTRE DANCINHAS** de 15 segundos, receitas rápidas de cozinha e vídeos engraçadinhos, conteúdos que exaltam abordagens policiais, militares e armas de fogo têm encontrado campo fértil de engajamento no TikTok, rede social com grande adesão de crianças e adolescentes que faz de tudo para manter jovens grudados no celular o máximo possível.
 
-Análise do **Núcleo** com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo -- embora não estejam totalmente descolados da política.
+Análise do **Núcleo** com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte de agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo -- embora não estejam totalmente descolados da política.
 
 Nossa busca se concentrou em um conjunto de `17` hashtags muito utilizadas em vídeos sobre militares, policiais e entusiastas de armas<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>os CACS - Caçador, Atirador e/ou Colecionador<br><br></span>, e as comparou com outras `24` hashtags muito utilizadas em vídeos sobre memes comuns (como dia dos pais e brincadeiras), esportes (basicamente futebol e Jogos Olímpicos de 2020) e política (contra ou a favor ao presidente Jair Bolsonaro).
 
@@ -59,7 +59,7 @@ Embora vídeos de política tenham respondido pelo maior número de vídeos enco
 
 O maior engajamento de usuários com vídeos militaristas e policialescos fica bastante evidente com o passar do tempo, de janeiro de 2020 até agosto de 2021.
 
-No mesmo período, houve um notório aumento visibilidade de militares no noticiário e na participação em cargos do governo federal, conduzidos ao Executivo [em massa](https://www.metropoles.com/brasil/em-70-orgaos-militares-ocupam-183-dos-146-mil-cargos-comissionados-no-governo-bolsonaro) após a posse de Jair Bolsonaro como presidente, em 2019.
+No mesmo período, houve um notório aumento na visibilidade de militares no noticiário e na participação em cargos do governo federal, conduzidos [em massa](https://www.metropoles.com/brasil/em-70-orgaos-militares-ocupam-183-dos-146-mil-cargos-comissionados-no-governo-bolsonaro) ao Executivo após a posse de Jair Bolsonaro como presidente, em 2019.
 
 O TikTok começou a crescer consideravelmente no Brasil em 2020, ficando entre os [primeiros lugares](https://www.tecmundo.com.br/mercado/220572-tiktok-dispara-uso-brasil-roblox-domina-games-em-2020.htm) nas lojas de download de aplicativos móveis.   
 
@@ -97,7 +97,7 @@ Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questioname
 
 Militarismo, exaltação de armas de fogo e de policiais também pode ser um gatilho para radicalização online. Se não chega a ser discurso de ódio, beira a banalização do uso da violência.
 
-"Um engajamento maior nos conteúdos com violência, discursos de ódio e ações extremas sinaliza que a radicalização a partir das plataformas digitais está presente na sociedade. A busca e o engajamento nesses conteúdos revela que essas pessoas não mais acreditam na solução de conflitos através da busca pelo consenso mas sim com ações extremas até a o extremo com ação violenta. É a credulidade na ideia de que apenas a ação violenta será capaz de produzir soluções para suas demandas", diz a pesquisadora [Michele Prado](https://www.dw.com/pt-br/sem-um-extremista-no-poder-muitas-vidas-poderiam-ter-sido-salvas/a-56961712), autora do livro "Tempestade Ideológica - Bolsonarismo: a Alt-Right e o Populismo Iliberal no Brasil"
+"Um engajamento maior nos conteúdos com violência, discursos de ódio e ações extremas sinaliza que a radicalização a partir das plataformas digitais está presente na sociedade. A busca e o engajamento nesses conteúdos revela que essas pessoas não mais acreditam na solução de conflitos através da busca pelo consenso mas sim com ações extremas até o extremo com ação violenta. É a credulidade na ideia de que apenas a ação violenta será capaz de produzir soluções para suas demandas", diz a pesquisadora [Michele Prado](https://www.dw.com/pt-br/sem-um-extremista-no-poder-muitas-vidas-poderiam-ter-sido-salvas/a-56961712), autora do livro "Tempestade Ideológica - Bolsonarismo: a Alt-Right e o Populismo Iliberal no Brasil"
 
 "Um jovem encontra nestes conteúdos uma porta de entrada para um submundo de ódio, preconceito e violência. E a desradicalização e desengajamento não são simples de serem alcançados. Portanto, a prevenção contra a Radicalização ainda é o melhor caminho", complementou.
 
@@ -127,7 +127,7 @@ Em meio a esse conteúdo belicoso, muitos vídeos não apenas exaltam o militari
 
 Outro faz referência direta a [brincar de tiro ao alvo](https://www.tiktok.com/@omundomilitar/video/6966493824336006406) com bandido, enquanto [esse](https://www.tiktok.com/@coronelcaveira/video/6911850117591076101) mostra uma abordagem na qual o policial atira pra cima e esse mostra o policial [aplicando](https://www.tiktok.com/@futuropoliciall/video/6912185514980396293) um golpe mata-leão em um homem que age de maneira ameaçadora.
 
-Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. Mas muitos vídeos emulam programas TV policialescos e ufanistas, banalizando a violência e convocando jovens, não só para alistamento militar e policial, como também para adquirir armas de fogo.
+Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. Mas muitos vídeos emulam programas de TV policialescos e ufanistas, banalizando a violência e convocando jovens, não só para alistamento militar e policial, como também para adquirir armas de fogo.
 
 <span class="texto-destak">"Troque seu PlayStation por um fuzil."<br>
 <small class="arquivado" style="color:#222222">- Canto de guerra militar em vídeos no TikTok</small>
