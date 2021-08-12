@@ -16,7 +16,9 @@ edicao:
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
 analise: Lucas Gelape
-colaboracao: Renata Hirota
+colaboracao:
+  - "Renata Hirota"
+  - "Felippe Mercurio"
 graficos: Rodolfo Almeida
 credito_img: "Rodolfo Almeida"
 creditos:

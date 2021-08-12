@@ -25,8 +25,8 @@ creditos:
   - "Sérgio Spagnuolo"
   - "Laís Martins"
   - "Rodolfo Almeida"
-  - "Alexandre Orrico"
   - "Lucas Lago"
+  - "Alexandre Orrico"
 gif: 'img/tiktok/header.gif'
 image: 'img/tiktok/tiktokarmamentista-04.png'
 tags:
@@ -139,7 +139,7 @@ Como em outras redes sociais, há também vídeos com o corpo de Lázaro Barbosa
 
 ### ONDE SE ENCAIXA O MILITARISMO NO TODO
 
-Para se ter uma ideia da popularidade de conteúdos militaristas no Brasil, comparamos as hashtags em número bruto total de visualizações.
+Para se ter uma ideia da popularidade de conteúdos militaristas no Brasil, comparamos as hashtags em número bruto total de visualizações. Os dados abaixo são acumulados desde o começo do TikTok e foram obtidos iterando as hashtags [neste link](https://www.tiktok.com/tag/foryou?lang=pt-BR).
 
 <img src="{{ site.baseurl }}/img/tiktok/graficos-tiktokarmas_nvideos.png" class="img-destak d-desk" alt="arte" alt="">
 
@@ -152,7 +152,7 @@ Fizemos buscas no TikTok por 41 hashtags a partir de uma [ferramenta](https://gi
 
 Fizemos, então, uma classificação manual de cada uma dessas hashtags em grandes grupos: esportes, memes, polícia/militar, política e pró-armas. O código da análise, em R, está [neste link](https://gist.github.com/sergiospagnuolo/336d52b260fbc084b21c65c3ff5b6381). Os dados agregados estão [aqui](https://docs.google.com/spreadsheets/d/1gSJiFCycrSw1kkAt99c2trL-Br_4eyLSfNLL9Fls550/edit?usp=sharing).
 
-Os dados sobre total de visualizações globais foram levantados via TikTok no desktop pelo link: [https://www.tiktok.com/tag/[ hashtag ]?lang=pt-BR](https://www.tiktok.com/tag/coisadepai?lang=pt-BR)
+Os dados sobre total de visualizações globais foram levantados via TikTok no desktop pelo link: `tiktok.com/tag/[ hashtag ]?lang=pt-BR`.
 
 Procuramos o TikTok com quatro perguntas principais, e também enviamos as hashtags pesquisadas para melhor apreciação, assim como uma amostra de vídeos.
 
