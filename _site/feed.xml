@@ -1,5 +1,365 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-12T00:29:10-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico</title><link href="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon" rel="alternate" type="text/html" title="Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico" /><published>2021-08-05T19:19:00-03:00</published><updated>2021-08-05T19:19:00-03:00</updated><id>https://nucleo.jor.br//curtas/bolsonaro-links-mastodon</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon">&lt;p&gt;Na noite de 4 de agosto, o presidente Jair Bolsonaro &lt;a href=&quot;https://www.facebook.com/jairmessias.bolsonaro/posts/2516129801869324&quot;&gt;publicou&lt;/a&gt; no Facebook quatro documentos que, segundo ele, comprovam fraude eleitoral – na verdade não &lt;a href=&quot;https://www1.folha.uol.com.br/poder/2021/08/especialistas-e-investigador-dizem-nao-haver-prova-de-fraude-ou-mudanca-em-codigo-fonte-de-urnas-em-2018-como-alega-bolsonaro.shtml&quot;&gt;comprovam&lt;/a&gt; isso, e sim mostram que o site do TSE foi invadido, são sistemas separados.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-12T01:10:12-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Militarismo é nova onda no TikTok</title><link href="https://nucleo.jor.br//especiais/2021-08-11-militarismo-tiktok" rel="alternate" type="text/html" title="Militarismo é nova onda no TikTok" /><published>2021-08-11T06:01:00-03:00</published><updated>2021-08-11T06:01:00-03:00</updated><id>https://nucleo.jor.br//especiais/militarismo-tiktok</id><content type="html" xml:base="https://nucleo.jor.br//especiais/2021-08-11-militarismo-tiktok">&lt;p&gt;&lt;strong&gt;ENTRE DANCINHAS&lt;/strong&gt; de 15 segundos, receitas rápidas de cozinha e vídeos engraçadinhos, conteúdos que exaltam abordagens policiais, militares e armas de fogo têm encontrado campo fértil de engajamento no TikTok, rede social com grande adesão de crianças e adolescentes que faz de tudo para manter jovens grudados no celular o máximo possível.&lt;/p&gt;
+
+&lt;p&gt;Análise do Núcleo com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo – embora não estejam totalmente descoladas da política.&lt;/p&gt;
+
+&lt;p&gt;Nossa busca se concentrou em um conjunto de &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;17&lt;/code&gt; hashtags muito utilizadas em vídeos sobre militares, policiais e entusiastas de armas&lt;input type=&quot;checkbox&quot; id=&quot;cb1&quot; /&gt;&lt;label for=&quot;cb1&quot;&gt;&lt;sup&gt;&lt;/sup&gt;&lt;/label&gt;&lt;span&gt;&lt;br /&gt;&lt;br /&gt;os CACS - Caçador, Atirador e/ou Colecionador&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;, e as comparou com outras &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;24&lt;/code&gt; hashtags muito utilizadas em vídeos sobre memes comuns (como dia dos pais e brincadeiras), esportes (basicamente futebol e Jogos Olímpicos de 2020) e política (contra ou a favor ao presidente Jair Bolsonaro).&lt;/p&gt;
+
+&lt;p&gt;A partir de uma categorização própria dessas hashtags, classificamos em &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cinco&lt;/code&gt; grandes áreas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;esportes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;memes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;polícia/militar&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;política&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pró-armas&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/politica_mais_videos.png&quot; class=&quot;img-destak&quot; alt=&quot;gráfico de linha mostrando que política tem mais vídeos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Embora vídeos de política tenham respondido pelo maior número de vídeos encontrados na busca, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;45%&lt;/code&gt; do total, as peças militaristas (apenas &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;16%&lt;/code&gt; dos vídeos retornados na busca) registraram em geral quase o dobro de visualizações por vídeo (média e mediana).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_bubble.png&quot; class=&quot;img-destak&quot; alt=&quot;gráficos sobre utilização do WhatsApp e de outras plataformas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O maior engajamento de usuários com vídeos militaristas e policialesco fica bastante evidente com o passar do tempo, de janeiro de 2020 até agosto de 2021.&lt;/p&gt;
+
+&lt;p&gt;No mesmo período, houve um notório aumento visibilidade de militares no noticiário e na participação em cargos do governo federal, conduzidos ao Executivo &lt;a href=&quot;https://www.metropoles.com/brasil/em-70-orgaos-militares-ocupam-183-dos-146-mil-cargos-comissionados-no-governo-bolsonaro&quot;&gt;em massa&lt;/a&gt; após a posse de Jair Bolsonaro como presidente, em 2019.&lt;/p&gt;
+
+&lt;p&gt;O TikTok começou a crescer consideravelmente no Brasil em 2020, ficando entre os &lt;a href=&quot;https://www.tecmundo.com.br/mercado/220572-tiktok-dispara-uso-brasil-roblox-domina-games-em-2020.htm&quot;&gt;primeiros lugares&lt;/a&gt; nas lojas de download de aplicativos móveis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_views.png&quot; class=&quot;img-destak&quot; alt=&quot;gráficos visualizações de hashtags&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;categoria&lt;/th&gt;
+      &lt;th&gt;vídeos&lt;/th&gt;
+      &lt;th&gt;visualizações/vídeo (mediana)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;política&lt;/td&gt;
+      &lt;td&gt;27.747&lt;/td&gt;
+      &lt;td&gt;16.800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+      &lt;td&gt;11.164&lt;/td&gt;
+      &lt;td&gt;12.400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+      &lt;td&gt;9.995&lt;/td&gt;
+      &lt;td&gt;27.300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+      &lt;td&gt;8.885&lt;/td&gt;
+      &lt;td&gt;3.888&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;memes&lt;/td&gt;
+      &lt;td&gt;3576&lt;/td&gt;
+      &lt;td&gt;850&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figcaption&gt;Considera 61,4 mil vídeos com 41 hashtags diferentes.&lt;br /&gt; Fonte: Análise do Núcleo Jornalismo&lt;/figcaption&gt;
+
+&lt;p&gt;Isso mostra que a tendência é vídeos com assunto policial e militar terem mais visibilidade na rede social. Isso tudo é ainda mais consequente tendo em vista três coisas:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. O uso da rede social por crianças e adolescentes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nos EUA, 1 a cada quatro usuários do TikTok tem menos de 20 anos, &lt;a href=&quot;https://www.statista.com/statistics/1095186/tiktok-us-users-age/&quot;&gt;segundo&lt;/a&gt; o Statista. Não há dados específicos sobre o Brasil, mas é seguro dizer que também é amplamente utilizado por essa faixa etária. Jovens podem estar mais &lt;a href=&quot;https://www.dw.com/pt-br/pandemia-aumenta-risco-de-radicaliza%C3%A7%C3%A3o-de-jovens/a-56475946&quot;&gt;suscetíveis&lt;/a&gt; e vulneráveis à radicalização via redes sociais.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Os esforços da rede social para crescer no Brasil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Não é segredo que o TikTok (e qualquer rede social, diga-se) quer manter seus usuários conectados o tempo todo, inclusive oferecendo &lt;a href=&quot;https://nucleo.jor.br/especiais/2021-06-03-disputa-tiktok-kwai-brasil&quot;&gt;bônus em dinheiro&lt;/a&gt;. Isso significa mais tempo de tela e mais vídeos vistos. Caso a preferência de um usuário caia no tópico militarista, é provável que ele seja “sugado” pelo algoritmo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. O algoritmo viciante, que repete conteúdo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Uma &lt;a href=&quot;https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796&quot;&gt;bela investigação&lt;/a&gt; do Wall Street Journal, a partir de contas falsas para testar a rede social, mostrou que o segredo do algoritmo é o monitoramento atento e constante do tempo de visualização dos vídeos. Esse algoritmo responde tão bem à atenção do usuário que algumas pessoas brincam que ele pode ler mentes. A investigação mostrou que é possível cair em um vórtice de conteúdo extremista difícil de escapar.&lt;/p&gt;
+
+&lt;p&gt;Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questionamentos específicos do Núcleo apontando apenas para suas diretrizes de comunidade que “apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_tiktok2020.png&quot; class=&quot;img-destak&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Militarismo, exaltação de armas de fogo e de policiais também pode ser um gatilho para radicalização online. Se não chega a ser discurso de ódio, beira a banalização do uso da violência.&lt;/p&gt;
+
+&lt;p&gt;“Um engajamento maior nos conteúdos com violência, discursos de ódio e ações extremas sinaliza que a radicalização a partir das plataformas digitais está presente na sociedade. A busca e o engajamento nesses conteúdos revela que essas pessoas não mais acreditam na solução de conflitos através da busca pelo consenso mas sim com ações extremas até a o extremo com ação violenta. É a credulidade na ideia de que apenas a ação violenta será capaz de produzir soluções para suas demandas”, diz a pesquisadora &lt;a href=&quot;https://www.dw.com/pt-br/sem-um-extremista-no-poder-muitas-vidas-poderiam-ter-sido-salvas/a-56961712&quot;&gt;Michele Prado&lt;/a&gt;, autora do livro “Tempestade Ideológica - Bolsonarismo: a Alt-Right e o Populismo Iliberal no Brasil”&lt;/p&gt;
+
+&lt;p&gt;“Um jovem encontra nestes conteúdos uma porta de entrada para um submundo de ódio, preconceito e violência. E a desradicalização e desengajamento não são simples de serem alcançados. Portanto, a prevenção contra a Radicalização ainda é o melhor caminho”, complementou.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;É importante porque…&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Conteúdo militar pode se confundir com a política nacional de apoio à extrema-direita&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Jovens são particularmente mais expostos a conteúdo belicoso que pode incentivar violência, como trocar videogame por fuzil&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Reforça caráter viciante de algoritmo da rede social&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;polícia-boa-é-polícia-no-tiktok&quot;&gt;POLÍCIA BOA É POLÍCIA NO TIKTOK&lt;/h3&gt;
+
+&lt;p&gt;Em abril, reportagem especial do Núcleo abordou os influenciadores policiais no Instagram. Decidi, então, tentar ver o que está rolando sobre isso no TikTok, que tem crescido vertiginosamente nos últimos anos no Brasil.&lt;/p&gt;
+
+&lt;p&gt;Ao longo (e foram longos mesmo) de três meses de apuração da reportagem, treinei meu algoritmo de tal forma que meu TikTok está praticamente inutilizado de tanto que o app me recomenda vídeos com conteúdo policial, militar e pró-armas – num nível que não pode ser sadio.&lt;/p&gt;
+
+&lt;p&gt;Veja você mesmo(a):&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;140 segundos de conteúdo militarista no TikTok. Eis o que virou minha timeline. &lt;a href=&quot;https://t.co/ptjdcwSGcI&quot;&gt;pic.twitter.com/ptjdcwSGcI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sérgio Spagnuolo (@sergiospagnuolo) &lt;a href=&quot;https://twitter.com/sergiospagnuolo/status/1425649002087866378?ref_src=twsrc%5Etfw&quot;&gt;August 12, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Em meio a esse conteúdo belicoso, muitos vídeos não apenas exaltam o militarismo e a política, como também incentivam violência de autoridades. Em um &lt;a href=&quot;https://www.tiktok.com/@cancoesdetfm1/video/6906923284927958277&quot;&gt;clipe&lt;/a&gt;, soldados do Exército Brasileiro cantam: “Para o 157 eu tenho um 7.62”, em alusão ao &lt;a href=&quot;https://www.jusbrasil.com.br/topicos/10619340/artigo-157-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940&quot;&gt;artigo&lt;/a&gt; 157 do Código Penal (roubo mediante uso de força ou ameaça grave) e ao calibre muito comum em fuzis.&lt;/p&gt;
+
+&lt;p&gt;Outro faz referência direta a &lt;a href=&quot;https://www.tiktok.com/@omundomilitar/video/6966493824336006406&quot;&gt;brincar de tiro ao alvo&lt;/a&gt; com bandido, enquanto &lt;a href=&quot;https://www.tiktok.com/@coronelcaveira/video/6911850117591076101&quot;&gt;esse&lt;/a&gt; mostra uma abordagem na qual o policial atira pra cima e esse mostra o policial &lt;a href=&quot;https://www.tiktok.com/@futuropoliciall/video/6912185514980396293&quot;&gt;aplicando&lt;/a&gt; um golpe mata-leão em um homem que age de maneira ameaçadora.&lt;/p&gt;
+
+&lt;p&gt;Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. mas sim vídeos que emulam programas TV policialescos e ufanistas, convocando jovens para alistamento militar.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;texto-destak&quot;&gt;“Troque seu PlayStation por um fuzil.”&lt;br /&gt;
+&lt;small class=&quot;arquivado&quot; style=&quot;color:#222222&quot;&gt;- Canto de guerra militar em vídeos no TikTok&lt;/small&gt;
+&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Há ainda muitos estímulos para que jovens adotem o estilo de vida militarista, &lt;a href=&quot;https://www.tiktok.com/@soldado_brasileiro_91/video/6929310879800364294&quot;&gt;trocando&lt;/a&gt; o videogame “PlayStation por um fuzil” para invadir o complexo de favelas do Alemão, no Rio de Janeiro, e fazer a arma “cantar (pa pum)”.&lt;/p&gt;
+
+&lt;p&gt;Como em outras redes sociais, há também vídeos com o corpo de Lázaro Barbosa, criminoso acusado de assassinar quatro pessoas, &lt;a href=&quot;https://g1.globo.com/go/goias/noticia/2021/06/28/lazaro-morre-apos-ser-preso-em-goias.ghtml&quot;&gt;morto&lt;/a&gt; em junho pela polícia em Goiás após aterrorizar a região de Águas Lindas e balear policiais e um oficial da Força Aérea.&lt;/p&gt;
+
+&lt;h3 id=&quot;onde-se-encaixa-o-militarismo-no-todo&quot;&gt;ONDE SE ENCAIXA O MILITARISMO NO TODO&lt;/h3&gt;
+
+&lt;p&gt;Para se ter uma ideia da popularidade de conteúdos militaristas no Brasil, comparamos as hashtags em número bruto total de visualizações. Os dados abaixo são acumulados desde o começo do TikTok e foram obtidos iterando as hashtags &lt;a href=&quot;https://www.tiktok.com/tag/foryou?lang=pt-BR&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_nvideos.png&quot; class=&quot;img-destak d-desk&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_circlepackmobile.png&quot; class=&quot;img-destak d-mob&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;como-fizemos&quot;&gt;COMO FIZEMOS&lt;/h3&gt;
+
+&lt;p&gt;Fizemos buscas no TikTok por 41 hashtags a partir de uma &lt;a href=&quot;https://github.com/drawrowfly/tiktok-scraper&quot;&gt;ferramenta&lt;/a&gt; de código aberto. Essas buscas retornaram metadados de 61.367 vídeos.&lt;/p&gt;
+
+&lt;p&gt;Fizemos, então, uma classificação manual de cada uma dessas hashtags em grandes grupos: esportes, memes, polícia/militar, política e pró-armas. O código da análise, em R, está &lt;a href=&quot;https://gist.github.com/sergiospagnuolo/336d52b260fbc084b21c65c3ff5b6381&quot;&gt;neste link&lt;/a&gt;. Os dados agregados estão &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1gSJiFCycrSw1kkAt99c2trL-Br_4eyLSfNLL9Fls550/edit?usp=sharing&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Os dados sobre total de visualizações globais foram levantados via TikTok no desktop pelo link: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tiktok.com/tag/[ hashtag ]?lang=pt-BR&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Procuramos o TikTok com quatro perguntas principais, e também enviamos as hashtags pesquisadas para melhor apreciação, assim como uma amostra de vídeos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;O que o TikTok faz contra radicalização de discurso na rede?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Qual a política do TikTok sobre polarização política?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;O TikTok tem políticas sobre conteúdo que mostram manuseio e uso de armas de fogo?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;O TikTok tem políticas sobre conteúdo com violência policial?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A resposta da empresa, abaixo, na íntegra:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As Diretrizes da Comunidade do TikTok apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma, incluindo a promoção de desinformação, armas de fogo, violência, discurso de ódio e outras violações que tentam impedir nossa capacidade de promover um local seguro e acolhedor para a criatividade e o entretenimento.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Para obter detalhes adicionais, visite nossas Diretrizes da Comunidade: &lt;a href=&quot;https://www.tiktok.com/community-guidelines?lang=pt&quot;&gt;TikTok&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As hashtags consideradas são:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;hash&lt;/th&gt;
+      &lt;th&gt;categoria&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#jogos&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#jogosolimpicos&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#olimpiada&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#olimpiadas&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#olimpicos&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#tiktoquio&lt;/td&gt;
+      &lt;td&gt;esporte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#coisadepai&lt;/td&gt;
+      &lt;td&gt;memes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#nadamedeixafraco&lt;/td&gt;
+      &lt;td&gt;memes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#exercito&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#militar&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#militares&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#papamike&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#policiacivil&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#policiafederal&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#policiamilitar&lt;/td&gt;
+      &lt;td&gt;policial/militar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonaro2022&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonaro22&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonaro38&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonarogenocida&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonaropresidente&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonaroreeleito2022&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonarosincero&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#bolsonarotemrazao&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#elenao&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#forabolsonaro&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#forabolsonarocorrupto&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#forabozo&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#presidentebolsonaro&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#votoauditavel&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#votoimpresso&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#votoimpressonao&lt;/td&gt;
+      &lt;td&gt;política&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#armamentista&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#armas&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#armasdefogo&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#cac&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#clubedetiro&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#defesapessoal&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#loucosporarmas&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#tiroaoalvo&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#tiroesportivo&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;#tiroterapia&lt;/td&gt;
+      &lt;td&gt;pró-armas&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="TikTok, " /><category term="Militarismo, " /><category term="CACs, " /><category term="Polícia, " /><category term="Armas, " /><category term="Jair Bolsonaro, " /><category term="Redes Sociais" /><summary type="html">Análise do Núcleo mostra alto engajamento em vídeos exaltando armas de fogo, militares e policiais na rede social repleta de crianças e adolescentes</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/tiktok/tiktokarmamentista-04.png" /><media:content medium="image" url="https://nucleo.jor.br//img/tiktok/tiktokarmamentista-04.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico</title><link href="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon" rel="alternate" type="text/html" title="Bolsonaro usa links de rede obscura para divulgar documentos contra voto eletrônico" /><published>2021-08-05T19:19:00-03:00</published><updated>2021-08-05T19:19:00-03:00</updated><id>https://nucleo.jor.br//curtas/bolsonaro-links-mastodon</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-05-bolsonaro-links-mastodon">&lt;p&gt;Na noite de 4 de agosto, o presidente Jair Bolsonaro &lt;a href=&quot;https://www.facebook.com/jairmessias.bolsonaro/posts/2516129801869324&quot;&gt;publicou&lt;/a&gt; no Facebook quatro documentos que, segundo ele, comprovam fraude eleitoral – na verdade não &lt;a href=&quot;https://www1.folha.uol.com.br/poder/2021/08/especialistas-e-investigador-dizem-nao-haver-prova-de-fraude-ou-mudanca-em-codigo-fonte-de-urnas-em-2018-como-alega-bolsonaro.shtml&quot;&gt;comprovam&lt;/a&gt; isso, e sim mostram que o site do TSE foi invadido, são sistemas separados.&lt;/p&gt;
 
 &lt;p&gt;Um dos aspectos curiosos dessa divulgação bizarra foi a escolha da rede social &lt;a href=&quot;https://brasileiros.social/&quot;&gt;Brasileiros&lt;/a&gt;, construída sobre a &lt;a href=&quot;https://manualdousuario.net/mastodon-alternativa-twitter/&quot;&gt;plataforma&lt;/a&gt; de código aberto &lt;a href=&quot;https://mastodon.social/about&quot;&gt;Mastodon&lt;/a&gt;, para hospedar os documentos linkados no Facebook.&lt;/p&gt;
 
@@ -808,107 +1168,4 @@ Dados tabelados a partir de infográfico do RankMyApp
 
 &lt;h3 id=&quot;como-fizemos-isso&quot;&gt;Como fizemos isso&lt;/h3&gt;
 
-&lt;p&gt;Entramos em contato com o Telegram pelo Press Bot, mandamos email para os três endereços acima e mandamos uma mensagem para Mike Ravdonikas. Tentamos contato pelo &lt;a href=&quot;https://twitter.com/nucleojor/status/1414557027301527553&quot;&gt;Twitter também&lt;/a&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Telegram, " /><category term="Judiciário" /><summary type="html">Dificuldade de contatar representantes da plataforma afeta jornalistas e até o judiciário.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/telegram/telegram-sombras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/telegram/telegram-sombras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Com Pix, pedintes virtuais se amontoam no Twitter e no Instagram</title><link href="https://nucleo.jor.br//reportagem/2021-07-22-pedintes-pix-redes-sociais" rel="alternate" type="text/html" title="Com Pix, pedintes virtuais se amontoam no Twitter e no Instagram" /><published>2021-07-22T06:01:00-03:00</published><updated>2021-07-22T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/pedintes-pix-redes-sociais</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-07-22-pedintes-pix-redes-sociais">&lt;p&gt;Com o movimento nas ruas diminuído no último ano devido à pandemia da Covid-19, sem mencionar os problemas econômicos do Brasil, as redes sociais se transformaram nos novos cruzamentos entre vias para quem pede doações em dinheiro contando apenas com a caridade de desconhecidos e uma chave Pix.&lt;/p&gt;
-
-&lt;p&gt;Análise do &lt;strong&gt;Núcleo&lt;/strong&gt; de centenas de posts no Instagram e no Twitter durante apenas quatro dias em junho de 2021 elaborou um panorama sobre principais motivações dos perfis que decidem pôr a cara na rede para pedir por auxílio financeiro, encontrando nessas plataformas um novo tipo de “semáforo” no qual podem pedir dinheiro para o máximo de pessoas possível.&lt;/p&gt;
-
-&lt;p&gt;Ali são feitos pedidos de doações para compra de comida ou de remédio, para auxílio com animais abandonados ou para levantar recursos para causas e projetos. Interessados em ajudar nem precisam sair do sofá: é só fazer um Pix – o formato de transferência e pagamento instantâneos que funciona a qualquer dia e hora entre bancos diferentes.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h6 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h6&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;PIX tem facilitado pedidos de doações online&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Crise econômica força pessoas a recorrerem a novos recursos e métodos de pedir dinheiro via redes sociais&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Segundo o levantamento, o comportamento de quem pede é diferente entre quem trafega no Twitter e quem circula pelo Instagram. Enquanto no Twitter a maior parte dos pedidos de ajuda é voltada para apoiar pessoas e até o próprio usuário que se encontra em situação financeira difícil, no Instagram uma parte significativa dos pedidos é voltada para o resgate de animais de estimação, como gatos ou cachorros em situação de abandono ou com problemas de saúde.&lt;/p&gt;
-
-&lt;p&gt;Em abril, o &lt;strong&gt;Núcleo&lt;/strong&gt; &lt;a href=&quot;https://nucleo.jor.br/reportagem/2021-04-29-pix-redes-sociais-aumento-popularidade&quot;&gt;mostrou como&lt;/a&gt; as redes sociais estavam popularizando o Pix e facilitando a viabilização de projetos e a monetização de perfis.&lt;/p&gt;
-
-&lt;p&gt;Agora, no entanto, é abordando um aspecto mais triste e delicado do assunto, que, de um lado, envolve pessoas potencialmente em situação de vulnerabilidade que perderam emprego, auxílio médico ou até mesmo segurança alimentar. E, de outro, usuários de redes sociais que podem não confiar em pedidos de desconhecidos a ponto de ajudar.&lt;/p&gt;
-
-&lt;iframe src=&quot;/img/pix/interativo-pedintes&quot; width=&quot;100%&quot; height=&quot;350px&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; seamless=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;na-rabeira-de-posts-mais-populares&quot;&gt;Na rabeira de posts mais populares&lt;/h3&gt;
-
-&lt;p&gt;Após analisar 3.607 tuítes entre os dias 27 e 28 de junho de 2021, buscando por menções simultâneas das palavras “pix” e “ajuda”, foi possível perceber que quem faz pedidos de doações no Twitter tem uma tendência muito maior em pedir um auxílio para benefício próprio ou para terceiros – 90% dos tuítes analisados eram de pedidos para esses fins.&lt;/p&gt;
-
-&lt;h5 id=&quot;o-desemprego-encabeçava-a-lista-das-justificativas-mais-comuns&quot;&gt;O desemprego encabeçava a lista das justificativas mais comuns.&lt;/h5&gt;
-
-&lt;p&gt;E, consequentemente, falta de verba para compra de alimentos, necessidade de pagamento de contas básicas (como água, luz e gás), compra de medicamentos, de cadeiras de rodas, assistência médica, tratamentos específicos, entre outros.&lt;/p&gt;
-
-&lt;p&gt;Outro comportamento dos pedintes analisados no Twitter foi a tentativa de se conectarem aos assuntos mais falados do momento, como se estivessem buscando uma audiência maior para pedir uma doação. Em geral, os tuítes com pedidos pessoais de doações via Pix, que se assemelham à mendicância, podem ser percebidos nos fios que seguem algumas das postagens mais populares do Twitter.&lt;/p&gt;
-
-&lt;p&gt;Foi comum encontrar pedidos que incluíam hashtags populares ou até embrenhados em conversas de outros usuários. Como o tuíte de Fernanda Gibara, que fez seu pedido em resposta a um tuíte de um usuário que questionava uma doação de US $10 mil do investidor e filantropo húngaro-estadunidense George Soros à Associação de Juízes Federais, no Brasil.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;Bom dia estou com meu aluguel atrasado e quase sem nada pra comer aqui em casa,Sou ambulante mais quase não tô trabalhando por causa desse vírus,Alguém me ajuda por favor meu pix 21968495041 &lt;a href=&quot;https://t.co/yUBk9hCFBJ&quot;&gt;pic.twitter.com/yUBk9hCFBJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Fernanda Gibara (@NandaMGibara) &lt;a href=&quot;https://twitter.com/NandaMGibara/status/1401849828280307712?ref_src=twsrc%5Etfw&quot;&gt;June 7, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Gibara foi uma dos 12 pessoas que se dispuseram a conversar com a reportagem – todos com uma narrativa semelhante. A maioria estava passando por uma situação difícil e inédita com a pandemia quando recebeu de algum conhecido a dica de que pedidos de doações postados nas mídias sociais poderiam ajudar a pagar as contas – afinal, o Pix é imediato e a caridade pode realmente acontecer.&lt;/p&gt;
-
-&lt;p&gt;Em entrevista via chat, a moça, que disse ter 24 anos e morar no Rio de Janeiro, contou que já há algumas semanas vinha pedindo doações de Pix (primeiro pelo Instagram e depois pelo Twitter) e que já havia arrecadado R$ 400, apesar de continuar com dois meses do aluguel de R$ 500 atrasados.&lt;/p&gt;
-
-&lt;p&gt;No Twitter, que não tem uma política de uso em relação a pedidos de doação, a motivação dos pedintes vai além de contas de aluguel. Em um tuíte do dia 16 de julho, Francisca @DeusA4Grade, postou um vídeo mostrando parte de um cômodo e de sua bebê para pedir esmola.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;Agradeço imensamente a você se puder ajudar minha filha com uma doação, minha filha tá passando muita fome e muita necessidade por favor eu te imploro se Deus tocar no teu coração 50centavos vai ajuda muito🙏😭 meu pix cpf 06213283404 &lt;a href=&quot;https://t.co/cSbhdNa33a&quot;&gt;pic.twitter.com/cSbhdNa33a&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francisca (@Deus4Agrade) &lt;a href=&quot;https://twitter.com/Deus4Agrade/status/1416052868885401615?ref_src=twsrc%5Etfw&quot;&gt;July 16, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Outra entrevistada, que preferiu não ser identificada, relatou que havia passado por dificuldades na obtenção de morfina para aplacar a dor. Segundo ela, o remédio era fornecido pelo SUS como parte do seu tratamento de câncer de boca, mas, diante das impossibilidades impostas pela quarentena, o fornecimento foi cessado e ela passou a fazer no Twitter alguns pedidos de auxílio por meio de depósitos via Pix.&lt;/p&gt;
-
-&lt;p&gt;O tuíte original, publicado no dia 28 de abril, teve dezenas de retuítes e uma doação de R$40 – publicada pelo próprio doador com foto do comprovante do Pix. Assim que conseguiu recursos financeiros suficientes para a compra das doses que a atenderiam por alguns meses, a entrevistada tuitou agradecendo a generosidade de quem havia feito as doações e suspendeu novos pedidos.&lt;/p&gt;
-
-&lt;h3 id=&quot;dificuldade-ou-trapaça&quot;&gt;Dificuldade ou trapaça?&lt;/h3&gt;
-&lt;p&gt;Para comprovar a veracidade e não serem confundidos com golpistas, muitos pedintes chegam a publicar fotos ou vídeos de suas geladeiras, despensas e até de comprovantes de residência, assim como expõem receitas médicas e contas de luz ou água. No entanto, na lógica da esmola, o destino do dinheiro é, na maioria das vezes, uma incógnita.&lt;/p&gt;
-
-&lt;p&gt;Um dos editores do &lt;strong&gt;Núcleo&lt;/strong&gt;, por exemplo, relatou ter se sensibilizado com uma resposta dada em um de seus tuítes populares, remetendo R$50 para uma usuária que havia feito um pedido de ajuda via pix. Após a doação, o editor não acompanhou mais o desfecho da história, e a beneficiária da doação removeu seu perfil da rede.&lt;/p&gt;
-
-&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
-  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Receba nossas matérias por email, toda quinta-feira. &lt;br /&gt;
-  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
-  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
-  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
-    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
-     &lt;div class=&quot;footer-form-actions&quot;&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;ntTZYrZ892fUdG4t9EX1OtdQ&quot; /&gt;
-       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
-       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
-       &lt;/div&gt;
-  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
-
-  &lt;/form&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Apontada por outros usuários da rede como um perfil fraudulento, Fernanda Gibara negou a acusação. “Isso não é verdade. Outras pessoas estão postando minhas fotos como se fosse delas. Eu tinha pedido antes no Instagram, aí botava as fotos da minha geladeira e do meu armário. Eu botei aqui no Twitter porque vi outras pessoas botando, aí botei também pra poder conseguir meu aluguel atrasado.”&lt;/p&gt;
-
-&lt;p&gt;Apesar de seu nome bater com o nome identificado pelo Pix informado – o que aconteceu com todos os entrevistados –, Gibara e mais dois usuários encerraram a comunicação e bloquearam a reportagem quando foram convidados a dar uma entrevista ao vivo. As contas continuam a fazer pedidos de doação na rede.&lt;/p&gt;
-
-&lt;h3 id=&quot;apelos-por-doações-para-cães-e-gatos&quot;&gt;Apelos por doações para cães e gatos&lt;/h3&gt;
-
-&lt;p&gt;O mesmo tipo de análise retornou resultados bastante diferentes no Instagram, mídia social que tem as fotos e vídeos como seu principal carro-chefe. Por lá, as 185 postagens com pedidos de doações via Pix analisadas entre os dias 14 e 15 de junho de 2021, tiveram outro foco: o auxílio no pagamento de contas relacionadas a cuidados com animais de estimação em situação de vulnerabilidade.&lt;/p&gt;
-
-&lt;p&gt;A maior parte dos pedidos mencionava a falta de ração para animais abrigados temporariamente, apoio no pagamento de contas em clínicas veterinárias para animais resgatados e para o pagamento de tratamentos de saúde de cães e gatos.&lt;/p&gt;
-
-&lt;p&gt;Mais de 54% das postagens analisadas no Instagram tinham relação com o cuidado de pets, fosse para complementar os recursos dos tutores que buscavam mantê-los saudáveis ou para apoiar o cuidado dado por protetores a animais resgatados.&lt;/p&gt;
-
-&lt;h5 id=&quot;muitos-dos-pedidos-expunham-fotos-e-vídeos-dos-animais-em-alguns-casos-com-cenas-fortes&quot;&gt;Muitos dos pedidos expunham fotos e vídeos dos animais, em alguns casos com cenas fortes.&lt;/h5&gt;
-
-&lt;p&gt;Mais engajados, os pedidos de ajuda para animais abandonados, como os da ONG Paraíso dos Focinhos, chegam a reunir quase 10 mil visualizações, 5 mil likes e 300 comentários. No total, os posts com esse tipo de pedido somaram mais de 4 milhões de interação no período de análise.&lt;/p&gt;
-
-&lt;p&gt;Já os pedidos de ajuda para causas pessoais, fossem elas divulgadas pelos próprios beneficiários ou por terceiros, somaram no Instagram pouco mais de 22% das postagens.&lt;/p&gt;
-
-&lt;p&gt;Causas mais amplas representaram cerca de 12% das postagens. Entre elas, combate à fome, campanhas do agasalho ou doações para abrigos infantis ou da terceira idade, bem como a busca por apoio para projetos realizados por indivíduos ou institutos, como o apoio para bares e restaurantes que passaram por apuros durante a quarentena, projetos de reciclagem, campanhas políticas, entre outros.&lt;/p&gt;
-
-&lt;p&gt;Entre as outras postagens, destacam-se as feitas por lojas online, que apareceram em cerca de 6% dos resultados ao pedirem para que os pagamentos fossem feitos por meio da modalidade Pix.&lt;/p&gt;
-
-&lt;h3 id=&quot;como-fizemos-isso&quot;&gt;Como fizemos isso&lt;/h3&gt;
-
-&lt;p&gt;Para esta reportagem, usamos duas ferramentas para fazer a raspagem de dados no Twitter e no Instagram: o CrowdTangle, que é uma ferramenta do Facebook para analisar conteúdo público nas redes sociais, e o Tags para analisar os posts no Twitter.&lt;/p&gt;
-
-&lt;p&gt;No Instagram, foram analisadas 185 postagens, entre os dias 14 e 15 de junho de 2021. Para o levantamento no Twitter, foram analisados 3.607 tuítes entre os dias 27 e 28 de junho de 2021.&lt;/p&gt;
-
-&lt;p&gt;Para manter a brevidade da análise, foram consultadas apenas essas duas redes. Elas não foram contatadas para comentários sobre o assunto por não envolver políticas ou ações diretas dessas plataformas.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="PIX, " /><category term="Instagram, " /><category term="Twitter, " /><category term="Esmola virtual" /><summary type="html">Com o movimento nas ruas diminuído devido à pandemia da Covid-19, mídias sociais se transformaram nos novos cruzamentos para quem quer pedir doações em dinheiro contando com a caridade de desconhecidos e uma chave-Pix.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" /><media:content medium="image" url="https://nucleo.jor.br//img/pix/pedidos-pix-header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Entramos em contato com o Telegram pelo Press Bot, mandamos email para os três endereços acima e mandamos uma mensagem para Mike Ravdonikas. Tentamos contato pelo &lt;a href=&quot;https://twitter.com/nucleojor/status/1414557027301527553&quot;&gt;Twitter também&lt;/a&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Telegram, " /><category term="Judiciário" /><summary type="html">Dificuldade de contatar representantes da plataforma afeta jornalistas e até o judiciário.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/telegram/telegram-sombras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/telegram/telegram-sombras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

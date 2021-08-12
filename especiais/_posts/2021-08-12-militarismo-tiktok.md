@@ -8,7 +8,7 @@ titulo_redes: "Entre dancinhas e memes, militarismo invade TikTok"
 subtitle: 'Análise do Núcleo mostra crescimento de vídeos exaltando armas de fogo, militares e policiais na rede social repleta de crianças e adolescentes'
 subtitle_redes: "Análise mostra crescimento de vídeos exaltando armas de fogo, militares e policiais na rede"
 excerpt: 'Análise do Núcleo mostra alto engajamento em vídeos exaltando armas de fogo, militares e policiais na rede social repleta de crianças e adolescentes'
-date: "12/08/2021 06:01"
+date: "11/08/2021 06:01"
 autoria:
   - "Sérgio Spagnuolo"
 analise:
@@ -99,7 +99,13 @@ Uma [bela investigação](https://www.wsj.com/video/series/inside-tiktoks-highly
 
 Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questionamentos específicos do Núcleo apontando apenas para suas diretrizes de comunidade que "apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma".
 
-<img src="{{ site.baseurl }}/img/tiktok/graficos-tiktokarmas_tiktok2020.png" class="img-destak" alt="arte" alt="gráficos sobre utilização do WhatsApp e de outras plataformas">
+<img src="{{ site.baseurl }}/img/tiktok/graficos-tiktokarmas_tiktok2020.png" class="img-destak" alt="arte" alt="">
+
+Militarismo, exaltação de armas de fogo e de policiais também pode ser um gatilho para radicalização online. Se não chega a ser discurso de ódio, beira a banalização do uso da violência.
+
+"Um engajamento maior nos conteúdos com violência, discursos de ódio e ações extremas sinaliza que a radicalização a partir das plataformas digitais está presente na sociedade. A busca e o engajamento nesses conteúdos revela que essas pessoas não mais acreditam na solução de conflitos através da busca pelo consenso mas sim com ações extremas até a o extremo com ação violenta. É a credulidade na ideia de que apenas a ação violenta será capaz de produzir soluções para suas demandas", diz a pesquisadora [Michele Prado](https://www.dw.com/pt-br/sem-um-extremista-no-poder-muitas-vidas-poderiam-ter-sido-salvas/a-56961712), autora do livro "Tempestade Ideológica - Bolsonarismo: a Alt-Right e o Populismo Iliberal no Brasil"
+
+"Um jovem encontra nestes conteúdos uma porta de entrada para um submundo de ódio, preconceito e violência. E a desradicalização e desengajamento não são simples de serem alcançados. Portanto, a prevenção contra a Radicalização ainda é o melhor caminho", complementou.
 
 ---
 
@@ -166,9 +172,9 @@ Procuramos o TikTok com quatro perguntas principais, e também enviamos as hasht
 
 A resposta da empresa, abaixo, na íntegra:
 
-As Diretrizes da Comunidade do TikTok apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma, incluindo a promoção de desinformação, armas de fogo, violência, discurso de ódio e outras violações que tentam impedir nossa capacidade de promover um local seguro e acolhedor para a criatividade e o entretenimento.
+*As Diretrizes da Comunidade do TikTok apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma, incluindo a promoção de desinformação, armas de fogo, violência, discurso de ódio e outras violações que tentam impedir nossa capacidade de promover um local seguro e acolhedor para a criatividade e o entretenimento.*
 
-Para obter detalhes adicionais, visite nossas Diretrizes da Comunidade: [TikTok](https://www.tiktok.com/community-guidelines?lang=pt)
+*Para obter detalhes adicionais, visite nossas Diretrizes da Comunidade: [TikTok](https://www.tiktok.com/community-guidelines?lang=pt)*
 
 As hashtags consideradas são:
 
