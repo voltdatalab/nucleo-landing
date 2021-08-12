@@ -135,6 +135,7 @@
 												{% if n_autores == 0 %}
 													{% elsif n_autores == 1 %}
 													<strong>Por</strong> <span><a href='{{ site.baseurl }}/equipe/{{ page.autoria | first | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ page.autoria | first }}</a></span>
+													<br />
 													{% else %}
 													{% for autor in page.autoria %}
 													{% if forloop.first %}

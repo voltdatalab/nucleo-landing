@@ -837,3 +837,13 @@ td{
  }
 
 }
+
+.d-desk {
+display: none !important; }
+
+@media only screen and (min-width: 1280px) {
+.d-desk {
+  display: block !important; } }
+@media only screen and (min-width: 1280px) {
+.d-mob {
+  display: none !important; } }
