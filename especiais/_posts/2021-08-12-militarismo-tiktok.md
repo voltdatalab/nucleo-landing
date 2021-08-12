@@ -63,7 +63,7 @@ Embora vídeos de política tenham respondido pelo maior número de vídeos enco
 
 <img src="{{ site.baseurl }}/img/tiktok/graficos-tiktokarmas_bubble.png" class="img-destak" alt="arte" alt="gráficos sobre utilização do WhatsApp e de outras plataformas">
 
-O maior engajamento de usuários com vídeos militaristas e policialesco fica bastante evidente com o passar do tempo, de janeiro de 2020 até agosto de 2021.
+O maior engajamento de usuários com vídeos militaristas e policialescos fica bastante evidente com o passar do tempo, de janeiro de 2020 até agosto de 2021.
 
 No mesmo período, houve um notório aumento visibilidade de militares no noticiário e na participação em cargos do governo federal, conduzidos ao Executivo [em massa](https://www.metropoles.com/brasil/em-70-orgaos-militares-ocupam-183-dos-146-mil-cargos-comissionados-no-governo-bolsonaro) após a posse de Jair Bolsonaro como presidente, em 2019.
 
@@ -81,7 +81,7 @@ O TikTok começou a crescer consideravelmente no Brasil em 2020, ficando entre o
 
 <figcaption>Considera 61,4 mil vídeos com 41 hashtags diferentes.<br> Fonte: Análise do Núcleo Jornalismo</figcaption>
 
-Isso mostra que a tendência é vídeos com assunto policial e militar terem mais visibilidade na rede social. Isso tudo é ainda mais consequente tendo em vista três coisas:
+Isso mostra que a tendência de vídeos com assunto policial e militar ganhou visibilidade na rede social. Isso tudo é ainda mais consequente tendo em vista três coisas:
 
 **1. O uso da rede social por crianças e adolescentes**
 
@@ -133,7 +133,7 @@ Em meio a esse conteúdo belicoso, muitos vídeos não apenas exaltam o militari
 
 Outro faz referência direta a [brincar de tiro ao alvo](https://www.tiktok.com/@omundomilitar/video/6966493824336006406) com bandido, enquanto [esse](https://www.tiktok.com/@coronelcaveira/video/6911850117591076101) mostra uma abordagem na qual o policial atira pra cima e esse mostra o policial [aplicando](https://www.tiktok.com/@futuropoliciall/video/6912185514980396293) um golpe mata-leão em um homem que age de maneira ameaçadora.
 
-Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. mas sim vídeos que emulam programas TV policialescos e ufanistas, convocando jovens para alistamento militar.
+Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. Mas muitos vídeos emulam programas TV policialescos e ufanistas, banalizando a violência e convocando jovens, não só para alistamento militar e policial, como também para adquirir armas de fogo.
 
 <span class="texto-destak">"Troque seu PlayStation por um fuzil."<br>
 <small class="arquivado" style="color:#222222">- Canto de guerra militar em vídeos no TikTok</small>
