@@ -36,6 +36,7 @@ tags:
 **ENTRE DANCINHAS** de 15 segundos, receitas rápidas de cozinha e vídeos engraçadinhos, conteúdos que exaltam abordagens policiais, militares e armas de fogo têm encontrado campo fértil de engajamento no TikTok, rede social com grande adesão de crianças e adolescentes que faz de tudo para manter jovens grudados no celular o máximo possível.
 
 Análise do Núcleo com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo -- embora não estejam totalmente descoladas da política.
+Análise do **Núcleo** com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo -- embora não estejam totalmente descoladas da política.
 
 Nossa busca se concentrou em um conjunto de `17` hashtags muito utilizadas em vídeos sobre militares, policiais e entusiastas de armas<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br>os CACS - Caçador, Atirador e/ou Colecionador<br><br></span>, e as comparou com outras `24` hashtags muito utilizadas em vídeos sobre memes comuns (como dia dos pais e brincadeiras), esportes (basicamente futebol e Jogos Olímpicos de 2020) e política (contra ou a favor ao presidente Jair Bolsonaro).
 
@@ -73,7 +74,7 @@ O TikTok começou a crescer consideravelmente no Brasil em 2020, ficando entre o
 | pró-armas        | 8.885   | 3.888                  |
 | memes            | 3576    | 850                    |
 
-<figcaption>Considera 61,4 mil vídeos com 41 hashtags diferentes.<br> Fonte: Análise do Núcleo Jornalismo</figcaption>
+<figcaption>Considera 61,4 mil vídeos com 41 hashtags diferentes.<br> Fonte: Análise do **Núcleo** Jornalismo</figcaption>
 
 Isso mostra que a tendência de vídeos com assunto policial e militar ganhou visibilidade na rede social. Isso tudo é ainda mais consequente tendo em vista três coisas:
 
@@ -91,7 +92,7 @@ Não é segredo que o TikTok (e qualquer rede social, diga-se) quer manter seus 
 
 Uma [bela investigação](https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796) do Wall Street Journal, a partir de contas falsas para testar a rede social, mostrou que o segredo do algoritmo é o monitoramento atento e constante do tempo de visualização dos vídeos. Esse algoritmo responde tão bem à atenção do usuário que algumas pessoas brincam que ele pode ler mentes. A investigação mostrou que é possível cair em um vórtice de conteúdo extremista difícil de escapar.
 
-Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questionamentos específicos do Núcleo apontando apenas para suas diretrizes de comunidade que "apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma".
+Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questionamentos específicos do **Núcleo** apontando apenas para suas diretrizes de comunidade que "apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma".
 
 <img src="{{ site.baseurl }}/img/tiktok/graficos-tiktokarmas_tiktok2020.png" class="img-destak" alt="arte" alt="">
 
@@ -115,7 +116,7 @@ Militarismo, exaltação de armas de fogo e de policiais também pode ser um gat
 
 ### POLÍCIA BOA É POLÍCIA NO TIKTOK
 
-Em abril, reportagem especial do Núcleo abordou os influenciadores policiais no Instagram. Decidi, então, tentar ver o que está rolando sobre isso no TikTok, que tem crescido vertiginosamente nos últimos anos no Brasil.
+Em abril, reportagem especial do **Núcleo** abordou os influenciadores policiais no Instagram. Decidi, então, tentar ver o que está rolando sobre isso no TikTok, que tem crescido vertiginosamente nos últimos anos no Brasil.
 
 Ao longo (e foram longos mesmo) de três meses de apuração da reportagem, treinei meu algoritmo de tal forma que meu TikTok está praticamente inutilizado de tanto que o app me recomenda vídeos com conteúdo policial, militar e pró-armas -- num nível que não pode ser sadio.
 
