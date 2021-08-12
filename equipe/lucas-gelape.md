@@ -8,5 +8,5 @@ twitter: lgelape
 email: lucas@nucleo.jor.br
 linkedin_link: "https://www.linkedin.com/in/lucas-de-oliveira-gelape-9729a1178/"
 linkedin_nome: lucasgelape
-background: lucas-gelape.png
+image: lucas-gelape.png
 ---

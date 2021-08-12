@@ -8,5 +8,5 @@ twitter: lais_fmartins
 email: lais@nucleo.jor.br
 linkedin_nome: laismartins
 linkedin_link: 'https://www.linkedin.com/in/la%C3%ADs-martins-2604'
-background: lais-martins.png
+image: lais-martins.png
 ---

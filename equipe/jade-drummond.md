@@ -8,5 +8,5 @@ twitter: jade_dru
 email: jade@nucleo.jor.br
 linkedin_nome: jade-drummond
 linkedin_link: 'https://www.linkedin.com/in/jade-campos-drummond'
-background: jade-drummond.png
+image: jade-drummond.png
 ---

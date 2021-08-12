@@ -9,23 +9,17 @@ subtitle: 'Análise do Núcleo mostra crescimento de vídeos exaltando armas de 
 subtitle_redes: "Análise mostra crescimento de vídeos exaltando armas de fogo, militares e policiais na rede"
 excerpt: 'Análise do Núcleo mostra alto engajamento em vídeos exaltando armas de fogo, militares e policiais na rede social repleta de crianças e adolescentes'
 date: "12/08/2021 06:01"
-autoria:
-  - "Sérgio Spagnuolo"
-analise:
-  - "Sérgio Spagnuolo"
-colaboracao:
-  - "Laís Martins"
-edicao:
-  - "Alexandre Orrico"
-dados:
-  - "Lucas Lago"
-graficos:
-  - "Rodolfo Almeida"
+autoria: "Sérgio Spagnuolo"
+analise: "Sérgio Spagnuolo"
+colaboracao: "Laís Martins"
+edicao: "Alexandre Orrico"
+dados: "Lucas Lago"
+graficos: "Rodolfo Almeida"
 creditos:
   - "Sérgio Spagnuolo"
   - "Laís Martins"
-  - "Rodolfo Almeida"
   - "Lucas Lago"
+  - "Rodolfo Almeida"
   - "Alexandre Orrico"
 gif: 'img/tiktok/header.gif'
 image: 'img/tiktok/tiktokarmamentista-04.png'

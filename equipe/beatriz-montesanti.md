@@ -8,5 +8,5 @@ twitter:
 linkedin_link:
 linkedin_nome:
 email:
-background:
+image:
 ---

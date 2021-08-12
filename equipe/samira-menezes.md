@@ -8,5 +8,5 @@ twitter: SamiraMenez
 linkedin_link:: "https://www.linkedin.com/in/samira-menezes-5aa11a12/"
 linkedin_nome: samira-menezes
 email: samira@nucleo.jor.br
-background: samira-menezes.png
+image: samira-menezes.png
 ---

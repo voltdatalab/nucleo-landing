@@ -8,5 +8,5 @@ twitter: sergiospagnuolo
 linkedin_link: "https://www.linkedin.com/in/sergiospagnuolo/"
 linkedin_nome: sergiospagnuolo
 email: sergio@nucleo.jor.br
-background: sergio-spagnuolo.png
+image: sergio-spagnuolo.png
 ---

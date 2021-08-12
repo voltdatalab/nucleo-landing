@@ -7,5 +7,5 @@ subtitle: 'Jornalista. Trabalhou na Editora Abril por mais de dez anos, passando
 twitter: Jumoretti
 linkedin_link:: "https://www.linkedin.com/in/julienemoretti/"
 linkedin_nome: julienemoretti
-background: juliene-moretti.png
+image: juliene-moretti.png
 ---
