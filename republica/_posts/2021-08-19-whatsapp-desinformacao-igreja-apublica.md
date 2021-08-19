@@ -9,9 +9,10 @@ subtitle: 'Levantamento inédito da Universidade Federal do Rio de Janeiro mostr
 subtitle_redes: 'Levantamento inédito da Universidade Federal do Rio de Janeiro mostra os caminhos da desinformação entre religiosos'
 excerpt: 'Levantamento inédito da Universidade Federal do Rio de Janeiro mostra os caminhos da desinformação entre religiosos'
 date: 19/08/2021 08:01
-reportagem: Mariama Correia
+reportagem: "Mariama Correia"
+reporter_url: "https://twitter.com/MariamaCorreia"
 credito_img: "Unsplash/Núcleo"
-image: "img/republicacoes_outros/zap_igrejas/capa.png"
+image: "img/republicacoes_outros/zap_igrejas/zap-religiao_Teaser.png"
 nota_abertura: "Esta é uma republicação <a href='https://apublica.org/2021/08/grupos-da-igreja-no-whatsapp-sao-usados-para-disseminar-desinformacao-revela-pesquisa/' target='_blank'>da Agência Pública</a>. <br><br>
 <img src='https://apublica.org/wp-content/uploads/2019/08/selonovo.png' alt='selo ag publica'>
 "
