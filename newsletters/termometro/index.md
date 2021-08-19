@@ -82,7 +82,7 @@ As redes sociais têm sido uma importante ferramenta para qualquer lado do espec
 
 É por isso que criamos uma newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais.
 
-O **Termômetro** é o que chamamos de uma _newsletter de oportunidade_, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar. 
+O **Termômetro** é enviado toda quarta-feira à tarde. 
 
 A ideia é fazer algo útil e não encher seu inbox com emails desnecessários. A gente leva isso muito a sério por aqui.
 

@@ -2,7 +2,7 @@
   link: "termometro"
   img-header: "termometro-header.png"
   tags: "Política, análise de dados"
-  desc: "Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, que não tem prazo pra ser enviada, só quando o debate estiver quente e quando tivermos algo a acrescentar."
+  desc: "Termômetro é um newsletter dedicada a analisar os assuntos mais importantes sobre o debate político que estão zanzando nas redes sociais, enviada toda quarta-feira à tarde."
   idn: "cFhoBifxEI3nFU892QjGbgvw"
   ordem: 1
 
@@ -10,7 +10,7 @@
   link: "poligono"
   img-header: "poligono-header.png"
   tags: "Ciência, divulgação científica"
-  desc: "Polígono é uma newsletter semanal e gratuita do <strong>Núcleo</strong>, que traz os principais assuntos e debates de ciência nas redes sociais, parte do nosso projeto Science Pulse. A newsletter é apoiada pelo Instituto Serrapilheira."
+  desc: "Polígono é uma newsletter semanal e gratuita do <strong>Núcleo</strong>, que traz os principais assuntos e debates de ciência nas redes sociais, parte do nosso projeto Science Pulse. A newsletter é apoiada pelo Instituto Serrapilheira e sai toda terça-feira de manhã."
   idn: "7C4Hby3cm472FRL3lYo0Hw"
   ordem: 2
 
@@ -18,7 +18,7 @@
   link: "garimpo"
   img-header: "garimpo.png"
   tags: "Assuntos virais, memes, cotidiano"
-  desc: "O Garimpo é uma news curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse."
+  desc: "O Garimpo é uma news diária e curta, com menos de três minutos de leitura, que contém os assuntos mais populares de várias redes sociais -- do Twitter ao TikTok, do Facebook ao ClubHouse."
   idn: "v5zrQ3RithV9C1HMZZgCeg"
   ordem: 3
 
