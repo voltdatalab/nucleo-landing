@@ -23,7 +23,7 @@ tags:
 
 ---
 
-Uma rápida pesquisa feita no Instagram pela [#sorteionutri](https://www.instagram.com/explore/tags/sorteionutri/) monstra mais de 200 posts de nutricionistas promovendo diversos tipos de sorteios, entre eles o de consulta gratuita.
+Uma rápida pesquisa feita no Instagram pela [#sorteionutri](https://www.instagram.com/explore/tags/sorteionutri/) mostra mais de 200 posts de nutricionistas promovendo diversos tipos de sorteios, entre eles o de consulta gratuita.
 
 Essa prática, porém, é proibida pelo [Código de Ética e Conduta dos Nutricionistas](https://www.cfn.org.br/wp-content/uploads/resolucoes/Res_599_2018.html), que veda "ao nutricionista utilizar o valor de seus honorários, promoções e sorteios de procedimentos ou serviços como forma de publicidade e propaganda para si ou para seu local de trabalho". 
 
