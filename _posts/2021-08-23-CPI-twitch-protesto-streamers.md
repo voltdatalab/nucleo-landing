@@ -3,7 +3,7 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Por dentro da greve de streamers do Twitch no Brasil"
+title: "Por dentro da greve de streamers da Twitch no Brasil"
 titulo_redes: "O streamer brasileiro está pistola com a Twitch"
 subtitle: 'Apagão acontece nesta segunda, enquanto criadores se unem para mostrar insatisfação com corte de repasses da empresa da Amazon.'
 subtitle_redes: 'Criadores se unem para mostrar insatisfação com corte de repasses da empresa da Amazon'
