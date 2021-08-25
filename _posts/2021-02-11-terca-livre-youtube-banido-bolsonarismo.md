@@ -19,9 +19,8 @@ creditos:
   - "Rodolfo Almeida"
 dados_abertos: "Dados do YouTube tabulados<br> pela Novelo Data"
 dados_abertos_link: "https://docs.google.com/spreadsheets/d/1vtCLy5Y7Qu5jnYSh5M_U6ID75PJ6gLYSZriufiZXDjo/edit?usp=sharing"
-image: 'img//tercalivre/tl.png'
-atualizacao:
-nota_abertura:
+image: 'img/tercalivre/tl.png'
+atualizacao: "Texto atualizado em 25.ago.2021 às 10h07 para corrigir informação no gráfico de barras e tirar menção à TV Coiote, que foi erroneamente incluída."
 categories:
   - "media"
 tags:
@@ -49,7 +48,6 @@ Ao se analisar os dados sobre a evolução de seguidores do *Terça Livre* conte
 ###### É importante porque...
 
 - *Comunicadores ligados ao presidente Jair Bolsonaro causam muito impacto nas redes sociais*
-
 - *Base de apoio do presidente está diretamente ligada a canais de influenciadores de direita no YouTube*
 
 ---
