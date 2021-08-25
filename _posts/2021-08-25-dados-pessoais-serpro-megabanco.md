@@ -94,7 +94,7 @@ Fundado em 1964, o Serpro presta serviços de tecnologia da informação, como p
 Os negócios com o governo representam 85% da receita da empresa, mas a fatia do setor privado tem crescido – especialmente com medidas de cortes de gastos da administração pública federal. De 2019 para 2020, a participação de empresas privadas passou de 10% para 14% (R$ 390 milhões) do faturamento líquido, que foi de R$ 2,7 bilhões no ano. O maior cliente privado é o Banco Panamericano.
 
 ![print de resposta do Sepro]({{ site.baseurl }}/img/outros/serpro_print2.png)
-<figcaption>Fonte: [Balanço](https://www.transparencia.serpro.gov.br/acesso-a-informacao/contas-anuais/2020/1_2020v20210326_publicacao_demonstracoesfinanceiras_e_notaexplicativa_encerramentoexercicio.pdf) do Serpro de 2020.</figcaption>
+<figcaption>Fonte: <a href="https://www.transparencia.serpro.gov.br/acesso-a-informacao/contas-anuais/2020/1_2020v20210326_publicacao_demonstracoesfinanceiras_e_notaexplicativa_encerramentoexercicio.pdf" target="_blank" Balanço</a> do Serpro de 2020.</figcaption>
 
 Apesar dos números positivos, em janeiro de 2020, o presidente Jair Bolsonaro assinou dois decretos autorizando a inclusão do [Serpro](https://www2.camara.leg.br/legin/fed/decret/2020/decreto-10206-22-janeiro-2020-789695-publicacaooriginal-159878-pe.html) e da [DataPrev](https://www.in.gov.br/web/dou/-/decreto-n-10.199-de-15-de-janeiro-de-2020-238315114) no Programa Nacional de Desestatização, o PND, como parte do [cronograma de privatizações, desinvestimentos e liquidações do governo federal](https://www.gov.br/economia/pt-br/assuntos/noticias/2021/maio/governo-desinveste-mais-de-r-200-bilhoes-em-ativos-e-inclui-15-estatais-no-pnd-desde-2019).
 

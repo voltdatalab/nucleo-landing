@@ -1,5 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-25T00:05:50-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Achar conteúdo extremista no TikTok é facinho, diz pesquisa</title><link href="https://nucleo.jor.br//curtas/2021-08-24-pesquisa-tiktok-conteudo-extremista" rel="alternate" type="text/html" title="Achar conteúdo extremista no TikTok é facinho, diz pesquisa" /><published>2021-08-24T16:32:00-03:00</published><updated>2021-08-24T16:32:00-03:00</updated><id>https://nucleo.jor.br//curtas/pesquisa-tiktok-conteudo-extremista</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-24-pesquisa-tiktok-conteudo-extremista">&lt;p&gt;Conteúdo original do Estado Islâmico, vídeos de massacre terrorista, apologia à extrema-direta, glorificação de Hitler, tudo isso pode ser encontrado com relativa facilidade no TikTok, segundo pesquisa publicada nesta terça-feira pelo &lt;a href=&quot;https://www.isdglobal.org/&quot;&gt;Institute for Strategic Dialogue&lt;/a&gt;, renomada organização que analisa extremismo no mundo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-25T09:59:55-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Megabanco de dados pessoais virou negócio para o Serpro</title><link href="https://nucleo.jor.br//reportagem/2021-08-25-dados-pessoais-serpro-megabanco" rel="alternate" type="text/html" title="Megabanco de dados pessoais virou negócio para o Serpro" /><published>2021-08-25T06:01:00-03:00</published><updated>2021-08-25T06:01:00-03:00</updated><id>https://nucleo.jor.br//reportagem/dados-pessoais-serpro-megabanco</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-08-25-dados-pessoais-serpro-megabanco">&lt;p&gt;A desculpa era “modernizar o estado brasileiro” e “desburocratizar o governo”. Na época, em 2017, parecia uma boa ideia: criar um enorme banco de dados que reunia todos os tipos de informações sobre as pessoas, a um clique de distância, para ajudar gestores públicos a prevenir fraudes e na tomada de decisões. Mas o projeto &lt;a href=&quot;https://www.loja.serpro.gov.br/govdata&quot;&gt;GovData&lt;/a&gt;, criado por Michel Temer e engordado por Bolsonaro e Paulo Guedes com pelo menos 29 bases diferentes de dados – muitas delas ultrassensíveis –, está prestes a cair nas mãos da iniciativa privada.&lt;/p&gt;
+
+&lt;p&gt;Lançado pelo Ministério do Planejamento e pelo Serviço Federal de Processamento de Dados, o Serpro, em maio daquele ano, o GovData fazia parte de uma tendência &lt;a href=&quot;https://www.oecd.org/gov/digital-government-index-4de9f5bb-en.htm&quot;&gt;mundial&lt;/a&gt; de “governança digital” para melhorar o funcionamento da máquina pública. Sob Bolsonaro, o projeto foi incorporado ao Ministério da Economia, junto ao extinto Ministério do Planejamento, e &lt;a href=&quot;https://docs.google.com/document/d/1e8dB_oNsRUoc69zvULhw7G0YRr5iddHO/edit?usp=sharing&amp;amp;ouid=116923582836460804252&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;descontinuado&lt;/a&gt; em 2019 como ferramenta de governo. Desde então, ficou sob os cuidados do Serpro.&lt;/p&gt;
+
+&lt;h4 id=&quot;esta-reportagem-foi-feita-em-parceria-com-o-the-intercept-brasil-é-resultado-de-uma-bolsa-para-investigações-sobre-tecnoautoritarismo-uma-iniciativa-da-associação-data-privacy-brasil-de-pesquisa-em-parceria-com-o-intercept&quot;&gt;Esta reportagem foi feita em parceria com o &lt;a href=&quot;https://theintercept.com/2021/08/24/abandonado-por-bolsonaro-megabanco-de-dados-virou-produto-valioso-na-privatizacao-do-serpro/&quot;&gt;The Intercept Brasil&lt;/a&gt;. É resultado de uma &lt;a href=&quot;https://theintercept.com/2021/02/01/intercept-lanca-bolsas-para-reportagens-sobre-tecnoautoritarismo/&quot;&gt;bolsa&lt;/a&gt; para investigações sobre tecnoautoritarismo, uma iniciativa da Associação Data Privacy Brasil de Pesquisa em parceria com o Intercept.*&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;h6 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Dados pessoais são considerados produtos e abusos podem trazer problemas para as pessoas&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Em caso de privatização do Serpro, muitos dados sensíveis de brasileiros ficariam nas mãos de empresas privadas&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hoje, o uso do GovData é nebuloso. Apesar dos poucos detalhes públicos sobre o programa, dá para saber que ele reúne &lt;a href=&quot;https://ck.govdata.gov.br/dataset&quot;&gt;dezenas de bases de dados&lt;/a&gt;  diferentes, com vários níveis de complexidade e sensibilidade. Algumas delas são mais administrativas e servem para contextualizar informações, como detalhes sobre o território brasileiro e nomenclaturas de bancos de dados. Mas outras contêm dados extremamente sensíveis sobre a população, especialmente a parcela mais vulnerável que recebe auxílio do governo.&lt;/p&gt;
+
+&lt;p&gt;A mais delicada delas é a do Cadastro Único para Programas Sociais, o CadÚnico. &lt;a href=&quot;https://www.gov.br/pt-br/servicos/solicitar-cessao-de-dados-identificados-do-cadastro-unico&quot;&gt;Sigilosa e de uso exclusivo&lt;/a&gt; de entes federais ou pesquisas, ela tem informações sobre famílias brasileiras em situação de pobreza e extrema pobreza. Por meio dela, é possível saber, por exemplo, se a pessoa recebe ajuda financeira de vizinhos, se tem uma boa relação com a família ou se faz parte de algum movimento social.&lt;/p&gt;
+
+&lt;p&gt;A real dimensão do GovData, no entanto, não está somente nas bases individuais que o compõem, mas sim em sua capacidade de cruzar diferentes conjuntos de dados que não foram desenhados para conversar entre si. Com isso, é possível descobrir ainda mais sobre pessoas cadastradas a partir dos chamados data lakes – aglomerados de bases de dados que passam a ser cruzadas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/outros/serpro-info_Grafico-standalone.png&quot; alt=&quot;como funciona o gov data - ilustração&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nas mãos do governo, esses data lakes podem ser utilizados para fiscalização, combate a fraudes e inteligência para políticas públicas. Mas também para perseguição de grupos e indivíduos que, por exemplo, participam ativamente de movimentos sociais críticos ao governo e recebem benefícios sociais.&lt;/p&gt;
+
+&lt;h5 id=&quot;se-sob-o-governo-os-data-lakes-podem-ser-usados-para-perseguir-economicamente-um-cidadão-nas-mãos-de-uma-empresa-privada-significaria-um-risco-imensurável-à-privacidade-uma-vez-que-dados-sensíveis-estariam-potencialmente-disponíveis-para-quem-pudesse-pagar-prejudicando-scores-de-crédito-e-acesso-a-serviços-por-exemplo&quot;&gt;Se sob o governo os data lakes podem ser usados para perseguir economicamente um cidadão, nas mãos de uma empresa privada significaria um risco imensurável à privacidade, uma vez que dados sensíveis estariam potencialmente disponíveis para quem pudesse pagar, prejudicando scores de crédito e acesso a serviços, por exemplo.&lt;/h5&gt;
+
+&lt;h3 id=&quot;de-política-pública-a-produto&quot;&gt;De política pública a produto&lt;/h3&gt;
+
+&lt;p&gt;A ideia de reunir o maior número possível de bancos de dados públicos surgiu em 2017, por iniciativa do Ministério do Planejamento. Em sua primeira versão, o GovData reunia informações de 14 bases de dados. A &lt;a href=&quot;https://www.serpro.gov.br/menu/noticias/noticias-2018/tomada-de-decisoes-e-estabelecimento-de-politicas-publicas-embasadas-em-dados-de-forma-rapida-e-eficiente/&quot;&gt;premissa&lt;/a&gt; era permitir que integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação, o Sisp, hospedassem ali suas informações e possibilitassem o cruzamento, a partir de outras bases públicas. A operacionalização do GovData ficou a cargo do Serpro e da DataPrev, a Empresa de Tecnologia e Informações da Previdência Social, em um &lt;a href=&quot;https://drive.google.com/file/d/1li202Jlt5zSDceZaS7Dm2id6_rJVHujy/view&quot;&gt;contrato&lt;/a&gt; de R$ 23,9 milhões.&lt;/p&gt;
+
+&lt;p&gt;Já no ano de lançamento, 18 órgãos acessaram a base de dados como “degustação”. Ministério do Trabalho, da Ciência e Tecnologia, das Cidades, Anatel, Controladoria-Geral da União e Presidência da República foram alguns deles.&lt;/p&gt;
+
+&lt;p&gt;Em 2019, quando Jair Bolsonaro assumiu, o GovData foi absorvido pelo Ministério da Economia junto com o extinto Ministério do Planejamento. Nesse período, serviu para alimentar consultas a serviços de assistência social e exportação. Também ajudou a abastecer o mercado com dados sobre tecnologia da informação, segundo o próprio Ministério da Economia. E foi usado para “transformação de serviços”, jargão para definir a “simplificação e a oferta de serviços por meio de canais digitais”, disse o governo, sem especificar quais são.&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Receba nossas matérias por email, toda quinta-feira. &lt;br /&gt;
+  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
+  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
+  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
+    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
+     &lt;div class=&quot;footer-form-actions&quot;&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;ntTZYrZ892fUdG4t9EX1OtdQ&quot; /&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
+       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
+       &lt;/div&gt;
+  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
+
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;O troca-troca de informações corria sem uma política de privacidade. Em uma resposta a um pedido via Lei de Acesso à Informação, o Ministério da Economia se &lt;a href=&quot;http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?List=0c839f31%2D47d7%2D4485%2Dab65%2Dab0cee9cf8fe&amp;amp;ID=1034746&amp;amp;Web=88cc5f44%2D8cfe%2D4964%2D8ff4%2D376b5ebb3bef&quot;&gt;limitou a dizer &lt;/a&gt;que havia três níveis de compartilhamento – amplos, restritos e sigilosos – e que os dados não eram anonimizados, porque o acesso seria feito só por “órgãos autorizados pelo gestor do dado”.&lt;/p&gt;
+
+&lt;p&gt;No fim de 2019, o Ministério da Economia garantiu que o GovData havia sido criado &lt;a href=&quot;http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?List=0c839f31%2D47d7%2D4485%2Dab65%2Dab0cee9cf8fe&amp;amp;ID=1131542&amp;amp;Web=88cc5f44%2D8cfe%2D4964%2D8ff4%2D376b5ebb3bef&quot;&gt;para uso interno&lt;/a&gt; do governo federal e que, por isso, só servidores desses órgãos poderiam ter acesso às informações, de forma restrita e controlada. Até aquele momento, o serviço havia custado aos cofres públicos mais de R$4 milhões e não gerava lucro. “O objetivo do projeto não é a geração de receita, mas sim a promoção da análise de dados no Governo Federal, com vistas a subsidiar a tomada de decisão em políticas públicas. Dessa maneira, não há que se falar em receita gerada”, disse o Ministério da Economia, em resposta a outro pedido de informações.&lt;/p&gt;
+
+&lt;p&gt;Mas, depois disso, as coisas tomaram um rumo incerto. Em resposta a mais um pedido feito pelo Intercept e pelo &lt;strong&gt;Núcleo&lt;/strong&gt; com base na Lei de Acesso à Informação, o Ministério da Economia disse que o programa foi &lt;a href=&quot;https://docs.google.com/document/d/1e8dB_oNsRUoc69zvULhw7G0YRr5iddHO/edit?rtpof=true&quot;&gt;descontinuado&lt;/a&gt; em 2019 “devido à mudança de cenário gerencial e administrativo”.&lt;/p&gt;
+
+&lt;p&gt;No final daquele ano, Bolsonaro criou, &lt;a href=&quot;https://theintercept.com/2019/10/15/governo-ferramenta-vigilancia/&quot;&gt;por meio de um decreto&lt;/a&gt;, o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados, megabases que reuniam mais de 50 diferentes tipos de dados dos cidadãos sob a tutela do Ministério da Economia. “O objetivo é que o Cadastro Base do Cidadão se consolide como a única referência de informações dos cidadãos para o governo”, declarou, na época, Luis Felipe Monteiro, secretário de Governo Digital do Ministério da Economia. O Cadastro Base não tem relação com o GovData.&lt;/p&gt;
+
+&lt;p&gt;Mas, abandonado pela pasta de Paulo Guedes, o projeto continuou dentro do Serpro. A empresa pública seguiu com contratos com os ministérios da Economia, do Meio Ambiente e da Infraestrutura – que, segundo o Serviço Federal de Processamento de Dados, utilizam sua solução para pensarem em políticas públicas “baseadas em evidências”. No total, os contratos dos ministérios com o Serpro, assinados em 2020, ultrapassam R$ 850 milhões, segundo o balanço da empresa – sem contar os serviços prestados para a Receita Federal. O GovData corresponde a R$3,62 milhões, segundo a assessoria de imprensa da estatal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/outros/serpro_print1.png&quot; alt=&quot;print de resposta do Sepro&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Resposta de pedido de Lei de Acesso à Informação.&lt;/figcaption&gt;
+
+&lt;p&gt;A empresa, no entanto, se recusou a responder quanto custou o desenvolvimento da ferramenta e quais os valores pagos pelo acesso à base de dados. Tampouco forneceu detalhes sobre os contratos dos órgãos públicos relacionados ao GovData ou seus preços. “As informações solicitadas encontram-se protegidas por sigilo empresarial e segredo industrial”, disse o Serpro, ao negar as informações. “O Serpro é prestador de serviços que atua em regime concorrencial, valendo-se de métodos de formação de preços próprios das empresas privadas”.&lt;/p&gt;
+
+&lt;p&gt;Se como estatal o Serpro é pouco transparente sobre os contratos que envolvem os nossos dados, o futuro pós-privatização é ainda mais nebuloso.&lt;/p&gt;
+
+&lt;h3 id=&quot;privatização-à-espreita&quot;&gt;Privatização à espreita&lt;/h3&gt;
+
+&lt;p&gt;Fundado em 1964, o Serpro presta serviços de tecnologia da informação, como processamento de dados, construção e hospedagem de aplicativos, execução de projetos sob medida e software, principalmente para o governo federal. A Receita Federal, por exemplo, rendeu R$1,5 bilhão ao Serpro no ano passado, enquanto a Diretoria de Administração Logística do Ministério da Economia pagou R$500 milhões à estatal.&lt;/p&gt;
+
+&lt;p&gt;Os negócios com o governo representam 85% da receita da empresa, mas a fatia do setor privado tem crescido – especialmente com medidas de cortes de gastos da administração pública federal. De 2019 para 2020, a participação de empresas privadas passou de 10% para 14% (R$ 390 milhões) do faturamento líquido, que foi de R$ 2,7 bilhões no ano. O maior cliente privado é o Banco Panamericano.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/outros/serpro_print2.png&quot; alt=&quot;print de resposta do Sepro&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Fonte: &amp;lt;a href=&quot;https://www.transparencia.serpro.gov.br/acesso-a-informacao/contas-anuais/2020/1_2020v20210326_publicacao_demonstracoesfinanceiras_e_notaexplicativa_encerramentoexercicio.pdf&quot; target=&quot;_blank&quot; Balanço&amp;lt;/a&amp;gt; do Serpro de 2020.&lt;/figcaption&gt;
+
+&lt;p&gt;Apesar dos números positivos, em janeiro de 2020, o presidente Jair Bolsonaro assinou dois decretos autorizando a inclusão do &lt;a href=&quot;https://www2.camara.leg.br/legin/fed/decret/2020/decreto-10206-22-janeiro-2020-789695-publicacaooriginal-159878-pe.html&quot;&gt;Serpro&lt;/a&gt; e da &lt;a href=&quot;https://www.in.gov.br/web/dou/-/decreto-n-10.199-de-15-de-janeiro-de-2020-238315114&quot;&gt;DataPrev&lt;/a&gt; no Programa Nacional de Desestatização, o PND, como parte do &lt;a href=&quot;https://www.gov.br/economia/pt-br/assuntos/noticias/2021/maio/governo-desinveste-mais-de-r-200-bilhoes-em-ativos-e-inclui-15-estatais-no-pnd-desde-2019&quot;&gt;cronograma de privatizações, desinvestimentos e liquidações do governo federal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por enquanto, o Serpro afirma que o GovData não está disponível para empresas privadas, mas o futuro desse gigantesco banco de dados é uma incógnita. Não há explicações governamentais claras sobre os rumos do produto digital. Os riscos, caso a privatização do Serpro se concretize, são muitos e vão além da privacidade e proteção de dados.&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Tá osso acompanhar as redes sociais? Chega mais na newsletter Garimpo. É de graça. &lt;br /&gt;
+  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
+  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
+  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
+    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
+     &lt;div class=&quot;footer-form-actions&quot;&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;v5zrQ3RithV9C1HMZZgCeg&quot; /&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
+       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
+       &lt;/div&gt;
+  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
+
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Um dos mais graves é o de ter uma empresa privada que poderá desfrutar de vantagens competitivas, caso seja mantido o acesso do Serpro às bases públicas de dados que o alimentam hoje, como explicou o pesquisador e professor de Direito Econômico da Universidade de São Paulo Diogo Coutinho em &lt;a href=&quot;https://www.dataprivacybr.org/wp-content/uploads/2021/07/dpbr_textodicussao_desafiosjuridicos.pdf&quot;&gt;artigo&lt;/a&gt; para o Data Privacy Brasil, publicado em meados de julho.”Caso as estatais processadoras de dados existentes hoje sejam privatizadas, quem ficaria responsável pelo seu tratamento?”.&lt;/p&gt;
+
+&lt;p&gt;O anúncio da inclusão do Serpro e da Dataprev no PND foi recebido com resistência tanto por representantes do Congresso quanto do Tribunal de Contas da União, o TCU. Diversos parlamentares, como a deputada Benedita da Silva, do PT fluminense, e a senadora maranhense Eliziane Gama, do Cidadania, &lt;a href=&quot;https://salveseusdados.com.br/old/ssd/deputada-protocola-projetos-para-sustar-privatizacao-da-dataprev-e-do-serpro/&quot;&gt;apresentaram&lt;/a&gt; projetos de lei para sustar o decreto de Bolsonaro.&lt;/p&gt;
+
+&lt;p&gt;No TCU, responsável por fazer recomendações sobre o patrimônio público, o ministro Vital do Rêgo disse que o processo de privatização das duas empresas demanda especial cautela e deve incluir decisão prévia sobre como manter a segurança da informação e governança sobre os dados públicos e privados custodiados por elas. Em &lt;a href=&quot;https://pesquisa.apps.tcu.gov.br/#/documento/acordao-completo/4035/NUMACORDAO%253A4035%2520ANOACORDAO%253A2020%2520COLEGIADO%253A%2522Plen%25C3%25A1rio%2522/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/0/%2520?uuid=e739ca60-3bd1-11eb-9b49-5350067d2590&quot;&gt;acórdão&lt;/a&gt;, o ministro mencionou ainda o risco de prejuízo à segurança dos dados, à privacidade dos cidadãos e à segurança do estado.&lt;/p&gt;
+
+&lt;h5 id=&quot;o-alerta-também-soou-dentro-das-empresas-servidores-das-duas-instituições-apoiados-pela-associação-nacional-dos-empregados-da-dataprev-criaram-a-campanha-salve-seus-dados-para-alertar-sobre-os-riscos-ligados-à-desestatização&quot;&gt;O alerta também soou dentro das empresas. Servidores das duas instituições, apoiados pela Associação Nacional dos Empregados da Dataprev, criaram a campanha Salve Seus Dados para alertar sobre os riscos ligados à desestatização.&lt;/h5&gt;
+
+&lt;p&gt;Em seu site, a iniciativa apresenta uma &lt;a href=&quot;https://salveseusdados.com.br/por-que-nao-privatizar/&quot;&gt;série de argumentos&lt;/a&gt; contrários à privatização das empresas, passando pelos riscos à proteção de dados do cidadão até a perpetuação de uma empresa privada na prestação de serviços ao estado, uma vez que a transferência desse volume de dados ao fim da vigência de um contrato não é tarefa simples.&lt;/p&gt;
+
+&lt;p&gt;Para funcionários do Serpro, nesse sentido a privatização &lt;a href=&quot;https://salveseusdados.com.br/old/ssd/entenda-os-riscos-da-privatizacao/&quot;&gt;pode&lt;/a&gt; aumentar custos para o estado e ocasionar a suspensão de serviços públicos por falta de pagamento, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;O Ministério Público Federal &lt;a href=&quot;https://static.poder360.com.br/2021/02/NotaTenicaMPSerpro-25.fev_.2021.pdf&quot;&gt;pontuou&lt;/a&gt; que há entraves jurídicos já colocados que impediriam a privatização do Serpro e da DataPrev e ressaltou que a Lei Geral de Proteção de Dados, a LGPD, proíbe que empresas privadas sejam responsáveis pelo tratamento de dados pessoais com finalidade de segurança pública, defesa nacional, segurança do estado ou atividades de investigação e repressão de infrações penais.&lt;/p&gt;
+
+&lt;p&gt;A falha na identificação e gestão de riscos é um dos fatores que pode estar atravancando a transformação digital do governo brasileiro, &lt;a href=&quot;https://pesquisa.apps.tcu.gov.br/#/documento/acordao-completo/1784%252F2021/%2520/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/0/%2520&quot;&gt;avaliou o TCU&lt;/a&gt; no final de julho.&lt;/p&gt;
+
+&lt;p&gt;Entre dezembro de 2020 e janeiro de 2021, o Banco Nacional de Desenvolvimento Econômico e Social, o BNDES, corresponsável pela execução do PND, anunciou que havia selecionado o consórcio Dados BR, que inclui o escritório de advocacia Machado, Meyer e as consultorias Accenture e BCW, para realizar uma consultoria sobre a desestatização do Serpro e da DataPrev.&lt;/p&gt;
+
+&lt;p&gt;De acordo com o &lt;a href=&quot;https://www.ppi.gov.br/kickoffdataprevserpro&quot;&gt;anúncio&lt;/a&gt;, a primeira fase seria entregue dentro de poucos meses, o que não se concretizou até hoje. Segundo o site &lt;a href=&quot;https://itforum.com.br/noticias/estudos-para-privatizacoes-de-serpro-e-dataprev-atrasam-e-processo-emperra/&quot;&gt;ITForum&lt;/a&gt;, os leilões, inicialmente previstos pelo governo para o primeiro semestre de 2022, foram adiados para o segundo semestre – mas ainda não há data para que eles aconteçam.&lt;/p&gt;
+
+&lt;h3 id=&quot;como-fizemos-isso&quot;&gt;COMO FIZEMOS ISSO&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; começou como um veículo focado na investigação de dados públicos e, apesar da nossa cobertura ter se voltado para a atuação das redes sociais, apurações importantes como essa também podem aparecer por aqui.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; fez diversos pedidos via Lei de Acesso à Informação (LAI) desde junho de 2021, além de extensivas buscas em sites do governo e de acesso à informação.&lt;/p&gt;
+
+&lt;p&gt;O relatório do andamento da pauta pode ser encontrado &lt;a href=&quot;https://docs.google.com/document/d/19rKNU42kQQF73rePaFok9xwRE2LnMyxWYwikk0d59qc/edit?usp=sharing&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Todos os documentos e respostas retornados pelos pedidos de acesso à informação podem ser encontrados &lt;a href=&quot;https://drive.google.com/drive/folders/1xz1kb9ggf6wqNar1YM_1fd2mdbMPD-Q-?usp=sharing&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abaixo, a lista de pedidos de acesso à informação e seus respectivos protocolos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ministério da Economia: Protocolo nº: 03005.085560/2021-15&lt;/li&gt;
+  &lt;li&gt;Serpro: Protocolo nº: 18870.002668/2021-41&lt;/li&gt;
+  &lt;li&gt;DataPrev: Protocolo nº: 36783.023334/2021-71
+Código de acesso ao protocolo: wxqs8793&lt;/li&gt;
+  &lt;li&gt;Ministério da Economia (contrato): Protocolo nº: 03005.085602/2021-18&lt;/li&gt;
+  &lt;li&gt;Controladoria-Geral da União (Contrato): Protocolo nº: 00106.010486/2021-49&lt;/li&gt;
+  &lt;li&gt;Ministério da Agricultura (Contrato): Protocolo nº: 21210.005497/2021-90&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A colagem que ilustra essa publicação é uma composição de retratos de imaginadas, gerados por inteligência artificial pelo website &lt;a href=&quot;https://thispersondoesnotexist.com/&quot;&gt;This Person Does Not Exist&lt;/a&gt;.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Serpro, " /><category term="Banco de dados, " /><category term="GovData, " /><category term="Dados pessoais, " /><category term="Tecnoautoritarismo" /><summary type="html">Cheio de dados sensíveis, GovData servia para subsidiar políticas públicas. Agora, pode ser vendido junto com o Serviço Federal de Processamento de Dados.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/outros/serpro_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/outros/serpro_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Achar conteúdo extremista no TikTok é facinho, diz pesquisa</title><link href="https://nucleo.jor.br//curtas/2021-08-24-pesquisa-tiktok-conteudo-extremista" rel="alternate" type="text/html" title="Achar conteúdo extremista no TikTok é facinho, diz pesquisa" /><published>2021-08-24T16:32:00-03:00</published><updated>2021-08-24T16:32:00-03:00</updated><id>https://nucleo.jor.br//curtas/pesquisa-tiktok-conteudo-extremista</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-24-pesquisa-tiktok-conteudo-extremista">&lt;p&gt;Conteúdo original do Estado Islâmico, vídeos de massacre terrorista, apologia à extrema-direta, glorificação de Hitler, tudo isso pode ser encontrado com relativa facilidade no TikTok, segundo pesquisa publicada nesta terça-feira pelo &lt;a href=&quot;https://www.isdglobal.org/&quot;&gt;Institute for Strategic Dialogue&lt;/a&gt;, renomada organização que analisa extremismo no mundo.&lt;/p&gt;
 
 &lt;p&gt;A &lt;a href=&quot;https://www.isdglobal.org/wp-content/uploads/2021/08/HateScape_v5.pdf&quot;&gt;pesquisa&lt;/a&gt; analisou em profundidade uma amostra de 1.030 vídeos de 491 perfis que resultaram de uma busca por 157 palavras-chave associadas a indivíduos, grupos, ideologias e incidentes entre 4 e 30 de junho de 2021.&lt;/p&gt;
 
@@ -780,89 +923,4 @@
   &lt;li&gt;&lt;em&gt;TikTok tem crescido em popularidade entre jovens&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="TikTok, " /><category term="Conselho Consultivo, " /><category term="Bullying, " /><category term="Discurso de ódio" /><summary type="html">Jovem cometeu suicídio após comentários de ódio na rede, segundo sua mãe</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Facebook e TikTok lideram buscas de aplicativos</title><link href="https://nucleo.jor.br//curtas/2021-08-04-facebook-tiktok-apps-downloads" rel="alternate" type="text/html" title="Facebook e TikTok lideram buscas de aplicativos" /><published>2021-08-04T15:59:00-03:00</published><updated>2021-08-04T15:59:00-03:00</updated><id>https://nucleo.jor.br//curtas/facebook-tiktok-apps-downloads</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-04-facebook-tiktok-apps-downloads">&lt;p&gt;O TikTok foi o segundo aplicativo de rede social mais buscado no primeiro semestre de 2021 na loja brasileira do Google no Brasil, cujo sistema operacional para celulares, o Android, é o &lt;a href=&quot;https://www.teleco.com.br/sist_operacional.asp&quot;&gt;mais popular&lt;/a&gt; no país. O app chinês fica apenas atrás do Facebook.&lt;/p&gt;
-
-&lt;p&gt;Os dados são de um &lt;a href=&quot;https://pages.rankmyapp.com/infografico-principais-apps-de-2021-1-semestre&quot;&gt;relatório&lt;/a&gt; da empresa de RankMyApp, que promove a visibilidade de aplicativos em lojas online.&lt;/p&gt;
-
-&lt;p&gt;O relatório é bem magro e não traz muitas informações, mas mostra que o aplicativo chinês é mais popular até que o Instagram, seu concorrente direto e propriedade do Facebook. O TikTok &lt;a href=&quot;https://pages.rankmyapp.com/infografico-top-apps-2020&quot;&gt;liderou&lt;/a&gt; as buscas em 2020.&lt;/p&gt;
-
-&lt;p&gt;O Snapchat ficou em 6º lugar. A empresa tem registrado &lt;a href=&quot;https://www.forbes.com/sites/abrambrown/2021/07/23/we-left-snapchat-for-dead-instead-its-thriving/?sh=140772c73445&quot;&gt;bons resultados&lt;/a&gt; nos EUA, mas anda meio sumida no Brasil.&lt;/p&gt;
-
-&lt;h3 id=&quot;downloads-de-apps-de-redes-sociais-por-loja-online&quot;&gt;Downloads de apps de redes sociais por loja online&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;lugar&lt;/th&gt;
-      &lt;th&gt;Google Play Store&lt;/th&gt;
-      &lt;th&gt;App Store&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;Facebook&lt;/td&gt;
-      &lt;td&gt;WhatsApp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;TikTok&lt;/td&gt;
-      &lt;td&gt;Telegram&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;Twitter&lt;/td&gt;
-      &lt;td&gt;Discord&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;Instagram&lt;/td&gt;
-      &lt;td&gt;Messenger&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;Facebook Lite&lt;/td&gt;
-      &lt;td&gt;Facebook&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;Snapchat&lt;/td&gt;
-      &lt;td&gt;Reports+ para Instagram&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;Bolsa Família&lt;/td&gt;
-      &lt;td&gt;Seguidores no Instagram&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;Helo&lt;/td&gt;
-      &lt;td&gt;Rave&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Caixa Trabalhador&lt;/td&gt;
-      &lt;td&gt;Reports: Followers Tracker&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;Instagram Lite&lt;/td&gt;
-      &lt;td&gt;Instant Save&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;figcaption&gt;
-Dados tabelados a partir de infográfico do RankMyApp
-&lt;/figcaption&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Mostra como está a concorrência no mercado de redes sociais&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;TikTok e Facebook/Instagram travam dura batalha por mercado&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Facebook, " /><category term="TikTok, " /><category term="Snapchat, " /><category term="Downloads, " /><category term="RankMyApp" /><summary type="html">Relatório da RankMyApp mostra Facebook, TikTok e Twitter na liderança na loja do Google. Snapchat fica em 6º lugar.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/facebook.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/facebook.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;hr /&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="TikTok, " /><category term="Conselho Consultivo, " /><category term="Bullying, " /><category term="Discurso de ódio" /><summary type="html">Jovem cometeu suicídio após comentários de ódio na rede, segundo sua mãe</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" /><media:content medium="image" url="https://nucleo.jor.br//img/curtas/redes_padroes/outras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
