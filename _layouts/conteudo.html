@@ -188,11 +188,11 @@
 						{% else %}
 						{% for reporter in page.reportagem %}
 						{% if forloop.first %}
-						<strong>Reportagem</strong> <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
+						<strong>Reportagem</strong> <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a>,</span>
 						{% elsif forloop.last %}
 										e <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
 								{% else %}
-										, <span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
+								<span><a href='{{ site.baseurl }}/equipe/{{ reporter | downcase | replace: " ", "-" | replace: "é", "e" | replace: "í", "i" | replace: "á", "a" | replace: "ó", "o" | replace: "ú", "u" }}'>{{ reporter }}</a></span>
 								{% endif %}
 						{% endfor %}
 						<br />
