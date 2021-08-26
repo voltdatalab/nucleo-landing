@@ -3,7 +3,7 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: "Quase morto no Brasil, adolescentes e nudes dão sobrevida ao Snapchat nos EUA"
+title: "Discreto no Brasil, adolescentes e nudes dão sobrevida ao Snapchat nos EUA"
 titulo_redes: "Adolescentes e nudes dão sobrevida a Snapchat"
 subtitle: 'Preferida por mais jovens por eliminar definitivamente as publicações, rede que acumula 500 milhões de usuários ativos no mundo; no Brasil são 12 milhões'
 subtitle_redes: 'Rede que acumula 500 mi usuários no mundo'
