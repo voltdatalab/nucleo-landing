@@ -33,11 +33,8 @@ O **Núcleo** não vai divulgar nenhum dado pessoal e aguardou o Exército tirar
 Entre os dados expostos constavam:
 
 - telefone e email pessoais
-
 - endereço particular
-
 - nome da esposa
-
 - nome de auxiliares
 
 Contatado, o Exército informou somente que o livrete digital exposto já era disponibilizado aos Oficiais-Generais antes da pandemia, e que possui normas e realiza orientações para segurança de tecnologia da informação e comunicação.

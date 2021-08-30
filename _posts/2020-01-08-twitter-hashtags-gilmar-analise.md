@@ -12,7 +12,7 @@ analise: Lucas Lago
 edicao: Sérgio Spagnuolo
 graficos: Rodolfo Almeida
 credito_img: Rodolfo Almeida
-creditos: Lucas Lago, Sérgio Spagnuolo, Rodolfo Almeida
+creditos: Lucas Lago, Rodolfo Almeida, Sérgio Spagnuolo
 dados_abertos: Acesse o código e os dados
 dados_abertos_link: https://www.kaggle.com/lucaslago/hashed-tweets/
 image: 'img/twitter-files/twitter_destaque.jpeg'
@@ -62,7 +62,7 @@ Esses perfis correspondem a apenas 2% dos usuários -- dentre os cerca de 90 mil
 
 Para calcular a concentração de tweets e retweets, o **Núcleo** valeu-se do Coeficiente de Gini, uma fórmula para medir a desigualdade em uma amostra qualquer, utilizada principalmente para avaliar a desigualdade da distribuição de renda entre países. A ideia desse cruzamento foi sugerida à equipe pelo cientista de dados [João Carabetta](https://twitter.com/joaocarabetta), que trabalha no [Banco Inter-Americano de Desenvolvimento](https://www.iadb.org/pt). 
 
-#### [-- Leia o posicionamento do Twitter](#pos-twitter)
+#### [Leia o posicionamento do Twitter](#pos-twitter)
 
 As hashtags em questão giravam em torno de duas figuras, o próprio Gilmar e o presidente do Senado, [David Alcolumbre](https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830) (DEM-AP). O primeiro por ser o alvo das críticas dos que se manifestavam, o segundo por ser a pessoa com poder para iniciar um dos processos de impeachment que existem contra o ministro do Supremo.
 
