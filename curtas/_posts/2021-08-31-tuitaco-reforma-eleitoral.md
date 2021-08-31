@@ -27,6 +27,8 @@ Entidades por trás da campanha [Freio na Reforma](https://www.freio.reformaelei
 
 As organizações pedem pelo fim do regime de urgência na votação do texto, o que abriria espaço para um debate mais aprofundado.
 
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">⚠️O Congresso vai votar nesta terça (31), às 15h, o requerimento de urgência da reforma eleitoral. A transparência e a fiscalização do uso de recursos públicos estão em risco! ✊🏽 Pressione os parlamentares para adiar a votação: <a href="https://t.co/g4fk7v4C6q">https://t.co/g4fk7v4C6q</a> <a href="https://twitter.com/hashtag/FreioNaReforma?src=hash&amp;ref_src=twsrc%5Etfw">#FreioNaReforma</a></p>&mdash; ReformaEleitoral (@ReformEleitoral) <a href="https://twitter.com/ReformEleitoral/status/1432704759111237642?ref_src=twsrc%5Etfw">August 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 A [campanha](https://twitter.com/ReformEleitoral) é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia.
 
 O texto da Reforma Eleitoral a ser votado pelo Plenário da Câmara nesta terça-feira é de autoria da deputada Soraya Santos (PL-RJ) e com relatoria da deputada Margarete Coelho (PP-PI)
