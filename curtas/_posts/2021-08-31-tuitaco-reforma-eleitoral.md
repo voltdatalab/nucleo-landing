@@ -3,7 +3,7 @@ published: TRUE
 layout: curtas
 tipo: curtas
 title: "Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral"
-titulo_redes: "Entidades organizam ‘Twittaço’ para frear votação de reforma eleitoral"
+titulo_redes: "Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral"
 subtitle: 'A campanha Freio na Reforma é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia'
 subtitle_redes: 'A campanha Freio na Reforma é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia'
 excerpt: 'A campanha Freio na Reforma é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia'
