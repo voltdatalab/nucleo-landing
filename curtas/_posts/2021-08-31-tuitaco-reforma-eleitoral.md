@@ -23,9 +23,11 @@ tags:
 
 ---
 
-Entidades por trás da campanha [Freio na Reforma](https://www.freio.reformaeleitoral.org.br/#block-37553) convocaram um tuitaço com a hashtag [`#FreioNaReforma`](https://twitter.com/search?q=%23FreioNaReforma&src=typeahead_click) nesta terça-feira, pouco antes do horário previsto de votação da Reforma Eleitoral na Câmara dos Deputados. As organizações pedem pelo fim do regime de urgência na votação do texto, o que abriria espaço para um debate mais aprofundado.
+Entidades por trás da campanha [Freio na Reforma](https://www.freio.reformaeleitoral.org.br/#block-37553) convocaram um tuitaço -- com a hashtag [`#FreioNaReforma`](https://twitter.com/search?q=%23FreioNaReforma&src=typeahead_click) -- nesta terça-feira, pouco antes do horário previsto de votação da Reforma Eleitoral na Câmara dos Deputados.
 
-A campanha [Freio na Reforma](https://twitter.com/ReformEleitoral) é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia.
+As organizações pedem pelo fim do regime de urgência na votação do texto, o que abriria espaço para um debate mais aprofundado.
+
+A [campanha](https://twitter.com/ReformEleitoral) é uma iniciativa composta pelo ITS-Rio, Movimento Transparência Partidária e organizações integrantes do Pacto pela Democracia.
 
 O texto da Reforma Eleitoral a ser votado pelo Plenário da Câmara nesta terça-feira é de autoria da deputada Soraya Santos (PL-RJ) e com relatoria da deputada Margarete Coelho (PP-PI)
 
