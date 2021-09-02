@@ -14,7 +14,7 @@ atualizacao: 05/04/2020
           {% assign posts = site.posts | where_exp: "post", "post.tipo == 'ideias'"  %}
 
           {% for post in posts offset:0 limit: 30 %}
-        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.background }}') rgba(0, 0, 0, 0.4);">
+        <div class="indexpost" style="border-bottom:1px solid #fff;margin:0 auto;background: url('../img/{{ site.baseurl }}{{ post.image }}') rgba(0, 0, 0, 0.4);">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                 <h3 class="page-ttt">{{ post.titulo_redes }}</h3></a>
                 <br />

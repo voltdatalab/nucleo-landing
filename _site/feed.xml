@@ -1,5 +1,135 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-08-31T15:26:00-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
-</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral</title><link href="https://nucleo.jor.br//curtas/2021-08-31-tuitaco-reforma-eleitoral" rel="alternate" type="text/html" title="Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral" /><published>2021-08-31T15:13:00-03:00</published><updated>2021-08-31T15:13:00-03:00</updated><id>https://nucleo.jor.br//curtas/tuitaco-reforma-eleitoral</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-31-tuitaco-reforma-eleitoral">&lt;p&gt;Entidades por trás da campanha &lt;a href=&quot;https://www.freio.reformaeleitoral.org.br/#block-37553&quot;&gt;Freio na Reforma&lt;/a&gt; convocaram um tuitaço – com a hashtag &lt;a href=&quot;https://twitter.com/search?q=%23FreioNaReforma&amp;amp;src=typeahead_click&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#FreioNaReforma&lt;/code&gt;&lt;/a&gt; – nesta terça-feira, pouco antes do horário previsto de votação da Reforma Eleitoral na Câmara dos Deputados.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-09-02T01:12:10-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+</subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7 de setembro</title><link href="https://nucleo.jor.br//reportagem/2021-09-01-twitter-manifestacao-concentracao" rel="alternate" type="text/html" title="No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7 de setembro" /><published>2021-09-01T06:02:00-03:00</published><updated>2021-09-01T06:02:00-03:00</updated><id>https://nucleo.jor.br//reportagem/twitter-manifestacao-concentracao</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-09-01-twitter-manifestacao-concentracao">&lt;p&gt;A manifestação de 7 de setembro organizada por bolsonaristas (e endossada por Jair Bolsonaro) cresceu em número de menções no Twitter, mas não conseguiu se expandir para além do núcleo duro do presidente nessa rede.&lt;/p&gt;
+
+&lt;p&gt;Análise do &lt;strong&gt;Núcleo&lt;/strong&gt; com monitoramento de termos e hashtags associadas à manifestação mostra que apenas &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;12%&lt;/code&gt; dos perfis impulsionaram mais de dois terços dos tweets sobre a manifestação.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h6 id=&quot;é-importante-porque&quot;&gt;É importante porque…&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Embora mostre aumento no número de menções e no peso das manifestações, também mostra que há um limite na adesão de apoiadores no Twitter, uma rede que, embora tenha menos usuários do que Facebook, Instagram e YouTube, por exemplo, consegue pautar o noticiário e serve como termômetro para o debate político.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/twitter-files/7setembro_concentracao.png&quot; alt=&quot;print - post&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A conclusão é de que a concentração no compartilhamento e o convite às manifestações são realizadas por um grupo específico no Twitter, que consegue alavancar o número de menções mas não fazer com que muitos outros usuários tenham o mesmo entusiasmo com a campanha.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; detectou cerca de 590 mil tweets de 84 mil usuários sobre o 7 de setembro desde o dia 24 de agosto, com as ocorrências crescendo significativamente nos últimos quatro dias.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; se baseou em duas linhas de análise para chegar a esse resultado:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Número de menções capturadas em buscas e o número de usuários únicos&lt;/li&gt;
+  &lt;li&gt;Cálculo do Coeficiente de Gini para verificar a concentração de tweets nos mesmos usuários&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A análise não indica que as manifestações serão grandes ou pequenas em número de presentes, mas sim que a conversa nessa rede social está concentrada em poucos atores muito articulados. Chamamos isso de “ação coordenada”.&lt;/p&gt;
+
+&lt;p&gt;Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas. Isso garante que essas bases façam mais publicações utilizando, por exemplo, uma hashtag – o que resulta em concentração em poucos usuários (daí a desigualdade).&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Acompanhe o debate político no Twitter com o Monitor Nuclear.&lt;/label&gt; &lt;br /&gt;
+  &lt;a href=&quot;/monitor&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;btn&quot; type=&quot;button&quot; name=&quot;button&quot;&gt;ACESSE AGORA&lt;/button&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nucleo.jor.br/redes/2020-01-08-twitter-hashtags-gilmar-analise&quot;&gt;Matéria&lt;/a&gt; do &lt;strong&gt;Núcleo&lt;/strong&gt; em janeiro de 2020 mostrou como a direita faz mais ações coordenadas e menos espontâneas do que a esquerda, mas consegue mais engajamento e menções.&lt;/p&gt;
+
+&lt;p&gt;Note que por essa análise não é possível determinar a operação de robôs, apenas a concentração de muitas publicações por poucos usuários da rede social. Bots são recursos que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave, automaticamente.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;grupo&lt;/th&gt;
+      &lt;th&gt;usuarios&lt;/th&gt;
+      &lt;th&gt;tweets&lt;/th&gt;
+      &lt;th&gt;% do total&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;x = 1&lt;/td&gt;
+      &lt;td&gt;46.646&lt;/td&gt;
+      &lt;td&gt;46.646&lt;/td&gt;
+      &lt;td&gt;8.49%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1 &amp;lt; x &amp;lt;= 5&lt;/td&gt;
+      &lt;td&gt;25.902&lt;/td&gt;
+      &lt;td&gt;75.143&lt;/td&gt;
+      &lt;td&gt;13.67%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5 &amp;lt; x &amp;lt;= 10&lt;/td&gt;
+      &lt;td&gt;75.32&lt;/td&gt;
+      &lt;td&gt;57.325&lt;/td&gt;
+      &lt;td&gt;10.43%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10 &amp;lt; x &amp;lt;= 50&lt;/td&gt;
+      &lt;td&gt;9.479&lt;/td&gt;
+      &lt;td&gt;205.229&lt;/td&gt;
+      &lt;td&gt;37.33%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;50 &amp;lt; x &amp;lt;= 200&lt;/td&gt;
+      &lt;td&gt;1.674&lt;/td&gt;
+      &lt;td&gt;139.244&lt;/td&gt;
+      &lt;td&gt;25.33%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;200 &amp;lt; x&lt;/td&gt;
+      &lt;td&gt;79&lt;/td&gt;
+      &lt;td&gt;26.109&lt;/td&gt;
+      &lt;td&gt;4.75%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;economia&quot;&gt;ECONOMIA&lt;/h3&gt;
+
+&lt;p&gt;O bolsonarismo tem dificuldades em extrapolar seu núcleo duro no Twitter. Dentre os motivos, está a série de problemas enfrentados pelo governo na área econômica, como a crise energética, a inflação e o desaquecimento da economia. Não por acaso, a hashtag #EnergiaParaTodos, utilizada por atores da oposição no dia 31/08 se sobrepôs até mesmo a hashtag #Dia07VaiSerGigante nas menções junto ao nome de Jair Bolsonaro.&lt;/p&gt;
+
+&lt;p&gt;Segundo dados do Monitor Nuclear, o mês de agosto foi aquele em que os políticos brasileiros mais falaram em inflação. Foram 405 tuítes contendo esta palavra ao longo do mês, sendo que o segundo com maior número de menções foi março (126). Essa tendência também foi observada nas citações a combustíveis e ao ministro Paulo Guedes.&lt;/p&gt;
+
+&lt;p&gt;É nítida a dificuldade do bolsonarismo para contornar o tema “custo de vida” em suas tentativas de convocações. Ainda que sem impacto direto nelas, o tema exige que este campo promova a defesa do governo. Uma das linhas adotadas aqui são os ataques contra governadores, a quem responsabilizam pelo preço do gás de cozinha.&lt;/p&gt;
+
+&lt;div style=&quot;margin: 30px auto;max-width:320px; padding: 25px;border:0px solid #f33872;&quot;&gt;
+  &lt;label style=&quot;font-size:1em; text-transform: uppercase&quot;&gt;Receba nossas matérias por email, toda quinta-feira. &lt;br /&gt;
+  &lt;small style=&quot;font-weight: 300;font-size:0.7em&quot;&gt;&lt;a href=&quot;/newsletters&quot;&gt;Conheça nossas newsletters&lt;/a&gt;&lt;/small&gt;&lt;/label&gt;
+  &lt;div id=&quot;newsletter_page&quot; style=&quot;margin-top:10px&quot;&gt;
+  &lt;form action=&quot;https://sendy.voltdata.info/subscribe&quot; method=&quot;POST&quot; accept-charset=&quot;utf-8&quot;&gt;
+    &lt;input style=&quot;width:65%&quot; class=&quot;revue-form-field&quot; type=&quot;email&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;EMAIL&quot; /&gt;
+     &lt;div class=&quot;footer-form-actions&quot;&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;list&quot; value=&quot;ntTZYrZ892fUdG4t9EX1OtdQ&quot; /&gt;
+       &lt;input type=&quot;hidden&quot; name=&quot;subform&quot; value=&quot;yes&quot; /&gt;
+       &lt;input style=&quot;padding-left:12px;padding-right:12px&quot; type=&quot;submit&quot; name=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Receber&quot; /&gt;
+       &lt;/div&gt;
+  &lt;!--&lt;input style=&quot;max-width:100%&quot; class=&quot;revue-form-field&quot; type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;NOME...&quot; style=&quot;max-width:100%&quot;/&gt;--&gt;
+
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;como-fizemos-isso&quot;&gt;COMO FIZEMOS ISSO&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;Núcleo&lt;/strong&gt; detectou cerca de 590 mil tweets de 84 mil usuários sobre o 7 de setembro desde o dia 24 de agosto, com as ocorrências crescendo significativamente nos últimos quatro dias. Veja aqui um exemplo de código para utilização da API do Twitter.&lt;/p&gt;
+
+&lt;p&gt;A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tweets, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados neste link.&lt;/p&gt;
+
+&lt;p&gt;O índice de Gini calculado pelo &lt;strong&gt;Núcleo&lt;/strong&gt; sobre as manifestações foi de 0.71. Quanto mais perto de 1, mais concentradas nos mesmos usuários são.&lt;/p&gt;
+
+&lt;p&gt;O Coeficiente de Gini é uma das ferramentas mais comuns para avaliar a desigualdade da distribuição de renda entre países. O site Nexo tem uma boa explicação sobre o tema.&lt;/p&gt;
+
+&lt;p&gt;No entanto, o Coeficiente de Gini é simplesmente uma medida de desigualdade em uma distribuição qualquer.&lt;/p&gt;
+
+&lt;p&gt;Adaptando o cálculo desse coeficiente, substituindo o que normalmente é a renda de cada pessoa para a quantidade de tweets que ela publicou, podemos calcular o resultado para cada um dos movimentos analisados do Twitter, e observarmos qual a distribuição do empenho de cada conta na popularização das hashtags.&lt;/p&gt;
+
+&lt;p&gt;Apenas como comparação, são mais desiguais que a renda na África do Sul em 2014 — maior índice já registrado pelo Banco Mundial (0.64).&lt;/p&gt;
+
+&lt;p&gt;Quase todas essas hashtags são mais desiguais, por exemplo, do que o Brasil em 2019 (53,4) segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesse esse site de dados do Banco Mundial.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="Twitter, " /><category term="Manifestação, " /><category term="Bolsonarismo, " /><category term="Política" /><summary type="html">No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7/9</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/twitter-files/7setembro_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/twitter-files/7setembro_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral</title><link href="https://nucleo.jor.br//curtas/2021-08-31-tuitaco-reforma-eleitoral" rel="alternate" type="text/html" title="Entidades organizam ‘tuitaço’ para frear votação de reforma eleitoral" /><published>2021-08-31T15:13:00-03:00</published><updated>2021-08-31T15:13:00-03:00</updated><id>https://nucleo.jor.br//curtas/tuitaco-reforma-eleitoral</id><content type="html" xml:base="https://nucleo.jor.br//curtas/2021-08-31-tuitaco-reforma-eleitoral">&lt;p&gt;Entidades por trás da campanha &lt;a href=&quot;https://www.freio.reformaeleitoral.org.br/#block-37553&quot;&gt;Freio na Reforma&lt;/a&gt; convocaram um tuitaço – com a hashtag &lt;a href=&quot;https://twitter.com/search?q=%23FreioNaReforma&amp;amp;src=typeahead_click&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#FreioNaReforma&lt;/code&gt;&lt;/a&gt; – nesta terça-feira, pouco antes do horário previsto de votação da Reforma Eleitoral na Câmara dos Deputados.&lt;/p&gt;
 
 &lt;p&gt;As organizações pedem pelo fim do regime de urgência na votação do texto, o que abriria espaço para um debate mais aprofundado.&lt;/p&gt;
 
@@ -789,364 +919,4 @@ Código de acesso ao protocolo: wxqs8793&lt;/li&gt;
 
 &lt;h3 id=&quot;como-fizemos-isso&quot;&gt;Como fizemos isso&lt;/h3&gt;
 
-&lt;p&gt;A reportagem foi republicada da Agência Pública, que se baseou &lt;a href=&quot;https://drive.google.com/file/d/1xl-5aqKfXmYeSPctboBoNqFzj_21yRHO/view&quot;&gt;neste estudo&lt;/a&gt; da UFRJ.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="WhatsApp, " /><category term="Desinformação, " /><category term="Religião" /><summary type="html">Levantamento inédito da Universidade Federal do Rio de Janeiro mostra os caminhos da desinformação entre religiosos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/republicacoes_outros/zap_igrejas/zap-religiao_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/republicacoes_outros/zap_igrejas/zap-religiao_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Militarismo é nova onda no TikTok</title><link href="https://nucleo.jor.br//especiais/2021-08-12-militarismo-tiktok" rel="alternate" type="text/html" title="Militarismo é nova onda no TikTok" /><published>2021-08-12T06:01:00-03:00</published><updated>2021-08-12T06:01:00-03:00</updated><id>https://nucleo.jor.br//especiais/militarismo-tiktok</id><content type="html" xml:base="https://nucleo.jor.br//especiais/2021-08-12-militarismo-tiktok">&lt;p&gt;&lt;strong&gt;ENTRE DANCINHAS&lt;/strong&gt; de 15 segundos, receitas rápidas de cozinha e vídeos engraçadinhos, conteúdos que exaltam abordagens policiais, militares e armas de fogo têm encontrado campo fértil de engajamento no TikTok, rede social com grande adesão de crianças e adolescentes que faz de tudo para manter jovens grudados no celular o máximo possível.&lt;/p&gt;
-
-&lt;p&gt;Análise do &lt;strong&gt;Núcleo&lt;/strong&gt; com metadados de 61,4 mil vídeos desde 2016 extraídos do TikTok mostrou que clipes sobre manuseio de armas, prática de tiro e ações policiais, frequentemente incentivando violência por parte de agentes do Estado, acumulam muito mais visualizações do que conteúdo político, por exemplo – embora não estejam totalmente descolados da política.&lt;/p&gt;
-
-&lt;p&gt;Nossa busca se concentrou em um conjunto de &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;17&lt;/code&gt; hashtags muito utilizadas em vídeos sobre militares, policiais e entusiastas de armas&lt;input type=&quot;checkbox&quot; id=&quot;cb1&quot; /&gt;&lt;label for=&quot;cb1&quot;&gt;&lt;sup&gt;&lt;/sup&gt;&lt;/label&gt;&lt;span&gt;&lt;br /&gt;&lt;br /&gt;os CACS - Caçador, Atirador e/ou Colecionador&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;, e as comparou com outras &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;24&lt;/code&gt; hashtags muito utilizadas em vídeos sobre memes comuns (como dia dos pais e brincadeiras), esportes (basicamente futebol e Jogos Olímpicos de 2020) e política (contra ou a favor ao presidente Jair Bolsonaro).&lt;/p&gt;
-
-&lt;p&gt;A partir de uma categorização própria dessas hashtags, classificamos em &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cinco&lt;/code&gt; grandes áreas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;esportes&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;memes&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;polícia/militar&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;política&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;pró-armas&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/politica_mais_videos.png&quot; class=&quot;img-destak&quot; alt=&quot;gráfico de linha mostrando que política tem mais vídeos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Embora vídeos de política tenham respondido pelo maior número de vídeos encontrados na busca, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;45%&lt;/code&gt; do total, as peças militaristas (apenas &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;16%&lt;/code&gt; dos vídeos retornados na busca) registraram em geral quase o dobro de visualizações por vídeo (média e mediana).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_bubble.png&quot; class=&quot;img-destak&quot; alt=&quot;gráficos sobre utilização do WhatsApp e de outras plataformas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O maior engajamento de usuários com vídeos militaristas e policialescos fica bastante evidente com o passar do tempo, de janeiro de 2020 até agosto de 2021.&lt;/p&gt;
-
-&lt;p&gt;No mesmo período, houve um notório aumento na visibilidade de militares no noticiário e na participação em cargos do governo federal, conduzidos &lt;a href=&quot;https://www.metropoles.com/brasil/em-70-orgaos-militares-ocupam-183-dos-146-mil-cargos-comissionados-no-governo-bolsonaro&quot;&gt;em massa&lt;/a&gt; ao Executivo após a posse de Jair Bolsonaro como presidente, em 2019.&lt;/p&gt;
-
-&lt;p&gt;O TikTok começou a crescer consideravelmente no Brasil em 2020, ficando entre os &lt;a href=&quot;https://www.tecmundo.com.br/mercado/220572-tiktok-dispara-uso-brasil-roblox-domina-games-em-2020.htm&quot;&gt;primeiros lugares&lt;/a&gt; nas lojas de download de aplicativos móveis.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_views.png&quot; class=&quot;img-destak&quot; alt=&quot;gráficos visualizações de hashtags&quot; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;categoria&lt;/th&gt;
-      &lt;th&gt;vídeos&lt;/th&gt;
-      &lt;th&gt;visualizações/vídeo (mediana)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;política&lt;/td&gt;
-      &lt;td&gt;27.747&lt;/td&gt;
-      &lt;td&gt;16.800&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-      &lt;td&gt;11.164&lt;/td&gt;
-      &lt;td&gt;12.400&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-      &lt;td&gt;9.995&lt;/td&gt;
-      &lt;td&gt;27.300&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-      &lt;td&gt;8.885&lt;/td&gt;
-      &lt;td&gt;3.888&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;memes&lt;/td&gt;
-      &lt;td&gt;3576&lt;/td&gt;
-      &lt;td&gt;850&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;figcaption&gt;Considera 61,4 mil vídeos com 41 hashtags diferentes.&lt;br /&gt; Fonte: Análise do **Núcleo** Jornalismo&lt;/figcaption&gt;
-
-&lt;p&gt;Isso mostra que a tendência de vídeos com assunto policial e militar ganhou visibilidade na rede social. Isso tudo é ainda mais consequente tendo em vista três coisas:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. O uso da rede social por crianças e adolescentes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Nos EUA, 1 a cada quatro usuários do TikTok tem menos de 20 anos, &lt;a href=&quot;https://www.statista.com/statistics/1095186/tiktok-us-users-age/&quot;&gt;segundo&lt;/a&gt; o Statista. Não há dados específicos sobre o Brasil, mas é seguro dizer que também é amplamente utilizado por essa faixa etária. Jovens podem estar mais &lt;a href=&quot;https://www.dw.com/pt-br/pandemia-aumenta-risco-de-radicaliza%C3%A7%C3%A3o-de-jovens/a-56475946&quot;&gt;suscetíveis&lt;/a&gt; e vulneráveis à radicalização via redes sociais.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Os esforços da rede social para crescer no Brasil&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Não é segredo que o TikTok (e qualquer rede social, diga-se) quer manter seus usuários conectados o tempo todo, inclusive oferecendo &lt;a href=&quot;https://nucleo.jor.br/especiais/2021-06-03-disputa-tiktok-kwai-brasil&quot;&gt;bônus em dinheiro&lt;/a&gt;. Isso significa mais tempo de tela e mais vídeos vistos. Caso a preferência de um usuário caia no tópico militarista, é provável que ele seja “sugado” pelo algoritmo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. O algoritmo viciante, que repete conteúdo&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma &lt;a href=&quot;https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796&quot;&gt;bela investigação&lt;/a&gt; do Wall Street Journal, a partir de contas falsas para testar a rede social, mostrou que o segredo do algoritmo é o monitoramento atento e constante do tempo de visualização dos vídeos. Esse algoritmo responde tão bem à atenção do usuário que algumas pessoas brincam que ele pode ler mentes. A investigação mostrou que é possível cair em um vórtice de conteúdo extremista difícil de escapar.&lt;/p&gt;
-
-&lt;p&gt;Procurado na quarta-feira, 11 de agosto, o TikTok respondeu a quatro questionamentos específicos do &lt;strong&gt;Núcleo&lt;/strong&gt; apontando apenas para suas diretrizes de comunidade que “apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_tiktok2020.png&quot; class=&quot;img-destak&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Militarismo, exaltação de armas de fogo e de policiais também pode ser um gatilho para radicalização online. Se não chega a ser discurso de ódio, beira a banalização do uso da violência.&lt;/p&gt;
-
-&lt;p&gt;“Um engajamento maior nos conteúdos com violência, discursos de ódio e ações extremas sinaliza que a radicalização a partir das plataformas digitais está presente na sociedade. A busca e o engajamento nesses conteúdos revelam que essas pessoas não mais acreditam na solução de conflitos através da busca pelo consenso mas sim com ações extremas até o extremo com ação violenta. É a credulidade na ideia de que apenas a ação violenta será capaz de produzir soluções para suas demandas”, diz a pesquisadora &lt;a href=&quot;https://www.dw.com/pt-br/sem-um-extremista-no-poder-muitas-vidas-poderiam-ter-sido-salvas/a-56961712&quot;&gt;Michele Prado&lt;/a&gt;, autora do livro “Tempestade Ideológica - Bolsonarismo: a Alt-Right e o Populismo Iliberal no Brasil”&lt;/p&gt;
-
-&lt;p&gt;“Um jovem encontra nestes conteúdos uma porta de entrada para um submundo de ódio, preconceito e violência. E a desradicalização e desengajamento não são simples de serem alcançados. Portanto, a prevenção contra a Radicalização ainda é o melhor caminho”, complementou.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;É importante porque…&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Conteúdo militar pode se confundir com a política nacional de apoio à extrema-direita&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Jovens são particularmente mais expostos a conteúdo belicoso que pode incentivar violência, como trocar videogame por fuzil&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Reforça caráter viciante de algoritmo da rede social&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;polícia-boa-é-polícia-no-tiktok&quot;&gt;POLÍCIA BOA É POLÍCIA NO TIKTOK&lt;/h3&gt;
-
-&lt;p&gt;Em abril, reportagem especial do &lt;strong&gt;Núcleo&lt;/strong&gt; abordou os influenciadores policiais no Instagram. Decidi, então, tentar ver o que está rolando sobre isso no TikTok, que tem crescido vertiginosamente nos últimos anos no Brasil.&lt;/p&gt;
-
-&lt;p&gt;Ao longo (e foram longos mesmo) de três meses de apuração da reportagem, treinei meu algoritmo de tal forma que meu TikTok está praticamente inutilizado de tanto que o app me recomenda vídeos com conteúdo policial, militar e pró-armas – num nível que não pode ser sadio.&lt;/p&gt;
-
-&lt;p&gt;Veja você mesmo(a):&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;pt&quot; dir=&quot;ltr&quot;&gt;140 segundos de conteúdo militarista no TikTok. Eis o que virou minha timeline. &lt;a href=&quot;https://t.co/ptjdcwSGcI&quot;&gt;pic.twitter.com/ptjdcwSGcI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sérgio Spagnuolo (@sergiospagnuolo) &lt;a href=&quot;https://twitter.com/sergiospagnuolo/status/1425649002087866378?ref_src=twsrc%5Etfw&quot;&gt;August 12, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Em meio a esse conteúdo belicoso, muitos vídeos não apenas exaltam o militarismo e a política, como também incentivam violência de autoridades. Em um &lt;a href=&quot;https://www.tiktok.com/@cancoesdetfm1/video/6906923284927958277&quot;&gt;clipe&lt;/a&gt;, soldados do Exército Brasileiro cantam: “Para o 157 eu tenho um 7.62”, em alusão ao &lt;a href=&quot;https://www.jusbrasil.com.br/topicos/10619340/artigo-157-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940&quot;&gt;artigo&lt;/a&gt; 157 do Código Penal (roubo mediante uso de força ou ameaça grave) e ao calibre muito comum em fuzis.&lt;/p&gt;
-
-&lt;p&gt;Outro faz referência direta a &lt;a href=&quot;https://www.tiktok.com/@omundomilitar/video/6966493824336006406&quot;&gt;brincar de tiro ao alvo&lt;/a&gt; com bandido, enquanto &lt;a href=&quot;https://www.tiktok.com/@coronelcaveira/video/6911850117591076101&quot;&gt;esse&lt;/a&gt; mostra uma abordagem na qual o policial atira pra cima e esse mostra o policial &lt;a href=&quot;https://www.tiktok.com/@futuropoliciall/video/6912185514980396293&quot;&gt;aplicando&lt;/a&gt; um golpe mata-leão em um homem que age de maneira ameaçadora.&lt;/p&gt;
-
-&lt;p&gt;Não testemunhei nada flagrantemente ilegal, em alguns vídeos a força policial até parece justificada. Mas muitos vídeos emulam programas de TV policialescos e ufanistas, banalizando a violência e convocando jovens, não só para alistamento militar e policial, como também para adquirir armas de fogo.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;texto-destak&quot;&gt;“Troque seu PlayStation por um fuzil.”&lt;br /&gt;
-&lt;small class=&quot;arquivado&quot; style=&quot;color:#222222&quot;&gt;- Canto de guerra militar em vídeos no TikTok&lt;/small&gt;
-&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Há ainda muitos estímulos para que jovens adotem o estilo de vida militarista, &lt;a href=&quot;https://www.tiktok.com/@soldado_brasileiro_91/video/6929310879800364294&quot;&gt;trocando&lt;/a&gt; o videogame “PlayStation por um fuzil” para invadir o complexo de favelas do Alemão, no Rio de Janeiro, e fazer a arma “cantar (pa pum)”.&lt;/p&gt;
-
-&lt;p&gt;Como em outras redes sociais, há também vídeos com o corpo de Lázaro Barbosa, criminoso acusado de assassinar quatro pessoas, &lt;a href=&quot;https://g1.globo.com/go/goias/noticia/2021/06/28/lazaro-morre-apos-ser-preso-em-goias.ghtml&quot;&gt;morto&lt;/a&gt; em junho pela polícia em Goiás após aterrorizar a região de Águas Lindas e balear policiais e um oficial da Força Aérea.&lt;/p&gt;
-
-&lt;h3 id=&quot;onde-se-encaixa-o-militarismo-no-todo&quot;&gt;ONDE SE ENCAIXA O MILITARISMO NO TODO&lt;/h3&gt;
-
-&lt;p&gt;Para se ter uma ideia da popularidade de conteúdos militaristas no Brasil, comparamos as hashtags em número bruto total de visualizações. Os dados abaixo são acumulados desde o começo do TikTok e foram obtidos iterando as hashtags &lt;a href=&quot;https://www.tiktok.com/tag/foryou?lang=pt-BR&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_nvideos.png&quot; class=&quot;img-destak d-desk&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/tiktok/graficos-tiktokarmas_circlepackmobile.png&quot; class=&quot;img-destak d-mob&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;como-fizemos&quot;&gt;COMO FIZEMOS&lt;/h3&gt;
-
-&lt;p&gt;Fizemos buscas no TikTok por 41 hashtags a partir de uma &lt;a href=&quot;https://github.com/drawrowfly/tiktok-scraper&quot;&gt;ferramenta&lt;/a&gt; de código aberto. Essas buscas retornaram metadados de 61.367 vídeos.&lt;/p&gt;
-
-&lt;p&gt;Fizemos, então, uma classificação manual de cada uma dessas hashtags em grandes grupos: esportes, memes, polícia/militar, política e pró-armas. O código da análise, em R, está &lt;a href=&quot;https://gist.github.com/sergiospagnuolo/336d52b260fbc084b21c65c3ff5b6381&quot;&gt;neste link&lt;/a&gt;. Os dados agregados estão &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1gSJiFCycrSw1kkAt99c2trL-Br_4eyLSfNLL9Fls550/edit?usp=sharing&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Os dados sobre total de visualizações globais foram levantados via TikTok no desktop pelo link: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tiktok.com/tag/[ hashtag ]?lang=pt-BR&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Procuramos o TikTok com quatro perguntas principais, e também enviamos as hashtags pesquisadas para melhor apreciação, assim como uma amostra de vídeos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;O que o TikTok faz contra radicalização de discurso na rede?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Qual a política do TikTok sobre polarização política?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;O TikTok tem políticas sobre conteúdo que mostram manuseio e uso de armas de fogo?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;O TikTok tem políticas sobre conteúdo com violência policial?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A resposta da empresa, abaixo, na íntegra:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;As Diretrizes da Comunidade do TikTok apresentam claramente o conteúdo e o comportamento que proibimos e removemos de nossa plataforma, incluindo a promoção de desinformação, armas de fogo, violência, discurso de ódio e outras violações que tentam impedir nossa capacidade de promover um local seguro e acolhedor para a criatividade e o entretenimento.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Para obter detalhes adicionais, visite nossas Diretrizes da Comunidade: &lt;a href=&quot;https://www.tiktok.com/community-guidelines?lang=pt&quot;&gt;TikTok&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;As hashtags consideradas são:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;hash&lt;/th&gt;
-      &lt;th&gt;categoria&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#jogos&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#jogosolimpicos&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#olimpiada&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#olimpiadas&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#olimpicos&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#tiktoquio&lt;/td&gt;
-      &lt;td&gt;esporte&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#coisadepai&lt;/td&gt;
-      &lt;td&gt;memes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#nadamedeixafraco&lt;/td&gt;
-      &lt;td&gt;memes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#exercito&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#militar&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#militares&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#papamike&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#policiacivil&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#policiafederal&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#policiamilitar&lt;/td&gt;
-      &lt;td&gt;policial/militar&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonaro2022&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonaro22&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonaro38&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonarogenocida&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonaropresidente&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonaroreeleito2022&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonarosincero&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#bolsonarotemrazao&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#elenao&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#forabolsonaro&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#forabolsonarocorrupto&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#forabozo&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#presidentebolsonaro&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#votoauditavel&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#votoimpresso&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#votoimpressonao&lt;/td&gt;
-      &lt;td&gt;política&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#armamentista&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#armas&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#armasdefogo&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#cac&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#clubedetiro&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#defesapessoal&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#loucosporarmas&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#tiroaoalvo&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#tiroesportivo&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#tiroterapia&lt;/td&gt;
-      &lt;td&gt;pró-armas&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="TikTok, " /><category term="Militarismo, " /><category term="CACs, " /><category term="Polícia, " /><category term="Armas, " /><category term="Jair Bolsonaro, " /><category term="Redes Sociais" /><summary type="html">Análise do Núcleo mostra alto engajamento em vídeos exaltando armas de fogo, militares e policiais na rede social repleta de crianças e adolescentes</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/tiktok/tiktokarmamentista-04.png" /><media:content medium="image" url="https://nucleo.jor.br//img/tiktok/tiktokarmamentista-04.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;A reportagem foi republicada da Agência Pública, que se baseou &lt;a href=&quot;https://drive.google.com/file/d/1xl-5aqKfXmYeSPctboBoNqFzj_21yRHO/view&quot;&gt;neste estudo&lt;/a&gt; da UFRJ.&lt;/p&gt;</content><author><name>Núcleo Jornalismo</name></author><category term="WhatsApp, " /><category term="Desinformação, " /><category term="Religião" /><summary type="html">Levantamento inédito da Universidade Federal do Rio de Janeiro mostra os caminhos da desinformação entre religiosos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://nucleo.jor.br//img/republicacoes_outros/zap_igrejas/zap-religiao_Teaser.png" /><media:content medium="image" url="https://nucleo.jor.br//img/republicacoes_outros/zap_igrejas/zap-religiao_Teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
