@@ -25,6 +25,7 @@ creditos:
 image: 'img/twitter-files/7setembro_Teaser.png'
 categories:
   - "reportagem"
+atualizacao: "Texto atualizado às 12h08 de 2.set.2021 para esclarecer no segundo parágrafo que os 12% dizem respeito aos perfis que tuitaram sobre o assunto."
 tags:
   - "Twitter, "
   - "Manifestação, "
@@ -34,7 +35,7 @@ tags:
 
 A manifestação de 7 de setembro organizada por bolsonaristas (e endossada por Jair Bolsonaro) cresceu em número de menções no Twitter, mas não conseguiu se expandir para além do núcleo duro do presidente nessa rede.
 
-Análise do **Núcleo** com monitoramento de termos e hashtags associadas à manifestação mostra que apenas `12%` dos perfis impulsionaram mais de dois terços dos tweets sobre a manifestação.  
+Análise do **Núcleo** com monitoramento de termos e hashtags associadas à manifestação mostra que apenas `12%` dos perfis **que tuitaram sobre o assunto** impulsionaram mais de dois terços dos tweets a respeito da manifestação.  
 
 ---
 
