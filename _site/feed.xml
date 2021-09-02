@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-09-02T09:47:33-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://nucleo.jor.br//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nucleo.jor.br//" rel="alternate" type="text/html" /><updated>2021-09-02T10:07:01-03:00</updated><id>https://nucleo.jor.br//feed.xml</id><title type="html">Núcleo Jornalismo</title><subtitle>Análises e investigações sobre o impacto das redes sociais na sociedade
 </subtitle><author><name>Núcleo Jornalismo</name></author><entry><title type="html">No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7 de setembro</title><link href="https://nucleo.jor.br//reportagem/2021-09-01-twitter-manifestacao-concentracao" rel="alternate" type="text/html" title="No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7 de setembro" /><published>2021-09-01T06:02:00-03:00</published><updated>2021-09-01T06:02:00-03:00</updated><id>https://nucleo.jor.br//reportagem/twitter-manifestacao-concentracao</id><content type="html" xml:base="https://nucleo.jor.br//reportagem/2021-09-01-twitter-manifestacao-concentracao">&lt;p&gt;A manifestação de 7 de setembro organizada por bolsonaristas (e endossada por Jair Bolsonaro) cresceu em número de menções no Twitter, mas não conseguiu se expandir para além do núcleo duro do presidente nessa rede.&lt;/p&gt;
 
 &lt;p&gt;Análise do &lt;strong&gt;Núcleo&lt;/strong&gt; com monitoramento de termos e hashtags associadas à manifestação mostra que apenas &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;12%&lt;/code&gt; dos perfis impulsionaram mais de dois terços dos tweets sobre a manifestação.&lt;/p&gt;
@@ -47,7 +47,7 @@
       &lt;th&gt;grupo&lt;/th&gt;
       &lt;th&gt;usuarios&lt;/th&gt;
       &lt;th&gt;tweets&lt;/th&gt;
-      &lt;th&gt;% do total&lt;/th&gt;
+      &lt;th&gt;% do total de tweets&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;

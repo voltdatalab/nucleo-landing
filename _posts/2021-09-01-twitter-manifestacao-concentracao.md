@@ -67,7 +67,7 @@ Em geral, métricas de engajamento medem mais apoio ou popularidade de posts e a
 
 Note que por essa análise não é possível determinar a operação de robôs, apenas a concentração de muitas publicações por poucos usuários da rede social. Bots são recursos que, por exemplo, republicam ou comentam alguma publicação mediante o uso de uma palavra-chave, automaticamente.
 
-| grupo         | usuarios | tweets | % do total    |
+| grupo         | usuarios | tweets | % do total de tweets    |
 |---------------|----------|--------|--------|
 | 1 tweet        | 46.646    | 46.646  | 8.49%  |
 | 2 a 5 tweets   | 25.902    | 75.143  | 13.67% |
