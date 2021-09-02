@@ -44,7 +44,7 @@ Análise do **Núcleo** com monitoramento de termos e hashtags associadas à man
 
 ---
 
-![print - post]({{ site.baseurl }}/img/twitter-files/7setembro_concentracao.png)
+![grafico - post]({{ site.baseurl }}/img/twitter-files/7setembro_concentracao.png)
 
 A conclusão é de que a concentração no compartilhamento e o convite às manifestações são realizadas por um grupo específico no Twitter, que consegue alavancar o número de menções mas não fazer com que muitos outros usuários tenham o mesmo entusiasmo com a campanha.
 
@@ -58,6 +58,8 @@ O **Núcleo** se baseou em duas linhas de análise para chegar a esse resultado:
 A análise não indica que as manifestações serão grandes ou pequenas em número de presentes, mas sim que a conversa nessa rede social está concentrada em poucos atores muito articulados. Chamamos isso de "ação coordenada".
 
 Uma ação coordenada acontece quando membros de uma campanha estimulam suas bases para que elas sejam mais ativas. Isso garante que essas bases façam mais publicações utilizando, por exemplo, uma hashtag – o que resulta em concentração em poucos usuários (daí a desigualdade).
+
+Em geral, métricas de engajamento medem mais apoio ou popularidade de posts e assuntos, mas no caso de manifestações o número de menções é particularmente relevante porque são atos que exigem presença das pessoas como forma de sucesso, e não apenas endosso à pauta.
 
 {% include monitor_sugestao.html %}
 
@@ -92,9 +94,9 @@ O **Núcleo** detectou cerca de 590 mil tweets de 84 mil usuários sobre o 7 de 
 
 A partir dessa coleta de dados, utilizamos o Coeficiente de Gini para medir a concentração de tweets, conforme fórmula abaixo. O código para esse cálculo e dados anonimizados podem ser encontrados neste link.
 
-O índice de Gini calculado pelo **Núcleo** sobre as manifestações foi de 0.71. Quanto mais perto de 1, mais concentradas nos mesmos usuários são.
+O Gini calculado pelo **Núcleo** sobre as manifestações foi de 0.71. Quanto mais perto de 1, mais concentradas nos mesmos usuários são.
 
-O Coeficiente de Gini é uma das ferramentas mais comuns para avaliar a desigualdade da distribuição de renda entre países. O site Nexo tem uma boa explicação sobre o tema.
+O Coeficiente de Gini é uma das ferramentas mais comuns para avaliar a [desigualdade da distribuição de renda](http://www.ipea.gov.br/desafios/index.php?Itemid=23&id=2048%3Acatid%3D28&option=com_content) entre países. O site Nexo tem uma [boa explicação](https://www.nexojornal.com.br/grafico/2017/07/31/A-evolu%C3%A7%C3%A3o-da-desigualdade-de-renda-no-Brasil-e-no-mundo) sobre o tema.
 
 No entanto, o Coeficiente de Gini é simplesmente uma medida de desigualdade em uma distribuição qualquer.
 
@@ -102,4 +104,6 @@ Adaptando o cálculo desse coeficiente, substituindo o que normalmente é a rend
 
 Apenas como comparação, são mais desiguais que a renda na África do Sul em 2014 — maior índice já registrado pelo Banco Mundial (0.64).
 
-Quase todas essas hashtags são mais desiguais, por exemplo, do que o Brasil em 2019 (53,4) segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesse esse site de dados do Banco Mundial.
+Quase todas essas hashtags são mais desiguais, por exemplo, do que o Brasil em 2019 (53,4) segundo essa medida — que é apenas dentre várias para medir desigualdade. Para acessar dados sobre índice de Gini de países, acesse [esse site de dados](https://data.worldbank.org/indicator/SI.POV.GINI) do Banco Mundial.
+
+![grafico - post]({{ site.baseurl }}/img/twitter-files/gini-tweets_curvagini.png)
