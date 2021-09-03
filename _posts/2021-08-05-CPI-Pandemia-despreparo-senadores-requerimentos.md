@@ -15,6 +15,7 @@ edicao:
   - "Sérgio Spagnuolo"
   - "Alexandre Orrico"
 credito_img: "Rodolfo Almeida"
+dados: Renata Hirota
 arte: "Rodolfo Almeida"
 colaboracao: "Renata Hirota"
 creditos:

@@ -158,11 +158,11 @@ Esse grupos, apenas uma pequena amostra da presença da direita por lá, foram e
 #### Dados consolidados da observação e análise de 15 grupos e canais do Telegram
 
 <div style="color: #fff">
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 15 grupos e canais <i class="fas fa-users"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 12,3k usuários com posts <i class="fas fa-user"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 643k mensagens <i class="far fa-comment-dots"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 199k links totais <i class="fas fa-link"></i></h3>
-<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;color: #ffffff"> 15 grupos e canais <i class="fas fa-users"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;color: #ffffff"> 12,3k usuários com posts <i class="fas fa-user"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;color: #ffffff"> 643k mensagens <i class="far fa-comment-dots"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;color: #ffffff"> 199k links totais <i class="fas fa-link"></i></h3>
+<h3 style="list-style-type:none;background-color:#4b31dd;padding: 20px;margin-top: 15px;color: #ffffff"> 1.555 arquivos de mídia <i class="fas fa-photo-video"></i></h3>
 </div>
 
 | Nome                              | canal ou grupo                                |
