@@ -3,8 +3,8 @@ published: TRUE
 visible: 1
 layout: conteudo
 tipo: reportagem
-title: 'Medida Bolsonaro sobre moderação de redes pegou mal com todo mundo'
-titulo_redes: "Medida Bolsonaro sobre moderação de redes pegou mal com todo mundo"
+title: 'Medida de Bolsonaro sobre moderação de redes pegou mal com todo mundo'
+titulo_redes: "Medida de Bolsonaro sobre moderação de redes pegou mal com todo mundo"
 subtitle: 'Medida provisória que altera o Marco Civil da Internet, apresentada pelo governo na véspera do 7/9, abre margem para interpretações dúbias e causa confusão até entre especialistas'
 subtitle_redes: 'Medida provisória tem interpretações dúbias e causa confusão até entre especialistas'
 excerpt: 'No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7/9'
