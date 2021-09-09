@@ -8,7 +8,7 @@ titulo_redes: "No Twitter, apenas 12% dos perfis tentam bombar manifestações d
 subtitle: 'Campanha coordenada sobre o protesto está concentrada em poucos usuários, que impulsionaram mais de dois terços dos tweets sobre o ato'
 subtitle_redes: 'Campanha coordenada sobre o protesto está concentrada em poucos usuários'
 excerpt: 'No Twitter, apenas 12% dos perfis tentam bombar manifestações do 7/9'
-date: "01/09/2021 06:02"
+date: "02/09/2021 06:02"
 analise:
   - "Lucas Lago"
   - "Lucas Gelape"

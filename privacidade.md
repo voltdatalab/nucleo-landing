@@ -122,7 +122,7 @@ Embora não seja um site que publique conteúdo sensível (como pornografia ou v
 
 Podemos atualizar nossa Política de Privacidade periodicamente. Assim, aconselhamos que você revise esta página de tempos em tempos para quaisquer mudanças.
 
-Esta Política de Privacidade foi atualizada pela última vez em 15/02/2022.
+Esta Política de Privacidade foi atualizada pela última vez em 15/02/2021.
 
 **Contato**
 
