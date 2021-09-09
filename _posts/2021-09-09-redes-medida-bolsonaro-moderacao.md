@@ -92,7 +92,7 @@ Um dos pontos cruciais, segundo especialistas ouvidos pelo Núcleo, é justament
 
 {% include assine_newsletter.html %}
 
-"As plataformas não podem moderar conteúdos informativo, não podem moderar discurso de ódio, não podem moderar ameaças, então tudo o que não está lá as plataformas não poderiam mais moderar", disse Bia Barbosa, pesquisadora em liberdade de expressão e integrante da equipe de América Latina do Repórteres Sem Fronteiras.
+"As plataformas não podem moderar conteúdos desinformativos, não podem moderar discurso de ódio, não podem moderar ameaças, então tudo o que não está lá as plataformas não poderiam mais moderar", disse Bia Barbosa, pesquisadora em liberdade de expressão e integrante da equipe de América Latina do Repórteres Sem Fronteiras.
 
 Segundo ela, a MP vem na lógica de permitir que o governo e seus apoiadores possam continuar praticando discurso desinformativo, violento e que ataca instituições democráticas, sem que isso seja moderado pelas plataformas.
 
