@@ -106,7 +106,7 @@ Na noite de quarta-feira, dois dias após sua edição, a CNN [informou](https:/
 
 Desde a publicação do texto, feita às vésperas dos atos pró-Bolsonaro em 7 de setembro, sociedade civil organizada e políticos da oposição se movimentaram para frear a medida.
 
-A coalizão Direitos na Rede, que reúne dezenas de organizações de defesa de direitos digitais, foi rápida no gatilho, publicando um alerta no mesmo dia da MP.
+A Coalizão Direitos na Rede, que reúne dezenas de organizações de defesa de direitos digitais, foi rápida no gatilho, publicando um alerta no mesmo dia da MP.
 
 "Impedir medidas de moderação de conteúdo pelas plataformas poderia representar um preocupante cheque em branco, com potencial para prejudicar usuários, órgãos públicos e empresas que interagem e ofertam serviços online, e causar impacto irreversível no funcionamento de plataformas de redes sociais no Brasil", disse a coalizão.
 
