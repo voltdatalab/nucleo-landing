@@ -24,9 +24,9 @@ image: 'img/cientistas_engajamento/cientistas-negros_Teaser.png'
 categories:
   - "reportagem"
 tags:
-  - "Marco Civil da Internet, "
-  - "Bolsonaro, "
-  - "fake news, "
+  - "Facebook, "
+  - "Twitter, "
+  - "Instagram, "
   - "redes sociais"
 ---
 
