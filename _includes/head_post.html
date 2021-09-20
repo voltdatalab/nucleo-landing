@@ -2,12 +2,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.tipo == 'draft' %}
+     <meta name="robots" content="noindex" />
+    <meta name="googlebot" content="noindex">
+    
+    <!-- 
+    {% if page.noindex contains 'ativo' %}
     <meta name="robots" content="noindex" />
     <meta name="googlebot" content="noindex">
     {% else %}
     <meta name="robots" content="index, follow" />
     {% endif %}
+    -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
